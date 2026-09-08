@@ -1,0 +1,82 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "BMW M3 CS ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "From the N47 to the B47 – here's a quick guide to the engines fitted to the BMW M3 CS over the years. If you're unsure which one you have, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2021",
+      "generation": "G80",
+      "engineCode": "S58",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-s58-engine"
+    },
+    {
+      "year": "2022",
+      "generation": "G80",
+      "engineCode": "S58",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-s58-engine"
+    },
+    {
+      "year": "2023",
+      "generation": "G80",
+      "engineCode": "S58",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-s58-engine"
+    },
+    {
+      "year": "2024",
+      "generation": "G80",
+      "engineCode": "S58",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-s58-engine"
+    },
+    {
+      "year": "2025",
+      "generation": "G80",
+      "engineCode": "S58",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-s58-engine"
+    },
+    {
+      "year": "2026",
+      "generation": "G80",
+      "engineCode": "S58",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-s58-engine"
+    }
+  ],
+  "notice": {
+    "highlight": "2015 and 2019",
+    "rest": " were transition years between generations and engine codes — if your registration falls in either, we'll confirm your exact engine before quoting."
+  }
+}

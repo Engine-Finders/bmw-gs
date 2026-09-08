@@ -1,0 +1,36 @@
+{
+  "gallery": {
+    "titlePre": "OUR MOST RECENT",
+    "titleHighlight": "BMW RECOVERIES & REBUILDS",
+    "description": "Real vehicles brought into our workshop. Open bonnets, stripped blocks, and cars ready for collection — this is what genuine engine work looks like.",
+    "image": "/variant/sec12.webp",
+    "items": [
+      { "icon": "truck", "model": "BMW 320d", "status": "RECOVERY" },
+      { "icon": "search", "model": "BMW 335d", "status": "DIAGNOSTICS" },
+      { "icon": "gear", "model": "BMW 330i", "status": "STRIPPED ENGINE" },
+      { "icon": "chain", "model": "BMW M3 (E92)", "status": "TIMING CHAIN REPLACEMENT" },
+      { "icon": "wrench", "model": "BMW 320d", "status": "IN FOR REBUILD" },
+      { "icon": "gear", "model": "BMW 325d", "status": "REBUILD IN PROGRESS" },
+      { "icon": "truck", "model": "BMW 320d xDrive", "status": "NATIONWIDE RECOVERY" },
+      { "icon": "gear", "model": "BMW 328i", "status": "ENGINE STRIPPED" },
+      { "icon": "knock", "model": "BMW 330d", "status": "TESTING & CHECKS" },
+      { "icon": "shield-check", "model": "BMW 340i", "status": "READY FOR COLLECTION" },
+      { "icon": "gear", "model": "BMW M3 (E92)", "status": "S55 REBUILD" },
+      { "icon": "wrench", "model": "BMW 318d", "status": "WORKSHOP BAY" }
+    ]
+  },
+  "howItWorks": {
+    "titlePre": "HOW IT ",
+    "titleHighlight": "WORKS",
+    "steps": [
+      { "icon": "note", "linePre": "SEND YOUR", "lineHighlight": "REGISTRATION" },
+      { "icon": "price", "linePre": "RECEIVE YOUR", "lineHighlight": "FIXED-PRICE QUOTE" },
+      { "icon": "truck", "linePre": "WE RECOVER", "lineHighlight": "YOUR CAR" },
+      { "icon": "engine", "linePre": "REBUILD &", "lineHighlight": "REFIT" }
+    ],
+    "summary": {
+      "timeframe": { "icon": "clock", "text": "Most BMWs are recovered within a few hours of booking. Most rebuilds are completed within 3-5 working days." },
+      "urgency": { "icon": "calendar", "textPre": "Workshop slots fill up fast — ", "textHighlight": "book your recovery today." }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "image": "/engine_family/sec3.webp",
+  "titlePre": "BMW N63 Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "icon": "car",
+      "label": "Model"
+    },
+    {
+      "icon": "gear",
+      "label": "Variant"
+    },
+    {
+      "icon": "layers",
+      "label": "Generation"
+    },
+    {
+      "icon": "calendar",
+      "label": "Years"
+    }
+  ],
+  "rows": [
+    {
+      "model": "6 Series",
+      "variant": "650i",
+      "generation": "F06/F12/F13",
+      "chassis": "F06/F12/F13",
+      "years": "2011–2018",
+      "modelHref": "/bmw-6-series-engines",
+      "variantHref": "/bmw-650i-engines"
+    },
+    {
+      "model": "8 Series",
+      "variant": "850i",
+      "generation": "G14/G15/G16",
+      "chassis": "G14/G15/G16",
+      "years": "2018–present",
+      "modelHref": "/bmw-8-series-engines"
+    },
+    {
+      "model": "X5",
+      "variant": "xDrive50i",
+      "generation": "E70/F15",
+      "chassis": "E70/F15",
+      "years": "2009–2018",
+      "modelHref": "/bmw-x5-engines"
+    },
+    {
+      "model": "X6",
+      "variant": "xDrive50i",
+      "generation": "E71/F16",
+      "chassis": "E71/F16",
+      "years": "2009–2019",
+      "modelHref": "/bmw-x6-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

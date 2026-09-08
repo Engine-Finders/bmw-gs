@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "BMW X3 20d",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "BMW X3 20d"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "X3"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "X3 20d"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Diesel"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "B47 or B57"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "2.0L or 3.0L"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generations",
+      "value": "G01 (2017–2024) · G45 (2024–present)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£2,800",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The X3 20d used two different engines across its production run — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "BMW 3 Series Rebuilds",
+  "subhead": "Full variant list below covers every BMW 3 Series engine we work on — these 12 are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "BMW 316i",
+      "spec": "1.6L Petrol (N13 / N43)",
+      "href": "/bmw-316i-engines",
+      "image": "/variant/vehicles/316i.webp"
+    },
+    {
+      "number": "02",
+      "model": "BMW 318d",
+      "spec": "2.0L Diesel (N47)",
+      "href": "/bmw-318d-engines",
+      "image": "/variant/vehicles/318d.webp"
+    },
+    {
+      "number": "03",
+      "model": "BMW 320d",
+      "spec": "2.0L Diesel (N47 / B47)",
+      "href": "/bmw-320d-engines",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "04",
+      "model": "BMW 320d xDrive",
+      "spec": "2.0L Diesel (N47 / B47)",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "05",
+      "model": "BMW 320i",
+      "spec": "2.0L Petrol (N20 / B48)",
+      "href": "/bmw-320i-engines",
+      "image": "/variant/vehicles/320i.webp"
+    },
+    {
+      "number": "06",
+      "model": "BMW 325d",
+      "spec": "2.0L Diesel (M57 / N57)",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "07",
+      "model": "BMW 328i",
+      "spec": "2.0L Petrol (N20 / B48)",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "08",
+      "model": "BMW 330d",
+      "spec": "3.0L Diesel (M57 / N57)",
+      "href": "/bmw-330d-engines",
+      "image": "/variant/vehicles/330d.webp"
+    },
+    {
+      "number": "09",
+      "model": "BMW 330e",
+      "spec": "2.0L Petrol Plug-in Hybrid",
+      "href": "/bmw-330e-engines",
+      "image": "/variant/vehicles/330e.webp"
+    },
+    {
+      "number": "10",
+      "model": "BMW 335d",
+      "spec": "3.0L Diesel (N57)",
+      "href": "/bmw-335d-engines",
+      "image": "/variant/vehicles/335d.webp"
+    },
+    {
+      "number": "11",
+      "model": "BMW 340i",
+      "spec": "3.0L Petrol (B58)",
+      "href": "/bmw-340i-engines",
+      "image": "/variant/vehicles/340i.webp"
+    },
+    {
+      "number": "12",
+      "model": "BMW M3 / M3 Competition",
+      "spec": "3.0 / 3.0L Petrol (S54 / S55)",
+      "image": "/variant/vehicles/_fallback.webp"
+    }
+  ]
+}

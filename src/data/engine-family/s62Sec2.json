@@ -1,0 +1,63 @@
+{
+  "specs": {
+    "titlePre": "BMW S62",
+    "titleHighlight": "Engine Specifications",
+    "image": "/engine_family/sec2_top.webp",
+    "rows": [
+      {
+        "icon": "code",
+        "label": "Engine Code",
+        "value": "S62"
+      },
+      {
+        "icon": "building",
+        "label": "Manufacturer",
+        "value": "BMW"
+      },
+      {
+        "icon": "gear",
+        "label": "Configuration",
+        "value": "V8"
+      },
+      {
+        "icon": "engine",
+        "label": "Capacity",
+        "value": "5.0L (4,941 cc)"
+      },
+      {
+        "icon": "oil",
+        "label": "Fuel",
+        "value": "Petrol"
+      },
+      {
+        "icon": "calendar",
+        "label": "Production Years",
+        "value": "1999–2003"
+      },
+      {
+        "icon": "car",
+        "label": "Used In",
+        "value": "1 BMW model"
+      }
+    ],
+    "prompt": {
+      "icon": "search",
+      "titlePre": "Not sure if your BMW has this engine?",
+      "subtext": "Enter your registration and we'll confirm.",
+      "buttonLabel": "Check My Engine →",
+      "href": "#quote-form"
+    }
+  },
+  "price": {
+    "titlePre": "BMW S62",
+    "titleHighlight": "Engine Rebuild Price",
+    "image": "/engine_family/sec2_bottom.webp",
+    "startingFromLabel": "Starting From",
+    "startingFromPrice": "£4,500",
+    "body": "Every S62 application — petrol, mild-hybrid, or plug-in hybrid — sits on the same 6-cylinder rebuild tier. Exact price depends on condition and parts required — submit your reg for a fixed-price quote.",
+    "cta": {
+      "label": "Get Your Fixed-Price Quote →",
+      "href": "#quote-form"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "image": "/engine_family/sec3.webp",
+  "titlePre": "BMW S65 Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "icon": "car",
+      "label": "Model"
+    },
+    {
+      "icon": "gear",
+      "label": "Variant"
+    },
+    {
+      "icon": "layers",
+      "label": "Generation"
+    },
+    {
+      "icon": "calendar",
+      "label": "Years"
+    }
+  ],
+  "rows": [
+    {
+      "model": "M3",
+      "variant": "M3",
+      "generation": "E90/E91/E92/E93",
+      "chassis": "E90/E91/E92/E93",
+      "years": "2007–2013",
+      "modelHref": "/bmw-m3-engines",
+      "variantHref": "/bmw-m3-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "BMW 2 Series Rebuilds",
+  "subhead": "Full variant list below covers every BMW 2 Series engine we work on — these 12 are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "BMW 218i",
+      "spec": "1.5L–2.0L Petrol (N20 or B48)",
+      "image": "/variant/vehicles/218i.webp",
+      "href": "/bmw-218i-engines"
+    },
+    {
+      "number": "02",
+      "model": "BMW 218d",
+      "spec": "2.0L I4 Diesel (B47)",
+      "image": "/variant/vehicles/218d.webp",
+      "href": "/bmw-218d-engines"
+    },
+    {
+      "number": "03",
+      "model": "BMW 220i",
+      "spec": "2.0L I4 Petrol (N20 (F22/F23, pre-2016) or B48 (F22/F23, 2016+) / B48 (G42))",
+      "image": "/variant/vehicles/220i.webp",
+      "href": "/bmw-220i-engines"
+    },
+    {
+      "number": "04",
+      "model": "BMW 220d",
+      "spec": "2.0L I4 Diesel (B47)",
+      "image": "/variant/vehicles/220d.webp",
+      "href": "/bmw-220d-engines"
+    },
+    {
+      "number": "05",
+      "model": "BMW 225d",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "06",
+      "model": "BMW 225xe",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "07",
+      "model": "BMW 228i",
+      "spec": "2.0L Petrol (N20 (2014–2016) or B48 (2016–2021))",
+      "image": "/variant/vehicles/_fallback.webp",
+      "href": "/bmw-228i-engines"
+    },
+    {
+      "number": "08",
+      "model": "BMW 230i",
+      "spec": "2.0L I4 Petrol (N20 or B48)",
+      "image": "/variant/vehicles/230i.webp",
+      "href": "/bmw-230i-engines"
+    },
+    {
+      "number": "09",
+      "model": "BMW M235i",
+      "spec": "3.0L I6 Petrol (N55)",
+      "image": "/variant/vehicles/m235i.webp",
+      "href": "/bmw-m235i-engines"
+    },
+    {
+      "number": "10",
+      "model": "BMW M240i",
+      "spec": "3.0L I6 Petrol (N55 (2014–2016) or B58 (2016–present))",
+      "image": "/variant/vehicles/m240i.webp",
+      "href": "/bmw-m240i-engines"
+    }
+  ]
+}

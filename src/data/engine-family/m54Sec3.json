@@ -1,0 +1,40 @@
+{
+  "image": "/engine_family/sec3.webp",
+  "titlePre": "BMW M54 Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "icon": "car",
+      "label": "Model"
+    },
+    {
+      "icon": "gear",
+      "label": "Variant"
+    },
+    {
+      "icon": "layers",
+      "label": "Generation"
+    },
+    {
+      "icon": "calendar",
+      "label": "Years"
+    }
+  ],
+  "rows": [
+    {
+      "model": "Z4",
+      "variant": "2.2i, 2.5i, 3.0i",
+      "generation": "First",
+      "chassis": "E85/E86",
+      "years": "2002–2006",
+      "modelHref": "/bmw-z4-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "headlinePre": "BMW X5 Engine",
+  "headlineHighlight": "Coverage",
+  "kicker": "Engines by Model Year",
+  "description": "Our BMW engine specialist garage covers all engine types from 1994 to 2026, across every X5 generation.",
+  "image": "/model/sec15.webp",
+  "imageMobile": "/model/sec15_mobile.jpg",
+  "partImage": "/model/sec15_part.webp",
+  "generations": [
+    {
+      "years": "1999–2006",
+      "code": "E53",
+      "list": "1999 through 2006 BMW X5 engines"
+    },
+    {
+      "years": "2006–2013",
+      "code": "E70",
+      "list": "2006 through 2013 BMW X5 engines"
+    },
+    {
+      "years": "2013–2018",
+      "code": "F15",
+      "list": "2013 through 2018 BMW X5 engines"
+    }
+  ],
+  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "checklistTitlePre": "We Cover Every",
+  "checklistTitleHighlight": "BMW X5 xDrive40d Model:",
+  "checklistLeft": [
+    "BMW X5 xDrive40d 2018 Engine Rebuild",
+    "BMW X5 xDrive40d 2019 Engine Rebuild",
+    "BMW X5 xDrive40d 2020 Engine Rebuild"
+  ],
+  "checklistRight": [
+    "BMW X5 xDrive40d 2021 Engine Rebuild",
+    "BMW X5 xDrive40d 2022 Engine Rebuild"
+  ],
+  "checklistHref": "/bmw-BMW X5 xDrive30d-engines"
+}

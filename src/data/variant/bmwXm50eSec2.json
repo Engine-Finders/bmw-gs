@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "BMW XM 50e",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "BMW XM 50e"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "XM"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "XM 50e"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol Plug-in Hybrid"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "B58"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "3.0L I6"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generations",
+      "value": "G09 (2023–present)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£2,800",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The XM 50e used two different engines across its production run — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

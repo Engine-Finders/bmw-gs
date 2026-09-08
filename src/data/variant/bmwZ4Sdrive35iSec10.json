@@ -1,0 +1,102 @@
+{
+  "about": {
+    "image": "/variant/sec10_top.webp",
+    "imageMobile": "/variant/sec10_mobile_top.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "BMW Z4 sDrive35i ENGINE",
+    "paragraphs": [
+      "The Z4 sDrive35i has been a mainstay of the Z4 diesel range since 2012, spanning two generations under one badge. Early E89 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the E89 and later the E89, the Z4 sDrive35i switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ — which is exactly why we confirm your exact engine by registration before quoting."
+    ],
+    "boldParagraph": "The Z4 sDrive35i is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+  },
+  "codes": {
+    "titlePre": "BMW Z4 sDrive35i ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "N47",
+        "codeRest": "(E89, 2012–2015)",
+        "body": "A 2.0-litre diesel fitted to the early E89 Z4 sDrive35i. Known for timing chain failure due to chain guide wear — see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
+        "cta": "Check Your N47 Z4 sDrive35i",
+        "codeHref": "/bmw-n47-engine"
+      },
+      {
+        "codeHighlight": "B47",
+        "codeRest": "(E89, 2015–2019 / E89, 2019–2024)",
+        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
+        "cta": "Check Your B47 Z4 sDrive35i",
+        "codeHref": "/bmw-b47-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "BMW Z4 sDrive35i ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the Z4 sDrive35i spans two distinct engines across two generations, fitting the wrong replacement — or assuming an N47 part will work on a B47 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_mobile_third.webp",
+    "badge": {
+      "title": "N47 or B47",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (E89 or E89)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic Z4 sDrive35i quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "BMW Z4 sDrive35i ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/sec10_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "E89",
+        "chassis": "E89",
+        "years": "2012–2015",
+        "engineCode": "N47",
+        "fuel": "Diesel",
+        "codeHref": "/bmw-n47-engine"
+      },
+      {
+        "generation": "E89",
+        "chassis": "E89",
+        "years": "2015–2019",
+        "engineCode": "B47",
+        "fuel": "Diesel",
+        "codeHref": "/bmw-b47-engine"
+      },
+      {
+        "generation": "E89",
+        "chassis": "E89",
+        "years": "2019–2024",
+        "engineCode": "B47",
+        "fuel": "Diesel",
+        "codeHref": "/bmw-b47-engine"
+      }
+    ]
+  }
+}

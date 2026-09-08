@@ -1,0 +1,80 @@
+{
+  "image": "/engine_family/sec3.webp",
+  "titlePre": "BMW N47 Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "icon": "car",
+      "label": "Model"
+    },
+    {
+      "icon": "gear",
+      "label": "Variant"
+    },
+    {
+      "icon": "layers",
+      "label": "Generation"
+    },
+    {
+      "icon": "calendar",
+      "label": "Years"
+    }
+  ],
+  "rows": [
+    {
+      "model": "1 Series",
+      "variant": "116d, 118d, 120d",
+      "generation": "Second",
+      "chassis": "E87/E88",
+      "years": "2007–2012",
+      "modelHref": "/bmw-1-series-engines"
+    },
+    {
+      "model": "3 Series",
+      "variant": "318d, 320d",
+      "generation": "Fifth",
+      "chassis": "E90/E91/E92/E93",
+      "years": "2007–2012",
+      "modelHref": "/bmw-3-series-engines"
+    },
+    {
+      "model": "4 Series",
+      "variant": "418d, 420d",
+      "generation": "First",
+      "chassis": "F32/F33/F36",
+      "years": "2013–2016",
+      "modelHref": "/bmw-4-series-engines"
+    },
+    {
+      "model": "5 Series",
+      "variant": "518d, 520d",
+      "generation": "Sixth",
+      "chassis": "F10/F11",
+      "years": "2010–2016",
+      "modelHref": "/bmw-5-series-engines"
+    },
+    {
+      "model": "X4",
+      "variant": "xDrive20d",
+      "generation": "First",
+      "chassis": "F26",
+      "years": "2014–2016",
+      "modelHref": "/bmw-x4-engines"
+    },
+    {
+      "model": "X5",
+      "variant": "xDrive30d",
+      "generation": "Second",
+      "chassis": "E70",
+      "years": "2008–2013",
+      "modelHref": "/bmw-x5-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

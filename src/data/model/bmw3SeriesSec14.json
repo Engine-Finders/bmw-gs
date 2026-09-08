@@ -1,0 +1,11 @@
+{
+  "line1": "Looking For A Used Or",
+  "line2Highlight": "Replacement Engine",
+  "line2Rest": " Instead?",
+  "image": "/model/sec14.webp",
+  "imageMobile": "/model/sec14_mobile.jpg",
+  "paragraph": "We supply low-mileage, VIN-matched used units too. However, most BMW owners choose a rebuild once they realise it removes compatibility risk, keeps their original engine number, and often works out cheaper than fitting an unknown used engine.",
+  "calloutBold": "Enter your reg below",
+  "calloutRest": " — we'll show you both options.",
+  "cta": { "label": "Ask About Used Engine Options", "href": "#quote" }
+}

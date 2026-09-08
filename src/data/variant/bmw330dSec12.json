@@ -1,0 +1,72 @@
+{
+  "yearBanner": {
+    "titlePre": "WE COVER ",
+    "titleHighlight": "EVERY",
+    "titlePost": " BMW 330d MODEL YEAR:",
+    "years": [
+      "2013",
+      "2016",
+      "2019",
+      "2021",
+      "2023"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg.",
+    "vehicleLabel": "BMW 330d"
+  },
+  "costs": {
+    "titlePre": "BMW 330d ENGINE ",
+    "titleHighlight": "COSTS",
+    "intro": "A BMW 330d engine rebuild starts from",
+    "price": "£2,200",
+    "body": "Whether your car has the N47 or the B47. A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/sec10_engine.webp",
+    "warranty": {
+      "line1": "12 MONTH",
+      "line2": "UNLIMITED-MILEAGE",
+      "line3": "WARRANTY"
+    },
+    "subCards": [
+      {
+        "icon": "engine",
+        "title": "BMW 330d ENGINE SIZES",
+        "item": "BMW 330d 2.0 Litre Engine"
+      },
+      {
+        "icon": "fuel",
+        "title": "BMW 330d FUEL TYPES",
+        "item": "BMW 330d Diesel Engine Rebuilds"
+      }
+    ]
+  },
+  "related": {
+    "title": "RELATED BMW 3 SERIES VARIANTS",
+    "links": [
+      {
+        "label": "BMW 316d Engine",
+        "href": "/bmw-316d-engines"
+      },
+      {
+        "label": "BMW 316i Engine",
+        "href": "/bmw-316i-engines"
+      },
+      {
+        "label": "BMW 318d Engine",
+        "href": "/bmw-318d-engines"
+      },
+      {
+        "label": "BMW 318i Engine",
+        "href": "/bmw-318i-engines"
+      },
+      {
+        "label": "BMW 320d Engine",
+        "href": "/bmw-320d-engines"
+      },
+      {
+        "label": "BMW 320i Engine",
+        "href": "/bmw-320i-engines"
+      }
+    ],
+    "viewAll": "View All BMW 3 Series Engines",
+    "viewAllHref": "/bmw-3-series-engines"
+  }
+}

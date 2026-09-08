@@ -1,0 +1,22 @@
+{
+  "paragraphs": [
+    "Our Billericay workshop is dedicated entirely to BMW engine rebuilds.",
+    "From recovery to road test, every BMW that arrives is stripped, inspected, rebuilt, tested, and signed off by our team of BMW-trained technicians."
+  ],
+  "note": "We're part of the same specialist group that's been rebuilding engines since 2009.",
+  "bgImage": "/home/sec11_bg.webp",
+  "mobileImage": "/home/sec11_mobile.jpg",
+  "cardImage": "/home/sec11_car.webp",
+  "cta": { "label": "Learn More", "href": "#" },
+  "strip": [
+    { "label": "Nationwide Recovery", "icon": "truck" },
+    { "label": "Engine Stripping", "icon": "gear" },
+    { "label": "Expert Rebuilding", "icon": "tech" },
+    { "label": "Machine Shop", "icon": "tool" },
+    { "label": "Rigorous Testing", "icon": "monitor" },
+    { "label": "Road Test & Quality Check", "icon": "car" }
+  ],
+  "address": "Billericay, Essex, UK",
+  "directionsLabel": "Get Directions",
+  "footerTagline": "The Right Parts. The Right Way. Every Time."
+}

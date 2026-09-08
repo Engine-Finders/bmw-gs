@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "BMW X7 xDrive50e",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "BMW X7 xDrive50e"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "X7"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "X7 xDrive50e"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol Plug-in Hybrid"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "B58 + electric"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "3.0L I6 + electric"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generations",
+      "value": "G07 (2023–present)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£2,800",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The X7 xDrive50e used two different engines across its production run — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

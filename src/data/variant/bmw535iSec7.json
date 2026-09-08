@@ -1,0 +1,74 @@
+{
+  "reviews": {
+    "titlePre": "WHAT BMW ",
+    "titleHighlight": "OWNERS SAY",
+    "items": [
+      {
+        "name": "Daniel R.",
+        "platform": "google",
+        "text": "Brilliant service from start to finish. My 535i runs better than it ever has. Honest advice, clear pricing and the team know their stuff.",
+        "tag": "535i Engine Rebuild"
+      },
+      {
+        "name": "Mark T.",
+        "platform": "trustpilot",
+        "text": "They rebuilt my N47 engine with all the updated parts. No more rattling chains. Smooth process and great communication.",
+        "tag": "535i Engine Rebuild"
+      },
+      {
+        "name": "Ryan P.",
+        "platform": "google",
+        "text": "Top lads, top job. Picked up and dropped off, engine rebuilt to an extremely high standard. 100% recommend.",
+        "tag": "330d Engine Rebuild"
+      },
+      {
+        "name": "Steve B.",
+        "platform": "trustpilot",
+        "text": "Saved me thousands compared to a BMW dealer quote. Fantastic workmanship and my 325d is running perfectly.",
+        "tag": "325d Engine Rebuild"
+      },
+      {
+        "name": "Tom H.",
+        "platform": "google",
+        "text": "From quote to collection couldn't fault them. Engine looks brand new inside. Warranty gives great peace of mind.",
+        "tag": "328i Engine Rebuild"
+      },
+      {
+        "name": "James K.",
+        "platform": "trustpilot",
+        "text": "Professional, reliable and fairly priced. Timing chain issue sorted properly and kept me updated throughout.",
+        "tag": "330e Engine Rebuild"
+      }
+    ],
+    "googleCta": "See All Reviews On Google",
+    "trustpilotCta": "See All Reviews On Trustpilot"
+  },
+  "coverage": {
+    "icon": "car",
+    "titlePre": "WE COVER YOUR",
+    "titleHighlight": "EXACT VEHICLE",
+    "body": "Enter your registration below and we'll confirm whether your 535i has the N47 or B47, along with an exact rebuild price.",
+    "image": "/variant/sec7_middle_div.webp",
+    "buttonLabel": "Check Fit",
+    "ticks": [
+      "Fast",
+      "Accurate",
+      "No Guesswork"
+    ]
+  },
+  "whyChoose": {
+    "titlePre": "WHY BMW 535i ",
+    "titleHighlight": "OWNERS CHOOSE US",
+    "items": [
+      "Engine matched using VIN or registration number — confirms N47 vs B47 before you're quoted",
+      "We don't swap your engine for an unknown used unit",
+      "All engine ancillaries serviced as part of the rebuild",
+      "Genuine specialist workshop — not a broker",
+      "Nationwide recovery, workshop rebuild",
+      "Trade & public enquiries welcome",
+      "Specialist technicians with 10-15 years of experience",
+      "12 month unlimited-mileage warranty",
+      "Dedicated advisor from quote to fit"
+    ]
+  }
+}

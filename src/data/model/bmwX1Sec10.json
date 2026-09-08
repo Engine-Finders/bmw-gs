@@ -1,0 +1,57 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "BMW X1 Rebuilds",
+  "subhead": "Full variant list below covers every BMW X1 engine we work on — these 12 are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "BMW X1 sDrive18d",
+      "spec": "1.5L Diesel (B37)",
+      "image": "/variant/vehicles/x1-sdrive18d.webp",
+      "href": "/bmw-x1-sdrive18d-engines"
+    },
+    {
+      "number": "02",
+      "model": "BMW X1 sDrive18i",
+      "spec": "1.5L (F48) / 2.0L (U11) Petrol (B38 (F48) or B48 (U11))",
+      "image": "/variant/vehicles/x1-sdrive18i.webp",
+      "href": "/bmw-x1-sdrive18i-engines"
+    },
+    {
+      "number": "03",
+      "model": "BMW X1 sDrive20d",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "04",
+      "model": "BMW X1 sDrive20i",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "05",
+      "model": "BMW X1 xDrive20d",
+      "spec": "1.5L–2.0L Diesel (B37 or B47)",
+      "image": "/variant/vehicles/_fallback.webp",
+      "href": "/bmw-x1-xdrive20d-engines"
+    },
+    {
+      "number": "06",
+      "model": "BMW X1 xDrive20i",
+      "spec": "1.5L or 2.0L Petrol (B38 or B48)",
+      "image": "/variant/vehicles/_fallback.webp",
+      "href": "/bmw-x1-xdrive20i-engines"
+    },
+    {
+      "number": "07",
+      "model": "BMW X1 xDrive25d",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    }
+  ]
+}

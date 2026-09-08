@@ -1,0 +1,194 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "BMW Z4 sDrive30i ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "From the N47 to the B47 – here's a quick guide to the engines fitted to the BMW Z4 sDrive30i over the years. If you're unsure which one you have, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2006",
+      "generation": "E85/E86",
+      "engineCode": "N52",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n52-engine"
+    },
+    {
+      "year": "2007",
+      "generation": "E85/E86",
+      "engineCode": "N52",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n52-engine"
+    },
+    {
+      "year": "2008",
+      "generation": "E85/E86",
+      "engineCode": "N52",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n52-engine"
+    },
+    {
+      "year": "2009",
+      "generation": "E89",
+      "engineCode": "N20",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n20-engine"
+    },
+    {
+      "year": "2010",
+      "generation": "E89",
+      "engineCode": "N20",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n20-engine"
+    },
+    {
+      "year": "2011",
+      "generation": "E89",
+      "engineCode": "N20",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n20-engine"
+    },
+    {
+      "year": "2012",
+      "generation": "E89",
+      "engineCode": "N20",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n20-engine"
+    },
+    {
+      "year": "2013",
+      "generation": "E89",
+      "engineCode": "N20",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n20-engine"
+    },
+    {
+      "year": "2014",
+      "generation": "E89",
+      "engineCode": "N20",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n20-engine"
+    },
+    {
+      "year": "2015",
+      "generation": "E89",
+      "engineCode": "N20",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n20-engine"
+    },
+    {
+      "year": "2016",
+      "generation": "E89",
+      "engineCode": "N20",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n20-engine"
+    },
+    {
+      "year": "2018",
+      "generation": "G29",
+      "engineCode": "B48",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b48-engine"
+    },
+    {
+      "year": "2019",
+      "generation": "G29",
+      "engineCode": "B48",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b48-engine"
+    },
+    {
+      "year": "2020",
+      "generation": "G29",
+      "engineCode": "B48",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b48-engine"
+    },
+    {
+      "year": "2021",
+      "generation": "G29",
+      "engineCode": "B48",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b48-engine"
+    },
+    {
+      "year": "2022",
+      "generation": "G29",
+      "engineCode": "B48",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b48-engine"
+    },
+    {
+      "year": "2023",
+      "generation": "G29",
+      "engineCode": "B48",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b48-engine"
+    },
+    {
+      "year": "2024",
+      "generation": "G29",
+      "engineCode": "B48",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b48-engine"
+    },
+    {
+      "year": "2025",
+      "generation": "G29",
+      "engineCode": "B48",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b48-engine"
+    },
+    {
+      "year": "2026",
+      "generation": "G29",
+      "engineCode": "B48",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b48-engine"
+    }
+  ],
+  "notice": {
+    "highlight": "2015 and 2019",
+    "rest": " were transition years between generations and engine codes — if your registration falls in either, we'll confirm your exact engine before quoting."
+  }
+}

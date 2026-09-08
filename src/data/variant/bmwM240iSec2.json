@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "BMW M240i",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "BMW M240i"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "2 Series"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "M240i"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "N55 (2014–2016) or B58 (2016–present)"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "3.0L I6"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generations",
+      "value": "F22/F23 (2014–2021) · G42 (2021–present)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£2,800",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The M240i used two different engines across its production run — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

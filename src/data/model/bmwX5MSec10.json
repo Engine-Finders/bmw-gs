@@ -1,0 +1,25 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "BMW X5 M Rebuilds",
+  "subhead": "Full variant list below covers every BMW X5 M engine we work on — these 12 are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "BMW X5 M",
+      "spec": "4.4L V8 Petrol Twin-Turbo (S63, S63TU)",
+      "image": "/variant/vehicles/x5-m.webp",
+      "href": "/bmw-x5-m-engines"
+    },
+    {
+      "number": "02",
+      "model": "BMW X5 M Competition",
+      "spec": "4.4L V8 Petrol Twin-Turbo (S63 (current tune))",
+      "image": "/variant/vehicles/_fallback.webp",
+      "href": "/bmw-x5-m-competition-engines"
+    }
+  ]
+}

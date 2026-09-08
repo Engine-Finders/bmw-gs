@@ -1,0 +1,49 @@
+{
+  "image": "/engine_family/sec3.webp",
+  "titlePre": "BMW S54 Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "icon": "car",
+      "label": "Model"
+    },
+    {
+      "icon": "gear",
+      "label": "Variant"
+    },
+    {
+      "icon": "layers",
+      "label": "Generation"
+    },
+    {
+      "icon": "calendar",
+      "label": "Years"
+    }
+  ],
+  "rows": [
+    {
+      "model": "M3",
+      "variant": "M3",
+      "generation": "E46",
+      "chassis": "E46",
+      "years": "2001–2006",
+      "modelHref": "/bmw-m3-engines",
+      "variantHref": "/bmw-m3-engines"
+    },
+    {
+      "model": "Z4",
+      "variant": "Z4 M",
+      "generation": "E85/E86",
+      "chassis": "E85/E86",
+      "years": "2006–2008",
+      "modelHref": "/bmw-z4-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "image": "/engine_family/sec3.webp",
+  "titlePre": "BMW S58 Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "icon": "car",
+      "label": "Model"
+    },
+    {
+      "icon": "gear",
+      "label": "Variant"
+    },
+    {
+      "icon": "layers",
+      "label": "Generation"
+    },
+    {
+      "icon": "calendar",
+      "label": "Years"
+    }
+  ],
+  "rows": [
+    {
+      "model": "M2",
+      "variant": "M2",
+      "generation": "G87",
+      "chassis": "G87",
+      "years": "2022–present",
+      "modelHref": "/bmw-m2-engines",
+      "variantHref": "/bmw-m2-engines"
+    },
+    {
+      "model": "M3",
+      "variant": "M3, M3 Competition",
+      "generation": "G80",
+      "chassis": "G80",
+      "years": "2020–present",
+      "modelHref": "/bmw-m3-engines"
+    },
+    {
+      "model": "M4",
+      "variant": "M4, M4 Competition",
+      "generation": "G82/G83",
+      "chassis": "G82/G83",
+      "years": "2020–present",
+      "modelHref": "/bmw-m4-engines"
+    },
+    {
+      "model": "X3 M",
+      "variant": "X3 M, X3 M Competition",
+      "generation": "G01",
+      "chassis": "G01",
+      "years": "2019–present",
+      "modelHref": "/bmw-x3-m-engines"
+    },
+    {
+      "model": "X4 M",
+      "variant": "X4 M, X4 M Competition",
+      "generation": "G02",
+      "chassis": "G02",
+      "years": "2019–present",
+      "modelHref": "/bmw-x4-m-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

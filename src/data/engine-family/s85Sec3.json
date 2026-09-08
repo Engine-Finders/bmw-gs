@@ -1,0 +1,50 @@
+{
+  "image": "/engine_family/sec3.webp",
+  "titlePre": "BMW S85 Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "icon": "car",
+      "label": "Model"
+    },
+    {
+      "icon": "gear",
+      "label": "Variant"
+    },
+    {
+      "icon": "layers",
+      "label": "Generation"
+    },
+    {
+      "icon": "calendar",
+      "label": "Years"
+    }
+  ],
+  "rows": [
+    {
+      "model": "M5",
+      "variant": "M5",
+      "generation": "E60/E61",
+      "chassis": "E60/E61",
+      "years": "2005–2010",
+      "modelHref": "/bmw-m5-engines",
+      "variantHref": "/bmw-m5-engines"
+    },
+    {
+      "model": "M6",
+      "variant": "M6",
+      "generation": "E63/E64",
+      "chassis": "E63/E64",
+      "years": "2006–2010",
+      "modelHref": "/bmw-m6-engines",
+      "variantHref": "/bmw-m6-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

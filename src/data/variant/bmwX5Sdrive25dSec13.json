@@ -1,0 +1,69 @@
+{
+  "kicker": "FREQUENTLY ASKED",
+  "kickerHighlight": "QUESTIONS",
+  "faqLeft": [
+    {
+      "q": "Do you rebuild engines for all BMW X5 models?",
+      "a": "Yes — we rebuild and replace engines across every X5 generation, from the E36 up to the current F15."
+    },
+    {
+      "q": "Do I keep my original engine, or do you send me a different one?",
+      "a": "We rebuild the engine your car already has wherever possible, keeping its matching engine number to avoid compatibility risks."
+    },
+    {
+      "q": "Do you supply used engines?",
+      "a": "Yes, in some cases a matched low-mileage used engine is the right option upon registration matching."
+    },
+    {
+      "q": "What warranty comes with a rebuild?",
+      "a": "Every rebuild comes with a 12 month unlimited-mileage warranty."
+    }
+  ],
+  "faqRight": [
+    {
+      "q": "How does recovery work?",
+      "a": "Nationwide car collection from £70, with most vehicles recovered within a few hours of booking."
+    },
+    {
+      "q": "How long does a rebuild take?",
+      "a": "Most rebuilds are completed within 3-5 working days from arrival at the workshop."
+    },
+    {
+      "q": "How much does a BMW X5 engine rebuild cost?",
+      "a": "4-cylinder from £1,900, 6-cylinder from £2,800, and M3 from £5,500 based on exact engine code and condition."
+    }
+  ],
+  "form": {
+    "headlinePre": "GET YOUR",
+    "headlineHighlight": "FREE BMW 3 SERIES",
+    "headlinePost": "FIXED-PRICE QUOTE",
+    "fields": {
+      "reg": {
+        "label": "Registration Number",
+        "placeholder": "e.g. YG19 XJL"
+      },
+      "postcode": {
+        "label": "Postcode",
+        "placeholder": "e.g. SS1 1AA"
+      },
+      "name": {
+        "label": "Name",
+        "placeholder": "Your full name"
+      },
+      "phone": {
+        "label": "Phone",
+        "placeholder": "e.g. 07XXX XXXXXX"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "e.g. you@example.com"
+      },
+      "enquiry": {
+        "label": "Issue / Enquiry Type",
+        "placeholder": "Select an option"
+      }
+    },
+    "submitLabel": "Get My Fixed-Price Quote",
+    "guarantee": "Most quotes returned within 30 minutes during working hours."
+  }
+}

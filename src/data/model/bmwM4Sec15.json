@@ -1,0 +1,34 @@
+{
+  "headlinePre": "BMW M4 Engine",
+  "headlineHighlight": "Coverage",
+  "kicker": "Engines by Model Year",
+  "description": "Our BMW engine specialist garage covers all engine types from 1994 to 2026, across every M4 generation.",
+  "image": "/model/sec15.webp",
+  "imageMobile": "/model/sec15_mobile.jpg",
+  "partImage": "/model/sec15_part.webp",
+  "generations": [
+    {
+      "years": "2014–2020",
+      "code": "F82/F83",
+      "list": "2014 through 2020 BMW M4 engines"
+    }
+  ],
+  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "checklistTitlePre": "We Cover Every",
+  "checklistTitleHighlight": "BMW BMW M4 (F82, S55) Model:",
+  "checklistLeft": [
+    "BMW BMW M4 (F82, S55) 2012 Engine Rebuild",
+    "BMW BMW M4 (F82, S55) 2013 Engine Rebuild",
+    "BMW BMW M4 (F82, S55) 2014 Engine Rebuild",
+    "BMW BMW M4 (F82, S55) 2015 Engine Rebuild",
+    "BMW BMW M4 (F82, S55) 2016 Engine Rebuild"
+  ],
+  "checklistRight": [
+    "BMW BMW M4 (F82, S55) 2017 Engine Rebuild",
+    "BMW BMW M4 (F82, S55) 2018 Engine Rebuild",
+    "BMW BMW M4 (F82, S55) 2019 Engine Rebuild",
+    "BMW BMW M4 (F82, S55) 2020 Engine Rebuild",
+    "BMW BMW M4 (F82, S55) 2021 Engine Rebuild"
+  ],
+  "checklistHref": "/bmw-BMW M4 (F82, S55)-engines"
+}

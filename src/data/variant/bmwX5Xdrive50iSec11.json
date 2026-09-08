@@ -1,0 +1,82 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "BMW X5 xDrive50i ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "From the N47 to the B47 – here's a quick guide to the engines fitted to the BMW X5 xDrive50i over the years. If you're unsure which one you have, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2013",
+      "generation": "F15",
+      "engineCode": "N63",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n63-engine"
+    },
+    {
+      "year": "2014",
+      "generation": "F15",
+      "engineCode": "N63",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n63-engine"
+    },
+    {
+      "year": "2015",
+      "generation": "F15",
+      "engineCode": "N63",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n63-engine"
+    },
+    {
+      "year": "2016",
+      "generation": "F15",
+      "engineCode": "N63",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n63-engine"
+    },
+    {
+      "year": "2017",
+      "generation": "F15",
+      "engineCode": "N63",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n63-engine"
+    },
+    {
+      "year": "2018",
+      "generation": "F15",
+      "engineCode": "N63",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n63-engine"
+    }
+  ],
+  "notice": {
+    "highlight": "2015 and 2019",
+    "rest": " were transition years between generations and engine codes — if your registration falls in either, we'll confirm your exact engine before quoting."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "kicker": "Full Variant Coverage",
+  "headline": "We Cover Every BMW M5 Variant",
+  "tabs": [
+    "All Variants"
+  ],
+  "activeTab": 0,
+  "tabVariants": [
+    [
+      {
+        "label": "BMW M5 (E39, S62)"
+      },
+      {
+        "label": "BMW M5 (E60, S85)"
+      },
+      {
+        "label": "BMW M5 (F10, S63)"
+      },
+      {
+        "label": "BMW M5 Competition (F90, S63)"
+      },
+      {
+        "label": "BMW M5 CS (F90, S63)"
+      },
+      {
+        "label": "BMW M5 (G90, S68)"
+      }
+    ]
+  ],
+  "notice": {
+    "title": "Not seeing your exact variant?",
+    "linkText": "Send us your registration",
+    "rest": " and we'll confirm engine rebuild availability directly."
+  },
+  "priceCta": {
+    "title": "Full Price Breakdown",
+    "body": "See detailed pricing near the top of this page, directly below the Starting From summary.",
+    "image": "/model/sec15_part.webp",
+    "href": "#pricing"
+  }
+}

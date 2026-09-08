@@ -1,0 +1,23 @@
+# BMW Garage — Apache safety net.
+# NOTE: this Next.js site is built for a Node/Vercel-style deployment, where
+# Apache/.htaccess is never in the request path and this file is inert. It is
+# included only in case the build output is ever served from Apache/cPanel
+# hosting, so canonical-host and HTTPS enforcement exist at that layer too.
+
+RewriteEngine On
+
+# Force HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Force non-www canonical host (bmwgarage.uk, not www.bmwgarage.uk)
+RewriteCond %{HTTP_HOST} ^www\.bmwgarage\.uk [NC]
+RewriteRule ^(.*)$ https://bmwgarage.uk/$1 [L,R=301]
+
+# Strip trailing slash (except root)
+RewriteCond %{REQUEST_URI} ^(.+)/$
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.+)/$ /$1 [L,R=301]
+
+# Custom error pages
+ErrorDocument 404 /404.html

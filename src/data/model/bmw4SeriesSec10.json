@@ -1,0 +1,72 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "BMW 4 Series Rebuilds",
+  "subhead": "Full variant list below covers every BMW 4 Series engine we work on — these 12 are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "BMW 420i",
+      "spec": "2.0L I4 Petrol (N20 (F32, 2013–2016) or B48 (F32, 2016–2020 / G22, 2020–present))",
+      "image": "/variant/vehicles/420i.webp",
+      "href": "/bmw-420i-engines"
+    },
+    {
+      "number": "02",
+      "model": "BMW 420d",
+      "spec": "2.0L I4 Diesel (F32/F33/F36) · Diesel MHEV (G22/G23/G26) (B47 (2015+) · N47 (2013-2015) · B47 MHEV (2020+))",
+      "image": "/variant/vehicles/420d.webp",
+      "href": "/bmw-420d-engines"
+    },
+    {
+      "number": "03",
+      "model": "BMW 425d",
+      "spec": "2.0L I4 Diesel (B47)",
+      "image": "/variant/vehicles/425d.webp",
+      "href": "/bmw-425d-engines"
+    },
+    {
+      "number": "04",
+      "model": "BMW 428i",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "05",
+      "model": "BMW 430i",
+      "spec": "2.0L I4 Petrol (N20 (F32) or B48 (G22))",
+      "image": "/variant/vehicles/430i.webp",
+      "href": "/bmw-430i-engines"
+    },
+    {
+      "number": "06",
+      "model": "BMW 430d",
+      "spec": "3.0L I6 Diesel (B57)",
+      "image": "/variant/vehicles/430d.webp",
+      "href": "/bmw-430d-engines"
+    },
+    {
+      "number": "07",
+      "model": "BMW 435i",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "08",
+      "model": "BMW 435d",
+      "spec": "3.0L I6 Tri-Turbo Diesel (N57)",
+      "image": "/variant/vehicles/435d.webp",
+      "href": "/bmw-435d-engines"
+    },
+    {
+      "number": "09",
+      "model": "BMW 440i",
+      "spec": "3.0L I6 Petrol (B58)",
+      "image": "/variant/vehicles/440i.webp",
+      "href": "/bmw-440i-engines"
+    }
+  ]
+}

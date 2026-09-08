@@ -1,0 +1,33 @@
+{
+  "titlePre": "BMW S68 ",
+  "titleHighlight": "Rebuild Components",
+  "cards": [
+    {
+      "icon": "link",
+      "image": "/engine_family/sec4.webp",
+      "title": "Timing Chain",
+      "body": "We inspect and replace timing chain components as standard during a rebuild."
+    },
+    {
+      "icon": "bearing",
+      "image": "/engine_family/sec4.webp",
+      "title": "Bearings",
+      "body": "We replace bearings as standard during a rebuild."
+    },
+    {
+      "icon": "gasket",
+      "image": "/engine_family/sec4.webp",
+      "title": "Gaskets & Seals",
+      "body": "We replace all gaskets and seals as standard during a rebuild."
+    },
+    {
+      "icon": "power",
+      "image": "/engine_family/sec4.webp",
+      "title": "Hybrid-System Ancillaries",
+      "subtitle": "(MHEV/PHEV Applications Only)",
+      "body": "On mild-hybrid and plug-in hybrid S68 applications, we account for the additional ancillaries once your exact model and generation are confirmed."
+    }
+  ],
+  "notice": "Components drawn directly from VRF Key Components data. If your S68's exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected — not guessed in advance.",
+  "noticeImage": "/model/sec15_part.webp"
+}

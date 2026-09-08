@@ -1,0 +1,48 @@
+{
+  "brand": "BMWGARAGE.UK",
+  "blurb": "BMW engine rebuild specialists. Nationwide recovery, updated OEM components, fixed-price quotes, 12-month unlimited-mileage warranty.",
+  "columns": [
+    {
+      "title": "Company",
+      "links": [
+        { "label": "About Us", "href": "/about" },
+        { "label": "Our Workshop", "href": "/about#workshop" },
+        { "label": "Recovery", "href": "/recovery" },
+        { "label": "Contact", "href": "/contact" }
+      ]
+    },
+    {
+      "title": "Engines",
+      "links": [
+        { "label": "N47", "href": "/bmw-n47-engine" },
+        { "label": "N57", "href": "/bmw-n57-engine" },
+        { "label": "B47", "href": "/bmw-b47-engine" },
+        { "label": "N20", "href": "/bmw-n20-engine" },
+        { "label": "N63", "href": "/bmw-n63-engine" },
+        { "label": "S55", "href": "/bmw-s55-engine" }
+      ]
+    },
+    {
+      "title": "Symptoms",
+      "links": [
+        { "label": "Timing Chain Noise", "href": "/symptoms/timing-chain-noise" },
+        { "label": "White Smoke", "href": "/symptoms/white-smoke" },
+        { "label": "Blue Smoke", "href": "/symptoms/blue-smoke" },
+        { "label": "Engine Overheating", "href": "/symptoms/engine-overheating" }
+      ]
+    }
+  ],
+  "contact": {
+    "address": "Unit A5 Windsor Road, Commercial Estate, Ramsden Heath, Billericay, CM11 1QE",
+    "phone": "+44 01268 944 234",
+    "email": "info@bmwgarage.uk",
+    "hours": "Mo-Fr 09:00-18:00, Sa 11:00-14:00"
+  },
+  "social": [
+    { "label": "Facebook", "href": "https://facebook.com/bmwrebuildgarageuk" },
+    { "label": "Twitter", "href": "https://twitter.com/bmwrebuildgarageuk" },
+    { "label": "Instagram", "href": "https://instagram.com/bmwrebuildgarageuk" },
+    { "label": "TikTok", "href": "https://tiktok.com/@bmwrebuildgarageuk" }
+  ],
+  "copyright": "© 2026 BMW Garage. All rights reserved. Independent BMW specialist — not affiliated with BMW AG."
+}

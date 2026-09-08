@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "BMW X5 xDrive50i",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "BMW X5 xDrive50i"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "X5"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "X5 xDrive50i"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol Twin-Turbo"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "N63"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "4.4L V8"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generations",
+      "value": "F15 (2013–2018)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£4,500",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The X5 xDrive50i used two different engines across its production run — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

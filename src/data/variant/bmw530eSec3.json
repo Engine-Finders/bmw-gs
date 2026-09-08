@@ -1,0 +1,45 @@
+{
+  "headline": "BMW 530e Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£2,200",
+  "engineImage": "/variant/sec10_engine.webp",
+  "cards": [
+    {
+      "code": "B48 + electric",
+      "generation": "G30/G31 (2017–2023)",
+      "price": "£2,200",
+      "codeHref": "/bmw-n47-engine"
+    },
+    {
+      "code": "B48 + electric",
+      "generation": "G60 (2023–present)",
+      "price": "£2,200",
+      "codeHref": "/bmw-b47-engine"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "layers",
+      "text": "All engine codes sit on the same rebuild tier."
+    },
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3_lower_div_bg.webp",
+    "titlePre": "BMW 530e Timing Chain Failure ",
+    "titleHighlight": "(G30/G31, N47)",
+    "paragraphs": [
+      "If your 530e is a pre-2015 model with the N47 diesel engine — that's the early G30/G31 generation — timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
+      "The later G30/G31 (2015-onwards) and G60 generations use a different engine, the B47, which is significantly more reliable and doesn't share this specific issue."
+    ],
+    "source": "Source: NHTSA Recall 18V-755 — Timing Chain Guide Wear in N47 Engines (2012–2015)"
+  }
+}

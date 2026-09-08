@@ -1,0 +1,45 @@
+{
+  "titlePre": "BMW S63",
+  "titleHighlight": "ENGINE",
+  "titleLine2": "Rebuild & Replacement",
+  "subhead": "Specialist BMW S63 engine rebuilds and replacements, fitted across 3, 4, 5, 6, 7 and 8 Series, X3 through X7, XM and Z4. Nationwide recovery, registration-based engine matching, 12-month unlimited-mileage warranty.",
+  "rating": {
+    "stars": 5,
+    "label": "Rated BMW Engine Specialists — 1,800+ Engines Rebuilt"
+  },
+  "trustBar": [
+    {
+      "icon": "gear",
+      "label": "Specialist technicians with 10-15 years of experience"
+    },
+    {
+      "icon": "shield-check",
+      "label": "12 Month Unlimited-Mileage Warranty"
+    },
+    {
+      "icon": "truck",
+      "label": "Nationwide Recovery"
+    },
+    {
+      "icon": "car",
+      "label": "Free Engine Matching by Registration"
+    },
+    {
+      "icon": "layers",
+      "label": "Fitted Across 14 BMW Models"
+    }
+  ],
+  "priceCta": {
+    "kicker": "Starting from",
+    "label": "£2,800",
+    "buttonLabel": "Get a Fixed-Price Quote →",
+    "href": "#quote-form"
+  },
+  "phoneCta": {
+    "icon": "phone",
+    "label": "Call Our Specialists:",
+    "phone": "0800 XXX XXXX",
+    "href": "tel:0800000000"
+  },
+  "image": "/engine_family/sec1.webp"
+}

@@ -1,0 +1,35 @@
+{
+  "headlinePre": "BMW 2 Series Engine",
+  "headlineHighlight": "Coverage",
+  "kicker": "Engines by Model Year",
+  "description": "Our BMW engine specialist garage covers all engine types from 1994 to 2026, across every 2 Series generation.",
+  "image": "/model/sec15.webp",
+  "imageMobile": "/model/sec15_mobile.jpg",
+  "partImage": "/model/sec15_part.webp",
+  "generations": [
+    {
+      "years": "2014–2021",
+      "code": "F22/F23",
+      "list": "2014 through 2021 BMW 2 Series engines"
+    },
+    {
+      "years": "2014–2021",
+      "code": "F45/F46",
+      "list": "2014 through 2021 BMW 2 Series Active Tourer/Gran Tourer engines"
+    }
+  ],
+  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "checklistTitlePre": "We Cover Every",
+  "checklistTitleHighlight": "BMW 220d Model:",
+  "checklistLeft": [
+    "BMW 220d 2016 Engine Rebuild",
+    "BMW 220d 2017 Engine Rebuild",
+    "BMW 220d 2018 Engine Rebuild"
+  ],
+  "checklistRight": [
+    "BMW 220d 2019 Engine Rebuild",
+    "BMW 220d 2020 Engine Rebuild",
+    "BMW 220d 2021 Engine Rebuild"
+  ],
+  "checklistHref": "/bmw-220d-engines"
+}

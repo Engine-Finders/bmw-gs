@@ -1,0 +1,111 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "BMW 5 Series Rebuilds",
+  "subhead": "Full variant list below covers every BMW 5 Series engine we work on — these 12 are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "BMW 518d",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "02",
+      "model": "BMW 520i",
+      "spec": "2.0L I4 Petrol (N20 (F10/F11), B48 (G30/G31 & G60))",
+      "image": "/variant/vehicles/520i.webp",
+      "href": "/bmw-520i-engines"
+    },
+    {
+      "number": "03",
+      "model": "BMW 520d",
+      "spec": "2.0L I4 Diesel (N47 (F10/F11) or B47 (G30/G31, G60))",
+      "image": "/variant/vehicles/520d.webp",
+      "href": "/bmw-520d-engines"
+    },
+    {
+      "number": "04",
+      "model": "BMW 523i",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "05",
+      "model": "BMW 525d",
+      "spec": "3.0L I6 Diesel (N57)",
+      "image": "/variant/vehicles/525d.webp",
+      "href": "/bmw-525d-engines"
+    },
+    {
+      "number": "06",
+      "model": "BMW 525i",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "07",
+      "model": "BMW 528i",
+      "spec": "2.0L Petrol (N20)",
+      "image": "/variant/vehicles/528i.webp",
+      "href": "/bmw-528i-engines"
+    },
+    {
+      "number": "08",
+      "model": "BMW 530d",
+      "spec": "3.0L I6 Diesel (N57 (F10/F11) or B57 (G30/G31))",
+      "image": "/variant/vehicles/530d.webp",
+      "href": "/bmw-530d-engines"
+    },
+    {
+      "number": "09",
+      "model": "BMW 530i",
+      "spec": "2.0L I4 Petrol (B48)",
+      "image": "/variant/vehicles/530i.webp",
+      "href": "/bmw-530i-engines"
+    },
+    {
+      "number": "10",
+      "model": "BMW 530e",
+      "spec": "2.0L I4 Petrol Plug-in Hybrid (B48 + electric)",
+      "image": "/variant/vehicles/530e.webp",
+      "href": "/bmw-530e-engines"
+    },
+    {
+      "number": "11",
+      "model": "BMW 535d",
+      "spec": "3.0L I6 Diesel (N57)",
+      "image": "/variant/vehicles/535d.webp",
+      "href": "/bmw-535d-engines"
+    },
+    {
+      "number": "12",
+      "model": "BMW 535i",
+      "spec": "3.0L I6 Petrol (N55)",
+      "image": "/variant/vehicles/535i.webp",
+      "href": "/bmw-535i-engines"
+    },
+    {
+      "number": "13",
+      "model": "BMW 540i",
+      "spec": "3.0L I6 Petrol (B58)",
+      "image": "/variant/vehicles/540i.webp",
+      "href": "/bmw-540i-engines"
+    },
+    {
+      "number": "14",
+      "model": "BMW 545i",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "15",
+      "model": "BMW 550i",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "headlinePre": "BMW M5 Engine",
+  "headlineHighlight": "Coverage",
+  "kicker": "Engines by Model Year",
+  "description": "Our BMW engine specialist garage covers all engine types from 1994 to 2026, across every M5 generation.",
+  "image": "/model/sec15.webp",
+  "imageMobile": "/model/sec15_mobile.jpg",
+  "partImage": "/model/sec15_part.webp",
+  "generations": [
+    {
+      "years": "1998–2003",
+      "code": "E39",
+      "list": "1998 through 2003 BMW M5 engines"
+    },
+    {
+      "years": "2005–2010",
+      "code": "E60",
+      "list": "2005 through 2010 BMW M5 engines"
+    },
+    {
+      "years": "2011–2017",
+      "code": "F10",
+      "list": "2011 through 2017 BMW M5 engines"
+    },
+    {
+      "years": "2017–2024",
+      "code": "F90",
+      "list": "2017 through 2024 BMW M5 engines"
+    }
+  ],
+  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "checklistTitlePre": "We Cover Every",
+  "checklistTitleHighlight": "BMW BMW M5 (E39, S62) Model:",
+  "checklistLeft": [
+    "BMW BMW M5 (E39, S62) 2012 Engine Rebuild",
+    "BMW BMW M5 (E39, S62) 2013 Engine Rebuild",
+    "BMW BMW M5 (E39, S62) 2014 Engine Rebuild",
+    "BMW BMW M5 (E39, S62) 2015 Engine Rebuild",
+    "BMW BMW M5 (E39, S62) 2016 Engine Rebuild"
+  ],
+  "checklistRight": [
+    "BMW BMW M5 (E39, S62) 2017 Engine Rebuild",
+    "BMW BMW M5 (E39, S62) 2018 Engine Rebuild",
+    "BMW BMW M5 (E39, S62) 2019 Engine Rebuild",
+    "BMW BMW M5 (E39, S62) 2020 Engine Rebuild",
+    "BMW BMW M5 (E39, S62) 2021 Engine Rebuild"
+  ],
+  "checklistHref": "/bmw-BMW M5 (E39, S62)-engines"
+}

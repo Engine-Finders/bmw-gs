@@ -1,0 +1,106 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "BMW M850i xDrive ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "From the N47 to the B47 – here's a quick guide to the engines fitted to the BMW M850i xDrive over the years. If you're unsure which one you have, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2018",
+      "generation": "G14/G15/G16",
+      "engineCode": "N63",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n63-engine"
+    },
+    {
+      "year": "2019",
+      "generation": "G14/G15/G16",
+      "engineCode": "N63",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n63-engine"
+    },
+    {
+      "year": "2020",
+      "generation": "G14/G15/G16",
+      "engineCode": "N63",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n63-engine"
+    },
+    {
+      "year": "2021",
+      "generation": "G14/G15/G16",
+      "engineCode": "N63",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n63-engine"
+    },
+    {
+      "year": "2022",
+      "generation": "G14/G15/G16",
+      "engineCode": "N63",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n63-engine"
+    },
+    {
+      "year": "2023",
+      "generation": "G14/G15/G16",
+      "engineCode": "N63",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n63-engine"
+    },
+    {
+      "year": "2024",
+      "generation": "G14/G15/G16",
+      "engineCode": "N63",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n63-engine"
+    },
+    {
+      "year": "2025",
+      "generation": "G14/G15/G16",
+      "engineCode": "N63",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n63-engine"
+    },
+    {
+      "year": "2026",
+      "generation": "G14/G15/G16",
+      "engineCode": "N63",
+      "fuel": "Petrol Twin-Turbo",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n63-engine"
+    }
+  ],
+  "notice": {
+    "highlight": "2015 and 2019",
+    "rest": " were transition years between generations and engine codes — if your registration falls in either, we'll confirm your exact engine before quoting."
+  }
+}

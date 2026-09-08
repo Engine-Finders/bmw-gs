@@ -1,0 +1,72 @@
+{
+  "kicker": "Full Breakdown",
+  "headlinePre": "BMW X4",
+  "headlineHighlight": "Engine Rebuild Price Guide",
+  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide — request a free quote for an exact fixed price on your specific engine.",
+  "columns": [
+    "Engine Family",
+    "Fuel",
+    "Size",
+    "Rebuild Price Range"
+  ],
+  "rows": [
+    {
+      "family": "N57",
+      "fuel": "Diesel",
+      "size": "3.0L",
+      "range": "F26",
+      "familyHref": "/bmw-n57-engine"
+    },
+    {
+      "family": "B47",
+      "fuel": "Diesel",
+      "size": "2.0L",
+      "range": "G02",
+      "familyHref": "/bmw-b47-engine"
+    },
+    {
+      "family": "B48 (xDrive30i)",
+      "fuel": "Petrol",
+      "size": "2.0L",
+      "range": "G02",
+      "familyHref": "/bmw-b48-engine"
+    },
+    {
+      "family": "B57 (M40d)",
+      "fuel": "Diesel",
+      "size": "3.0L",
+      "range": "G02",
+      "familyHref": "/bmw-b57-engine"
+    },
+    {
+      "family": "B58 (M40i)",
+      "fuel": "Petrol",
+      "size": "3.0L",
+      "range": "G02",
+      "familyHref": "/bmw-b58-engine"
+    }
+  ],
+  "features": [
+    {
+      "icon": "gear",
+      "title": "OEM Components",
+      "body": "Updated components for maximum reliability"
+    },
+    {
+      "icon": "shield-check",
+      "title": "Key Parts Replaced",
+      "body": "Timing chains, tensioners, bearings & gaskets"
+    },
+    {
+      "icon": "truck",
+      "title": "Recovery From £70",
+      "body": "Nationwide recovery quoted separately"
+    },
+    {
+      "icon": "note",
+      "title": "Prices Exclude VAT",
+      "body": "Unless stated otherwise"
+    }
+  ],
+  "disclaimer": "Every rebuild identifies and replaces worn or damaged timing chains, tensioners, bearings and gaskets with updated OEM components. Recovery quoted separately from £70. Prices exclude VAT unless stated."
+}

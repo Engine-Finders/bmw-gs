@@ -1,0 +1,40 @@
+{
+  "headlinePre": "BMW 5 Series Engine",
+  "headlineHighlight": "Coverage",
+  "kicker": "Engines by Model Year",
+  "description": "Our BMW engine specialist garage covers all engine types from 1994 to 2026, across every 5 Series generation.",
+  "image": "/model/sec15.webp",
+  "imageMobile": "/model/sec15_mobile.jpg",
+  "partImage": "/model/sec15_part.webp",
+  "generations": [
+    {
+      "years": "1995–2004",
+      "code": "E39",
+      "list": "1995 through 2004 BMW 5 Series engines"
+    },
+    {
+      "years": "2003–2010",
+      "code": "E60/E61",
+      "list": "2003 through 2010 BMW 5 Series engines"
+    },
+    {
+      "years": "2009–2017",
+      "code": "F10/F11",
+      "list": "2009 through 2017 BMW 5 Series engines"
+    }
+  ],
+  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "checklistTitlePre": "We Cover Every",
+  "checklistTitleHighlight": "BMW 530d Model:",
+  "checklistLeft": [
+    "BMW 530d 2015 Engine Rebuild",
+    "BMW 530d 2016 Engine Rebuild",
+    "BMW 530d 2017 Engine Rebuild"
+  ],
+  "checklistRight": [
+    "BMW 530d 2018 Engine Rebuild",
+    "BMW 530d 2019 Engine Rebuild",
+    "BMW 530d 2020 Engine Rebuild"
+  ],
+  "checklistHref": "/bmw-530d-engines"
+}

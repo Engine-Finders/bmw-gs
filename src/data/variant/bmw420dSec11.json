@@ -1,0 +1,155 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "BMW 420d ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "From the N47 to the B47 – here's a quick guide to the engines fitted to the BMW 420d over the years. If you're unsure which one you have, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2013",
+      "generation": "F32/F33/F36",
+      "engineCode": "N47",
+      "fuel": "Diesel (F32/F33/F36) · Diesel MHEV (G22/G23/G26)",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n47-engine"
+    },
+    {
+      "year": "2014",
+      "generation": "F32/F33/F36",
+      "engineCode": "N47",
+      "fuel": "Diesel (F32/F33/F36) · Diesel MHEV (G22/G23/G26)",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n47-engine"
+    },
+    {
+      "year": "2015",
+      "generation": "F32/F33/F36",
+      "engineCode": "N47",
+      "fuel": "Diesel (F32/F33/F36) · Diesel MHEV (G22/G23/G26)",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n47-engine"
+    },
+    {
+      "year": "2015",
+      "generation": "F32/F33/F36",
+      "engineCode": "B47",
+      "fuel": "Diesel (F32/F33/F36) · Diesel MHEV (G22/G23/G26)",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b47-engine"
+    },
+    {
+      "year": "2016",
+      "generation": "F32/F33/F36",
+      "engineCode": "B47",
+      "fuel": "Diesel (F32/F33/F36) · Diesel MHEV (G22/G23/G26)",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b47-engine"
+    },
+    {
+      "year": "2017",
+      "generation": "F32/F33/F36",
+      "engineCode": "B47",
+      "fuel": "Diesel (F32/F33/F36) · Diesel MHEV (G22/G23/G26)",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b47-engine"
+    },
+    {
+      "year": "2018",
+      "generation": "F32/F33/F36",
+      "engineCode": "B47",
+      "fuel": "Diesel (F32/F33/F36) · Diesel MHEV (G22/G23/G26)",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b47-engine"
+    },
+    {
+      "year": "2019",
+      "generation": "F32/F33/F36",
+      "engineCode": "B47",
+      "fuel": "Diesel (F32/F33/F36) · Diesel MHEV (G22/G23/G26)",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b47-engine"
+    },
+    {
+      "year": "2020",
+      "generation": "F32/F33/F36",
+      "engineCode": "B47",
+      "fuel": "Diesel (F32/F33/F36) · Diesel MHEV (G22/G23/G26)",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b47-engine"
+    },
+    {
+      "year": "2020",
+      "generation": "G22/G23/G26",
+      "engineCode": "B47 MHEV",
+      "fuel": "Diesel (F32/F33/F36) · Diesel MHEV (G22/G23/G26)",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2021",
+      "generation": "G22/G23/G26",
+      "engineCode": "B47 MHEV",
+      "fuel": "Diesel (F32/F33/F36) · Diesel MHEV (G22/G23/G26)",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2022",
+      "generation": "G22/G23/G26",
+      "engineCode": "B47 MHEV",
+      "fuel": "Diesel (F32/F33/F36) · Diesel MHEV (G22/G23/G26)",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2023",
+      "generation": "G22/G23/G26",
+      "engineCode": "B47 MHEV",
+      "fuel": "Diesel (F32/F33/F36) · Diesel MHEV (G22/G23/G26)",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2024",
+      "generation": "G22/G23/G26",
+      "engineCode": "B47 MHEV",
+      "fuel": "Diesel (F32/F33/F36) · Diesel MHEV (G22/G23/G26)",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2025",
+      "generation": "G22/G23/G26",
+      "engineCode": "B47 MHEV",
+      "fuel": "Diesel (F32/F33/F36) · Diesel MHEV (G22/G23/G26)",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2026",
+      "generation": "G22/G23/G26",
+      "engineCode": "B47 MHEV",
+      "fuel": "Diesel (F32/F33/F36) · Diesel MHEV (G22/G23/G26)",
+      "service": "Rebuild / Replacement"
+    }
+  ],
+  "notice": {
+    "highlight": "2015 and 2019",
+    "rest": " were transition years between generations and engine codes — if your registration falls in either, we'll confirm your exact engine before quoting."
+  }
+}

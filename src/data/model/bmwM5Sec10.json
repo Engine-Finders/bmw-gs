@@ -1,0 +1,47 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "BMW M5 Rebuilds",
+  "subhead": "Full variant list below covers every BMW M5 engine we work on — these 12 are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "BMW M5 (E39, S62)",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "02",
+      "model": "BMW M5 (E60, S85)",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "03",
+      "model": "BMW M5 (F10, S63)",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "04",
+      "model": "BMW M5 Competition (F90, S63)",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "05",
+      "model": "BMW M5 CS (F90, S63)",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "06",
+      "model": "BMW M5 (G90, S68)",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "h2": "Why BMW Owners Travel Across The UK To Us",
+  "description": "We don't cut corners. We rebuild BMW engines the right way.",
+  "bgImage1": "/home/sec10_bg1.webp",
+  "bgImage2": "/home/sec10_bg2_v3.webp",
+  "reasons": [
+    { "label": "We rebuild. We don't guess.", "icon": "gear" },
+    { "label": "Real workshop (Billericay, Essex)", "icon": "pin" },
+    { "label": "Updated OEM components only", "icon": "gears" },
+    { "label": "Fixed-price quotations", "icon": "price" },
+    { "label": "12-month unlimited mileage warranty", "icon": "shield-check" },
+    { "label": "BMW-trained specialists", "icon": "tech" }
+  ],
+  "ctaHeading": "Ready to Get Started?",
+  "ctaBody": "Enter your registration and we'll identify your engine, price the rebuild and arrange recovery.",
+  "ctaButton": "Find My BMW",
+  "apiNote": "Live DVLA / VIN API integration"
+}

@@ -1,0 +1,29 @@
+{
+  "headlinePre": "BMW 8 Series Engine",
+  "headlineHighlight": "Coverage",
+  "kicker": "Engines by Model Year",
+  "description": "Our BMW engine specialist garage covers all engine types from 1994 to 2026, across every 8 Series generation.",
+  "image": "/model/sec15.webp",
+  "imageMobile": "/model/sec15_mobile.jpg",
+  "partImage": "/model/sec15_part.webp",
+  "generations": [
+    {
+      "years": "1989–1999",
+      "code": "E31",
+      "list": "1989 through 1999 BMW 8 Series engines"
+    }
+  ],
+  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "checklistTitlePre": "We Cover Every",
+  "checklistTitleHighlight": "BMW 840d Model:",
+  "checklistLeft": [
+    "BMW 840d 2019 Engine Rebuild",
+    "BMW 840d 2020 Engine Rebuild",
+    "BMW 840d 2021 Engine Rebuild"
+  ],
+  "checklistRight": [
+    "BMW 840d 2022 Engine Rebuild",
+    "BMW 840d 2023 Engine Rebuild"
+  ],
+  "checklistHref": "/bmw-BMW 840d-engines"
+}

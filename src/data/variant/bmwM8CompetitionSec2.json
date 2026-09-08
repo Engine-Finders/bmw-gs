@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "BMW M8 Competition",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "BMW M8 Competition"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "M8"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "M8 Competition"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol Twin-Turbo"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "S63"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "4.4L"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generations",
+      "value": "F91 (2019–2026, Convertible) · F92 (2019–2026, Coupe) · F93 (2019–2026, Gran Coupe)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£6,500",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The M8 Competition used two different engines across its production run — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "BMW XM 50e ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "From the N47 to the B47 – here's a quick guide to the engines fitted to the BMW XM 50e over the years. If you're unsure which one you have, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2023",
+      "generation": "G09",
+      "engineCode": "B58",
+      "fuel": "Petrol Plug-in Hybrid",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b58-engine"
+    },
+    {
+      "year": "2024",
+      "generation": "G09",
+      "engineCode": "B58",
+      "fuel": "Petrol Plug-in Hybrid",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b58-engine"
+    },
+    {
+      "year": "2025",
+      "generation": "G09",
+      "engineCode": "B58",
+      "fuel": "Petrol Plug-in Hybrid",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b58-engine"
+    },
+    {
+      "year": "2026",
+      "generation": "G09",
+      "engineCode": "B58",
+      "fuel": "Petrol Plug-in Hybrid",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b58-engine"
+    }
+  ],
+  "notice": {
+    "highlight": "2015 and 2019",
+    "rest": " were transition years between generations and engine codes — if your registration falls in either, we'll confirm your exact engine before quoting."
+  }
+}

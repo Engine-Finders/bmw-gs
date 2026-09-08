@@ -1,0 +1,31 @@
+{
+  "titlePre": "OUR WORKSHOP VIEW OF",
+  "titleBigPre": "THE ",
+  "titleBigHighlight": "BMW",
+  "titleBigPost": " N57",
+  "subtext": [
+    "Built, rebuilt and tested by engineers who work on BMW engines every day.",
+    "Here's our practical view of the N57 across all 14 model applications."
+  ],
+  "columns": [
+    {
+      "icon": "car",
+      "title": "APPLICATIONS WE SEE:",
+      "body": "The N57 is one of the broadest-application engines we work on — the same base engine across 14 model lines, spanning saloons, SUVs, a roadster and now a hybrid SUV flagship."
+    },
+    {
+      "icon": "wrench",
+      "title": "WHAT WE REPLACE:",
+      "body": "Timing chain, bearings, and gaskets as standard on every rebuild, with hybrid-system ancillaries additionally accounted for on MHEV/PHEV applications."
+    },
+    {
+      "icon": "clipboard",
+      "title": "KNOWN ISSUES:",
+      "body": "No widely-reported pattern is confirmed for the N57 across any of its 14 applications. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented — for the N57, we don't have one to report, and we won't invent one to sound more thorough."
+    }
+  ],
+  "notice": {
+    "highlight": "Note:",
+    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed N57 rebuilds is available to draw from, rather than filled with placeholder examples now."
+  }
+}

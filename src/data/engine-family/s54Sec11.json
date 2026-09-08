@@ -1,0 +1,115 @@
+{
+  "options": [
+    {
+      "icon": "refresh",
+      "titlePre": "BMW S54",
+      "titleHighlight": "RECONDITIONED",
+      "titlePost": " ENGINES",
+      "body": "\"Reconditioned\" is the term many owners search for when they mean the same thing as a rebuild — a full strip-down, inspection, and replacement of worn parts rather than a straight swap. If that's what you're after, our rebuild service is exactly that."
+    },
+    {
+      "icon": "shield-check",
+      "titlePre": "BMW S54",
+      "titleHighlight": "REFURBISHED",
+      "titlePost": " ENGINES",
+      "body": "\"Refurbished\" often describes the same process from a different angle — restoring your existing engine to full working condition rather than replacing it outright. Our rebuild covers this."
+    },
+    {
+      "icon": "cog",
+      "titlePre": "BMW S54",
+      "titleHighlight": "REMANUFACTURED",
+      "titlePost": " ENGINES",
+      "body": "Some owners specifically search for a \"remanufactured\" engine, expecting a unit rebuilt to original specification with updated components. That's consistent with what our rebuild service delivers, regardless of which of the 14 S54-equipped models you drive."
+    }
+  ],
+  "faq": {
+    "kicker": "FREQUENTLY ASKED",
+    "kickerHighlight": "QUESTIONS",
+    "faqLeft": [
+      {
+        "q": "What is the BMW S54 engine?",
+        "a": "The S54 is BMW's turbocharged 3.0-litre inline-six petrol engine, in production since 2015. It's fitted across 14 different BMW models, from the 2 Series up to the X7, XM and Z4."
+      },
+      {
+        "q": "Which BMW models use the S54?",
+        "a": "2 Series, 3 Series, 4 Series, 5 Series, 6 Series, 7 Series, 8 Series, X3, X4, X5, X6, X7, XM and Z4 — see the full applications table above for exact variants and years."
+      },
+      {
+        "q": "Does the S54 differ between BMW models?",
+        "a": "Yes. The specific ancillaries, mounting, and hybrid-system integration differ by application, even though the base engine code is the same. We match by registration/VIN before confirming any rebuild or replacement."
+      },
+      {
+        "q": "Is a S54 from one BMW model compatible with another?",
+        "a": "Not automatically. A S54 from a 2 Series isn't a drop-in match for a S54 from an X7 — ancillaries, mounting, and hybrid-system integration all differ. We always confirm compatibility by registration/VIN."
+      },
+      {
+        "q": "How much does a BMW S54 engine rebuild cost?",
+        "a": "Rebuilds start from £2,800, regardless of which model it's fitted to. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      },
+      {
+        "q": "Do you rebuild S54 engines?",
+        "a": "Yes. We work on S54 rebuilds across every model it's fitted to, replacing worn components as standard."
+      }
+    ],
+    "faqRight": [
+      {
+        "q": "Do you work on S54 hybrid applications?",
+        "a": "Yes. S54 MHEV and PHEV applications (550e, X5 xDrive50e, X6 xDrive50e, X7 xDrive50e, XM 50e) are within our workshop capability, with the relevant hybrid-system ancillaries accounted for once your exact model is confirmed."
+      },
+      {
+        "q": "Do you supply used BMW S54 engines?",
+        "a": "Yes, in some cases a matched low-mileage used engine is the right option. Our team will advise honestly once we've matched your registration and understood your situation."
+      },
+      {
+        "q": "Can you recover my BMW if the engine has failed?",
+        "a": "Yes — nationwide recovery is available from £70, and most vehicles are collected within a few hours of booking."
+      },
+      {
+        "q": "How long does a S54 engine rebuild take?",
+        "a": "Most rebuilds are completed within 3-5 working days from the time your car arrives at our workshop."
+      },
+      {
+        "q": "Is rebuilding better than fitting a used engine?",
+        "a": "For most S54 owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history and comes with a 12-month unlimited-mileage warranty."
+      }
+    ]
+  },
+  "cta": {
+    "image": "/engine_family/sec11.webp",
+    "headlinePre": "GET YOUR FREE",
+    "headlineHighlight": "BMW S54",
+    "headlinePost": "FIXED-PRICE QUOTE",
+    "features": [
+      {
+        "icon": "price",
+        "title": "FIXED PRICE",
+        "body": "Transparent quotes with no hidden extras."
+      },
+      {
+        "icon": "shield-check",
+        "title": "12-MONTH WARRANTY",
+        "body": "Unlimited mileage for total peace of mind."
+      },
+      {
+        "icon": "clock",
+        "title": "QUICK RESPONSE",
+        "body": "Get your fixed-price quote within 30 minutes."
+      }
+    ],
+    "formIntro": "Enter your registration and we'll confirm your exact model and provide a fixed-price quote within 30 minutes.",
+    "buttonLabel": "GET MY QUOTE",
+    "ticks": [
+      "14 S54 model applications covered",
+      "Rebuild, replacement or used options",
+      "Nationwide recovery from £70",
+      "Most cars collected within a few hours"
+    ],
+    "phone": {
+      "label": "CALL A SPECIALIST",
+      "sub": "Speak to a BMW engine expert"
+    },
+    "trustpilot": {
+      "score": "4.8 out of 5 from 1,200+ reviews"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "kicker": "Full Variant Coverage",
+  "headline": "We Cover Every BMW 2 Series Variant",
+  "tabs": [
+    "All Variants"
+  ],
+  "activeTab": 0,
+  "tabVariants": [
+    [
+      {
+        "label": "BMW 218i",
+        "href": "/bmw-218i-engines"
+      },
+      {
+        "label": "BMW 218d",
+        "href": "/bmw-218d-engines"
+      },
+      {
+        "label": "BMW 220i",
+        "href": "/bmw-220i-engines"
+      },
+      {
+        "label": "BMW 220d",
+        "href": "/bmw-220d-engines"
+      },
+      {
+        "label": "BMW 228i",
+        "href": "/bmw-228i-engines"
+      },
+      {
+        "label": "BMW 230i",
+        "href": "/bmw-230i-engines"
+      },
+      {
+        "label": "BMW M235i",
+        "href": "/bmw-m235i-engines"
+      },
+      {
+        "label": "BMW M240i",
+        "href": "/bmw-m240i-engines"
+      }
+    ]
+  ],
+  "notice": {
+    "title": "Not seeing your exact variant?",
+    "linkText": "Send us your registration",
+    "rest": " and we'll confirm engine rebuild availability directly."
+  },
+  "priceCta": {
+    "title": "Full Price Breakdown",
+    "body": "See detailed pricing near the top of this page, directly below the Starting From summary.",
+    "image": "/model/sec15_part.webp",
+    "href": "#pricing"
+  }
+}

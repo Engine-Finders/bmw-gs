@@ -1,0 +1,58 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "BMW X3 Rebuilds",
+  "subhead": "Full variant list below covers every BMW X3 engine we work on — these 12 are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "BMW X3 xDrive20d",
+      "spec": "2.0L / 3.0L Diesel (B47 (2.0L) or B57 (3.0L))",
+      "image": "/variant/vehicles/_fallback.webp",
+      "href": "/bmw-x3-xdrive20d-engines"
+    },
+    {
+      "number": "02",
+      "model": "BMW X3 xDrive20i",
+      "spec": "2.0L I4 Petrol (B48)",
+      "image": "/variant/vehicles/_fallback.webp",
+      "href": "/bmw-x3-xdrive20i-engines"
+    },
+    {
+      "number": "03",
+      "model": "BMW X3 xDrive30d",
+      "spec": "2.0L / 3.0L Diesel (B47 (2.0L) or B57 (3.0L))",
+      "image": "/variant/vehicles/_fallback.webp",
+      "href": "/bmw-x3-xdrive30d-engines"
+    },
+    {
+      "number": "04",
+      "model": "BMW X3 xDrive30i",
+      "spec": "2.0L I4 Petrol (B48)",
+      "image": "/variant/vehicles/_fallback.webp",
+      "href": "/bmw-x3-xdrive30i-engines"
+    },
+    {
+      "number": "05",
+      "model": "BMW X3 xDrive35d",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "06",
+      "model": "BMW X3 M40d",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "07",
+      "model": "BMW X3 M40i",
+      "spec": "3.0L I6 Petrol (B58)",
+      "image": "/variant/vehicles/x3-m40i.webp",
+      "href": "/bmw-x3-m40i-engines"
+    }
+  ]
+}

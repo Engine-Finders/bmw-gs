@@ -1,0 +1,57 @@
+{
+  "image": "/engine_family/sec3.webp",
+  "titlePre": "BMW S55 Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "icon": "car",
+      "label": "Model"
+    },
+    {
+      "icon": "gear",
+      "label": "Variant"
+    },
+    {
+      "icon": "layers",
+      "label": "Generation"
+    },
+    {
+      "icon": "calendar",
+      "label": "Years"
+    }
+  ],
+  "rows": [
+    {
+      "model": "M2",
+      "variant": "M2 Competition",
+      "generation": "F87",
+      "chassis": "F87",
+      "years": "2018–2021",
+      "modelHref": "/bmw-m2-engines",
+      "variantHref": "/bmw-m2-competition-engines"
+    },
+    {
+      "model": "M3",
+      "variant": "M3, M3 Competition",
+      "generation": "F80",
+      "chassis": "F80",
+      "years": "2014–2020",
+      "modelHref": "/bmw-m3-engines"
+    },
+    {
+      "model": "M4",
+      "variant": "M4, M4 Competition",
+      "generation": "F82/F83",
+      "chassis": "F82/F83",
+      "years": "2014–2020",
+      "modelHref": "/bmw-m4-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

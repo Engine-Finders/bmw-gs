@@ -1,0 +1,27 @@
+{
+  "headlinePre": "Our Most Recent",
+  "headlineHighlight": "BMW Recoveries & Rebuilds",
+  "description": "Real vehicles brought into our workshop. Open bonnets, stripped blocks, and cars ready for collection — this is what genuine engine work looks like.",
+  "image": "/model/sec12.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "stats": [
+    { "icon": "shield-check", "value": "1,800+", "label": "Engines Rebuilt" },
+    { "icon": "gasket", "value": "12 Months", "label": "Unlimited-Mileage Warranty" },
+    { "icon": "wrench", "value": "15+ Years", "label": "BMW Specialist Experience" }
+  ],
+  "cards": [
+    { "model": "BMW 320d", "icon": "truck", "tag": "Recovery" },
+    { "model": "BMW 335d", "icon": "search", "tag": "Diagnostics" },
+    { "model": "BMW 330i", "icon": "gear", "tag": "Stripped Engine" },
+    { "model": "BMW M3 (E92)", "icon": "chain", "tag": "Timing Chain Replacement" },
+    { "model": "BMW 320i", "icon": "wrench", "tag": "In For Rebuild" },
+    { "model": "BMW 325d", "icon": "gear", "tag": "Rebuild In Progress" },
+    { "model": "BMW 320d xDrive", "icon": "truck", "tag": "Nationwide Recovery" },
+    { "model": "BMW 328i", "icon": "gear", "tag": "Engine Stripped" },
+    { "model": "BMW 330d", "icon": "tech", "tag": "Testing & Checks" },
+    { "model": "BMW 340i", "icon": "check", "tag": "Ready For Collection" },
+    { "model": "BMW M3 (E92)", "icon": "gear", "tag": "S55 Rebuild" },
+    { "model": "BMW 318d", "icon": "wrench", "tag": "Workshop Bay" }
+  ]
+}

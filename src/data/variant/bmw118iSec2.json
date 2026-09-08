@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "BMW 118i",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "BMW 118i"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "1 Series"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "118i"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "N13 (F20/F21) or B38 (F40)"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "1.6L (N13) or 1.5L (B38)"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generations",
+      "value": "F20/F21 (2011–2019) · F40 (2019–2024)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£2,200",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The 118i used two different engines across its production run — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

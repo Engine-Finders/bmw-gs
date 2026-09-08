@@ -1,0 +1,12 @@
+{
+  "brand": "BMWGARAGE.UK",
+  "tagline": "BMW ENGINE REBUILD SPECIALISTS",
+  "links": [
+    { "label": "Home", "href": "/" },
+    { "label": "Engines", "href": "/engines" },
+    { "label": "Symptoms", "href": "/symptoms" },
+    { "label": "About Us", "href": "/about" },
+    { "label": "Recovery", "href": "/recovery" },
+    { "label": "Contact", "href": "/contact" }
+  ]
+}

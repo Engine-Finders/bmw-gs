@@ -1,0 +1,93 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "BMW 1 Series Rebuilds",
+  "subhead": "Full variant list below covers every BMW 1 Series engine we work on — these 12 are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "BMW 116i",
+      "spec": "1.6L (N13) / 1.5L (B38) Petrol (N13 (2011–2015) or B38 (2015–2019))",
+      "image": "/variant/vehicles/116i.webp",
+      "href": "/bmw-116i-engines"
+    },
+    {
+      "number": "02",
+      "model": "BMW 116d",
+      "spec": "1.6L (N47) / 2.0L (B47) Diesel (N47 (pre-2015) or B47 (2015+))",
+      "image": "/variant/vehicles/116d.webp",
+      "href": "/bmw-116d-engines"
+    },
+    {
+      "number": "03",
+      "model": "BMW 118i",
+      "spec": "1.6L (N13) or 1.5L (B38) Petrol (N13 (F20/F21) or B38 (F40))",
+      "image": "/variant/vehicles/118i.webp",
+      "href": "/bmw-118i-engines"
+    },
+    {
+      "number": "04",
+      "model": "BMW 118d",
+      "spec": "2.0L Diesel (N47 or B47)",
+      "image": "/variant/vehicles/118d.webp",
+      "href": "/bmw-118d-engines"
+    },
+    {
+      "number": "05",
+      "model": "BMW 120i",
+      "spec": "1.6L–2.0L Petrol (N13, N20, B48)",
+      "image": "/variant/vehicles/120i.webp",
+      "href": "/bmw-120i-engines"
+    },
+    {
+      "number": "06",
+      "model": "BMW 120d",
+      "spec": "2.0L Diesel (N47 (F20/F21, pre-2015) or B47 (F20/F21, 2015+ & F40))",
+      "image": "/variant/vehicles/120d.webp",
+      "href": "/bmw-120d-engines"
+    },
+    {
+      "number": "07",
+      "model": "BMW 123d",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "08",
+      "model": "BMW 125d",
+      "spec": "2.0L Diesel (N47 (2011–2015) / B47 (2015–2019))",
+      "image": "/variant/vehicles/125d.webp",
+      "href": "/bmw-125d-engines"
+    },
+    {
+      "number": "09",
+      "model": "BMW 130i",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "10",
+      "model": "BMW M135i",
+      "spec": "3.0L (N55) / 2.0L (B48) Petrol (N55 (F20/F21) or B48 (F40))",
+      "image": "/variant/vehicles/m135i.webp",
+      "href": "/bmw-m135i-engines"
+    },
+    {
+      "number": "11",
+      "model": "BMW M135i xDrive",
+      "spec": "2.0L Petrol (B48)",
+      "image": "/variant/vehicles/m135i-xdrive.webp",
+      "href": "/bmw-m135i-xdrive-engines"
+    },
+    {
+      "number": "12",
+      "model": "BMW M140i",
+      "spec": "3.0L Petrol (N55)",
+      "image": "/variant/vehicles/m140i.webp",
+      "href": "/bmw-m140i-engines"
+    }
+  ]
+}

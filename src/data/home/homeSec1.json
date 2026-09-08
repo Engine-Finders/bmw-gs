@@ -1,0 +1,8 @@
+{
+  "h1": "BMW Engine|Rebuild|Specialists",
+  "subhead": "We rebuild failed BMW engines using updated OEM components, nationwide recovery and fixed-price quotations.",
+  "image": "/home/hero1.webp",
+  "mobileImage": "/home/hero1_mobile.webp",
+  "ctaPrimary": { "label": "Check My BMW", "href": "#find-my-bmw" },
+  "ctaSecondary": { "label": "Get Fixed Price Quote", "href": "/contact" }
+}

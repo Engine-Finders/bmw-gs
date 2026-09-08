@@ -1,0 +1,79 @@
+{
+  "h2": "BMW Engine Problems|We See|Every Week",
+  "description": "These are the engines we rebuild most often. If yours is here, we know exactly what to do.",
+  "engines": [
+    {
+      "code": "N47",
+      "spec": "2.0L Diesel",
+      "models": "1 Series, 3 Series, X1, X3",
+      "years": "2007–2015",
+      "symptom": "Rattling on cold start, worsening over time",
+      "problem": "Rear-mounted timing chain stretches with age — because it sits behind the flywheel, the gearbox has to come out to reach it, which is why so many N47s get written off on price rather than actually being unfixable.",
+      "cost": "From £1,900",
+      "turnaround": "3-5 working days",
+      "image": "/home/engine_trim.webp",
+      "href": "/bmw-n47-engine"
+    },
+    {
+      "code": "N57",
+      "spec": "3.0L Diesel I6",
+      "models": "3 Series, 5 Series, X3, X5",
+      "years": "2008–2017",
+      "symptom": "Turbo lag, warning lights, occasional chain rattle",
+      "problem": "Timing chain wear alongside turbo actuator failure — the actuator issue is often mistaken for a bigger fault than it is.",
+      "cost": "From £2,800",
+      "turnaround": "3-5 working days",
+      "image": "/home/engine_trim.webp",
+      "href": "/bmw-n57-engine"
+    },
+    {
+      "code": "B47",
+      "spec": "2.0L Diesel",
+      "models": "1-5 Series, X1, X3, X4",
+      "years": "2014–present",
+      "symptom": "Warning light, occasional coolant smell, reduced power (limp mode)",
+      "problem": "BMW fixed the N47's timing chain problem by moving it to the front — but the B47's EGR cooler can crack internally, letting coolant contact built-up soot. It's serious enough that BMW issued a recall (NHTSA 18V-755) on affected years. Well worth checking your VIN.",
+      "cost": "From £1,900",
+      "turnaround": "3-5 working days",
+      "image": "/home/engine_trim.webp",
+      "href": "/bmw-b47-engine"
+    },
+    {
+      "code": "N20",
+      "spec": "2.0L Petrol Turbo",
+      "models": "1-5 Series, X1, X3, X4",
+      "years": "2011–2017",
+      "symptom": "Rattling on cold start, oil consumption",
+      "problem": "Timing chain stretch, similar profile to the N47 but on the petrol side — BMW's B48 that followed it resolved most of this.",
+      "cost": "From £2,600",
+      "turnaround": "3-5 working days",
+      "image": "/home/engine_trim.webp",
+      "href": "/bmw-n20-engine"
+    },
+    {
+      "code": "N63",
+      "spec": "4.4L V8 Twin-Turbo",
+      "models": "5/6/7 Series, X5, X6",
+      "years": "2008–present",
+      "symptom": "Coolant loss with no visible leak, misfires, high oil consumption",
+      "problem": "The \"hot-vee\" turbo layout sits inside the V of the engine for a compact package — brilliant for performance, brutal for heat. Valve seals and coolant lines degrade faster than on a conventional layout.",
+      "cost": "From £4,500",
+      "turnaround": "3-5 working days",
+      "image": "/home/engine_trim.webp",
+      "href": "/bmw-n63-engine"
+    },
+    {
+      "code": "S55",
+      "spec": "3.0L Twin-Turbo I6",
+      "models": "M2 Competition, M3, M4",
+      "years": "2014–present",
+      "symptom": "Sudden loss of power, engine warning light, or — in the worst case — no warning at all before catastrophic failure",
+      "problem": "The crank hub is friction-fit rather than keyed or pinned. Under hard use it can slip, throwing engine timing out and causing serious internal damage. It's the single most talked-about issue in the S55 community, and most owners upgrade it preventatively.",
+      "cost": "From £5,500",
+      "turnaround": "3-5 working days",
+      "image": "/home/engine_trim.webp",
+      "href": "/bmw-s55-engine"
+    }
+  ],
+  "cta": { "label": "See All Rebuilds", "href": "/engines" }
+}

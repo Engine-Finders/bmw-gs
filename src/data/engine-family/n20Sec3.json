@@ -1,0 +1,88 @@
+{
+  "image": "/engine_family/sec3.webp",
+  "titlePre": "BMW N20 Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "icon": "car",
+      "label": "Model"
+    },
+    {
+      "icon": "gear",
+      "label": "Variant"
+    },
+    {
+      "icon": "layers",
+      "label": "Generation"
+    },
+    {
+      "icon": "calendar",
+      "label": "Years"
+    }
+  ],
+  "rows": [
+    {
+      "model": "1 Series",
+      "variant": "116i, 118i, 120i, 125i",
+      "generation": "F20/F21",
+      "chassis": "F20/F21",
+      "years": "2011–2017",
+      "modelHref": "/bmw-1-series-engines"
+    },
+    {
+      "model": "2 Series",
+      "variant": "220i, 225i",
+      "generation": "F22/F23",
+      "chassis": "F22/F23",
+      "years": "2014–2017",
+      "modelHref": "/bmw-2-series-engines"
+    },
+    {
+      "model": "3 Series",
+      "variant": "320i, 328i",
+      "generation": "F30/F31",
+      "chassis": "F30/F31",
+      "years": "2011–2017",
+      "modelHref": "/bmw-3-series-engines"
+    },
+    {
+      "model": "4 Series",
+      "variant": "420i, 428i",
+      "generation": "F32/F33/F36",
+      "chassis": "F32/F33/F36",
+      "years": "2013–2017",
+      "modelHref": "/bmw-4-series-engines"
+    },
+    {
+      "model": "5 Series",
+      "variant": "520i, 528i",
+      "generation": "F10/F11",
+      "chassis": "F10/F11",
+      "years": "2011–2017",
+      "modelHref": "/bmw-5-series-engines"
+    },
+    {
+      "model": "X4",
+      "variant": "xDrive20i, xDrive28i",
+      "generation": "F26",
+      "chassis": "F26",
+      "years": "2014–2017",
+      "modelHref": "/bmw-x4-engines"
+    },
+    {
+      "model": "Z4",
+      "variant": "sDrive20i, sDrive28i",
+      "generation": "E89",
+      "chassis": "E89",
+      "years": "2012–2016",
+      "modelHref": "/bmw-z4-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

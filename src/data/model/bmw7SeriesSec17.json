@@ -1,0 +1,43 @@
+{
+  "kicker": "Full Variant Coverage",
+  "headline": "We Cover Every BMW 7 Series Variant",
+  "tabs": [
+    "All Variants"
+  ],
+  "activeTab": 0,
+  "tabVariants": [
+    [
+      {
+        "label": "BMW 730d",
+        "href": "/bmw-730d-engines"
+      },
+      {
+        "label": "BMW 730i",
+        "href": "/bmw-730i-engines"
+      },
+      {
+        "label": "BMW 740d",
+        "href": "/bmw-740d-engines"
+      },
+      {
+        "label": "BMW 740i",
+        "href": "/bmw-740i-engines"
+      },
+      {
+        "label": "BMW 750i",
+        "href": "/bmw-750i-engines"
+      }
+    ]
+  ],
+  "notice": {
+    "title": "Not seeing your exact variant?",
+    "linkText": "Send us your registration",
+    "rest": " and we'll confirm engine rebuild availability directly."
+  },
+  "priceCta": {
+    "title": "Full Price Breakdown",
+    "body": "See detailed pricing near the top of this page, directly below the Starting From summary.",
+    "image": "/model/sec15_part.webp",
+    "href": "#pricing"
+  }
+}

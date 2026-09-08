@@ -1,0 +1,72 @@
+{
+  "yearBanner": {
+    "titlePre": "WE COVER ",
+    "titleHighlight": "EVERY",
+    "titlePost": " BMW 218i MODEL YEAR:",
+    "years": [
+      "2013",
+      "2016",
+      "2019",
+      "2021",
+      "2023"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg.",
+    "vehicleLabel": "BMW 218i"
+  },
+  "costs": {
+    "titlePre": "BMW 218i ENGINE ",
+    "titleHighlight": "COSTS",
+    "intro": "A BMW 218i engine rebuild starts from",
+    "price": "£2,200",
+    "body": "Whether your car has the N47 or the B47. A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/sec10_engine.webp",
+    "warranty": {
+      "line1": "12 MONTH",
+      "line2": "UNLIMITED-MILEAGE",
+      "line3": "WARRANTY"
+    },
+    "subCards": [
+      {
+        "icon": "engine",
+        "title": "BMW 218i ENGINE SIZES",
+        "item": "BMW 218i 2.0 Litre Engine"
+      },
+      {
+        "icon": "fuel",
+        "title": "BMW 218i FUEL TYPES",
+        "item": "BMW 218i Diesel Engine Rebuilds"
+      }
+    ]
+  },
+  "related": {
+    "title": "RELATED BMW 2 SERIES VARIANTS",
+    "links": [
+      {
+        "label": "BMW 218d Engine",
+        "href": "/bmw-218d-engines"
+      },
+      {
+        "label": "BMW 220d Engine",
+        "href": "/bmw-220d-engines"
+      },
+      {
+        "label": "BMW 220i Engine",
+        "href": "/bmw-220i-engines"
+      },
+      {
+        "label": "BMW 228i Engine",
+        "href": "/bmw-228i-engines"
+      },
+      {
+        "label": "BMW 230i Engine",
+        "href": "/bmw-230i-engines"
+      },
+      {
+        "label": "BMW M235i Engine",
+        "href": "/bmw-m235i-engines"
+      }
+    ],
+    "viewAll": "View All BMW 2 Series Engines",
+    "viewAllHref": "/bmw-2-series-engines"
+  }
+}

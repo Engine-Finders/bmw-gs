@@ -1,0 +1,58 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "BMW 6 Series Rebuilds",
+  "subhead": "Full variant list below covers every BMW 6 Series engine we work on — these 12 are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "BMW 630i",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "02",
+      "model": "BMW 630d",
+      "spec": "3.0L I6 Diesel (B57)",
+      "image": "/variant/vehicles/630d.webp",
+      "href": "/bmw-630d-engines"
+    },
+    {
+      "number": "03",
+      "model": "BMW 635d",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "04",
+      "model": "BMW 640i",
+      "spec": "3.0L I6 Petrol (N55 or B58)",
+      "image": "/variant/vehicles/640i.webp",
+      "href": "/bmw-640i-engines"
+    },
+    {
+      "number": "05",
+      "model": "BMW 640d",
+      "spec": "3.0L I6 Diesel (N57)",
+      "image": "/variant/vehicles/640d.webp",
+      "href": "/bmw-640d-engines"
+    },
+    {
+      "number": "06",
+      "model": "BMW 650i",
+      "spec": "4.4L V8 Petrol Twin-Turbo (N63 (2011–2015) or N63TU (2015–2018))",
+      "image": "/variant/vehicles/650i.webp",
+      "href": "/bmw-650i-engines"
+    },
+    {
+      "number": "07",
+      "model": "BMW M6",
+      "spec": "5.0L V10 Petrol (S85)",
+      "image": "/variant/vehicles/_fallback.webp",
+      "href": "/bmw-m6-engines"
+    }
+  ]
+}

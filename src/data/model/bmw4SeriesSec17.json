@@ -1,0 +1,51 @@
+{
+  "kicker": "Full Variant Coverage",
+  "headline": "We Cover Every BMW 4 Series Variant",
+  "tabs": [
+    "All Variants"
+  ],
+  "activeTab": 0,
+  "tabVariants": [
+    [
+      {
+        "label": "BMW 420i",
+        "href": "/bmw-420i-engines"
+      },
+      {
+        "label": "BMW 420d",
+        "href": "/bmw-420d-engines"
+      },
+      {
+        "label": "BMW 425d",
+        "href": "/bmw-425d-engines"
+      },
+      {
+        "label": "BMW 430i",
+        "href": "/bmw-430i-engines"
+      },
+      {
+        "label": "BMW 430d",
+        "href": "/bmw-430d-engines"
+      },
+      {
+        "label": "BMW 435d",
+        "href": "/bmw-435d-engines"
+      },
+      {
+        "label": "BMW 440i",
+        "href": "/bmw-440i-engines"
+      }
+    ]
+  ],
+  "notice": {
+    "title": "Not seeing your exact variant?",
+    "linkText": "Send us your registration",
+    "rest": " and we'll confirm engine rebuild availability directly."
+  },
+  "priceCta": {
+    "title": "Full Price Breakdown",
+    "body": "See detailed pricing near the top of this page, directly below the Starting From summary.",
+    "image": "/model/sec15_part.webp",
+    "href": "#pricing"
+  }
+}

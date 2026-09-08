@@ -1,0 +1,68 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "BMW X5 xDrive40e",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "BMW X5 xDrive40e"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "X5"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "X5 xDrive40e"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol Plug-in Hybrid (PHEV)"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "B48"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "2.0L I4 + electric motor"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generations",
+      "value": "F15 (2015–2018)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£2,200",
+      "highlight": true
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The X5 xDrive40e used two different engines across its production run — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

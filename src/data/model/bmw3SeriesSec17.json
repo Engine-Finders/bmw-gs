@@ -1,0 +1,121 @@
+{
+  "kicker": "Full Variant Coverage",
+  "headline": "We Cover Every BMW 3 Series Variant",
+  "tabs": [
+    "BMW 3 Series Convertible",
+    "BMW 3 Series Coupé",
+    "BMW 3 Series Touring"
+  ],
+  "activeTab": 0,
+  "tabVariants": [
+    [
+      {
+        "label": "318i",
+        "href": "/bmw-318i-engines"
+      },
+      {
+        "label": "320i",
+        "href": "/bmw-320i-engines"
+      },
+      {
+        "label": "330i",
+        "href": "/bmw-330i-engines"
+      },
+      {
+        "label": "318d",
+        "href": "/bmw-318d-engines"
+      },
+      {
+        "label": "320d",
+        "href": "/bmw-320d-engines"
+      },
+      {
+        "label": "330d",
+        "href": "/bmw-330d-engines"
+      },
+      {
+        "label": "335d",
+        "href": "/bmw-335d-engines"
+      },
+      {
+        "label": "M3",
+        "href": "/bmw-m3-engines"
+      }
+    ],
+    [
+      {
+        "label": "318i",
+        "href": "/bmw-318i-engines"
+      },
+      {
+        "label": "320i",
+        "href": "/bmw-320i-engines"
+      },
+      {
+        "label": "330i",
+        "href": "/bmw-330i-engines"
+      },
+      {
+        "label": "320d",
+        "href": "/bmw-320d-engines"
+      },
+      {
+        "label": "330d",
+        "href": "/bmw-330d-engines"
+      },
+      {
+        "label": "335d",
+        "href": "/bmw-335d-engines"
+      },
+      {
+        "label": "M3",
+        "href": "/bmw-m3-engines"
+      }
+    ],
+    [
+      {
+        "label": "316i",
+        "href": "/bmw-316i-engines"
+      },
+      {
+        "label": "318i",
+        "href": "/bmw-318i-engines"
+      },
+      {
+        "label": "320i",
+        "href": "/bmw-320i-engines"
+      },
+      {
+        "label": "330i",
+        "href": "/bmw-330i-engines"
+      },
+      {
+        "label": "316d",
+        "href": "/bmw-316d-engines"
+      },
+      {
+        "label": "318d",
+        "href": "/bmw-318d-engines"
+      },
+      {
+        "label": "320d",
+        "href": "/bmw-320d-engines"
+      },
+      {
+        "label": "330d",
+        "href": "/bmw-330d-engines"
+      }
+    ]
+  ],
+  "notice": {
+    "title": "Not seeing your exact variant?",
+    "linkText": "Send us your registration",
+    "rest": " and we'll confirm engine rebuild availability directly."
+  },
+  "priceCta": {
+    "title": "Full Price Breakdown",
+    "body": "See detailed pricing near the top of this page, directly below the Starting From summary.",
+    "image": "/model/sec15_part.webp",
+    "href": "#pricing"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "kicker": "BMW M3 CSL Specialists",
+  "h1": "BMW M3 CSL|Engine Rebuild —|From £2,200",
+  "subhead": "Specialist BMW M3 CSL engine rebuilds and replacements, with registration-based engine matching, nationwide recovery and a 12-month unlimited-mileage warranty",
+  "rating": {
+    "stars": 5,
+    "label": "Rated BMW Engine Specialists — 1,800+ Engines Rebuilt"
+  },
+  "trustBar": [
+    {
+      "icon": "tech",
+      "label": "Specialist technicians with 10-15 years of experience"
+    },
+    {
+      "icon": "shield-check",
+      "label": "12 Month Unlimited-Mileage Warranty"
+    },
+    {
+      "icon": "truck",
+      "label": "Nationwide Recovery"
+    },
+    {
+      "icon": "search",
+      "label": "Free Engine Matching by Registration"
+    },
+    {
+      "icon": "engine",
+      "label": "N47 & B47 Specialists"
+    }
+  ],
+  "priceCta": {
+    "kicker": "Starting from £2,200 —",
+    "label": "Get a Fixed-Price Quote →",
+    "href": "#quote-form",
+    "price": "£5,500"
+  },
+  "phoneCta": {
+    "icon": "phone",
+    "label": "Call Our Specialists:",
+    "phone": "01268 944 234",
+    "href": "tel:01268944234"
+  },
+  "image": "/variant/sec1.webp",
+  "imageMobile": "/variant/sec1_mobile.webp"
+}

@@ -1,0 +1,86 @@
+{
+  "kicker": "Full Breakdown",
+  "headlinePre": "BMW Z4",
+  "headlineHighlight": "Engine Rebuild Price Guide",
+  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide — request a free quote for an exact fixed price on your specific engine.",
+  "columns": [
+    "Engine Family",
+    "Fuel",
+    "Size",
+    "Rebuild Price Range"
+  ],
+  "rows": [
+    {
+      "family": "M54",
+      "fuel": "Petrol",
+      "size": "2.5–3.0L",
+      "range": "E85 / E86",
+      "familyHref": "/bmw-m54-engine"
+    },
+    {
+      "family": "N52",
+      "fuel": "Petrol",
+      "size": "2.5–3.0L",
+      "range": "E85 / E86",
+      "familyHref": "/bmw-n52-engine"
+    },
+    {
+      "family": "N20",
+      "fuel": "Petrol",
+      "size": "2.0L",
+      "range": "E89",
+      "familyHref": "/bmw-n20-engine"
+    },
+    {
+      "family": "N54 (sDrive35i/35is)",
+      "fuel": "Petrol Twin-Turbo",
+      "size": "3.0L",
+      "range": "E89",
+      "familyHref": "/bmw-n54-engine"
+    },
+    {
+      "family": "N55",
+      "fuel": "Petrol",
+      "size": "3.0L",
+      "range": "E89",
+      "familyHref": "/bmw-n55-engine"
+    },
+    {
+      "family": "B48",
+      "fuel": "Petrol",
+      "size": "2.0L",
+      "range": "G29",
+      "familyHref": "/bmw-b48-engine"
+    },
+    {
+      "family": "B58 (sDrive40i)",
+      "fuel": "Petrol",
+      "size": "3.0L",
+      "range": "G29",
+      "familyHref": "/bmw-b58-engine"
+    }
+  ],
+  "features": [
+    {
+      "icon": "gear",
+      "title": "OEM Components",
+      "body": "Updated components for maximum reliability"
+    },
+    {
+      "icon": "shield-check",
+      "title": "Key Parts Replaced",
+      "body": "Timing chains, tensioners, bearings & gaskets"
+    },
+    {
+      "icon": "truck",
+      "title": "Recovery From £70",
+      "body": "Nationwide recovery quoted separately"
+    },
+    {
+      "icon": "note",
+      "title": "Prices Exclude VAT",
+      "body": "Unless stated otherwise"
+    }
+  ],
+  "disclaimer": "Every rebuild identifies and replaces worn or damaged timing chains, tensioners, bearings and gaskets with updated OEM components. Recovery quoted separately from £70. Prices exclude VAT unless stated."
+}

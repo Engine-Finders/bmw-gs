@@ -1,0 +1,44 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "BMW X2 Rebuilds",
+  "subhead": "Full variant list below covers every BMW X2 engine we work on — these 12 are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "BMW X2 sDrive18d",
+      "spec": "1.5L / 2.0L Petrol (B38/B48) (B38 1.5L 3-Cyl · B48 2.0L 4-Cyl)",
+      "image": "/variant/vehicles/x2-sdrive18d.webp",
+      "href": "/bmw-x2-sdrive18d-engines"
+    },
+    {
+      "number": "02",
+      "model": "BMW X2 sDrive20i",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "03",
+      "model": "BMW X2 xDrive20d",
+      "spec": "1.5L / 2.0L Petrol (B38/B48) (B38 1.5L 3-Cyl · B48 2.0L 4-Cyl)",
+      "image": "/variant/vehicles/_fallback.webp",
+      "href": "/bmw-x2-xdrive20d-engines"
+    },
+    {
+      "number": "04",
+      "model": "BMW X2 xDrive25e",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "05",
+      "model": "BMW X2 M35i",
+      "spec": "2.0L I4 Petrol (B48 (high output tune))",
+      "image": "/variant/vehicles/x2-m35i.webp",
+      "href": "/bmw-x2-m35i-engines"
+    }
+  ]
+}

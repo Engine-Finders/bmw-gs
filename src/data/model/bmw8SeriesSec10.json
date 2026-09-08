@@ -1,0 +1,30 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "BMW 8 Series Rebuilds",
+  "subhead": "Full variant list below covers every BMW 8 Series engine we work on — these 12 are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "BMW 840d",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    },
+    {
+      "number": "02",
+      "model": "BMW 840i",
+      "spec": "3.0L I6 Petrol (B58)",
+      "image": "/variant/vehicles/840i.webp",
+      "href": "/bmw-840i-engines"
+    },
+    {
+      "number": "03",
+      "model": "BMW 850i",
+      "spec": "Rebuild & Replacement Available",
+      "image": "/variant/vehicles/_fallback.webp"
+    }
+  ]
+}

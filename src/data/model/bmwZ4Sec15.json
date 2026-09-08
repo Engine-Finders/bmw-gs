@@ -1,0 +1,34 @@
+{
+  "headlinePre": "BMW Z4 Engine",
+  "headlineHighlight": "Coverage",
+  "kicker": "Engines by Model Year",
+  "description": "Our BMW engine specialist garage covers all engine types from 1994 to 2026, across every Z4 generation.",
+  "image": "/model/sec15.webp",
+  "imageMobile": "/model/sec15_mobile.jpg",
+  "partImage": "/model/sec15_part.webp",
+  "generations": [
+    {
+      "years": "2002–2008",
+      "code": "E85/E86",
+      "list": "2002 through 2008 BMW Z4 engines"
+    },
+    {
+      "years": "2009–2016",
+      "code": "E89",
+      "list": "2009 through 2016 BMW Z4 engines"
+    }
+  ],
+  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "checklistTitlePre": "We Cover Every",
+  "checklistTitleHighlight": "BMW Z4 sDrive35i Model:",
+  "checklistLeft": [
+    "BMW Z4 sDrive35i 2009 Engine Rebuild",
+    "BMW Z4 sDrive35i 2010 Engine Rebuild",
+    "BMW Z4 sDrive35i 2011 Engine Rebuild"
+  ],
+  "checklistRight": [
+    "BMW Z4 sDrive35i 2012 Engine Rebuild",
+    "BMW Z4 sDrive35i 2013 Engine Rebuild"
+  ],
+  "checklistHref": "/bmw-z4-sdrive35i-engines"
+}

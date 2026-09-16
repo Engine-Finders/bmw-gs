@@ -57,3 +57,19 @@ next-env.d.ts
 /Garage Site - Vairant Pages BMW
 /VariantPage UI
 /engine-bmw-b58-ui
+
+# assistant/agent config & internal planning docs — not needed on GitHub
+/CLAUDE.md
+/AGENTS.md
+/Agents.md
+/.claude/
+
+# loose reference/handoff docs & source content — root-level only, so this
+# never catches real .md/.txt files that end up inside src/ or public/
+/*.md
+!/README.md
+/*.txt
+/*.pdf
+
+# scratch script output (debug logs, quality-test images)
+/scripts/output/

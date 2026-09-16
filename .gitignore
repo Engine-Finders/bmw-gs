@@ -73,3 +73,5 @@ next-env.d.ts
 
 # scratch script output (debug logs, quality-test images)
 /scripts/output/
+
+.vercel

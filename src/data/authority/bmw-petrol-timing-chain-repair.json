@@ -1,0 +1,199 @@
+{
+  "slug": "bmw-petrol-timing-chain-repair",
+  "metaTitle": "BMW N20 Petrol Timing Chain Repair & Replacement | BMW Garage",
+  "metaDescription": "Specialist BMW N20 timing chain repair. Front-mounted chain replacement, VANOS verification, compression testing. Fixed-price quotes from our workshop.",
+  "h1": "BMW Petrol Timing Chain Repair (N20)",
+  "lede": "Precise timing chain replacement for BMW N20 engines, including chain, guides, tensioners, and VANOS verification.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine_family/sec1.webp",
+    "/engine_family/sec9_bottom.webp",
+    "/model/sec12.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "BMW N20 timing chain replacement is a specialist procedure performed in our workshop. The service includes full strip-down access to the front-mounted timing chain, replacement of the chain, guides, and tensioners, and reassembly with precision timing tools. We use genuine or OEM-quality parts, BMW-spec locking tools, and digital torque equipment. After reassembly, we verify VANOS operation and perform compression and leak-down tests to confirm sealing integrity."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": []
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engines",
+      "blocks": [
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "BMW 3 Series (F30/F31)",
+              "href": "/bmw-3-series-engines"
+            },
+            {
+              "label": "320i",
+              "href": "/bmw-320i-engines"
+            },
+            {
+              "label": "328i",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "BMW 4 Series (F32/F33/F36)"
+        },
+        {
+          "t": "h3",
+          "text": "BMW 5 Series (F10/F11)"
+        },
+        {
+          "t": "h3",
+          "text": "BMW X1 (E84)"
+        },
+        {
+          "t": "h3",
+          "text": "BMW Z4 (E89)"
+        },
+        {
+          "t": "p",
+          "html": "[Full N20 engine page →](/bmw-n20-engine)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Process",
+      "steps": [
+        {
+          "title": "Engine preparation",
+          "body": "Ancillary components removed for timing cover access."
+        },
+        {
+          "title": "Timing locking",
+          "body": "Specialist tools lock camshafts and crankshaft in correct position."
+        },
+        {
+          "title": "Component replacement",
+          "body": "Chain, guides, and tensioners replaced with updated parts."
+        },
+        {
+          "title": "VANOS verification",
+          "body": "BMW-specific software checks variable valve timing operation."
+        },
+        {
+          "title": "Testing",
+          "body": "Compression and leak-down tests confirm sealing integrity."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Us",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Specialist BMW workshop since 2009",
+            "BMW-spec timing tools and diagnostic equipment",
+            "Genuine and OEM-quality parts used",
+            "12-month unlimited-mileage warranty on all rebuilds",
+            "Fixed-price quotes after inspection"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Meet our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "Contact us or use the reg lookup for a quote"
+        },
+        {
+          "title": "",
+          "body": "Vehicle inspection and fixed-price estimate"
+        },
+        {
+          "title": "",
+          "body": "Specialist timing chain replacement in our workshop"
+        },
+        {
+          "title": "",
+          "body": "Testing and handover"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[BMW Diesel Timing Chain Repair (N47/B47)](/bmw-diesel-timing-chain-repair)",
+            "[BMW Engine Rebuild](/bmw-engine-rebuild)",
+            "[BMW N20 Engine Overview](/bmw-n20-engine)",
+            "[BMW Engine Inspection & Assessment](/bmw-engine-inspection-assessment)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "FAQs",
+      "items": [
+        {
+          "q": "What is included in the N20 timing chain replacement?",
+          "a": "The service includes replacement of the timing chain, guides, tensioners, gaskets, and seals, plus full timing setup with BMW-spec locking tools, VANOS verification, and compression/leak-down testing."
+        },
+        {
+          "q": "How long does an N20 timing chain repair take?",
+          "a": "Typically 3-5 working days, depending on vehicle condition and any additional findings during inspection."
+        },
+        {
+          "q": "Do you use genuine BMW parts?",
+          "a": "Yes, we use genuine BMW or OEM-quality parts for all timing chain repairs."
+        }
+      ]
+    }
+  ]
+}

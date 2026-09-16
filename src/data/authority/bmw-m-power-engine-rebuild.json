@@ -1,0 +1,191 @@
+{
+  "slug": "bmw-m-power-engine-rebuild",
+  "metaTitle": "BMW M-Power Engine Rebuild | BMW Garage",
+  "metaDescription": "Specialist BMW M-Power engine rebuilds for S54, S55, S58, S62, S63, S65, S85, S68 engines. Full strip-down, precision assembly, and testing at our Essex workshop.",
+  "h1": "BMW M-Power Engine Rebuild",
+  "lede": "Specialist rebuilds for BMW M-division engines — S54, S55, S58, S62, S63, S65, S85, S68. Full strip-down, precision assembly, and comprehensive testing.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/model/sec2.webp",
+    "/variant/sec10_engine.webp",
+    "/engine_family/sec3.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "M-Power engine rebuilding is the specialist process of rebuilding BMW's high-performance M-division engines. These S-code engines are built to tighter tolerances, produce significantly more power, and incorporate advanced systems not found on standard BMW engines. Every M-Power rebuild at our workshop follows a documented, repeatable process designed to restore the engine to its original performance specification."
+        },
+        {
+          "t": "p",
+          "html": "We carry out M-Power rebuilds on the full range of S-code engines, including the S54 (E46 M3, Z4 M), S55 (F80 M3, F82 M4, F87 M2 Competition), S58 (G80 M3, G82 M4, G87 M2, X3 M/X4 M), S62 (E39 M5), S63 (F10 M5, F90 M5, M6, M8, X5 M/X6 M), S65 (E90/E92/E93 M3), S85 (E60 M5, E63/E64 M6), and S68 (XM, G90 M5)."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Performance V10/V8 (S85/S63/S68):** from £6,500 **Performance 6-Cyl (S54/S55/S58/S65):** from £5,500",
+            "Prices are starting from, inclusive of full rebuild with new OEM-spec components, machining, and testing. Final quote confirmed after inspection."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We rebuild the full range of BMW M-Power S-code engines. Each engine has specific requirements, and our process is tailored accordingly."
+        },
+        {
+          "t": "p",
+          "html": "For detailed information on each variant, see the relevant [M3](/bmw-m3-engines), [M4](/bmw-m4-engines), [M5](/bmw-m5-engines), [M6](/bmw-m6-engines), [M8](/bmw-m8-engines), or [M2](/bmw-m2-engines) pages."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our M-Power Rebuild Process",
+      "steps": [
+        {
+          "title": "",
+          "body": "Complete disassembly with careful documentation of every component's condition, orientation, and clearances."
+        },
+        {
+          "title": "",
+          "body": "Every component measured against M-specification tolerances. Crankshaft assessment is critical, as M crankshafts are specific and expensive."
+        },
+        {
+          "title": "",
+          "body": "Precision cylinder boring/honing, crankshaft grinding, and block surface preparation to exact M specifications."
+        },
+        {
+          "title": "",
+          "body": "Replacement of bearings (e.g., S54/S65/S85 rod bearings) and timing systems (chains, tensioners, VANOS)."
+        },
+        {
+          "title": "",
+          "body": "Assembly using M-specification torque procedures and BMW M-specialist tooling, following TIS documentation."
+        },
+        {
+          "title": "",
+          "body": "Compression, pressure, and performance checks on a test stand, followed by in-vehicle road testing to verify operation."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Us",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Specialist M-Power rebuilds since 2009",
+            "Full access to BMW M technical information (TIS)",
+            "Clean assembly area and precision measuring equipment",
+            "M-specification torque procedures and specialist tooling",
+            "Comprehensive testing on every rebuild",
+            "12-month unlimited mileage warranty"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "Call, email, or use the quote form with your vehicle details."
+        },
+        {
+          "title": "",
+          "body": "We inspect your engine and provide a detailed quote."
+        },
+        {
+          "title": "",
+          "body": "We carry out the rebuild using M-specification procedures."
+        },
+        {
+          "title": "",
+          "body": "Engine is tested and your vehicle returned."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[BMW Engine Rebuild](/bmw-engine-rebuild)",
+            "[Engine Inspection & Assessment](/bmw-engine-inspection-assessment)",
+            "[Engine Matching by VIN](/bmw-engine-matching)",
+            "[Components We Replace](/bmw-engine-components-replaced)",
+            "[Warranty Explained](/bmw-engine-warranty)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What makes an M-Power rebuild different from a standard BMW engine rebuild?",
+          "a": "M-Power engines (S-code) have tighter tolerances, more complex systems (individual throttle bodies, advanced VANOS), and require M-specific tooling and parts. Our rebuild process follows BMW M technical information (TIS) with specific torque and assembly procedures."
+        },
+        {
+          "q": "Which M-Power engines do you rebuild?",
+          "a": "We rebuild S54, S55, S58, S62, S63, S65, S85, and S68 engines, covering the full range of M models including M2, M3, M4, M5, M6, M8, X3 M, X4 M, X5 M, X6 M, and XM."
+        },
+        {
+          "q": "Do you replace rod bearings on S54/S65/S85 engines?",
+          "a": "Yes. Rod bearing replacement is a standard part of our rebuild process for these engines, as it's a known requirement to restore reliability and performance."
+        },
+        {
+          "q": "Do you inspect the crank hub on S55 engines?",
+          "a": "Yes. For S55 engines (F80 M3, F82 M4, F87 M2 Competition), crank hub inspection and replacement is a standard part of our rebuild process to address the known press-fit friction design."
+        },
+        {
+          "q": "How long does an M-Power rebuild take?",
+          "a": "Typical turnaround is 3-5 working days for a full rebuild, depending on the extent of the work and parts availability. This is standard across our engine rebuild services."
+        }
+      ]
+    }
+  ]
+}

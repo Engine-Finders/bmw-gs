@@ -1,48 +1,196 @@
 {
-  "brand": "BMWGARAGE.UK",
-  "blurb": "BMW engine rebuild specialists. Nationwide recovery, updated OEM components, fixed-price quotes, 12-month unlimited-mileage warranty.",
+  "brand": "BMW GARAGE",
+  "blurb": "BMW engine rebuild specialists. N47, N57, B58, M-Power & more — cars, SUVs, M models. Fixed-price quotes, 12-month unlimited-mileage warranty.",
   "columns": [
     {
       "title": "Company",
       "links": [
-        { "label": "About Us", "href": "/about" },
-        { "label": "Our Workshop", "href": "/about#workshop" },
-        { "label": "Recovery", "href": "/recovery" },
-        { "label": "Contact", "href": "/contact" }
+        {
+          "label": "About Us",
+          "href": "/about"
+        },
+        {
+          "label": "Contact",
+          "href": "/contact"
+        },
+        {
+          "label": "Financing & Payment",
+          "href": "/financing"
+        },
+        {
+          "label": "Pricing & Legal Disclaimer",
+          "href": "/pricing-legal-disclaimer"
+        },
+        {
+          "label": "Privacy Policy",
+          "href": "/privacy-policy"
+        },
+        {
+          "label": "Terms & Conditions",
+          "href": "/terms-and-conditions"
+        },
+        {
+          "label": "Warranty",
+          "href": "/warranty"
+        }
       ]
     },
     {
-      "title": "Engines",
+      "title": "Popular Engines",
       "links": [
-        { "label": "N47", "href": "/bmw-n47-engine" },
-        { "label": "N57", "href": "/bmw-n57-engine" },
-        { "label": "B47", "href": "/bmw-b47-engine" },
-        { "label": "N20", "href": "/bmw-n20-engine" },
-        { "label": "N63", "href": "/bmw-n63-engine" },
-        { "label": "S55", "href": "/bmw-s55-engine" }
+        {
+          "label": "BMW B37",
+          "href": "/bmw-b37-engine"
+        },
+        {
+          "label": "BMW B38",
+          "href": "/bmw-b38-engine"
+        },
+        {
+          "label": "BMW B47",
+          "href": "/bmw-b47-engine"
+        },
+        {
+          "label": "BMW B48",
+          "href": "/bmw-b48-engine"
+        },
+        {
+          "label": "BMW B57",
+          "href": "/bmw-b57-engine"
+        },
+        {
+          "label": "BMW B58",
+          "href": "/bmw-b58-engine"
+        },
+        {
+          "label": "BMW M54",
+          "href": "/bmw-m54-engine"
+        },
+        {
+          "label": "BMW N13",
+          "href": "/bmw-n13-engine"
+        },
+        {
+          "label": "BMW N20",
+          "href": "/bmw-n20-engine"
+        },
+        {
+          "label": "BMW N47",
+          "href": "/bmw-n47-engine"
+        }
       ]
     },
     {
-      "title": "Symptoms",
+      "title": "Popular Models",
       "links": [
-        { "label": "Timing Chain Noise", "href": "/symptoms/timing-chain-noise" },
-        { "label": "White Smoke", "href": "/symptoms/white-smoke" },
-        { "label": "Blue Smoke", "href": "/symptoms/blue-smoke" },
-        { "label": "Engine Overheating", "href": "/symptoms/engine-overheating" }
+        {
+          "label": "BMW 1 Series",
+          "href": "/bmw-1-series-engines"
+        },
+        {
+          "label": "BMW 2 Series",
+          "href": "/bmw-2-series-engines"
+        },
+        {
+          "label": "BMW 3 Series",
+          "href": "/bmw-3-series-engines"
+        },
+        {
+          "label": "BMW 4 Series",
+          "href": "/bmw-4-series-engines"
+        },
+        {
+          "label": "BMW 5 Series",
+          "href": "/bmw-5-series-engines"
+        },
+        {
+          "label": "BMW 6 Series",
+          "href": "/bmw-6-series-engines"
+        },
+        {
+          "label": "BMW 7 Series",
+          "href": "/bmw-7-series-engines"
+        },
+        {
+          "label": "BMW 8 Series",
+          "href": "/bmw-8-series-engines"
+        },
+        {
+          "label": "BMW M2",
+          "href": "/bmw-m2-engines"
+        },
+        {
+          "label": "BMW M3",
+          "href": "/bmw-m3-engines"
+        }
+      ]
+    },
+    {
+      "title": "Guides",
+      "links": [
+        {
+          "label": "BMW Cylinder Head Repair & Rebuild",
+          "href": "/bmw-cylinder-head-repair"
+        },
+        {
+          "label": "BMW Diesel Timing Chain Repair (N47/B47)",
+          "href": "/bmw-diesel-timing-chain-repair"
+        },
+        {
+          "label": "BMW Engine Bearing Replacement",
+          "href": "/bmw-engine-bearing-replacement"
+        },
+        {
+          "label": "BMW Engine Breakdown Recovery & Nationwide Collection",
+          "href": "/bmw-engine-recovery"
+        },
+        {
+          "label": "BMW Engine Compatibility & Application Matching",
+          "href": "/bmw-engine-compatibility"
+        },
+        {
+          "label": "BMW Engine Components We Replace",
+          "href": "/bmw-engine-components-replaced"
+        },
+        {
+          "label": "BMW Engine Failure Repair",
+          "href": "/bmw-engine-failure-repair"
+        },
+        {
+          "label": "BMW Engine Inspection & Assessment",
+          "href": "/bmw-engine-inspection-assessment"
+        },
+        {
+          "label": "BMW Engine Machining & Rebuild Preparation",
+          "href": "/bmw-engine-machining"
+        },
+        {
+          "label": "BMW Engine Matching by Registration & VIN",
+          "href": "/bmw-engine-matching"
+        }
       ]
     }
   ],
   "contact": {
     "address": "Unit A5 Windsor Road, Commercial Estate, Ramsden Heath, Billericay, CM11 1QE",
-    "phone": "+44 01268 944 234",
+    "phone": "0203 488 4649",
+    "whatsapp": "07975 827 396",
     "email": "info@bmwgarage.uk",
-    "hours": "Mo-Fr 09:00-18:00, Sa 11:00-14:00"
+    "hours": "Mon–Fri 9am–6pm · Sat 11am–2pm"
   },
   "social": [
-    { "label": "Facebook", "href": "https://facebook.com/bmwrebuildgarageuk" },
-    { "label": "Twitter", "href": "https://twitter.com/bmwrebuildgarageuk" },
-    { "label": "Instagram", "href": "https://instagram.com/bmwrebuildgarageuk" },
-    { "label": "TikTok", "href": "https://tiktok.com/@bmwrebuildgarageuk" }
+    {
+      "label": "Facebook",
+      "href": "https://facebook.com/JLREngineSpecialists"
+    },
+    {
+      "label": "Instagram",
+      "href": "https://instagram.com/jlr_engine_specialists_ltd"
+    },
+    {
+      "label": "TikTok",
+      "href": "https://tiktok.com/@land.rover.engine"
+    }
   ],
-  "copyright": "© 2026 BMW Garage. All rights reserved. Independent BMW specialist — not affiliated with BMW AG."
+  "copyright": "© 2026 BMW Garage — a trading name of JLR Engine Specialists Ltd (Company No. 16500838). Independent BMW specialist, not affiliated with BMW AG."
 }

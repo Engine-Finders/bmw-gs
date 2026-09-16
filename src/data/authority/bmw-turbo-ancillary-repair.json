@@ -1,0 +1,757 @@
+{
+  "slug": "bmw-turbo-ancillary-repair",
+  "metaTitle": "BMW Turbo & Ancillary Repair | BMW Garage",
+  "metaDescription": "Expert BMW turbocharger repair and replacement — 4-cyl, 6-cyl, V8, and M-performance engines. Wastegate actuators, oil lines, hot-vee turbo access. Book today.",
+  "h1": "BMW Turbo & Ancillary Repair",
+  "lede": "Professional turbocharger repair, rebuild, and replacement for all BMW models — from 4-cylinder diesels to V8 hot-vee engines. We diagnose and fix wastegate actuators, oil feed lines, and cooling systems, then road-test every car before handover.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/variant/sec10_car.webp",
+    "/engine_family/sec4.webp",
+    "/model/sec5.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What BMW Turbo & Ancillary Repair Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Turbocharger failure or degraded performance affects boost, fuel economy, and engine response. Our repair process covers the complete turbo system — we don't just swap the core, we inspect, test, and replace every ancillary component that could cause repeat failure."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Turbo access and removal** — on BMW's **N63/S63 hot-vee** engines, turbos sit between cylinder banks, requiring 12–16 hours of skilled labour; other BMW engines place turbos at the side or front, which is significantly faster to access.",
+            "**Full turbo inspection** — shaft play, blade damage, oil-seal condition, and wastegate actuator function.",
+            "**Turbo rebuild or replacement** — new bearings, seals, and balancing (or a factory-spec replacement unit if the core is beyond repair).",
+            "**Ancillary component replacement** — wastegate actuators, oil feed lines, coolant lines, gaskets, and sealing rings — these are replaced as a set to prevent future oil leaks or boost-control issues.",
+            "**Reinstallation, bleeding, and testing** — the system is refitted, cooling circuits are bled, and we test for boost leaks, correct wastegate operation, and overall performance on the road."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Read more about our full engine inspection process →](/bmw-engine-inspection-assessment)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "Turbo repair starting from",
+          "paras": [
+            "£2,200 for 4-cylinder engines",
+            "£2,800 for 6-cylinder engines",
+            "£4,500 for V8 hot-vee engines (N63/S63)",
+            "Performance M-cars (S55/S58/S63) from £5,500+",
+            "[Full pricing disclaimer →](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Which BMW models and engines this applies to",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Turbocharger and ancillary repair covers the majority of modern BMW engines — diesel and petrol, 4-cylinder through to V8 and M-performance variants."
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "4-Cylinder turbo engines",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "1 Series",
+              "href": "/bmw-1-series-engines"
+            },
+            {
+              "label": "116d",
+              "href": "/bmw-116d-engines"
+            },
+            {
+              "label": "118d",
+              "href": "/bmw-118d-engines"
+            },
+            {
+              "label": "120d",
+              "href": "/bmw-120d-engines"
+            },
+            {
+              "label": "118i",
+              "href": "/bmw-118i-engines"
+            },
+            {
+              "label": "120i",
+              "href": "/bmw-120i-engines"
+            },
+            {
+              "label": "2 Series",
+              "href": "/bmw-2-series-engines"
+            },
+            {
+              "label": "218d",
+              "href": "/bmw-218d-engines"
+            },
+            {
+              "label": "220d",
+              "href": "/bmw-220d-engines"
+            },
+            {
+              "label": "220i",
+              "href": "/bmw-220i-engines"
+            },
+            {
+              "label": "230i",
+              "href": "/bmw-230i-engines"
+            },
+            {
+              "label": "3 Series",
+              "href": "/bmw-3-series-engines"
+            },
+            {
+              "label": "316d",
+              "href": "/bmw-316d-engines"
+            },
+            {
+              "label": "318d",
+              "href": "/bmw-318d-engines"
+            },
+            {
+              "label": "320d",
+              "href": "/bmw-320d-engines"
+            },
+            {
+              "label": "320i",
+              "href": "/bmw-320i-engines"
+            },
+            {
+              "label": "330i",
+              "href": "/bmw-330i-engines"
+            },
+            {
+              "label": "4 Series",
+              "href": "/bmw-4-series-engines"
+            },
+            {
+              "label": "420d",
+              "href": "/bmw-420d-engines"
+            },
+            {
+              "label": "420i",
+              "href": "/bmw-420i-engines"
+            },
+            {
+              "label": "430i",
+              "href": "/bmw-430i-engines"
+            },
+            {
+              "label": "5 Series",
+              "href": "/bmw-5-series-engines"
+            },
+            {
+              "label": "520d",
+              "href": "/bmw-520d-engines"
+            },
+            {
+              "label": "520i",
+              "href": "/bmw-520i-engines"
+            },
+            {
+              "label": "530i",
+              "href": "/bmw-530i-engines"
+            },
+            {
+              "label": "X1",
+              "href": "/bmw-x1-engines"
+            },
+            {
+              "label": "sDrive18d / xDrive20d",
+              "href": null
+            },
+            {
+              "label": "sDrive18i / xDrive20i",
+              "href": null
+            },
+            {
+              "label": "X2",
+              "href": "/bmw-x2-engines"
+            },
+            {
+              "label": "sDrive18d / xDrive20d",
+              "href": null
+            },
+            {
+              "label": "sDrive18i / xDrive20i",
+              "href": null
+            },
+            {
+              "label": "X3",
+              "href": "/bmw-x3-engines"
+            },
+            {
+              "label": "xDrive20d",
+              "href": null
+            },
+            {
+              "label": "xDrive20i",
+              "href": null
+            },
+            {
+              "label": "X4",
+              "href": "/bmw-x4-engines"
+            },
+            {
+              "label": "xDrive20d",
+              "href": null
+            },
+            {
+              "label": "xDrive20i",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "6-Cylinder turbo engines",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "1 Series",
+              "href": "/bmw-1-series-engines"
+            },
+            {
+              "label": "M135i",
+              "href": "/bmw-m135i-engines"
+            },
+            {
+              "label": "M140i",
+              "href": "/bmw-m140i-engines"
+            },
+            {
+              "label": "2 Series",
+              "href": "/bmw-2-series-engines"
+            },
+            {
+              "label": "M235i",
+              "href": "/bmw-m235i-engines"
+            },
+            {
+              "label": "M240i",
+              "href": "/bmw-m240i-engines"
+            },
+            {
+              "label": "3 Series",
+              "href": "/bmw-3-series-engines"
+            },
+            {
+              "label": "330d",
+              "href": "/bmw-330d-engines"
+            },
+            {
+              "label": "335d",
+              "href": "/bmw-335d-engines"
+            },
+            {
+              "label": "340i",
+              "href": "/bmw-340i-engines"
+            },
+            {
+              "label": "M340i xDrive",
+              "href": "/bmw-m340i-xdrive-engines"
+            },
+            {
+              "label": "4 Series",
+              "href": "/bmw-4-series-engines"
+            },
+            {
+              "label": "435d",
+              "href": "/bmw-435d-engines"
+            },
+            {
+              "label": "440i",
+              "href": "/bmw-440i-engines"
+            },
+            {
+              "label": "M440i xDrive",
+              "href": "/bmw-m440i-xdrive-engines"
+            },
+            {
+              "label": "5 Series",
+              "href": "/bmw-5-series-engines"
+            },
+            {
+              "label": "530d",
+              "href": "/bmw-530d-engines"
+            },
+            {
+              "label": "535d",
+              "href": "/bmw-535d-engines"
+            },
+            {
+              "label": "540i",
+              "href": "/bmw-540i-engines"
+            },
+            {
+              "label": "6 Series",
+              "href": "/bmw-6-series-engines"
+            },
+            {
+              "label": "630d",
+              "href": "/bmw-630d-engines"
+            },
+            {
+              "label": "640d",
+              "href": "/bmw-640d-engines"
+            },
+            {
+              "label": "640i",
+              "href": "/bmw-640i-engines"
+            },
+            {
+              "label": "7 Series",
+              "href": "/bmw-7-series-engines"
+            },
+            {
+              "label": "730d / 740d",
+              "href": null
+            },
+            {
+              "label": "730i / 740i",
+              "href": null
+            },
+            {
+              "label": "8 Series",
+              "href": "/bmw-8-series-engines"
+            },
+            {
+              "label": "840d xDrive",
+              "href": "/bmw-840d-xdrive-engines"
+            },
+            {
+              "label": "840i",
+              "href": "/bmw-840i-engines"
+            },
+            {
+              "label": "X3",
+              "href": "/bmw-x3-engines"
+            },
+            {
+              "label": "M40i",
+              "href": "/bmw-x3-m40i-engines"
+            },
+            {
+              "label": "xDrive30d",
+              "href": null
+            },
+            {
+              "label": "X4",
+              "href": "/bmw-x4-engines"
+            },
+            {
+              "label": "M40i",
+              "href": "/bmw-x4-m40i-engines"
+            },
+            {
+              "label": "xDrive30d",
+              "href": null
+            },
+            {
+              "label": "X5",
+              "href": "/bmw-x5-engines"
+            },
+            {
+              "label": "xDrive30d",
+              "href": "/bmw-x5-xdrive30d-engines"
+            },
+            {
+              "label": "xDrive40i",
+              "href": "/bmw-x5-xdrive40i-engines"
+            },
+            {
+              "label": "X6",
+              "href": "/bmw-x6-engines"
+            },
+            {
+              "label": "xDrive30d",
+              "href": "/bmw-x6-xdrive30d-engines"
+            },
+            {
+              "label": "xDrive40i",
+              "href": "/bmw-x6-xdrive40i-engines"
+            },
+            {
+              "label": "X7",
+              "href": "/bmw-x7-engines"
+            },
+            {
+              "label": "xDrive40d",
+              "href": "/bmw-x7-xdrive40d-engines"
+            },
+            {
+              "label": "xDrive40i",
+              "href": "/bmw-x7-xdrive40i-engines"
+            },
+            {
+              "label": "Z4",
+              "href": "/bmw-z4-engines"
+            },
+            {
+              "label": "sDrive30i",
+              "href": "/bmw-z4-sdrive30i-engines"
+            },
+            {
+              "label": "M40i",
+              "href": "/bmw-z4-m40i-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "V8 turbo engines (N63 / S63)",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "5 Series",
+              "href": "/bmw-5-series-engines"
+            },
+            {
+              "label": "550e xDrive",
+              "href": "/bmw-550e-xdrive-engines"
+            },
+            {
+              "label": "M5",
+              "href": "/bmw-m5-engines"
+            },
+            {
+              "label": "6 Series",
+              "href": "/bmw-6-series-engines"
+            },
+            {
+              "label": "650i",
+              "href": "/bmw-650i-engines"
+            },
+            {
+              "label": "M6",
+              "href": "/bmw-m6-engines"
+            },
+            {
+              "label": "7 Series",
+              "href": "/bmw-7-series-engines"
+            },
+            {
+              "label": "750i",
+              "href": "/bmw-750i-engines"
+            },
+            {
+              "label": "M760i",
+              "href": null
+            },
+            {
+              "label": "8 Series",
+              "href": "/bmw-8-series-engines"
+            },
+            {
+              "label": "M850i xDrive",
+              "href": "/bmw-m850i-xdrive-engines"
+            },
+            {
+              "label": "M8",
+              "href": "/bmw-m8-engines"
+            },
+            {
+              "label": "X5",
+              "href": "/bmw-x5-engines"
+            },
+            {
+              "label": "xDrive50i",
+              "href": "/bmw-x5-xdrive50i-engines"
+            },
+            {
+              "label": "X5 M",
+              "href": "/bmw-x5-m-engines"
+            },
+            {
+              "label": "X6",
+              "href": "/bmw-x6-engines"
+            },
+            {
+              "label": "xDrive50i",
+              "href": "/bmw-x6-xdrive50i-engines"
+            },
+            {
+              "label": "X6 M",
+              "href": "/bmw-x6-m-engines"
+            },
+            {
+              "label": "X7",
+              "href": "/bmw-x7-engines"
+            },
+            {
+              "label": "xDrive40i",
+              "href": "/bmw-x7-xdrive40i-engines"
+            },
+            {
+              "label": "M60i",
+              "href": "/bmw-x7-m60i-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Performance M turbo engines (S55 / S58 / S63)",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "M2",
+              "href": "/bmw-m2-engines"
+            },
+            {
+              "label": "M2 Competition",
+              "href": "/bmw-m2-competition-engines"
+            },
+            {
+              "label": "M2 (G87)",
+              "href": "/bmw-m2-engines"
+            },
+            {
+              "label": "M3",
+              "href": "/bmw-m3-engines"
+            },
+            {
+              "label": "M3 Competition (F80)",
+              "href": "/bmw-m3-competition-engines"
+            },
+            {
+              "label": "M3 (G80)",
+              "href": "/bmw-m3-engines"
+            },
+            {
+              "label": "M4",
+              "href": "/bmw-m4-engines"
+            },
+            {
+              "label": "M4 Competition (F82)",
+              "href": "/bmw-m4-competition-engines"
+            },
+            {
+              "label": "M4 (G82)",
+              "href": "/bmw-m4-engines"
+            },
+            {
+              "label": "M5",
+              "href": "/bmw-m5-engines"
+            },
+            {
+              "label": "M5 Competition (F90)",
+              "href": "/bmw-m5-competition-engines"
+            },
+            {
+              "label": "M8",
+              "href": "/bmw-m8-engines"
+            },
+            {
+              "label": "M8 Competition",
+              "href": "/bmw-m8-competition-engines"
+            },
+            {
+              "label": "X3 M",
+              "href": "/bmw-x3-m-engines"
+            },
+            {
+              "label": "X3 M Competition",
+              "href": "/bmw-x3-m-competition-engines"
+            },
+            {
+              "label": "X4 M",
+              "href": "/bmw-x4-m-engines"
+            },
+            {
+              "label": "X4 M Competition",
+              "href": "/bmw-x4-m-competition-engines"
+            },
+            {
+              "label": "X5 M",
+              "href": "/bmw-x5-m-engines"
+            },
+            {
+              "label": "X5 M Competition",
+              "href": "/bmw-x5-m-competition-engines"
+            },
+            {
+              "label": "X6 M",
+              "href": "/bmw-x6-m-engines"
+            },
+            {
+              "label": "X6 M Competition",
+              "href": "/bmw-x6-m-competition-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Not sure which engine your BMW has? Use our compatibility matching tool →](/bmw-engine-compatibility)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our turbo repair process",
+      "steps": [
+        {
+          "title": "Inspection & diagnosis",
+          "body": "We assess turbo performance, check for shaft play, oil leaks, and wastegate operation, then confirm the root cause."
+        },
+        {
+          "title": "Turbo removal",
+          "body": "We access and unbolt the turbo, disconnecting oil and coolant lines. On hot-vee V8s, this is the most labour-intensive stage."
+        },
+        {
+          "title": "Rebuild or replacement",
+          "body": "We either rebuild the core with new bearings, seals, and balancing, or fit a factory-spec replacement unit."
+        },
+        {
+          "title": "Ancillary component replacement",
+          "body": "Wastegate actuators, oil feed lines, coolant lines, and all gaskets/seals are replaced as a set."
+        },
+        {
+          "title": "Reinstallation & system bleed",
+          "body": "The turbo is refitted, all lines reconnected, and cooling systems are bled to remove air."
+        },
+        {
+          "title": "Testing & road test",
+          "body": "We run leak tests, boost verification, and a full road test to confirm correct operation."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why choose BMW Garage for turbo repair",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Specialist BMW workshop** — we work on BMWs every day, from 1 Series to M8, diesel to V8.",
+            "**Hot-vee V8 experience** — N63/S63 turbos are notoriously difficult to access; we have the tools, training, and space to do it properly.",
+            "**Complete ancillary replacement** — we replace oil lines, coolant lines, and actuators as a set, so you don't get a repeat failure.",
+            "**12-month unlimited-mileage warranty** — every turbo repair we carry is covered.",
+            "**Nationwide recovery** — if your BMW won't make it to us, we can recover it from £70.",
+            "**3–5 day rebuild turnaround** — for most engines, we complete the work quickly without compromising quality."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Meet our workshop team →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How our turbo repair service works",
+      "steps": [
+        {
+          "title": "Contact us",
+          "body": "Call, email, or use our [online quote form](/contact) — we'll ask for your registration and a brief description of the issue."
+        },
+        {
+          "title": "Inspection & quote",
+          "body": "We inspect your turbo system, confirm the exact issue, and provide a fixed-price quote for the repair."
+        },
+        {
+          "title": "Authorisation",
+          "body": "We only start work once you approve the quote — no surprises, no hidden costs."
+        },
+        {
+          "title": "Repair & testing",
+          "body": "We carry out the turbo repair, replace all ancillaries, and road-test the car before collection."
+        },
+        {
+          "title": "Collection & warranty",
+          "body": "Collect your BMW with a 12-month unlimited-mileage warranty on the work carried out."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[BMW Engine Rebuild](/bmw-engine-rebuild) — full engine strip and rebuild",
+            "[BMW V8 Hot-Vee Engine Repair (N63/S63)](/bmw-hot-vee-v8-repair) — comprehensive hot-vee V8 servicing",
+            "[BMW Diesel Timing Chain Repair (N47/B47)](/bmw-diesel-timing-chain-repair) — timing chain replacement for diesel models",
+            "[BMW Petrol Timing Chain Repair (N20)](/bmw-petrol-timing-chain-repair) — timing chain for petrol 4-cylinder models",
+            "[BMW Engine Failure Repair](/bmw-engine-failure-repair) — full failure diagnosis and remediation",
+            "[BMW Engine Inspection & Assessment](/bmw-engine-inspection-assessment) — pre-purchase and fault diagnosis"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "How do I know if my BMW turbo is failing?",
+          "a": "Common signs include reduced power, excessive exhaust smoke, a whistling noise from the engine, or the engine management light coming on. We carry out a full inspection to confirm the exact cause."
+        },
+        {
+          "q": "Can you repair a turbo or does it always need replacing?",
+          "a": "It depends on the condition of the core. We inspect every turbo on removal — if the shaft, bearings, and housing are within spec, we can rebuild it. If the core is damaged, we recommend a replacement unit."
+        },
+        {
+          "q": "What ancillary components do you replace as part of a turbo repair?",
+          "a": "We replace wastegate actuators, oil feed lines, coolant lines, gaskets, and sealing rings as a complete set. This prevents repeat failures caused by degraded ancillaries."
+        },
+        {
+          "q": "Why are BMW V8 turbos more expensive to repair?",
+          "a": "On BMW's N63/S63 hot-vee V8 engines, the turbos are mounted between the cylinder banks. Access requires significant disassembly — typically 12–16 hours of labour compared to 4–6 hours on a 4- or 6-cylinder engine."
+        },
+        {
+          "q": "How long does a BMW turbo repair take?",
+          "a": "Most 4- and 6-cylinder turbo repairs are completed within 2–4 working days. V8 hot-vee repairs take longer due to the access complexity — typically 5–7 days."
+        },
+        {
+          "q": "What warranty do you offer on turbo repairs?",
+          "a": "All turbo repairs come with a 12-month unlimited-mileage warranty covering parts and labour for the work we carry out."
+        }
+      ]
+    }
+  ]
+}

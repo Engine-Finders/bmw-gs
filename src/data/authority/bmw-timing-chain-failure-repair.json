@@ -1,0 +1,453 @@
+{
+  "slug": "bmw-timing-chain-failure-repair",
+  "metaTitle": "BMW Timing Chain Failure Repair | BMW Garage",
+  "metaDescription": "Specialist BMW timing chain failure repair for N47, N20, N57 and other affected engines. Engine-out replacement with 12-month warranty. Get a quote today.",
+  "h1": "BMW Timing Chain Failure Repair",
+  "lede": "Specialist diagnosis and full timing chain replacement for BMW N47, N20, N57 and other affected engines. Engine-out replacement where required, with full workshop testing and 12-month warranty.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine_family/sec2_bottom.webp",
+    "/model/sec2.webp",
+    "/variant/sec10_engine.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "BMW timing chain failure is one of the most serious mechanical issues affecting modern BMW diesel and petrol engines. Our workshop carries out full diagnostic assessment, strip-down inspection, and complete timing chain replacement using OEM-spec components."
+        },
+        {
+          "t": "p",
+          "html": "For engines with the timing chain mounted at the rear (such as the N47 diesel), the repair requires full engine removal. For front-mounted chains (N20, N55, B58), access is less complex but still requires specialist tools and precise timing verification. Every repair includes replacement of the timing chain, guides, tensioners, and all associated seals and gaskets."
+        },
+        {
+          "t": "p",
+          "html": "We test every engine after reassembly to confirm correct timing and operation before the vehicle is returned."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "Timing chain replacement from **£1,900**",
+            "4-cylinder diesel (N47/B47) • 12-month unlimited-mileage warranty included",
+            "[Pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Final cost depends on the engine type, extent of wear, and whether the chain has already failed. We provide a fixed-price quote after full inspection."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Timing chain issues affect a range of BMW engines. We carry out full timing chain replacement on the following models and engine families."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "BMW 1 Series",
+              "href": "/bmw-1-series-engines"
+            },
+            {
+              "label": "116d",
+              "href": "/bmw-116d-engines"
+            },
+            {
+              "label": "118d",
+              "href": "/bmw-118d-engines"
+            },
+            {
+              "label": "120d",
+              "href": "/bmw-120d-engines"
+            },
+            {
+              "label": "125d",
+              "href": "/bmw-125d-engines"
+            },
+            {
+              "label": "118i",
+              "href": "/bmw-118i-engines"
+            },
+            {
+              "label": "120i",
+              "href": "/bmw-120i-engines"
+            },
+            {
+              "label": "N47",
+              "href": "/bmw-n47-engine"
+            },
+            {
+              "label": "N20",
+              "href": "/bmw-n20-engine"
+            },
+            {
+              "label": "B47",
+              "href": "/bmw-b47-engine"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "BMW 2 Series",
+            "href": "/bmw-2-series-engines"
+          },
+          "chips": [
+            {
+              "label": "218d",
+              "href": "/bmw-218d-engines"
+            },
+            {
+              "label": "220d",
+              "href": "/bmw-220d-engines"
+            },
+            {
+              "label": "220i",
+              "href": "/bmw-220i-engines"
+            },
+            {
+              "label": "230i",
+              "href": "/bmw-230i-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "**Engines:** [N47](/bmw-n47-engine), [B47](/bmw-b47-engine), [N20](/bmw-n20-engine)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "BMW 3 Series",
+            "href": "/bmw-3-series-engines"
+          },
+          "chips": [
+            {
+              "label": "316d",
+              "href": "/bmw-316d-engines"
+            },
+            {
+              "label": "318d",
+              "href": "/bmw-318d-engines"
+            },
+            {
+              "label": "320d",
+              "href": "/bmw-320d-engines"
+            },
+            {
+              "label": "330d",
+              "href": "/bmw-330d-engines"
+            },
+            {
+              "label": "320i",
+              "href": "/bmw-320i-engines"
+            },
+            {
+              "label": "328i",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "**Engines:** [N47](/bmw-n47-engine), [N57](/bmw-n57-engine), [N20](/bmw-n20-engine), [B47](/bmw-b47-engine)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "BMW 4 Series",
+            "href": "/bmw-4-series-engines"
+          },
+          "chips": [
+            {
+              "label": "420d",
+              "href": "/bmw-420d-engines"
+            },
+            {
+              "label": "430d",
+              "href": "/bmw-430d-engines"
+            },
+            {
+              "label": "420i",
+              "href": "/bmw-420i-engines"
+            },
+            {
+              "label": "430i",
+              "href": "/bmw-430i-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "**Engines:** [N47](/bmw-n47-engine), [N57](/bmw-n57-engine), [B47](/bmw-b47-engine), [N20](/bmw-n20-engine)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "BMW 5 Series",
+            "href": "/bmw-5-series-engines"
+          },
+          "chips": [
+            {
+              "label": "520d",
+              "href": "/bmw-520d-engines"
+            },
+            {
+              "label": "525d",
+              "href": "/bmw-525d-engines"
+            },
+            {
+              "label": "530d",
+              "href": "/bmw-530d-engines"
+            },
+            {
+              "label": "535d",
+              "href": "/bmw-535d-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "**Engines:** [N47](/bmw-n47-engine), [N57](/bmw-n57-engine), [B47](/bmw-b47-engine)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "BMW X1",
+            "href": "/bmw-x1-engines"
+          },
+          "chips": [
+            {
+              "label": "sDrive18d",
+              "href": "/bmw-x1-sdrive18d-engines"
+            },
+            {
+              "label": "sDrive20d",
+              "href": null
+            },
+            {
+              "label": "xDrive20d",
+              "href": "/bmw-x1-xdrive20d-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "**Engines:** [N47](/bmw-n47-engine) (E84), [B47](/bmw-b47-engine) (F48)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "BMW X3",
+            "href": "/bmw-x3-engines"
+          },
+          "chips": [
+            {
+              "label": "xDrive20d",
+              "href": "/bmw-x3-xdrive20d-engines"
+            },
+            {
+              "label": "xDrive30d",
+              "href": "/bmw-x3-xdrive30d-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "**Engines:** [N47](/bmw-n47-engine), [N57](/bmw-n57-engine), [B47](/bmw-b47-engine)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "BMW X4",
+            "href": "/bmw-x4-engines"
+          },
+          "chips": [
+            {
+              "label": "xDrive20d",
+              "href": "/bmw-x4-xdrive20d-engines"
+            },
+            {
+              "label": "xDrive30d",
+              "href": "/bmw-x4-xdrive30d-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "**Engines:** [N57](/bmw-n57-engine), [B47](/bmw-b47-engine)"
+        },
+        {
+          "t": "p",
+          "html": "Timing chain issues are most prevalent on N47 diesel engines (2007–2015) and N20 petrol engines. Read our full N47 buying guide →"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Timing Chain Repair Process",
+      "steps": [
+        {
+          "title": "Diagnostic assessment",
+          "body": "We use BMW-specific diagnostic equipment to check for timing-related fault codes and perform a cold-start inspection to identify characteristic rattle."
+        },
+        {
+          "title": "Strip-down inspection",
+          "body": "Where required, we partially or fully disassemble the engine to visually inspect the chain, guides, tensioner and sprockets for wear or damage."
+        },
+        {
+          "title": "Engine removal (if required)",
+          "body": "For rear-mounted chains (N47), we remove the engine from the vehicle to gain full access to the timing chain cover."
+        },
+        {
+          "title": "Chain and component replacement",
+          "body": "We replace the timing chain, all guides, tensioners, sprockets, and seals with OEM-spec components."
+        },
+        {
+          "title": "Timing verification",
+          "body": "Specialist timing tools are used to lock the camshafts and crankshaft in the correct position before reassembly."
+        },
+        {
+          "title": "Testing & road test",
+          "body": "The engine is tested for correct timing and operation, followed by a road test before the vehicle is returned."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Check Your Engine",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Enter your registration to see if your BMW is affected by timing chain issues and get a personalised quote."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Us",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Specialist BMW timing chain repair since 2009",
+            "Full engine-out capability for N47 and other rear-mounted chains",
+            "OEM-spec components with 12-month unlimited-mileage warranty",
+            "Transparent fixed-price quotes after full inspection",
+            "Workshop equipped with BMW-specific diagnostic and timing tools"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Meet our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "Contact us with your vehicle details or use the registration lookup above."
+        },
+        {
+          "title": "",
+          "body": "We carry out a full diagnostic assessment and strip-down inspection."
+        },
+        {
+          "title": "",
+          "body": "We provide a fixed-price quote for the complete timing chain replacement."
+        },
+        {
+          "title": "",
+          "body": "We carry out the repair, test the engine, and return your vehicle."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[BMW Diesel Timing Chain Repair (N47/B47)](/bmw-diesel-timing-chain-repair)",
+            "[BMW Petrol Timing Chain Repair (N20)](/bmw-petrol-timing-chain-repair)",
+            "[BMW Engine Rebuild](/bmw-engine-rebuild)",
+            "[BMW Engine Replacement](/bmw-engine-replacement)",
+            "[BMW Nationwide Engine Recovery](/bmw-engine-recovery)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What are the early signs of BMW timing chain failure?",
+          "a": "The most common early symptom is a metallic rattling noise during cold starts, which typically lasts a few seconds until oil pressure builds[reference:0][reference:1]. Other signs include rough idle, misfires, loss of power, and a check engine light with cam/crank correlation faults[reference:2]."
+        },
+        {
+          "q": "Which BMW engines are most prone to timing chain issues?",
+          "a": "The N47 diesel (2.0L, 2007–2015) is the most notorious, with the chain mounted at the rear of the engine[reference:3]. The N20 petrol (2.0L turbo, 2011–2016) also suffers from timing chain stretch[reference:4]. Other affected engines include N57 (diesel I6) and B47 (later diesel)."
+        },
+        {
+          "q": "Do you remove the engine for timing chain replacement?",
+          "a": "For N47 engines, yes — the chain is mounted at the rear of the engine and cannot be accessed without full engine removal[reference:5][reference:6]. For front-mounted chains (N20, N55, B58), the engine stays in place but the front end is stripped for access."
+        },
+        {
+          "q": "How long does a BMW timing chain replacement take?",
+          "a": "For an N47 engine-out job, the repair typically takes 30–35 hours of workshop time[reference:7]. Front-mounted chain replacements are quicker, typically 12–16 hours[reference:8]. We provide a timeline estimate during the quoting process."
+        },
+        {
+          "q": "What is included in your timing chain repair?",
+          "a": "We replace the timing chain, all guides, tensioners, sprockets, and associated seals and gaskets with OEM-spec components. The repair includes full timing verification, engine testing, and a 12-month unlimited-mileage warranty."
+        },
+        {
+          "q": "Can I drive my BMW if the timing chain is rattling?",
+          "a": "We don't recommend it. If the tensioner is failing or a guide is cracked, the chain can jump teeth or break completely, leading to catastrophic engine damage[reference:9]. Have it inspected as soon as possible."
+        }
+      ]
+    }
+  ]
+}

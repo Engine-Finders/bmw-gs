@@ -35,16 +35,30 @@ import modelSec15 from "@/data/model/bmw3SeriesSec15.json";
 import modelSec16 from "@/data/model/bmw3SeriesSec16.json";
 import modelSec17 from "@/data/model/bmw3SeriesSec17.json";
 import modelSec18 from "@/data/model/bmw3SeriesSec18.json";
+import JsonLd from "@/components/shared/JsonLd";
+import { serviceSchema, faqSchema, breadcrumbSchema, graphDoc } from "@/lib/schema";
+
+const PATH = "/bmw-3-series-engines";
+const NAME = modelSec1.h1?.replaceAll("|", " ");
+const FAQ = [...(modelSec18.faqLeft || []), ...(modelSec18.faqRight || [])];
 
 export const metadata = {
   title: "BMW 3 Series Engine Rebuild & Replacement | BMW Specialists",
   description:
     "BMW 3 Series rebuilt engines from £1,900. Specialist N47/B47 timing chain issues, M3, 330e & all variants. Supply & fit, recovery, 12-month warranty. Free quote in 30 mins.",
+  alternates: { canonical: PATH },
 };
 
 export default function BMW3SeriesEnginesPage() {
   return (
     <>
+      <JsonLd
+        data={graphDoc([
+          serviceSchema({ name: NAME, description: modelSec1.subhead, path: PATH, price: modelSec1.priceCta?.price }),
+          faqSchema(FAQ, PATH),
+          breadcrumbSchema([{ name: "Home", path: "/" }, { name: "Models", path: "/models" }, { name: NAME, path: PATH }], PATH),
+        ])}
+      />
       <ModelHeroSec1 data={modelSec1} />
       <ModelSec2 data={modelSec2} />
       <ModelSec3 data={modelSec3} />

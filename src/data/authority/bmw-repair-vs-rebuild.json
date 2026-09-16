@@ -1,0 +1,235 @@
+{
+  "slug": "bmw-repair-vs-rebuild",
+  "metaTitle": "BMW Repair vs Full Rebuild | BMW Garage",
+  "metaDescription": "BMW engine repair vs full rebuild: understand the difference, when each is appropriate, and how we decide. Fixed-price rebuilds from £1,900.",
+  "h1": "BMW Repair vs Full Rebuild",
+  "lede": "",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/model/sec12.webp",
+    "/engine_family/sec2_top.webp",
+    "/engine_family/sec11.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Do \"Engine Repair\" and \"Full Rebuild\" Actually Mean?",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "These terms are often used interchangeably, but they describe two very different levels of intervention. Understanding the distinction is the first step toward making the right decision for your BMW."
+        },
+        {
+          "t": "h3",
+          "text": "Engine Repair"
+        },
+        {
+          "t": "p",
+          "html": "A **targeted intervention** to address a specific issue — replacing a gasket, fixing an oil leak, replacing a timing chain, or addressing a single failed component. The engine remains largely intact; only the affected area is disassembled."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Minimal disassembly",
+            "Engine stays in the vehicle for many repairs",
+            "Lower labour hours",
+            "Lower parts cost"
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Full Rebuild"
+        },
+        {
+          "t": "p",
+          "html": "**Complete disassembly** of the engine to its bare components, inspection of everything, and comprehensive replacement of all wear items and gaskets. The engine is returned to \"as-new\" mechanical condition."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Complete engine-out disassembly",
+            "Every component inspected",
+            "All gaskets, seals, bearings, and wear items replaced",
+            "Machining work performed where needed"
+          ]
+        },
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**BMW-specific consideration:** BMW engines — particularly N-series diesels with rear-mounted timing chains — often require engine removal even for what appears to be a \"simple\" repair. Once the engine is out, the marginal cost of a full rebuild versus a single repair narrows significantly. This is a key decision point for BMW specialists."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Prices",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our fixed-price rebuilds start from the bands below. Every rebuild includes full strip-down, inspection, machining where required, and replacement of all wear items — no surprises."
+        },
+        {
+          "t": "p",
+          "html": "[See pricing disclaimer →](/pricing-legal-disclaimer)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Which BMW Models Does This Apply To?",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our repair and rebuild services cover the full BMW range — from the 1 Series to the X7, and M models too. Below are the key model families we work on."
+        },
+        {
+          "t": "p",
+          "html": "Common engine families we work on: [N47](/bmw-n47-engine), [B47](/bmw-b47-engine), [N20](/bmw-n20-engine), [B48](/bmw-b48-engine), [N55](/bmw-n55-engine), [B58](/bmw-b58-engine), [N57](/bmw-n57-engine), [B57](/bmw-b57-engine), [S55](/bmw-s55-engine), [S58](/bmw-s58-engine), [S63](/bmw-s63-engine)."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How We Decide: Repair or Rebuild?",
+      "steps": [
+        {
+          "title": "Full Engine Inspection",
+          "body": "We assess the engine's condition, including compression, oil pressure, and any visible wear. This gives us a complete picture of what's working and what isn't."
+        },
+        {
+          "title": "Identify the Failure",
+          "body": "Is the problem a single failed component, or are there multiple issues? A single failure with a healthy engine points toward a repair; multiple failures or widespread wear points toward a rebuild."
+        },
+        {
+          "title": "Age and Mileage Assessment",
+          "body": "A high-mileage engine with a single failure may be a candidate for a full rebuild, because other components are likely near end of life. Lower-mileage engines often respond well to a targeted repair."
+        },
+        {
+          "title": "Labour Efficiency",
+          "body": "If the engine is already out of the vehicle — as is often the case with BMW N-series diesels — the incremental labour to perform a full rebuild is relatively small. This changes the economics significantly."
+        },
+        {
+          "title": "Customer's Long-Term Plans",
+          "body": "If the customer intends to keep the vehicle, a full rebuild offers greater certainty. If they plan to sell soon, a targeted repair may be more appropriate."
+        },
+        {
+          "title": "Vehicle Value",
+          "body": "On a low-value vehicle, a full rebuild may be economically unviable. We're transparent about this — we never recommend work that doesn't make financial sense."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose BMW Garage for Your Engine Work?",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Established 2009** — over 15 years of BMW engine specialist experience",
+            "**Fixed-price rebuilds** — no surprises, no hidden costs",
+            "**12-month unlimited-mileage warranty** on every rebuild",
+            "**3-5 day rebuild turnaround** for most engines",
+            "**Nationwide engine recovery** from £70",
+            "**Full engine-out disassembly and machining** — we do the whole job in-house",
+            "**Real workshop photography** — you see exactly where and how your engine is worked on"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Meet the workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Recent Work in Our Workshop",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Real engines we've repaired and rebuilt — every job documented from arrival to completion."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works — From Arrival to Collection",
+      "steps": [
+        {
+          "title": "",
+          "body": "Your BMW arrives at our Essex workshop. We carry out a full engine inspection to confirm the scope of work — whether it's a repair or a full rebuild."
+        },
+        {
+          "title": "",
+          "body": "We provide a fixed-price quote based on the inspection findings. You approve the work, and we start immediately — no waiting for parts."
+        },
+        {
+          "title": "",
+          "body": "Your engine is disassembled (partially for a repair, fully for a rebuild). All components are inspected, machined where needed, and rebuilt to factory specifications."
+        },
+        {
+          "title": "",
+          "body": "Before collection, every engine is tested on the bench and road-tested in the vehicle to ensure it meets our standards."
+        },
+        {
+          "title": "",
+          "body": "You collect your BMW with a 12-month unlimited-mileage warranty on the work. We're here for you long after the job is done."
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What's the difference between a repair and a full rebuild?",
+          "a": "A repair is a targeted intervention to address a specific issue — replacing a single component or fixing a leak. A full rebuild involves complete disassembly of the engine, inspection of everything, and replacement of all wear items and gaskets. The engine is returned to \"as-new\" mechanical condition."
+        },
+        {
+          "q": "How do you decide whether to repair or rebuild my BMW engine?",
+          "a": "We consider several factors: the engine's age and mileage, the nature of the failure, labour efficiency (if the engine is already out, a rebuild makes more sense), your long-term plans for the vehicle, and the vehicle's value. We walk you through the decision so you're fully informed."
+        },
+        {
+          "q": "Is a full rebuild always more expensive than a repair?",
+          "a": "Not always. If the engine is already out of the vehicle — as is often the case with BMW N-series diesels — the incremental labour to perform a full rebuild is relatively small. In some cases, the difference in cost is less than you'd expect, and the rebuild offers significantly greater long-term certainty."
+        },
+        {
+          "q": "How long does a repair take compared to a full rebuild?",
+          "a": "A typical repair takes 1-3 days depending on the specific job. A full rebuild takes 3-5 days on average. If the engine needs to be removed for a repair (common on BMW N-series diesels), the turnaround may be closer to a rebuild timeframe."
+        },
+        {
+          "q": "Which BMW engines are most commonly rebuilt?",
+          "a": "The N47 and B47 diesel engines (found in the [1 Series](/bmw-1-series-engines), [3 Series](/bmw-3-series-engines), [X1](/bmw-x1-engines), and others) are among our most common rebuilds due to timing chain stretch. We also see many [N57](/bmw-n57-engine) (6-cylinder diesel) rebuilds, [S55](/bmw-s55-engine) (M3/M4) crank hub repairs, and [N63](/bmw-n63-engine) (V8) hot-vee repairs."
+        },
+        {
+          "q": "Do you offer a warranty on repairs and rebuilds?",
+          "a": "Yes. Every rebuild comes with a 12-month unlimited-mileage warranty. For targeted repairs, the warranty covers the specific component and associated work for 12 months. Full warranty details are available on our [warranty page](/warranty)."
+        }
+      ]
+    }
+  ]
+}

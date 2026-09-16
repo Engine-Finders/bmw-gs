@@ -1,0 +1,307 @@
+{
+  "slug": "bmw-diesel-timing-chain-repair",
+  "metaTitle": "BMW Diesel Timing Chain Repair (N47/B47) | BMW Garage",
+  "metaDescription": "BMW diesel timing chain repair for N47 and B47 engines. Engine-out replacement with new chain, guides, and tensioners. Fixed-price rebuilds from £1,900.",
+  "h1": "BMW Diesel Timing Chain Repair (N47 / B47)",
+  "lede": "N47 and B47 diesel engines have the timing chain mounted at the rear of the engine, between the block and the gearbox. This design makes replacement a specialist, engine-out procedure — not a simple front-end job.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/variant/sec11.webp",
+    "/engine_family/sec9_top.webp",
+    "/model/sec7.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "N47 and B47 diesel engines have the timing chain mounted at the rear of the engine, between the block and the gearbox. This design makes replacement a specialist, engine-out procedure — not a simple front-end job."
+        },
+        {
+          "t": "p",
+          "html": "We carry out the full BMW-specified repair: engine removal, timing locking, complete replacement of the chain, guides, and tensioners with updated parts, and reassembly with verified timing. The transmission is separated, the cylinder head and sump are removed for access, and every critical component is inspected and replaced where needed. This is the same procedure BMW service bulletins (SI B11 09 07, SI B11 03 13) describe as the only proper repair for chain stretch or failure."
+        },
+        {
+          "t": "p",
+          "html": "We do not use split-chain or in-situ methods. A proper repair requires new guides and tensioners, not just a new chain — and that requires engine removal."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**4-Cyl Diesel (N47 / B47)** — Rebuild from **£1,900**",
+            "[Pricing Disclaimer](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "This repair applies to BMW models equipped with the N47 or B47 diesel engine family — pre-2015 N47 engines (rear-mounted chain) and post-2015 B47 engines (EGR cooler recall applies separately)."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "1 Series",
+              "href": "/bmw-1-series-engines"
+            },
+            {
+              "label": "116d (N47/B47)",
+              "href": "/bmw-116d-engines"
+            },
+            {
+              "label": "118d (N47/B47)",
+              "href": "/bmw-118d-engines"
+            },
+            {
+              "label": "120d (N47/B47)",
+              "href": "/bmw-120d-engines"
+            },
+            {
+              "label": "125d (N47/B47)",
+              "href": "/bmw-125d-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "2 Series",
+            "href": "/bmw-2-series-engines"
+          },
+          "chips": [
+            {
+              "label": "218d (B47)",
+              "href": "/bmw-218d-engines"
+            },
+            {
+              "label": "220d (B47)",
+              "href": "/bmw-220d-engines"
+            },
+            {
+              "label": "225d (B47)",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "3 Series",
+            "href": "/bmw-3-series-engines"
+          },
+          "chips": [
+            {
+              "label": "316d (N47/B47)",
+              "href": "/bmw-316d-engines"
+            },
+            {
+              "label": "318d (N47/B47)",
+              "href": "/bmw-318d-engines"
+            },
+            {
+              "label": "320d (N47/B47)",
+              "href": "/bmw-320d-engines"
+            },
+            {
+              "label": "330d (N57 – 6-cyl, see separate page)",
+              "href": "/bmw-330d-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "4 Series",
+            "href": "/bmw-4-series-engines"
+          },
+          "chips": [
+            {
+              "label": "420d (N47/B47)",
+              "href": "/bmw-420d-engines"
+            },
+            {
+              "label": "425d/430d (N47/B47)",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "5 Series",
+            "href": "/bmw-5-series-engines"
+          },
+          "chips": [
+            {
+              "label": "520d (N47/B47)",
+              "href": "/bmw-520d-engines"
+            },
+            {
+              "label": "525d (N47/B47)",
+              "href": "/bmw-525d-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "X1",
+            "href": "/bmw-x1-engines"
+          },
+          "chips": [
+            {
+              "label": "sDrive18d / xDrive20d (N47/B47)",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "**Engine family pages:** [N47 Engine](/bmw-n47-engine) · [B47 Engine](/bmw-b47-engine)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Process",
+      "steps": [
+        {
+          "title": "Inspection & Confirmation",
+          "body": "We inspect the engine to confirm chain wear and rule out other causes of noise or warning lights."
+        },
+        {
+          "title": "Engine Removal",
+          "body": "Complete engine-out extraction to access the rear timing chain area — transmission separated, ancillaries removed."
+        },
+        {
+          "title": "Strip-Down & Timing Lock",
+          "body": "Cylinder head and sump removed, timing tools lock camshafts and crankshaft in the correct position."
+        },
+        {
+          "title": "Chain, Guides & Tensioner Replacement",
+          "body": "Old components removed; new updated BMW guides, tensioner, and chain fitted."
+        },
+        {
+          "title": "Reassembly & Timing Verification",
+          "body": "All components reassembled, timing verified with specialist tools, engine refitted and tested."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Us",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Specialist BMW engine workshop — we work on these engines every week",
+            "Full BMW-specified procedure — engine-out, not in-situ shortcut methods",
+            "Updated parts fitted, as per BMW service bulletins",
+            "12-month unlimited mileage warranty on every rebuild",
+            "Fixed-price quote — no hidden costs"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Meet The Workshop](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "Contact us with your registration and mileage"
+        },
+        {
+          "title": "",
+          "body": "We inspect and provide a fixed-price quote"
+        },
+        {
+          "title": "",
+          "body": "Engine-out timing chain replacement carried out"
+        },
+        {
+          "title": "",
+          "body": "Full test and handover with 12-month warranty"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[BMW Engine Rebuild](/bmw-engine-rebuild)",
+            "[BMW Petrol Timing Chain Repair (N20)](/bmw-petrol-timing-chain-repair)",
+            "[BMW Engine Replacement](/bmw-engine-replacement)",
+            "[BMW Nationwide Engine Recovery](/bmw-engine-recovery)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "FAQs",
+      "items": [
+        {
+          "q": "What are the symptoms of a failing timing chain on an N47 or B47 engine?",
+          "a": "Rattle on cold start, or a persistent rattling from the rear of the engine, especially at low revs. In later stages, the engine management light may illuminate or the car may go into limp mode. We inspect and confirm the condition before any work begins."
+        },
+        {
+          "q": "How long does the repair take?",
+          "a": "The full engine-out procedure typically takes 3–5 working days, depending on the model and the condition of the engine when it arrives."
+        },
+        {
+          "q": "Do you fit used or aftermarket parts?",
+          "a": "We fit new, BMW-specified or equivalent-quality chain kits, guides, and tensioners. We do not use split-chain links or used parts."
+        },
+        {
+          "q": "What's included in the price?",
+          "a": "The fixed-price quote includes engine removal, new chain, guides, tensioners, gaskets, seals, oil and filter, timing tools, and reassembly. It excludes any additional work identified during strip-down (e.g. failed injectors, turbo issues). We quote transparently for any extra work."
+        },
+        {
+          "q": "What warranty do you offer?",
+          "a": "12 months unlimited mileage on the rebuild, covering parts and labour."
+        }
+      ]
+    }
+  ]
+}

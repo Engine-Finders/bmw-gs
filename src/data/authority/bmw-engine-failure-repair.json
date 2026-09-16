@@ -1,0 +1,363 @@
+{
+  "slug": "bmw-engine-failure-repair",
+  "metaTitle": "BMW Engine Failure Repair | BMW Garage",
+  "metaDescription": "Specialist BMW engine failure repair. Full diagnostic assessment, strip-down inspection, and rebuild of failed N47, N57, S55 & S63 engines. Fixed-price quotes.",
+  "h1": "BMW Engine Failure Repair",
+  "lede": "Specialist assessment, strip-down inspection and full remediation for failed BMW engines — from N47 timing-chain failure to S55 crank-hub damage.",
+  "ctas": [
+    {
+      "label": "Get a quote",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/variant/sec11.webp",
+    "/engine_family/sec9_top.webp",
+    "/model/sec7.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What our engine failure repair involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "When a BMW engine fails, the first priority is a thorough assessment to understand exactly what has happened and what can be saved. Our workshop uses dealer-level BMW diagnostic equipment (**ISTA**) alongside experienced technician inspection to build a complete picture of the failure."
+        },
+        {
+          "t": "h3",
+          "text": "1. Diagnostic evaluation"
+        },
+        {
+          "t": "p",
+          "html": "Every failed engine that arrives at our workshop undergoes a comprehensive diagnostic evaluation. We read fault codes, check sensor readings, and perform compression and leak-down tests to establish the engine's baseline condition."
+        },
+        {
+          "t": "h3",
+          "text": "2. Visual inspection"
+        },
+        {
+          "t": "p",
+          "html": "The engine is visually inspected for obvious signs of failure — external leaks, damaged components, or evidence of overheating or oil starvation."
+        },
+        {
+          "t": "h3",
+          "text": "3. Strip-down inspection"
+        },
+        {
+          "t": "p",
+          "html": "Where the cause of failure is not immediately clear, we perform a full strip-down inspection. The engine is carefully dismantled, and every component — from bearings and bolts to pistons, crankshaft and cylinder head — is inspected for wear, damage or failure."
+        },
+        {
+          "t": "h3",
+          "text": "4. Component measurement & logging"
+        },
+        {
+          "t": "p",
+          "html": "Every bolt, bearing and seal is measured against BMW tolerances. Faulty parts are logged, and a complete inventory of salvageable versus replacement components is created."
+        },
+        {
+          "t": "h3",
+          "text": "5. Bespoke quotation"
+        },
+        {
+          "t": "p",
+          "html": "Based on the strip-down findings, we prepare a detailed, fixed-price quote for the repair. No guesswork. No hidden extras. You see exactly what needs to be done and what it will cost before any work proceeds."
+        },
+        {
+          "t": "p",
+          "html": "[Request an assessment](/contact)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Engine failure repair — starting prices",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Repairs start from the relevant rebuild price for your engine type. The final cost depends on the strip-down assessment and the extent of damage."
+        },
+        {
+          "t": "p",
+          "html": "[Pricing disclaimer](/pricing-legal-disclaimer) — final quote issued after strip-down inspection."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Our workshop: engine failure assessment in progress",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Images staged on real premises (temporary) — actual completed job photography being added."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "BMW models & engines we repair",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our engine failure repair service covers the full range of BMW engines. Below are the models and engine families most frequently affected by known failure patterns."
+        },
+        {
+          "t": "h3",
+          "text": "Models with known failure patterns"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "**3 Series** E90, F30, G20",
+              "href": "/bmw-3-series-engines"
+            },
+            {
+              "label": "**5 Series** E60, F10, G30",
+              "href": "/bmw-5-series-engines"
+            },
+            {
+              "label": "**X5** E70, F15, G05",
+              "href": "/bmw-x5-engines"
+            },
+            {
+              "label": "**X3** F25, G01",
+              "href": "/bmw-x3-engines"
+            },
+            {
+              "label": "**M3** E90, F80, G80",
+              "href": "/bmw-m3-engines"
+            },
+            {
+              "label": "**M5** E60, F10, F90",
+              "href": "/bmw-m5-engines"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Engine families we regularly assess"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "**N47** 4-Cyl diesel",
+              "href": "/bmw-n47-engine"
+            },
+            {
+              "label": "**B47** 4-Cyl diesel",
+              "href": "/bmw-b47-engine"
+            },
+            {
+              "label": "**N57** 6-Cyl diesel",
+              "href": "/bmw-n57-engine"
+            },
+            {
+              "label": "**N63** V8 petrol",
+              "href": "/bmw-n63-engine"
+            },
+            {
+              "label": "**S55** Performance I6",
+              "href": "/bmw-s55-engine"
+            },
+            {
+              "label": "**S63** Performance V8",
+              "href": "/bmw-s63-engine"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Specific variants with documented failure patterns",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "3 Series 320d",
+              "href": "/bmw-320d-engines"
+            },
+            {
+              "label": "3 Series 330d",
+              "href": "/bmw-330d-engines"
+            },
+            {
+              "label": "5 Series 530d",
+              "href": "/bmw-530d-engines"
+            },
+            {
+              "label": "M3 (F80)",
+              "href": "/bmw-m3-engines"
+            },
+            {
+              "label": "M5 (F10)",
+              "href": "/bmw-m5-engines"
+            },
+            {
+              "label": "X5 xDrive50i",
+              "href": "/bmw-x5-xdrive50i-engines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our engine failure repair process",
+      "steps": [
+        {
+          "title": "Diagnostic evaluation",
+          "body": "Dealer-level ISTA diagnostics, fault-code reading, compression and leak-down tests."
+        },
+        {
+          "title": "Visual inspection",
+          "body": "External inspection for leaks, damage, overheating evidence or oil starvation signs."
+        },
+        {
+          "title": "Strip-down inspection",
+          "body": "Full engine teardown. Every component inspected, measured and logged."
+        },
+        {
+          "title": "Salvage assessment",
+          "body": "Determining which parts can be reused and which must be replaced."
+        },
+        {
+          "title": "Bespoke quotation",
+          "body": "Fixed-price repair plan based on strip-down findings. No hidden extras."
+        },
+        {
+          "title": "Remediation & reassembly",
+          "body": "Replacement of failed parts, machining work, reassembly to BMW spec, and final testing."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why choose BMW Garage for engine failure repair",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Dealer-level BMW diagnostic equipment** — ISTA, compression and leak-down testing in-house.",
+            "**Full strip-down inspection** — we don't guess. We verify the root cause before quoting any repair.",
+            "**Fixed-price quotations** — no surprise costs. You approve the work and the price before we proceed.",
+            "**In-house machining** — cylinder boring, head resurfacing and crankshaft grinding performed on-site.",
+            "**12-month unlimited-mileage warranty** — every repair is covered, giving you confidence in the work.",
+            "**Established since 2009** — we've been rebuilding and repairing BMW engines for over 15 years."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Meet the workshop](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Recent engine failure repairs",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "A selection of recent failed BMW engines we have assessed and repaired in our workshop."
+        },
+        {
+          "t": "p",
+          "html": "Images staged on real premises (temporary) — actual completed job photography being added."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How our engine failure repair service works",
+      "steps": [
+        {
+          "title": "Contact us",
+          "body": "Call, email or use the registration lookup to tell us about your failed BMW engine."
+        },
+        {
+          "title": "Book in for assessment",
+          "body": "We schedule your engine for diagnostic evaluation and strip-down inspection at our Billericay workshop."
+        },
+        {
+          "title": "Inspection & quotation",
+          "body": "We complete the strip-down inspection, identify the root cause, and prepare a fixed-price repair quote."
+        },
+        {
+          "title": "Repair & testing",
+          "body": "Upon approval, we carry out the repair, including machining, replacement parts, reassembly and final testing."
+        },
+        {
+          "title": "Collection",
+          "body": "Your BMW is ready for collection with a 12-month unlimited-mileage warranty on the repair."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related services",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Other BMW engine services we offer alongside failure repair."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[BMW engine rebuild](/bmw-engine-rebuild) — full rebuild of failed or worn engines",
+            "[BMW engine replacement](/bmw-engine-replacement) — like-for-like engine swap",
+            "[BMW engine inspection & assessment](/bmw-engine-inspection-assessment) — pre-purchase or precautionary checks",
+            "[BMW nationwide engine recovery](/bmw-engine-recovery) — collection from anywhere in the UK",
+            "[BMW engine machining](/bmw-engine-machining) — cylinder boring, head resurfacing, crankshaft grinding",
+            "[BMW engine removal & refit](/bmw-engine-removal-refit) — full removal and refit service"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "How long does an engine failure assessment take?",
+          "a": "The initial diagnostic evaluation can be completed in a few hours. A full strip-down inspection typically takes several hours to a full day, depending on the engine type and complexity. We'll give you a clear timeline when you book in."
+        },
+        {
+          "q": "Do you charge for the strip-down inspection?",
+          "a": "We charge a diagnostic deposit that covers the strip-down inspection and assessment. This deposit is deducted from the final repair cost if you proceed with the repair. The exact deposit amount depends on the engine type — contact us for details."
+        },
+        {
+          "q": "Can you repair any BMW engine that has failed?",
+          "a": "We can assess and repair the vast majority of BMW engines, from 4-cylinder diesels to M-division V8s and V10s. In rare cases where an engine is beyond economic repair, we will advise on replacement options instead."
+        },
+        {
+          "q": "What warranty do you offer on engine failure repairs?",
+          "a": "Every repair we carry out is covered by a 12-month unlimited-mileage warranty. This covers parts and labour for the repaired components. Full warranty terms are provided with every quotation."
+        },
+        {
+          "q": "Do you provide a courtesy car while my engine is being repaired?",
+          "a": "We don't offer a courtesy car as standard, but we can arrange alternative transport options or recovery assistance. Contact us to discuss your specific needs."
+        },
+        {
+          "q": "Can you collect my BMW if it has failed and can't be driven?",
+          "a": "Yes. We offer nationwide recovery for failed BMW engines. Collection starts from £70, and we can arrange transport from anywhere in the UK direct to our Billericay workshop."
+        }
+      ]
+    }
+  ]
+}

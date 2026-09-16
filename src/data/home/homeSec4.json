@@ -2,15 +2,15 @@
   "h2": "What's Wrong With Your BMW?",
   "description": "Select your symptom. We'll show you the fix.",
   "symptoms": [
-    { "label": "Timing Chain Noise", "icon": "chain", "image": "/home/sec4_1.png", "href": "/symptoms/timing-chain-noise" },
-    { "label": "White Smoke", "icon": "smoke", "image": "/home/sec4_2.png", "href": "/symptoms/white-smoke" },
-    { "label": "Blue Smoke", "icon": "smoke", "image": "/home/sec4_3.png", "href": "/symptoms/blue-smoke" },
-    { "label": "Engine Overheating", "icon": "gauge", "image": "/home/sec4_4.png", "href": "/symptoms/engine-overheating" },
-    { "label": "Oil Pressure Warning", "icon": "oil", "image": "/home/sec4_5.png", "href": "/symptoms/oil-pressure-warning" },
-    { "label": "Engine Management Light", "icon": "engine-light", "image": "/home/sec4_6.png", "href": "/symptoms/engine-management-light" },
-    { "label": "Turbo Problems", "icon": "turbo", "image": "/home/sec4_7.png", "href": "/symptoms/turbo-problems" },
-    { "label": "Loss of Power", "icon": "power", "image": "/home/sec4_8.png", "href": "/symptoms/loss-of-power" },
-    { "label": "Excessive Oil Consumption", "icon": "oil-can", "image": "/home/sec4_1.png", "href": "/symptoms/excessive-oil-consumption" },
-    { "label": "Knocking Noise", "icon": "knock", "image": "/home/sec4_2.png", "href": "/symptoms/knocking-noise" }
+    { "label": "Timing Chain Noise", "icon": "chain", "image": "/home/sec4_1.png", "href": "/contact" },
+    { "label": "White Smoke", "icon": "smoke", "image": "/home/sec4_2.png", "href": "/contact" },
+    { "label": "Blue Smoke", "icon": "smoke", "image": "/home/sec4_3.png", "href": "/contact" },
+    { "label": "Engine Overheating", "icon": "gauge", "image": "/home/sec4_4.png", "href": "/contact" },
+    { "label": "Oil Pressure Warning", "icon": "oil", "image": "/home/sec4_5.png", "href": "/contact" },
+    { "label": "Engine Management Light", "icon": "engine-light", "image": "/home/sec4_6.png", "href": "/contact" },
+    { "label": "Turbo Problems", "icon": "turbo", "image": "/home/sec4_7.png", "href": "/contact" },
+    { "label": "Loss of Power", "icon": "power", "image": "/home/sec4_8.png", "href": "/contact" },
+    { "label": "Excessive Oil Consumption", "icon": "oil-can", "image": "/home/sec4_1.png", "href": "/contact" },
+    { "label": "Knocking Noise", "icon": "knock", "image": "/home/sec4_2.png", "href": "/contact" }
   ]
 }

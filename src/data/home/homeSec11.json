@@ -7,14 +7,35 @@
   "bgImage": "/home/sec11_bg.webp",
   "mobileImage": "/home/sec11_mobile.jpg",
   "cardImage": "/home/sec11_car.webp",
-  "cta": { "label": "Learn More", "href": "#" },
+  "cta": {
+    "label": "Learn More",
+    "href": "/about"
+  },
   "strip": [
-    { "label": "Nationwide Recovery", "icon": "truck" },
-    { "label": "Engine Stripping", "icon": "gear" },
-    { "label": "Expert Rebuilding", "icon": "tech" },
-    { "label": "Machine Shop", "icon": "tool" },
-    { "label": "Rigorous Testing", "icon": "monitor" },
-    { "label": "Road Test & Quality Check", "icon": "car" }
+    {
+      "label": "Nationwide Recovery",
+      "icon": "truck"
+    },
+    {
+      "label": "Engine Stripping",
+      "icon": "gear"
+    },
+    {
+      "label": "Expert Rebuilding",
+      "icon": "tech"
+    },
+    {
+      "label": "Machine Shop",
+      "icon": "tool"
+    },
+    {
+      "label": "Rigorous Testing",
+      "icon": "monitor"
+    },
+    {
+      "label": "Road Test & Quality Check",
+      "icon": "car"
+    }
   ],
   "address": "Billericay, Essex, UK",
   "directionsLabel": "Get Directions",

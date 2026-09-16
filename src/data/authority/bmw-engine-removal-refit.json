@@ -1,0 +1,312 @@
+{
+  "slug": "bmw-engine-removal-refit",
+  "metaTitle": "BMW Engine Removal, Refit & Final Testing | BMW Garage",
+  "metaDescription": "Professional BMW engine removal, refitting and final testing at our Essex workshop. Included in all rebuilds, with full road testing and warranty.",
+  "h1": "BMW Engine Removal, Refit & Final Testing",
+  "lede": "Professional engine removal, refitting and final testing for all BMW models, carried out at our Essex workshop.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine_family/sec9_bottom.webp",
+    "/model/sec12.webp",
+    "/engine_family/sec2_top.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Engine removal and refit (R&R) is the process of taking an engine out of a vehicle and later reinstalling it – either the same rebuilt unit or a replacement. Every engine that leaves our workshop undergoes a thorough removal, refit and testing process."
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Removal Process",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "**Preparation:** Battery disconnected, fluids drained (oil, coolant, fuel system depressurised).",
+              "href": null
+            },
+            {
+              "label": "**Ancillary removal:** Intake and exhaust manifolds removed, wiring harnesses disconnected, ancillary components cleared.",
+              "href": null
+            },
+            {
+              "label": "**Engine support:** Engine supported with a hoist.",
+              "href": null
+            },
+            {
+              "label": "**Mounts undone:** Engine mounts unbolted.",
+              "href": null
+            },
+            {
+              "label": "**Subframe considerations:** On some BMW models, the subframe and engine are removed together.",
+              "href": null
+            },
+            {
+              "label": "**Engine extraction:** Engine carefully lifted and removed from the vehicle.",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Refit Process",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "**Engine preparation:** Rebuilt or replacement engine prepared with ancillaries fitted.",
+              "href": null
+            },
+            {
+              "label": "**Installation:** Engine lowered into position.",
+              "href": null
+            },
+            {
+              "label": "**Mounts secured:** Engine mounts torqued to specification.",
+              "href": null
+            },
+            {
+              "label": "**Ancillary reconnection:** All components reconnected in reverse order.",
+              "href": null
+            },
+            {
+              "label": "**Fluids refilled:** Oil, coolant, and other fluids replaced.",
+              "href": null
+            },
+            {
+              "label": "**System checks:** Leak checks, electrical checks, fluid level verification.",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Final Testing"
+        },
+        {
+          "t": "p",
+          "html": "After refit, the engine undergoes:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Start-up testing:** Engine started and run to check for leaks, noises, and correct operation.",
+            "**Running-in procedure:** If rebuilt, the engine is run through a break-in protocol.",
+            "**Road test:** Vehicle road-tested to verify performance and drivability.",
+            "**Final inspection:** All systems checked before handover."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "For a deeper look into our rebuild process, read our full guide on what happens during an engine rebuild."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "Engine removal and refit is included as part of our full engine rebuild packages. Rebuild prices start from:",
+            "If you already have a replacement engine and only require removal/refit, we can quote separately – [contact us for a tailored estimate](/contact).",
+            "[Pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our removal and refit service covers every BMW model, but the complexity varies. We routinely work on the following ranges:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "3 Series",
+              "href": "/bmw-3-series-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "For engines with particularly demanding removal procedures – such as the [N63](/bmw-n63-engine) and [S63](/bmw-s63-engine) V8s, or [N57](/bmw-n57-engine) diesel units – we have the specialist tooling and experience to handle them safely."
+        },
+        {
+          "t": "p",
+          "html": "Specific variants we frequently remove and refit include:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[BMW 3 Series 320d](/bmw-320d-engines)",
+            "[BMW 5 Series 530d](/bmw-530d-engines)",
+            "[BMW X5 xDrive50i](/bmw-x5-xdrive50i-engines)",
+            "[BMW M5](/bmw-m5-engines)",
+            "[BMW X6 xDrive50i](/bmw-x6-xdrive50i-engines)",
+            "[BMW 7 Series 750i](/bmw-750i-engines)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "We also handle **X-drive (AWD)** models, which require front axle disconnection – a step we include in every quote."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Removal, Refit & Testing Process",
+      "steps": [
+        {
+          "title": "Preparation",
+          "body": "Battery disconnected, fluids drained, fuel system depressurised."
+        },
+        {
+          "title": "Ancillary Removal",
+          "body": "Intake/exhaust manifolds, wiring, and ancillaries cleared."
+        },
+        {
+          "title": "Engine Support & Mounts",
+          "body": "Hoist attached, engine mounts unbolted."
+        },
+        {
+          "title": "Subframe (if needed)",
+          "body": "On many BMWs, subframe and engine come out together."
+        },
+        {
+          "title": "Extraction",
+          "body": "Engine lifted and removed from the vehicle."
+        },
+        {
+          "title": "Refit",
+          "body": "Engine prepared, lowered, mounts torqued, ancillaries reconnected, fluids refilled."
+        },
+        {
+          "title": "Testing",
+          "body": "Start-up, running-in, road test, final inspection."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose BMW Garage for Engine Removal & Refit",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Specialist BMW knowledge** – we work exclusively on BMW engines, from 4-cylinder diesels to V8s and M-power units.",
+            "**12-month unlimited mileage warranty** on all rebuilds – included with every removal/refit that accompanies a rebuild.",
+            "**Fixed-price quotes** – no hidden extras; we inspect and quote clearly before any work begins.",
+            "**Nationwide recovery** – if your BMW needs collecting, we can arrange recovery from anywhere in the UK (from £70).",
+            "**In-house machining and tooling** – we have all the BMW-specific tools (torx, E-torx, holding tools) and equipment to handle complex subframe removals.",
+            "**Full road testing** – every refit is verified on the road before you collect your car."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop and team →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "**Contact us** – call, WhatsApp, or fill in our quote form."
+        },
+        {
+          "title": "",
+          "body": "**Inspection & quote** – we assess your engine and provide a fixed price."
+        },
+        {
+          "title": "",
+          "body": "**Work begins** – removal, rebuild (if needed), refit, and testing."
+        },
+        {
+          "title": "",
+          "body": "**Collection** – your BMW is road-tested and ready for collection."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[BMW Engine Rebuild](/bmw-engine-rebuild)",
+            "[BMW Engine Replacement](/bmw-engine-replacement)",
+            "[BMW Engine Supply & Fit](/bmw-engine-supply-fit)",
+            "[BMW Engine Matching by Registration & VIN](/bmw-engine-matching)",
+            "[BMW Engine Machining](/bmw-engine-machining)",
+            "[BMW Engine Inspection & Assessment](/bmw-engine-inspection-assessment)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How long does engine removal and refit take?",
+          "a": "Typically 3–5 days for removal, rebuild (if required) and refit, plus testing. For a straight removal/refit without rebuild, we can often complete it in 2–3 days. We'll give you a clear timeframe when we quote."
+        },
+        {
+          "q": "Do you remove the subframe on every BMW?",
+          "a": "No – it depends on the model. Many BMWs (especially 3 Series and X-drive cars) require subframe removal for engine access. Others allow the engine to be lifted out without subframe removal. We always follow the manufacturer's recommended procedure."
+        },
+        {
+          "q": "Is removal and refit included in the rebuild price?",
+          "a": "Yes – every engine rebuild we carry out includes full removal, refit, and final testing. The prices listed in Section 3 cover the complete job."
+        },
+        {
+          "q": "What kind of testing do you do after refit?",
+          "a": "We run a start-up test to check for leaks and noises, follow a running-in protocol for rebuilt engines, then road test the vehicle to verify performance, gearbox integration, and overall drivability. A final inspection covers all fluid levels and electrical systems."
+        },
+        {
+          "q": "Do you work on X-drive (AWD) BMWs?",
+          "a": "Absolutely – we regularly handle X-drive models. The front axle must be disconnected during engine removal, which we factor into every quote. We have the specialist tools to do this safely and correctly."
+        }
+      ]
+    }
+  ]
+}

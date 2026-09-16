@@ -1,0 +1,349 @@
+{
+  "slug": "bmw-engine-bearing-replacement",
+  "metaTitle": "BMW Engine Bearing Replacement | BMW Garage",
+  "metaDescription": "Professional BMW engine bearing replacement – main and rod bearings replaced as part of our full engine rebuild service. Precision measurement and factory tolerances guaranteed.",
+  "h1": "BMW Engine Bearing Replacement",
+  "lede": "Main and rod bearing replacement during our full engine rebuild service. We measure, match, and install new bearings to BMW factory tolerances, ensuring long-term reliability.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/model/sec2.webp",
+    "/variant/sec10_engine.webp",
+    "/engine_family/sec3.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What BMW Engine Bearing Replacement Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our bearing replacement service is performed as a core part of our full engine rebuilds, and can also be carried out as a standalone procedure where required. The process involves:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Engine preparation** – we prepare the engine for bottom-end access, typically by removing the oil pan and any auxiliary components.",
+            "**Access to bearings** – for main bearings, the crankshaft or main bearing caps are removed; for rod bearings, the connecting rod caps are accessed through the oil pan.",
+            "**Removal of old bearings** – old bearing shells are carefully extracted from their housings.",
+            "**Journal inspection and measurement** – crankshaft journals are inspected for wear, then measured against BMW's factory tolerance specifications using micrometres and bore gauges.",
+            "**Installation of new bearings** – new bearings are fitted with the correct clearance, verified using plastigauge or precision micrometer readings.",
+            "**Reassembly and torque** – all components are reassembled and torqued to BMW's exact specifications.",
+            "**Oil system service** – the oil and filter are replaced to complete the process."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "This work is carried out in our fully equipped workshop using specialist tools and genuine or OEM-grade replacement parts."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Pricing for BMW Engine Bearing Replacement",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Bearing replacement is included as standard in our full engine rebuild prices.**",
+            "Prices start from:",
+            "If you require bearing replacement as a standalone service, please [contact us](/contact) for a tailored quote. [Pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable BMW Models and Engine Families",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We perform bearing replacement on a wide range of BMW engines. The following models and engine families are among those we regularly service:"
+        },
+        {
+          "t": "h3",
+          "text": "Models"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "BMW M2",
+              "href": "/bmw-m2-engines"
+            },
+            {
+              "label": "BMW M3",
+              "href": "/bmw-m3-engines"
+            },
+            {
+              "label": "BMW M4",
+              "href": "/bmw-m4-engines"
+            },
+            {
+              "label": "BMW M5",
+              "href": "/bmw-m5-engines"
+            },
+            {
+              "label": "BMW M6",
+              "href": "/bmw-m6-engines"
+            },
+            {
+              "label": "BMW M8",
+              "href": "/bmw-m8-engines"
+            },
+            {
+              "label": "BMW X5 M",
+              "href": "/bmw-x5-m-engines"
+            },
+            {
+              "label": "BMW X6 M",
+              "href": "/bmw-x6-m-engines"
+            },
+            {
+              "label": "BMW Z4 (including Z4 M)",
+              "href": "/bmw-z4-engines"
+            },
+            {
+              "label": "BMW 3 Series",
+              "href": "/bmw-3-series-engines"
+            },
+            {
+              "label": "BMW 5 Series",
+              "href": "/bmw-5-series-engines"
+            },
+            {
+              "label": "BMW 7 Series",
+              "href": "/bmw-7-series-engines"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Engine Families"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "S54",
+              "href": "/bmw-s54-engine"
+            },
+            {
+              "label": "S65",
+              "href": "/bmw-s65-engine"
+            },
+            {
+              "label": "S85",
+              "href": "/bmw-s85-engine"
+            },
+            {
+              "label": "S63",
+              "href": "/bmw-s63-engine"
+            },
+            {
+              "label": "S55",
+              "href": "/bmw-s55-engine"
+            },
+            {
+              "label": "S58",
+              "href": "/bmw-s58-engine"
+            },
+            {
+              "label": "N55",
+              "href": "/bmw-n55-engine"
+            },
+            {
+              "label": "B58",
+              "href": "/bmw-b58-engine"
+            },
+            {
+              "label": "N57",
+              "href": "/bmw-n57-engine"
+            },
+            {
+              "label": "N47",
+              "href": "/bmw-n47-engine"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Featured Variants",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "BMW M3 Competition",
+              "href": "/bmw-m3-competition-engines"
+            },
+            {
+              "label": "BMW M5 Competition",
+              "href": "/bmw-m5-competition-engines"
+            },
+            {
+              "label": "BMW M6",
+              "href": "/bmw-m6-engines"
+            },
+            {
+              "label": "BMW M8 Competition",
+              "href": "/bmw-m8-competition-engines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Bearing Replacement Process",
+      "steps": [
+        {
+          "title": "",
+          "body": "We prepare the engine for bottom-end access, safely supporting the vehicle and draining fluids."
+        },
+        {
+          "title": "",
+          "body": "The oil pan and any obstructions are removed to expose the main and connecting rod bearing caps."
+        },
+        {
+          "title": "",
+          "body": "We remove the bearing caps and carefully extract the old bearing shells."
+        },
+        {
+          "title": "",
+          "body": "Crankshaft journals are inspected for wear and measured against BMW factory tolerances using precision tools."
+        },
+        {
+          "title": "",
+          "body": "New bearings are fitted with correct clearance, verified with plastigauge or micrometer readings."
+        },
+        {
+          "title": "",
+          "body": "All components are reassembled and torqued to BMW's exact specifications, including new bolts where required."
+        },
+        {
+          "title": "",
+          "body": "We replace the oil and filter, and perform a final check before road testing."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Check Your BMW for Bearing Replacement",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We'll let you know if your engine is covered by our standard bearing replacement service or if additional inspection is needed."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose BMW Garage for Engine Bearing Replacement?",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "12-month unlimited-mileage warranty on all rebuilds",
+            "Experienced BMW-specialist technicians",
+            "Fully equipped workshop with precision measurement tools",
+            "Genuine or OEM-grade replacement parts",
+            "Clear, fixed-price quotes after inspection",
+            "Nationwide recovery service available"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How Our Bearing Replacement Service Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "Contact us with your vehicle details and we'll arrange an inspection."
+        },
+        {
+          "title": "",
+          "body": "We assess the engine and confirm if bearing replacement is the right course of action."
+        },
+        {
+          "title": "",
+          "body": "We provide a fixed-price quote based on the specific work needed."
+        },
+        {
+          "title": "",
+          "body": "The work is carried out in our workshop, with full quality control."
+        },
+        {
+          "title": "",
+          "body": "Your vehicle is road-tested and returned with a warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[BMW Engine Rebuild](/bmw-engine-rebuild)",
+            "[BMW Rod Bearing Repair](/bmw-rod-bearing-repair)",
+            "[BMW M-Power Engine Rebuild](/bmw-m-power-engine-rebuild)",
+            "[BMW Engine Inspection & Assessment](/bmw-engine-inspection-assessment)",
+            "[BMW Engine Bearing Replacement](/bmw-engine-bearing-replacement)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "Do you replace both main bearings and connecting rod bearings?",
+          "a": "Yes. Our service covers both main bearings and connecting rod bearings as part of a full engine rebuild. We can also perform a standalone bearing replacement on request."
+        },
+        {
+          "q": "Which BMW engines are most commonly serviced for bearing replacement?",
+          "a": "We regularly perform bearing replacement on M-Power engines such as the S54, S65, S85, and S63, as well as high-mileage N55, N57, and B58 engines. The specific need depends on engine condition and mileage."
+        },
+        {
+          "q": "Is bearing replacement always part of a full rebuild?",
+          "a": "In most cases, bearing replacement is included as part of our full engine rebuild service. However, we can also carry out a bearing-only replacement if the engine is otherwise in good condition."
+        },
+        {
+          "q": "What warranty do you offer on bearing replacement work?",
+          "a": "All our rebuilds and bearing replacements come with a 12-month unlimited-mileage warranty. Terms and conditions apply."
+        }
+      ]
+    }
+  ]
+}

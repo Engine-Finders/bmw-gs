@@ -1,0 +1,360 @@
+{
+  "slug": "bmw-engine-components-replaced",
+  "metaTitle": "BMW Engine Components We Replace | BMW Garage",
+  "metaDescription": "Detailed overview of components replaced during BMW engine rebuilds. Bottom end, top end, timing chains, bearings, gaskets, and BMW-specific considerations.",
+  "h1": "BMW Engine Components We Replace",
+  "lede": "We replace every critical component in your BMW engine, from the bottom end to the top end. This is our full scope of work — no shortcuts, no reused seals, no guesswork.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/model/sec2.webp",
+    "/variant/sec10_engine.webp",
+    "/engine_family/sec3.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "This page gives you a complete picture of the components we replace during a full BMW engine rebuild. We don't just repair the immediate problem — we refresh every part that commonly wears out, ensuring the engine delivers its original performance and reliability."
+        },
+        {
+          "t": "p",
+          "html": "Our rebuilds are carried out in-house using BMW-specific tooling, with all components sourced to OEM standards or better. Every job includes a full strip-down, inspection, machining where required, and reassembly with new gaskets, seals, bearings, and timing components."
+        },
+        {
+          "t": "p",
+          "html": "Read our full rebuild checklist for more detail on our inspection process."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**4-Cyl Diesel** from £1,900",
+            "**4-Cyl Petrol** from £2,200",
+            "**6-Cyl Diesel** from £2,800",
+            "**6-Cyl Petrol** from £3,200",
+            "**V8** from £4,500",
+            "**V12** from £8,000+",
+            "**Performance M-Sport** (S54/S55/S58/S63/S65) from £5,500+"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Pricing disclaimer](/pricing-legal-disclaimer) — all rebuilds include fitting, no supply-only service."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engine Families",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We replace these components across all BMW models we rebuild. Below are the key engine families and the models they appear in."
+        },
+        {
+          "t": "h3",
+          "text": "Engine Families"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "N47",
+              "href": "/bmw-n47-engine"
+            },
+            {
+              "label": "B47",
+              "href": "/bmw-b47-engine"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Models",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "1 Series",
+              "href": "/bmw-1-series-engines"
+            },
+            {
+              "label": "2 Series",
+              "href": "/bmw-2-series-engines"
+            },
+            {
+              "label": "3 Series",
+              "href": "/bmw-3-series-engines"
+            },
+            {
+              "label": "4 Series",
+              "href": "/bmw-4-series-engines"
+            },
+            {
+              "label": "5 Series",
+              "href": "/bmw-5-series-engines"
+            },
+            {
+              "label": "6 Series",
+              "href": "/bmw-6-series-engines"
+            },
+            {
+              "label": "7 Series",
+              "href": "/bmw-7-series-engines"
+            },
+            {
+              "label": "8 Series",
+              "href": "/bmw-8-series-engines"
+            },
+            {
+              "label": "X1",
+              "href": "/bmw-x1-engines"
+            },
+            {
+              "label": "X2",
+              "href": "/bmw-x2-engines"
+            },
+            {
+              "label": "X3",
+              "href": "/bmw-x3-engines"
+            },
+            {
+              "label": "X4",
+              "href": "/bmw-x4-engines"
+            },
+            {
+              "label": "X5",
+              "href": "/bmw-x5-engines"
+            },
+            {
+              "label": "X6",
+              "href": "/bmw-x6-engines"
+            },
+            {
+              "label": "X7",
+              "href": "/bmw-x7-engines"
+            },
+            {
+              "label": "Z4",
+              "href": "/bmw-z4-engines"
+            },
+            {
+              "label": "M2",
+              "href": "/bmw-m2-engines"
+            },
+            {
+              "label": "M3",
+              "href": "/bmw-m3-engines"
+            },
+            {
+              "label": "M4",
+              "href": "/bmw-m4-engines"
+            },
+            {
+              "label": "M5",
+              "href": "/bmw-m5-engines"
+            },
+            {
+              "label": "M6",
+              "href": "/bmw-m6-engines"
+            },
+            {
+              "label": "M8",
+              "href": "/bmw-m8-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Featured Variants",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "116d",
+              "href": "/bmw-116d-engines"
+            },
+            {
+              "label": "118d",
+              "href": "/bmw-118d-engines"
+            },
+            {
+              "label": "218d",
+              "href": "/bmw-218d-engines"
+            },
+            {
+              "label": "320d",
+              "href": "/bmw-320d-engines"
+            },
+            {
+              "label": "330d",
+              "href": "/bmw-330d-engines"
+            },
+            {
+              "label": "420d",
+              "href": "/bmw-420d-engines"
+            },
+            {
+              "label": "530d",
+              "href": "/bmw-530d-engines"
+            },
+            {
+              "label": "X3 xDrive20d",
+              "href": "/bmw-x3-xdrive20d-engines"
+            },
+            {
+              "label": "X5 xDrive30d",
+              "href": "/bmw-x5-xdrive30d-engines"
+            },
+            {
+              "label": "M2 Competition",
+              "href": "/bmw-m2-competition-engines"
+            },
+            {
+              "label": "M3 Competition",
+              "href": "/bmw-m3-competition-engines"
+            },
+            {
+              "label": "M4 Competition",
+              "href": "/bmw-m4-competition-engines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Process",
+      "steps": [
+        {
+          "title": "Strip-down",
+          "body": "Engine removed from the car and fully dismantled. Every component inspected for wear."
+        },
+        {
+          "title": "Machining (if required)",
+          "body": "Cylinder bores are honed, crankshaft journals ground, and the block deck faced to spec."
+        },
+        {
+          "title": "Component selection",
+          "body": "New bearings, rings, gaskets, timing chains, and oil pump parts are selected per engine family."
+        },
+        {
+          "title": "Reassembly",
+          "body": "All new seals and fasteners used. Every bolt torqued to BMW factory specifications."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Us",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Established in 2009, with 15+ years of BMW-specific engine work",
+            "12-month unlimited-mileage warranty on every rebuild",
+            "In-house machining and BMW-specific tooling",
+            "Transparent fixed-price quotations after inspection",
+            "Nationwide recovery service available from £70",
+            "Full engine matching by registration and VIN"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop](/about)."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "Call or [contact us](/contact) with your BMW's reg and engine type"
+        },
+        {
+          "title": "",
+          "body": "We arrange inspection and provide a fixed-price rebuild quote"
+        },
+        {
+          "title": "",
+          "body": "Engine is rebuilt, tested, and refitted with a 12-month warranty"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[BMW Engine Rebuild](/bmw-engine-rebuild)",
+            "[BMW Diesel Timing Chain Repair](/bmw-diesel-timing-chain-repair)",
+            "[BMW Petrol Timing Chain Repair](/bmw-petrol-timing-chain-repair)",
+            "[BMW M-Car Rod Bearing Repair](/bmw-rod-bearing-repair)",
+            "[BMW V8 Hot-Vee Engine Repair](/bmw-hot-vee-v8-repair)",
+            "[BMW Engine Inspection & Assessment](/bmw-engine-inspection-assessment)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "Do you replace all gaskets and seals on every rebuild?",
+          "a": "Yes. We never reuse old gaskets or seals. Every rebuild includes a full gasket set, with all seals replaced during reassembly."
+        },
+        {
+          "q": "Are timing chains always replaced?",
+          "a": "On affected engine families (N47/B47, N20/B48, N55/B58), the timing chain, guides, and tensioners are replaced as standard. On engines without known chain issues, we inspect and only replace if wear is found."
+        },
+        {
+          "q": "Do you replace rod bearings on all engines?",
+          "a": "Rod bearings are replaced on all bottom-end rebuilds regardless of engine type. On performance M-car engines (S54/S55/S58/S63/S65), we use upgraded bearings where available."
+        },
+        {
+          "q": "What about oil pumps and water pumps?",
+          "a": "Oil pumps are inspected and replaced if worn; oil pump chains are replaced when the timing chain is done. Water pumps are replaced on N55/B58 engines as a known wear item, and otherwise inspected and replaced if needed."
+        }
+      ]
+    }
+  ]
+}

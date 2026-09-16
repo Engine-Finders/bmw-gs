@@ -21,15 +21,29 @@ import sec8 from "@/data/engine-family/n55Sec8.json";
 import sec9 from "@/data/engine-family/n55Sec9.json";
 import sec10 from "@/data/engine-family/n55Sec10.json";
 import sec11 from "@/data/engine-family/n55Sec11.json";
+import JsonLd from "@/components/shared/JsonLd";
+import { serviceSchema, faqSchema, breadcrumbSchema, graphDoc } from "@/lib/schema";
+
+const PATH = "/bmw-n55-engine";
+const NAME = [sec1.titlePre, sec1.titleHighlight, sec1.titleLine2].filter(Boolean).join(" ");
+const FAQ = [...(sec11.faq?.faqLeft || []), ...(sec11.faq?.faqRight || [])];
 
 export const metadata = {
   title: sec1.h1?.replaceAll("|", " ") || "bmw-n55-engine",
   description: sec1.subhead || "",
+  alternates: { canonical: PATH },
 };
 
 export default function BmwN55EnginePage() {
   return (
     <>
+      <JsonLd
+        data={graphDoc([
+          serviceSchema({ name: NAME, description: sec1.subhead, path: PATH, price: (sec1.priceCta?.label || sec1.priceCta?.kicker) }),
+          faqSchema(FAQ, PATH),
+          breadcrumbSchema([{ name: "Home", path: "/" }, { name: "Engines", path: "/engines" }, { name: NAME, path: PATH }], PATH),
+        ])}
+      />
       <HeroSec1 data={sec1} />
       <Sec2 data={sec2} />
       <Sec3 data={sec3} />

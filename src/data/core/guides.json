@@ -1,0 +1,135 @@
+{
+  "title": "BMW Guides",
+  "subtitle": "Expert guides and articles on BMW engine repair, rebuilds and common issues.",
+  "groups": [
+    {
+      "heading": "",
+      "items": [
+        {
+          "label": "BMW Cylinder Head Repair & Rebuild",
+          "href": "/bmw-cylinder-head-repair"
+        },
+        {
+          "label": "BMW Diesel Timing Chain Repair (N47/B47)",
+          "href": "/bmw-diesel-timing-chain-repair"
+        },
+        {
+          "label": "BMW Engine Bearing Replacement",
+          "href": "/bmw-engine-bearing-replacement"
+        },
+        {
+          "label": "BMW Engine Breakdown Recovery & Nationwide Collection",
+          "href": "/bmw-engine-recovery"
+        },
+        {
+          "label": "BMW Engine Compatibility & Application Matching",
+          "href": "/bmw-engine-compatibility"
+        },
+        {
+          "label": "BMW Engine Components We Replace",
+          "href": "/bmw-engine-components-replaced"
+        },
+        {
+          "label": "BMW Engine Failure Repair",
+          "href": "/bmw-engine-failure-repair"
+        },
+        {
+          "label": "BMW Engine Inspection & Assessment",
+          "href": "/bmw-engine-inspection-assessment"
+        },
+        {
+          "label": "BMW Engine Machining & Rebuild Preparation",
+          "href": "/bmw-engine-machining"
+        },
+        {
+          "label": "BMW Engine Matching by Registration & VIN",
+          "href": "/bmw-engine-matching"
+        },
+        {
+          "label": "BMW Engine Rebuild",
+          "href": "/bmw-engine-rebuild"
+        },
+        {
+          "label": "BMW Engine Rebuild vs Replacement",
+          "href": "/bmw-rebuild-vs-replacement"
+        },
+        {
+          "label": "BMW Engine Rebuild Warranty Explained",
+          "href": "/bmw-engine-warranty"
+        },
+        {
+          "label": "BMW Engine Removal, Refit & Final Testing",
+          "href": "/bmw-engine-removal-refit"
+        },
+        {
+          "label": "BMW Engine Replacement & Fitting",
+          "href": "/bmw-engine-replacement"
+        },
+        {
+          "label": "BMW Engine Supply & Fit",
+          "href": "/bmw-engine-supply-fit"
+        },
+        {
+          "label": "BMW Failed Previous Rebuild Remediation",
+          "href": "/bmw-failed-rebuild-remediation"
+        },
+        {
+          "label": "BMW High-Mileage Engine Rebuild",
+          "href": "/bmw-high-mileage-engine-rebuild"
+        },
+        {
+          "label": "BMW M-Car Rod Bearing Repair (S54/S85)",
+          "href": "/bmw-rod-bearing-repair"
+        },
+        {
+          "label": "BMW M-Power Engine Rebuild",
+          "href": "/bmw-m-power-engine-rebuild"
+        },
+        {
+          "label": "BMW N20 Petrol Timing Chain Repair & Replacement",
+          "href": "/bmw-petrol-timing-chain-repair"
+        },
+        {
+          "label": "BMW N54 Fuel Pump & Injector Repair",
+          "href": "/bmw-n54-fuel-pump-injector-repair"
+        },
+        {
+          "label": "BMW Oil Leak & Gasket Repair",
+          "href": "/bmw-oil-leak-gasket-repair"
+        },
+        {
+          "label": "BMW Rebuild vs Reconditioned",
+          "href": "/bmw-rebuild-vs-reconditioned"
+        },
+        {
+          "label": "BMW Rebuild vs Remanufactured",
+          "href": "/bmw-rebuild-vs-remanufactured"
+        },
+        {
+          "label": "BMW Rebuild vs Used Engine: Which Is Right for Your BMW?",
+          "href": "/bmw-rebuild-vs-used"
+        },
+        {
+          "label": "BMW Repair vs Full Rebuild",
+          "href": "/bmw-repair-vs-rebuild"
+        },
+        {
+          "label": "BMW Timing Chain Failure Repair",
+          "href": "/bmw-timing-chain-failure-repair"
+        },
+        {
+          "label": "BMW Trade & Fleet Engine Services",
+          "href": "/bmw-trade-fleet-engine-services"
+        },
+        {
+          "label": "BMW Turbo & Ancillary Repair",
+          "href": "/bmw-turbo-ancillary-repair"
+        },
+        {
+          "label": "BMW V8 Hot-Vee Engine Repair (N63/S63)",
+          "href": "/bmw-hot-vee-v8-repair"
+        }
+      ]
+    }
+  ]
+}

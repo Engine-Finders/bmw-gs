@@ -1,0 +1,1602 @@
+{
+  "entries": [
+    {
+      "model": "1 Series",
+      "modelHref": "/bmw-1-series-engines",
+      "engineCode": "BMW B37",
+      "engineHref": "/bmw-b37-engine",
+      "fuel": "",
+      "generation": "F20/F21"
+    },
+    {
+      "model": "X1",
+      "modelHref": "/bmw-x1-engines",
+      "engineCode": "BMW B37",
+      "engineHref": "/bmw-b37-engine",
+      "fuel": "",
+      "generation": "F48"
+    },
+    {
+      "model": "X2",
+      "modelHref": "/bmw-x2-engines",
+      "engineCode": "BMW B37",
+      "engineHref": "/bmw-b37-engine",
+      "fuel": "",
+      "generation": "F39"
+    },
+    {
+      "model": "1 Series",
+      "modelHref": "/bmw-1-series-engines",
+      "engineCode": "BMW B38",
+      "engineHref": "/bmw-b38-engine",
+      "fuel": "",
+      "generation": "F20/F21"
+    },
+    {
+      "model": "X1",
+      "modelHref": "/bmw-x1-engines",
+      "engineCode": "BMW B38",
+      "engineHref": "/bmw-b38-engine",
+      "fuel": "",
+      "generation": "F48"
+    },
+    {
+      "model": "X2",
+      "modelHref": "/bmw-x2-engines",
+      "engineCode": "BMW B38",
+      "engineHref": "/bmw-b38-engine",
+      "fuel": "",
+      "generation": "F39"
+    },
+    {
+      "model": "2 Series",
+      "modelHref": "/bmw-2-series-engines",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "F22/F23"
+    },
+    {
+      "model": "2 Series",
+      "modelHref": "/bmw-2-series-engines",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "G42"
+    },
+    {
+      "model": "3 Series",
+      "modelHref": "/bmw-3-series-engines",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "F30/F31"
+    },
+    {
+      "model": "3 Series",
+      "modelHref": "/bmw-3-series-engines",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "G20/G21"
+    },
+    {
+      "model": "4 Series",
+      "modelHref": "/bmw-4-series-engines",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "F32/F33/F36"
+    },
+    {
+      "model": "4 Series",
+      "modelHref": "/bmw-4-series-engines",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "G22/G23/G26"
+    },
+    {
+      "model": "5 Series",
+      "modelHref": "/bmw-5-series-engines",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "G30/G31"
+    },
+    {
+      "model": "5 Series",
+      "modelHref": "/bmw-5-series-engines",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "G60"
+    },
+    {
+      "model": "6 Series",
+      "modelHref": "/bmw-6-series-engines",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "F06/F12/F13"
+    },
+    {
+      "model": "7 Series",
+      "modelHref": "/bmw-7-series-engines",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "G11/G12"
+    },
+    {
+      "model": "7 Series",
+      "modelHref": "/bmw-7-series-engines",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "G70"
+    },
+    {
+      "model": "8 Series",
+      "modelHref": "/bmw-8-series-engines",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "G14/G15/G16"
+    },
+    {
+      "model": "X3",
+      "modelHref": "/bmw-x3-engines",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "G01"
+    },
+    {
+      "model": "X3",
+      "modelHref": "/bmw-x3-engines",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "G45"
+    },
+    {
+      "model": "X4",
+      "modelHref": "/bmw-x4-engines",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "G02"
+    },
+    {
+      "model": "X5",
+      "modelHref": "/bmw-x5-engines",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "F15"
+    },
+    {
+      "model": "X5",
+      "modelHref": "/bmw-x5-engines",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "G05"
+    },
+    {
+      "model": "X6",
+      "modelHref": "/bmw-x6-engines",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "F16"
+    },
+    {
+      "model": "X6",
+      "modelHref": "/bmw-x6-engines",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "G06"
+    },
+    {
+      "model": "X7",
+      "modelHref": "/bmw-x7-engines",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "G07"
+    },
+    {
+      "model": "XM",
+      "modelHref": "",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "G09"
+    },
+    {
+      "model": "Z4",
+      "modelHref": "/bmw-z4-engines",
+      "engineCode": "BMW B47",
+      "engineHref": "/bmw-b47-engine",
+      "fuel": "",
+      "generation": "G29"
+    },
+    {
+      "model": "1 Series",
+      "modelHref": "/bmw-1-series-engines",
+      "engineCode": "BMW B48",
+      "engineHref": "/bmw-b48-engine",
+      "fuel": "",
+      "generation": "F20/F21"
+    },
+    {
+      "model": "2 Series",
+      "modelHref": "/bmw-2-series-engines",
+      "engineCode": "BMW B48",
+      "engineHref": "/bmw-b48-engine",
+      "fuel": "",
+      "generation": "F22/F23"
+    },
+    {
+      "model": "3 Series",
+      "modelHref": "/bmw-3-series-engines",
+      "engineCode": "BMW B48",
+      "engineHref": "/bmw-b48-engine",
+      "fuel": "",
+      "generation": "F30/F31"
+    },
+    {
+      "model": "4 Series",
+      "modelHref": "/bmw-4-series-engines",
+      "engineCode": "BMW B48",
+      "engineHref": "/bmw-b48-engine",
+      "fuel": "",
+      "generation": "F32/F33/F36"
+    },
+    {
+      "model": "5 Series",
+      "modelHref": "/bmw-5-series-engines",
+      "engineCode": "BMW B48",
+      "engineHref": "/bmw-b48-engine",
+      "fuel": "",
+      "generation": "G30/G31"
+    },
+    {
+      "model": "X1",
+      "modelHref": "/bmw-x1-engines",
+      "engineCode": "BMW B48",
+      "engineHref": "/bmw-b48-engine",
+      "fuel": "",
+      "generation": "F48"
+    },
+    {
+      "model": "X2",
+      "modelHref": "/bmw-x2-engines",
+      "engineCode": "BMW B48",
+      "engineHref": "/bmw-b48-engine",
+      "fuel": "",
+      "generation": "F39"
+    },
+    {
+      "model": "X3",
+      "modelHref": "/bmw-x3-engines",
+      "engineCode": "BMW B48",
+      "engineHref": "/bmw-b48-engine",
+      "fuel": "",
+      "generation": "G01"
+    },
+    {
+      "model": "X4",
+      "modelHref": "/bmw-x4-engines",
+      "engineCode": "BMW B48",
+      "engineHref": "/bmw-b48-engine",
+      "fuel": "",
+      "generation": "G02"
+    },
+    {
+      "model": "X5",
+      "modelHref": "/bmw-x5-engines",
+      "engineCode": "BMW B48",
+      "engineHref": "/bmw-b48-engine",
+      "fuel": "",
+      "generation": "G05"
+    },
+    {
+      "model": "Z4",
+      "modelHref": "/bmw-z4-engines",
+      "engineCode": "BMW B48",
+      "engineHref": "/bmw-b48-engine",
+      "fuel": "",
+      "generation": "G29"
+    },
+    {
+      "model": "3 Series",
+      "modelHref": "/bmw-3-series-engines",
+      "engineCode": "BMW B57",
+      "engineHref": "/bmw-b57-engine",
+      "fuel": "",
+      "generation": "G20/G21"
+    },
+    {
+      "model": "4 Series",
+      "modelHref": "/bmw-4-series-engines",
+      "engineCode": "BMW B57",
+      "engineHref": "/bmw-b57-engine",
+      "fuel": "",
+      "generation": "G22/G23/G26"
+    },
+    {
+      "model": "5 Series",
+      "modelHref": "/bmw-5-series-engines",
+      "engineCode": "BMW B57",
+      "engineHref": "/bmw-b57-engine",
+      "fuel": "",
+      "generation": "G30/G31"
+    },
+    {
+      "model": "6 Series",
+      "modelHref": "/bmw-6-series-engines",
+      "engineCode": "BMW B57",
+      "engineHref": "/bmw-b57-engine",
+      "fuel": "",
+      "generation": "G32"
+    },
+    {
+      "model": "7 Series",
+      "modelHref": "/bmw-7-series-engines",
+      "engineCode": "BMW B57",
+      "engineHref": "/bmw-b57-engine",
+      "fuel": "",
+      "generation": "G11/G12"
+    },
+    {
+      "model": "8 Series",
+      "modelHref": "/bmw-8-series-engines",
+      "engineCode": "BMW B57",
+      "engineHref": "/bmw-b57-engine",
+      "fuel": "",
+      "generation": "G14/G15/G16"
+    },
+    {
+      "model": "X3",
+      "modelHref": "/bmw-x3-engines",
+      "engineCode": "BMW B57",
+      "engineHref": "/bmw-b57-engine",
+      "fuel": "",
+      "generation": "G01"
+    },
+    {
+      "model": "X4",
+      "modelHref": "/bmw-x4-engines",
+      "engineCode": "BMW B57",
+      "engineHref": "/bmw-b57-engine",
+      "fuel": "",
+      "generation": "G02"
+    },
+    {
+      "model": "X5",
+      "modelHref": "/bmw-x5-engines",
+      "engineCode": "BMW B57",
+      "engineHref": "/bmw-b57-engine",
+      "fuel": "",
+      "generation": "G05"
+    },
+    {
+      "model": "X6",
+      "modelHref": "/bmw-x6-engines",
+      "engineCode": "BMW B57",
+      "engineHref": "/bmw-b57-engine",
+      "fuel": "",
+      "generation": "G06"
+    },
+    {
+      "model": "X7",
+      "modelHref": "/bmw-x7-engines",
+      "engineCode": "BMW B57",
+      "engineHref": "/bmw-b57-engine",
+      "fuel": "",
+      "generation": "G07"
+    },
+    {
+      "model": "2 Series",
+      "modelHref": "/bmw-2-series-engines",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "F22/F23"
+    },
+    {
+      "model": "2 Series",
+      "modelHref": "/bmw-2-series-engines",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "G42"
+    },
+    {
+      "model": "3 Series",
+      "modelHref": "/bmw-3-series-engines",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "F30/F31"
+    },
+    {
+      "model": "3 Series",
+      "modelHref": "/bmw-3-series-engines",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "G20/G21"
+    },
+    {
+      "model": "4 Series",
+      "modelHref": "/bmw-4-series-engines",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "F32/F33/F36"
+    },
+    {
+      "model": "4 Series",
+      "modelHref": "/bmw-4-series-engines",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "G22/G23/G26"
+    },
+    {
+      "model": "5 Series",
+      "modelHref": "/bmw-5-series-engines",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "G30/G31"
+    },
+    {
+      "model": "5 Series",
+      "modelHref": "/bmw-5-series-engines",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "G60"
+    },
+    {
+      "model": "6 Series",
+      "modelHref": "/bmw-6-series-engines",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "F06/F12/F13"
+    },
+    {
+      "model": "7 Series",
+      "modelHref": "/bmw-7-series-engines",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "G11/G12"
+    },
+    {
+      "model": "7 Series",
+      "modelHref": "/bmw-7-series-engines",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "G70"
+    },
+    {
+      "model": "8 Series",
+      "modelHref": "/bmw-8-series-engines",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "G14/G15/G16"
+    },
+    {
+      "model": "X3",
+      "modelHref": "/bmw-x3-engines",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "G01"
+    },
+    {
+      "model": "X3",
+      "modelHref": "/bmw-x3-engines",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "G45"
+    },
+    {
+      "model": "X4",
+      "modelHref": "/bmw-x4-engines",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "G02"
+    },
+    {
+      "model": "X5",
+      "modelHref": "/bmw-x5-engines",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "F15"
+    },
+    {
+      "model": "X5",
+      "modelHref": "/bmw-x5-engines",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "G05"
+    },
+    {
+      "model": "X6",
+      "modelHref": "/bmw-x6-engines",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "F16"
+    },
+    {
+      "model": "X6",
+      "modelHref": "/bmw-x6-engines",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "G06"
+    },
+    {
+      "model": "X7",
+      "modelHref": "/bmw-x7-engines",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "G07"
+    },
+    {
+      "model": "XM",
+      "modelHref": "",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "G09"
+    },
+    {
+      "model": "Z4",
+      "modelHref": "/bmw-z4-engines",
+      "engineCode": "BMW B58",
+      "engineHref": "/bmw-b58-engine",
+      "fuel": "",
+      "generation": "G29"
+    },
+    {
+      "model": "Z4",
+      "modelHref": "/bmw-z4-engines",
+      "engineCode": "BMW M54",
+      "engineHref": "/bmw-m54-engine",
+      "fuel": "",
+      "generation": "First"
+    },
+    {
+      "model": "1 Series",
+      "modelHref": "/bmw-1-series-engines",
+      "engineCode": "BMW N13",
+      "engineHref": "/bmw-n13-engine",
+      "fuel": "",
+      "generation": "F20/F21"
+    },
+    {
+      "model": "1 Series",
+      "modelHref": "/bmw-1-series-engines",
+      "engineCode": "BMW N20",
+      "engineHref": "/bmw-n20-engine",
+      "fuel": "",
+      "generation": "F20/F21"
+    },
+    {
+      "model": "2 Series",
+      "modelHref": "/bmw-2-series-engines",
+      "engineCode": "BMW N20",
+      "engineHref": "/bmw-n20-engine",
+      "fuel": "",
+      "generation": "F22/F23"
+    },
+    {
+      "model": "3 Series",
+      "modelHref": "/bmw-3-series-engines",
+      "engineCode": "BMW N20",
+      "engineHref": "/bmw-n20-engine",
+      "fuel": "",
+      "generation": "F30/F31"
+    },
+    {
+      "model": "4 Series",
+      "modelHref": "/bmw-4-series-engines",
+      "engineCode": "BMW N20",
+      "engineHref": "/bmw-n20-engine",
+      "fuel": "",
+      "generation": "F32/F33/F36"
+    },
+    {
+      "model": "5 Series",
+      "modelHref": "/bmw-5-series-engines",
+      "engineCode": "BMW N20",
+      "engineHref": "/bmw-n20-engine",
+      "fuel": "",
+      "generation": "F10/F11"
+    },
+    {
+      "model": "X4",
+      "modelHref": "/bmw-x4-engines",
+      "engineCode": "BMW N20",
+      "engineHref": "/bmw-n20-engine",
+      "fuel": "",
+      "generation": "F26"
+    },
+    {
+      "model": "Z4",
+      "modelHref": "/bmw-z4-engines",
+      "engineCode": "BMW N20",
+      "engineHref": "/bmw-n20-engine",
+      "fuel": "",
+      "generation": "E89"
+    },
+    {
+      "model": "1 Series",
+      "modelHref": "/bmw-1-series-engines",
+      "engineCode": "BMW N47",
+      "engineHref": "/bmw-n47-engine",
+      "fuel": "",
+      "generation": "Second"
+    },
+    {
+      "model": "3 Series",
+      "modelHref": "/bmw-3-series-engines",
+      "engineCode": "BMW N47",
+      "engineHref": "/bmw-n47-engine",
+      "fuel": "",
+      "generation": "Fifth"
+    },
+    {
+      "model": "4 Series",
+      "modelHref": "/bmw-4-series-engines",
+      "engineCode": "BMW N47",
+      "engineHref": "/bmw-n47-engine",
+      "fuel": "",
+      "generation": "First"
+    },
+    {
+      "model": "5 Series",
+      "modelHref": "/bmw-5-series-engines",
+      "engineCode": "BMW N47",
+      "engineHref": "/bmw-n47-engine",
+      "fuel": "",
+      "generation": "Sixth"
+    },
+    {
+      "model": "X4",
+      "modelHref": "/bmw-x4-engines",
+      "engineCode": "BMW N47",
+      "engineHref": "/bmw-n47-engine",
+      "fuel": "",
+      "generation": "First"
+    },
+    {
+      "model": "X5",
+      "modelHref": "/bmw-x5-engines",
+      "engineCode": "BMW N47",
+      "engineHref": "/bmw-n47-engine",
+      "fuel": "",
+      "generation": "Second"
+    },
+    {
+      "model": "Z4",
+      "modelHref": "/bmw-z4-engines",
+      "engineCode": "BMW N52",
+      "engineHref": "/bmw-n52-engine",
+      "fuel": "",
+      "generation": "E89"
+    },
+    {
+      "model": "Z4",
+      "modelHref": "/bmw-z4-engines",
+      "engineCode": "BMW N54",
+      "engineHref": "/bmw-n54-engine",
+      "fuel": "",
+      "generation": "E89"
+    },
+    {
+      "model": "1 Series",
+      "modelHref": "/bmw-1-series-engines",
+      "engineCode": "BMW N55",
+      "engineHref": "/bmw-n55-engine",
+      "fuel": "",
+      "generation": "F20/F21"
+    },
+    {
+      "model": "2 Series",
+      "modelHref": "/bmw-2-series-engines",
+      "engineCode": "BMW N55",
+      "engineHref": "/bmw-n55-engine",
+      "fuel": "",
+      "generation": "F22/F23"
+    },
+    {
+      "model": "5 Series",
+      "modelHref": "/bmw-5-series-engines",
+      "engineCode": "BMW N55",
+      "engineHref": "/bmw-n55-engine",
+      "fuel": "",
+      "generation": "F10/F11"
+    },
+    {
+      "model": "6 Series",
+      "modelHref": "/bmw-6-series-engines",
+      "engineCode": "BMW N55",
+      "engineHref": "/bmw-n55-engine",
+      "fuel": "",
+      "generation": "F06/F12/F13"
+    },
+    {
+      "model": "M2",
+      "modelHref": "/bmw-m2-engines",
+      "engineCode": "BMW N55",
+      "engineHref": "/bmw-n55-engine",
+      "fuel": "",
+      "generation": "F87"
+    },
+    {
+      "model": "X5",
+      "modelHref": "/bmw-x5-engines",
+      "engineCode": "BMW N55",
+      "engineHref": "/bmw-n55-engine",
+      "fuel": "",
+      "generation": "F15"
+    },
+    {
+      "model": "X6",
+      "modelHref": "/bmw-x6-engines",
+      "engineCode": "BMW N55",
+      "engineHref": "/bmw-n55-engine",
+      "fuel": "",
+      "generation": "F16"
+    },
+    {
+      "model": "3 Series",
+      "modelHref": "/bmw-3-series-engines",
+      "engineCode": "BMW N57",
+      "engineHref": "/bmw-n57-engine",
+      "fuel": "",
+      "generation": "F30/F31"
+    },
+    {
+      "model": "4 Series",
+      "modelHref": "/bmw-4-series-engines",
+      "engineCode": "BMW N57",
+      "engineHref": "/bmw-n57-engine",
+      "fuel": "",
+      "generation": "F32/F33/F36"
+    },
+    {
+      "model": "5 Series",
+      "modelHref": "/bmw-5-series-engines",
+      "engineCode": "BMW N57",
+      "engineHref": "/bmw-n57-engine",
+      "fuel": "",
+      "generation": "F10/F11"
+    },
+    {
+      "model": "6 Series",
+      "modelHref": "/bmw-6-series-engines",
+      "engineCode": "BMW N57",
+      "engineHref": "/bmw-n57-engine",
+      "fuel": "",
+      "generation": "F06/F12/F13"
+    },
+    {
+      "model": "X4",
+      "modelHref": "/bmw-x4-engines",
+      "engineCode": "BMW N57",
+      "engineHref": "/bmw-n57-engine",
+      "fuel": "",
+      "generation": "F26"
+    },
+    {
+      "model": "X5",
+      "modelHref": "/bmw-x5-engines",
+      "engineCode": "BMW N57",
+      "engineHref": "/bmw-n57-engine",
+      "fuel": "",
+      "generation": "F15"
+    },
+    {
+      "model": "X6",
+      "modelHref": "/bmw-x6-engines",
+      "engineCode": "BMW N57",
+      "engineHref": "/bmw-n57-engine",
+      "fuel": "",
+      "generation": "F16"
+    },
+    {
+      "model": "6 Series",
+      "modelHref": "/bmw-6-series-engines",
+      "engineCode": "BMW N63",
+      "engineHref": "/bmw-n63-engine",
+      "fuel": "",
+      "generation": "F06/F12/F13"
+    },
+    {
+      "model": "8 Series",
+      "modelHref": "/bmw-8-series-engines",
+      "engineCode": "BMW N63",
+      "engineHref": "/bmw-n63-engine",
+      "fuel": "",
+      "generation": "G14/G15/G16"
+    },
+    {
+      "model": "X5",
+      "modelHref": "/bmw-x5-engines",
+      "engineCode": "BMW N63",
+      "engineHref": "/bmw-n63-engine",
+      "fuel": "",
+      "generation": "E70/F15"
+    },
+    {
+      "model": "X6",
+      "modelHref": "/bmw-x6-engines",
+      "engineCode": "BMW N63",
+      "engineHref": "/bmw-n63-engine",
+      "fuel": "",
+      "generation": "E71/F16"
+    },
+    {
+      "model": "6 Series",
+      "modelHref": "/bmw-6-series-engines",
+      "engineCode": "BMW N63TU",
+      "engineHref": "/bmw-n63tu-engine",
+      "fuel": "",
+      "generation": "F06/F12/F13"
+    },
+    {
+      "model": "7 Series",
+      "modelHref": "/bmw-7-series-engines",
+      "engineCode": "BMW N63TU",
+      "engineHref": "/bmw-n63tu-engine",
+      "fuel": "",
+      "generation": "G11/G12"
+    },
+    {
+      "model": "2 Series",
+      "modelHref": "/bmw-2-series-engines",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "F22/F23"
+    },
+    {
+      "model": "2 Series",
+      "modelHref": "/bmw-2-series-engines",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "G42"
+    },
+    {
+      "model": "3 Series",
+      "modelHref": "/bmw-3-series-engines",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "F30/F31"
+    },
+    {
+      "model": "3 Series",
+      "modelHref": "/bmw-3-series-engines",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "G20/G21"
+    },
+    {
+      "model": "4 Series",
+      "modelHref": "/bmw-4-series-engines",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "F32/F33/F36"
+    },
+    {
+      "model": "4 Series",
+      "modelHref": "/bmw-4-series-engines",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "G22/G23/G26"
+    },
+    {
+      "model": "5 Series",
+      "modelHref": "/bmw-5-series-engines",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "G30/G31"
+    },
+    {
+      "model": "5 Series",
+      "modelHref": "/bmw-5-series-engines",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "G60"
+    },
+    {
+      "model": "6 Series",
+      "modelHref": "/bmw-6-series-engines",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "F06/F12/F13"
+    },
+    {
+      "model": "7 Series",
+      "modelHref": "/bmw-7-series-engines",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "G11/G12"
+    },
+    {
+      "model": "7 Series",
+      "modelHref": "/bmw-7-series-engines",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "G70"
+    },
+    {
+      "model": "8 Series",
+      "modelHref": "/bmw-8-series-engines",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "G14/G15/G16"
+    },
+    {
+      "model": "X3",
+      "modelHref": "/bmw-x3-engines",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "G01"
+    },
+    {
+      "model": "X3",
+      "modelHref": "/bmw-x3-engines",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "G45"
+    },
+    {
+      "model": "X4",
+      "modelHref": "/bmw-x4-engines",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "G02"
+    },
+    {
+      "model": "X5",
+      "modelHref": "/bmw-x5-engines",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "F15"
+    },
+    {
+      "model": "X5",
+      "modelHref": "/bmw-x5-engines",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "G05"
+    },
+    {
+      "model": "X6",
+      "modelHref": "/bmw-x6-engines",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "F16"
+    },
+    {
+      "model": "X6",
+      "modelHref": "/bmw-x6-engines",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "G06"
+    },
+    {
+      "model": "X7",
+      "modelHref": "/bmw-x7-engines",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "G07"
+    },
+    {
+      "model": "XM",
+      "modelHref": "",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "G09"
+    },
+    {
+      "model": "Z4",
+      "modelHref": "/bmw-z4-engines",
+      "engineCode": "BMW N74",
+      "engineHref": "/bmw-n74-engine",
+      "fuel": "",
+      "generation": "G29"
+    },
+    {
+      "model": "M3",
+      "modelHref": "/bmw-m3-engines",
+      "engineCode": "BMW S54",
+      "engineHref": "/bmw-s54-engine",
+      "fuel": "",
+      "generation": "E46"
+    },
+    {
+      "model": "Z4",
+      "modelHref": "/bmw-z4-engines",
+      "engineCode": "BMW S54",
+      "engineHref": "/bmw-s54-engine",
+      "fuel": "",
+      "generation": "E85/E86"
+    },
+    {
+      "model": "M2",
+      "modelHref": "/bmw-m2-engines",
+      "engineCode": "BMW S55",
+      "engineHref": "/bmw-s55-engine",
+      "fuel": "",
+      "generation": "F87"
+    },
+    {
+      "model": "M3",
+      "modelHref": "/bmw-m3-engines",
+      "engineCode": "BMW S55",
+      "engineHref": "/bmw-s55-engine",
+      "fuel": "",
+      "generation": "F80"
+    },
+    {
+      "model": "M4",
+      "modelHref": "/bmw-m4-engines",
+      "engineCode": "BMW S55",
+      "engineHref": "/bmw-s55-engine",
+      "fuel": "",
+      "generation": "F82/F83"
+    },
+    {
+      "model": "M2",
+      "modelHref": "/bmw-m2-engines",
+      "engineCode": "BMW S58",
+      "engineHref": "/bmw-s58-engine",
+      "fuel": "",
+      "generation": "G87"
+    },
+    {
+      "model": "M3",
+      "modelHref": "/bmw-m3-engines",
+      "engineCode": "BMW S58",
+      "engineHref": "/bmw-s58-engine",
+      "fuel": "",
+      "generation": "G80"
+    },
+    {
+      "model": "M4",
+      "modelHref": "/bmw-m4-engines",
+      "engineCode": "BMW S58",
+      "engineHref": "/bmw-s58-engine",
+      "fuel": "",
+      "generation": "G82/G83"
+    },
+    {
+      "model": "X3 M",
+      "modelHref": "/bmw-x3-m-engines",
+      "engineCode": "BMW S58",
+      "engineHref": "/bmw-s58-engine",
+      "fuel": "",
+      "generation": "G01"
+    },
+    {
+      "model": "X4 M",
+      "modelHref": "/bmw-x4-m-engines",
+      "engineCode": "BMW S58",
+      "engineHref": "/bmw-s58-engine",
+      "fuel": "",
+      "generation": "G02"
+    },
+    {
+      "model": "2 Series",
+      "modelHref": "/bmw-2-series-engines",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "F22/F23"
+    },
+    {
+      "model": "2 Series",
+      "modelHref": "/bmw-2-series-engines",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "G42"
+    },
+    {
+      "model": "3 Series",
+      "modelHref": "/bmw-3-series-engines",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "F30/F31"
+    },
+    {
+      "model": "3 Series",
+      "modelHref": "/bmw-3-series-engines",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "G20/G21"
+    },
+    {
+      "model": "4 Series",
+      "modelHref": "/bmw-4-series-engines",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "F32/F33/F36"
+    },
+    {
+      "model": "4 Series",
+      "modelHref": "/bmw-4-series-engines",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "G22/G23/G26"
+    },
+    {
+      "model": "5 Series",
+      "modelHref": "/bmw-5-series-engines",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "G30/G31"
+    },
+    {
+      "model": "5 Series",
+      "modelHref": "/bmw-5-series-engines",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "G60"
+    },
+    {
+      "model": "6 Series",
+      "modelHref": "/bmw-6-series-engines",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "F06/F12/F13"
+    },
+    {
+      "model": "7 Series",
+      "modelHref": "/bmw-7-series-engines",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "G11/G12"
+    },
+    {
+      "model": "7 Series",
+      "modelHref": "/bmw-7-series-engines",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "G70"
+    },
+    {
+      "model": "8 Series",
+      "modelHref": "/bmw-8-series-engines",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "G14/G15/G16"
+    },
+    {
+      "model": "X3",
+      "modelHref": "/bmw-x3-engines",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "G01"
+    },
+    {
+      "model": "X3",
+      "modelHref": "/bmw-x3-engines",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "G45"
+    },
+    {
+      "model": "X4",
+      "modelHref": "/bmw-x4-engines",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "G02"
+    },
+    {
+      "model": "X5",
+      "modelHref": "/bmw-x5-engines",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "F15"
+    },
+    {
+      "model": "X5",
+      "modelHref": "/bmw-x5-engines",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "G05"
+    },
+    {
+      "model": "X6",
+      "modelHref": "/bmw-x6-engines",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "F16"
+    },
+    {
+      "model": "X6",
+      "modelHref": "/bmw-x6-engines",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "G06"
+    },
+    {
+      "model": "X7",
+      "modelHref": "/bmw-x7-engines",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "G07"
+    },
+    {
+      "model": "XM",
+      "modelHref": "",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "G09"
+    },
+    {
+      "model": "Z4",
+      "modelHref": "/bmw-z4-engines",
+      "engineCode": "BMW S62",
+      "engineHref": "/bmw-s62-engine",
+      "fuel": "",
+      "generation": "G29"
+    },
+    {
+      "model": "M5",
+      "modelHref": "/bmw-m5-engines",
+      "engineCode": "BMW S63",
+      "engineHref": "/bmw-s63-engine",
+      "fuel": "",
+      "generation": "F10"
+    },
+    {
+      "model": "M5",
+      "modelHref": "/bmw-m5-engines",
+      "engineCode": "BMW S63",
+      "engineHref": "/bmw-s63-engine",
+      "fuel": "",
+      "generation": "F90"
+    },
+    {
+      "model": "M6",
+      "modelHref": "/bmw-m6-engines",
+      "engineCode": "BMW S63",
+      "engineHref": "/bmw-s63-engine",
+      "fuel": "",
+      "generation": "F06/F12/F13"
+    },
+    {
+      "model": "M8",
+      "modelHref": "/bmw-m8-engines",
+      "engineCode": "BMW S63",
+      "engineHref": "/bmw-s63-engine",
+      "fuel": "",
+      "generation": "F91/F92/F93"
+    },
+    {
+      "model": "X5 M",
+      "modelHref": "/bmw-x5-m-engines",
+      "engineCode": "BMW S63",
+      "engineHref": "/bmw-s63-engine",
+      "fuel": "",
+      "generation": "F85/F95"
+    },
+    {
+      "model": "X6 M",
+      "modelHref": "/bmw-x6-m-engines",
+      "engineCode": "BMW S63",
+      "engineHref": "/bmw-s63-engine",
+      "fuel": "",
+      "generation": "F86/F96"
+    },
+    {
+      "model": "X5 M",
+      "modelHref": "/bmw-x5-m-engines",
+      "engineCode": "BMW S63TU",
+      "engineHref": "/bmw-s63tu-engine",
+      "fuel": "",
+      "generation": "F85/F95"
+    },
+    {
+      "model": "X6 M",
+      "modelHref": "/bmw-x6-m-engines",
+      "engineCode": "BMW S63TU",
+      "engineHref": "/bmw-s63tu-engine",
+      "fuel": "",
+      "generation": "F86/F96"
+    },
+    {
+      "model": "M3",
+      "modelHref": "/bmw-m3-engines",
+      "engineCode": "BMW S65",
+      "engineHref": "/bmw-s65-engine",
+      "fuel": "",
+      "generation": "E90/E91/E92/E93"
+    },
+    {
+      "model": "2 Series",
+      "modelHref": "/bmw-2-series-engines",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "F22/F23"
+    },
+    {
+      "model": "2 Series",
+      "modelHref": "/bmw-2-series-engines",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "G42"
+    },
+    {
+      "model": "3 Series",
+      "modelHref": "/bmw-3-series-engines",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "F30/F31"
+    },
+    {
+      "model": "3 Series",
+      "modelHref": "/bmw-3-series-engines",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "G20/G21"
+    },
+    {
+      "model": "4 Series",
+      "modelHref": "/bmw-4-series-engines",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "F32/F33/F36"
+    },
+    {
+      "model": "4 Series",
+      "modelHref": "/bmw-4-series-engines",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "G22/G23/G26"
+    },
+    {
+      "model": "5 Series",
+      "modelHref": "/bmw-5-series-engines",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "G30/G31"
+    },
+    {
+      "model": "5 Series",
+      "modelHref": "/bmw-5-series-engines",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "G60"
+    },
+    {
+      "model": "6 Series",
+      "modelHref": "/bmw-6-series-engines",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "F06/F12/F13"
+    },
+    {
+      "model": "7 Series",
+      "modelHref": "/bmw-7-series-engines",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "G11/G12"
+    },
+    {
+      "model": "7 Series",
+      "modelHref": "/bmw-7-series-engines",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "G70"
+    },
+    {
+      "model": "8 Series",
+      "modelHref": "/bmw-8-series-engines",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "G14/G15/G16"
+    },
+    {
+      "model": "X3",
+      "modelHref": "/bmw-x3-engines",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "G01"
+    },
+    {
+      "model": "X3",
+      "modelHref": "/bmw-x3-engines",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "G45"
+    },
+    {
+      "model": "X4",
+      "modelHref": "/bmw-x4-engines",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "G02"
+    },
+    {
+      "model": "X5",
+      "modelHref": "/bmw-x5-engines",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "F15"
+    },
+    {
+      "model": "X5",
+      "modelHref": "/bmw-x5-engines",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "G05"
+    },
+    {
+      "model": "X6",
+      "modelHref": "/bmw-x6-engines",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "F16"
+    },
+    {
+      "model": "X6",
+      "modelHref": "/bmw-x6-engines",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "G06"
+    },
+    {
+      "model": "X7",
+      "modelHref": "/bmw-x7-engines",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "G07"
+    },
+    {
+      "model": "XM",
+      "modelHref": "",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "G09"
+    },
+    {
+      "model": "Z4",
+      "modelHref": "/bmw-z4-engines",
+      "engineCode": "BMW S68",
+      "engineHref": "/bmw-s68-engine",
+      "fuel": "",
+      "generation": "G29"
+    },
+    {
+      "model": "M5",
+      "modelHref": "/bmw-m5-engines",
+      "engineCode": "BMW S85",
+      "engineHref": "/bmw-s85-engine",
+      "fuel": "",
+      "generation": "E60/E61"
+    },
+    {
+      "model": "M6",
+      "modelHref": "/bmw-m6-engines",
+      "engineCode": "BMW S85",
+      "engineHref": "/bmw-s85-engine",
+      "fuel": "",
+      "generation": "E63/E64"
+    }
+  ],
+  "models": [
+    "1 Series",
+    "2 Series",
+    "3 Series",
+    "4 Series",
+    "5 Series",
+    "6 Series",
+    "7 Series",
+    "8 Series",
+    "M2",
+    "M3",
+    "M4",
+    "M5",
+    "M6",
+    "M8",
+    "X1",
+    "X2",
+    "X3",
+    "X3 M",
+    "X4",
+    "X4 M",
+    "X5",
+    "X5 M",
+    "X6",
+    "X6 M",
+    "X7",
+    "XM",
+    "Z4"
+  ],
+  "fuels": []
+}

@@ -1,0 +1,314 @@
+{
+  "slug": "bmw-n54-fuel-pump-injector-repair",
+  "metaTitle": "BMW N54 Fuel Pump & Injector Repair | BMW Garage",
+  "metaDescription": "Specialist BMW N54 HPFP & fuel injector repair at our Essex workshop. Coding, adaptation, full system testing. 12mo warranty. Call 0203 488 4649.",
+  "h1": "BMW N54 Fuel Pump & Injector Repair",
+  "lede": "Specialist high-pressure fuel pump (HPFP) and injector replacement for BMW N54 twin-turbo engines. Full system adaptation, coding, and leak-testing at our Billericay workshop.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine_family/sec9_bottom.webp",
+    "/model/sec12.webp",
+    "/engine_family/sec2_top.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "The BMW N54 engine — a twin-turbo straight-six — is known for high-pressure fuel pump (HPFP) and fuel injector wear. Our workshop carries out the full replacement process with factory-level precision, including coding and adaptation to ensure correct fuel delivery."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**HPFP replacement** — we access and remove the high-pressure fuel pump, install the new unit, and prime the fuel system.",
+            "**Fuel injector replacement** — injectors are accessed, seals are removed and replaced using specialist tools, and new injectors are fitted.",
+            "**Fuel system bleeding & leak testing** — the entire system is bled and pressure-tested to confirm there are no leaks.",
+            "**Injector coding & adaptation** — each new injector is coded to the engine control unit using BMW-specific diagnostic equipment, ensuring precise fuel metering.",
+            "**Full road-test validation** — every repair is driven and monitored to verify fuel pressure and performance under load."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "We use genuine BMW parts or OEM-equivalent components, and every repair is backed by our [12-month unlimited-mileage warranty](/warranty)."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**N54 HPFP & Injector Repair from £1,850**",
+            "Includes parts, labour, coding, system bleeding, and final road-test. [Full pricing details →](/pricing-legal-disclaimer)",
+            "12-month unlimited-mileage warranty | 3–5 day typical turnaround"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Get your exact quote →](/contact)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "N54 Fuel System Repair in Our Workshop",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Images show staged work at our Billericay workshop. Real completed-job photography coming soon."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "N54-Equipped BMW Models",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "The BMW N54 twin-turbo straight-six was used across a wide range of models. We carry out HPFP and injector repairs on all of them."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "1 Series",
+              "href": "/bmw-1-series-engines"
+            },
+            {
+              "label": "135i",
+              "href": "/bmw-m135i-engines"
+            },
+            {
+              "label": "1M",
+              "href": "/bmw-m135i-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "3 Series",
+            "href": "/bmw-3-series-engines"
+          },
+          "chips": [
+            {
+              "label": "335i",
+              "href": "/bmw-340i-engines"
+            },
+            {
+              "label": "335is",
+              "href": "/bmw-340i-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "5 Series",
+            "href": "/bmw-5-series-engines"
+          },
+          "chips": [
+            {
+              "label": "535i",
+              "href": "/bmw-530i-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Z4",
+            "href": "/bmw-z4-engines"
+          },
+          "chips": [
+            {
+              "label": "sDrive35i",
+              "href": "/bmw-z4-sdrive35i-engines"
+            },
+            {
+              "label": "sDrive35is",
+              "href": "/bmw-z4-sdrive35is-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "X6",
+            "href": "/bmw-x6-engines"
+          },
+          "chips": [
+            {
+              "label": "xDrive35i",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "7 Series",
+            "href": "/bmw-7-series-engines"
+          },
+          "chips": [
+            {
+              "label": "740i",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Full N54 engine page →](/bmw-n54-engine)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our N54 Fuel System Repair Process",
+      "steps": [
+        {
+          "title": "Inspection & Diagnosis",
+          "body": "We verify the fault using BMW diagnostic equipment, confirming HPFP pressure and injector performance."
+        },
+        {
+          "title": "Component Access",
+          "body": "We carefully remove the engine cover, intake components, and fuel lines to access the HPFP and injectors."
+        },
+        {
+          "title": "HPFP & Injector Removal",
+          "body": "Using specialist tools, we remove the high-pressure fuel pump and each fuel injector, replacing all seals."
+        },
+        {
+          "title": "Installation & Coding",
+          "body": "New components are fitted, and each injector is coded to the engine control unit for correct fuel delivery."
+        },
+        {
+          "title": "System Bleed & Test",
+          "body": "We bleed the fuel system, check for leaks, and verify fuel pressure meets BMW specifications."
+        },
+        {
+          "title": "Road Test & Handover",
+          "body": "Every repair is road-tested to confirm performance, and we walk you through the work completed."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose BMW Garage for N54 Fuel System Repair",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Specialist N54 knowledge** — we've completed hundreds of HPFP and injector replacements on twin-turbo BMWs.",
+            "**Factory-level equipment** — BMW-specific diagnostic tools for injector coding and adaptation.",
+            "**12-month unlimited-mileage warranty** — on every repair, parts and labour included.",
+            "**Transparent pricing** — fixed-price quotes with no hidden costs. [See our pricing policy →](/pricing-legal-disclaimer)",
+            "**Workshop in Billericay, Essex** — purpose-built facility with dedicated engine bay and fuel-system workstations."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Meet our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "Contact us",
+          "body": "Call [0203 488 4649](tel:+441268944234), WhatsApp, or use our [online quote form](/contact)."
+        },
+        {
+          "title": "Diagnostic check",
+          "body": "We inspect your N54's fuel system and confirm the scope of work needed."
+        },
+        {
+          "title": "Repair & coding",
+          "body": "We carry out the HPFP/injector replacement, including full coding and adaptation."
+        },
+        {
+          "title": "Test & collect",
+          "body": "We road-test your BMW, and you collect it with a 12-month warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[N54 HPFP & Injector Repair](/bmw-n54-fuel-pump-injector-repair)",
+            "[BMW Engine Rebuild](/bmw-engine-rebuild)",
+            "[BMW Petrol Timing Chain Repair](/bmw-petrol-timing-chain-repair)",
+            "[Engine Inspection & Assessment](/bmw-engine-inspection-assessment)",
+            "[Turbo & Ancillary Repair](/bmw-turbo-ancillary-repair)",
+            "[Cylinder Head Repair & Rebuild](/bmw-cylinder-head-repair)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What are the symptoms of a failing N54 HPFP?",
+          "a": "Common signs include long cranking times before starting, loss of power under acceleration, engine stalling, and a check-engine light with fuel-pressure-related fault codes. If you're experiencing any of these, we recommend an inspection."
+        },
+        {
+          "q": "Why do N54 injectors need coding after replacement?",
+          "a": "BMW injectors are matched to the engine control unit through a coding process that ensures precise fuel delivery. Without coding, the engine may run unevenly, misfire, or produce incorrect fuel mixtures."
+        },
+        {
+          "q": "How long does the repair take?",
+          "a": "Typical turnaround is 3–5 days, depending on parts availability and the extent of the work required. We'll give you a clear timeline when we quote your job."
+        },
+        {
+          "q": "Do you use genuine BMW parts?",
+          "a": "Yes. We use genuine BMW parts or OEM-equivalent components from trusted suppliers. Every part is covered by our 12-month unlimited-mileage warranty."
+        },
+        {
+          "q": "Can you recover my BMW if it's not driveable?",
+          "a": "Yes, we offer nationwide engine recovery from £70. Contact us for a recovery quote if your BMW is stranded."
+        },
+        {
+          "q": "What's covered by the warranty?",
+          "a": "Our 12-month unlimited-mileage warranty covers parts and labour for the HPFP and injector repair we carry out. Full terms are available on our [warranty page](/warranty)."
+        }
+      ]
+    }
+  ]
+}

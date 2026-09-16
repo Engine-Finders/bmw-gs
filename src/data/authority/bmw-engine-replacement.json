@@ -1,0 +1,291 @@
+{
+  "slug": "bmw-engine-replacement",
+  "metaTitle": "BMW Engine Replacement & Fitting | BMW Garage",
+  "metaDescription": "Professional BMW engine replacement and fitting service. Used, rebuilt, or remanufactured engines installed by BMW specialists. 12-month unlimited mileage warranty.",
+  "h1": "BMW Engine Replacement & Fitting",
+  "lede": "We remove your failed engine and fit a replacement unit — whether used, rebuilt, or remanufactured — with full inspection, preparation, and road-testing before handover.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/model/sec7.webp",
+    "/variant/sec12.webp",
+    "/engine_family/sec9_middle.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What BMW Engine Replacement Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We remove your failed engine and fit a replacement unit — whether used, rebuilt, or remanufactured — with full inspection, preparation, and road-testing before handover."
+        },
+        {
+          "t": "p",
+          "html": "Engine replacement is often the fastest route to getting a BMW back on the road when the original engine has suffered major internal damage, or when a rebuild isn't economically viable. We source a compatible replacement, prepare it thoroughly, and install it to factory specifications."
+        },
+        {
+          "t": "p",
+          "html": "Every replacement engine is inspected before installation, with service items such as gaskets, seals, and timing components replaced where necessary. Once fitted, the vehicle undergoes a full systems check, fluid replenishment, compression and leak-down testing, and a road test to verify correct operation."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "BMW Engine Replacement Pricing",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Fixed-price engine replacement and fitting, with a 12-month unlimited mileage warranty."
+        },
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "Pricing depends on model, engine code, and donor-engine availability. All prices include fitting and a 12-month unlimited mileage warranty. [Pricing disclaimer](/pricing-legal-disclaimer)."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Get a Fixed Price Quote](/contact)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "BMW Models We Replace Engines For",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We source and fit replacement engines for virtually every BMW model. Below are the most common models we work on — click through for model-specific information."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "1 Series",
+              "href": "/bmw-1-series-engines"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Common Engine Families We Replace"
+        },
+        {
+          "t": "p",
+          "html": "Our replacement service covers all major BMW engine families, from four-cylinder diesels to M-performance V8s."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "N47",
+              "href": "/bmw-n47-engine"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Popular Replacement Variants"
+        },
+        {
+          "t": "p",
+          "html": "These are some of the most frequently replaced engine variants we handle."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "320d (N47/B47)",
+              "href": "/bmw-320d-engines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Engine Replacement Process",
+      "steps": [
+        {
+          "title": "Inspection & Matching",
+          "body": "We inspect your vehicle and confirm the correct replacement engine using the VIN and engine code. We source a compatible donor engine and prepare it for installation."
+        },
+        {
+          "title": "Vehicle Preparation",
+          "body": "Your BMW is positioned on the ramp, fluids are drained, and all wiring, mounts, and connections are carefully labelled and disconnected."
+        },
+        {
+          "title": "Engine Removal",
+          "body": "The existing engine is lifted out using a support cradle and hoist. Components are photographed and labelled to ensure correct reassembly."
+        },
+        {
+          "title": "Donor Engine Preparation",
+          "body": "The replacement engine is inspected, and any service items (gaskets, seals, timing components) are replaced as necessary before installation."
+        },
+        {
+          "title": "Installation",
+          "body": "The replacement engine is fitted, and all mounts, wiring, plumbing, and drivetrain connections are reattached to factory specifications."
+        },
+        {
+          "title": "Testing & Handover",
+          "body": "All fluids are replenished, compression and leak-down tests are performed, and a road test verifies correct operation before handover."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Find Your BMW's Correct Replacement Engine",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Enter your registration or VIN and we'll match your vehicle to the correct replacement engine."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose BMW Garage for Engine Replacement",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**BMW specialists** — our workshop has been dedicated to BMW engines since 2009.",
+            "**Fixed-price quotes** — no hidden charges, no surprises.",
+            "**12-month unlimited mileage warranty** on every replacement engine we fit.",
+            "**Engine matching by VIN** — we source the correct engine for your specific BMW model.",
+            "**Fully equipped workshop** with BMW-specific diagnostic tools and equipment.",
+            "**Nationwide engine recovery** available if your car can't be driven to us.",
+            "**Transparent process** — we photograph and document every step."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Meet the Workshop](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How BMW Engine Replacement Works",
+      "steps": [
+        {
+          "title": "Contact us",
+          "body": "Call, WhatsApp, or use our online quote form. Provide your registration and a brief description of the issue."
+        },
+        {
+          "title": "Vehicle inspection",
+          "body": "We inspect your BMW to confirm the fault and identify the correct replacement engine using the VIN and engine code."
+        },
+        {
+          "title": "Fixed-price quote",
+          "body": "We provide a fixed-price quote for the replacement engine and fitting, with no hidden charges."
+        },
+        {
+          "title": "Engine sourcing & preparation",
+          "body": "We source a compatible replacement engine, inspect it, and replace any service items before installation."
+        },
+        {
+          "title": "Replacement & testing",
+          "body": "We fit the replacement engine, test all systems, and road-test your BMW before handover."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related BMW Services",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Other engine services we offer at BMW Garage."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[BMW Engine Rebuild](/bmw-engine-rebuild)",
+            "[BMW Engine Supply & Fit](/bmw-engine-supply-fit)",
+            "[BMW Engine Recovery](/bmw-engine-recovery)",
+            "[BMW Engine Failure Repair](/bmw-engine-failure-repair)",
+            "[BMW Timing Chain Repair](/bmw-timing-chain-failure-repair)",
+            "[BMW M-Power Engine Rebuild](/bmw-m-power-engine-rebuild)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Read more: Rebuild, Replacement or Used Engine: How We Decide • What Determines Whether Your Engine Is Worth Rebuilding"
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How long does a BMW engine replacement take?",
+          "a": "Engine replacement is generally faster than a full rebuild. Typical turnaround is 3-5 working days, depending on donor engine availability and any additional ancillaries that need attention."
+        },
+        {
+          "q": "What's included in your engine replacement service?",
+          "a": "Our service includes sourcing a compatible replacement engine, inspecting and preparing it, removing your old engine, fitting the replacement, all gaskets and service items, fluid replenishment, full systems testing, and a road test. We also provide a 12-month unlimited mileage warranty."
+        },
+        {
+          "q": "Do you provide a warranty on replacement engines?",
+          "a": "Yes. Every replacement engine we fit comes with a 12-month unlimited mileage warranty, covering both parts and labour."
+        },
+        {
+          "q": "Can you fit a used engine, or do you only fit rebuilt units?",
+          "a": "We fit used, rebuilt, and remanufactured engines depending on your preference and budget. Every engine is thoroughly inspected and prepared before installation, regardless of its source."
+        },
+        {
+          "q": "How do you match the right engine to my BMW?",
+          "a": "We use your vehicle's VIN (found on the windshield, door jamb, engine bay, and registration documents) to identify the correct engine code. We also cross-reference the V5C registration document for engine capacity and fuel type."
+        },
+        {
+          "q": "Is engine replacement cheaper than a rebuild?",
+          "a": "In many cases, yes. Engine replacement typically requires less labour than a full rebuild, and the cost can be lower if a suitable donor engine is available. We always provide a fixed-price quote so you know the cost upfront."
+        },
+        {
+          "q": "Do you offer engine collection or recovery?",
+          "a": "Yes. We offer nationwide engine recovery if your BMW cannot be driven to our Essex workshop. Recovery costs start from £70 — [learn more](/bmw-engine-recovery)."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Need a BMW Engine Replacement?",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Get a fixed-price quote today. We'll match your vehicle to the correct replacement engine and fit it to factory standards."
+        },
+        {
+          "t": "p",
+          "html": "Call us: [0203 488 4649](tel:+441268944234) • WhatsApp: [07975 827396](https://wa.me/447975827396)"
+        }
+      ]
+    }
+  ]
+}

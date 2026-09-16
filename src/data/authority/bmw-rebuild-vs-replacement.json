@@ -1,0 +1,266 @@
+{
+  "slug": "bmw-rebuild-vs-replacement",
+  "metaTitle": "BMW Engine Rebuild vs Replacement | BMW Garage",
+  "metaDescription": "What's the difference between rebuilding your BMW engine versus replacing it? We explain the process, decision factors, and what actually happens in our workshop.",
+  "h1": "BMW Engine Rebuild vs Replacement",
+  "lede": "The same term is used for two very different processes. We rebuild your original engine — or replace it with a matching unit. Either way, it stays with your car.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/model/sec2.webp",
+    "/variant/sec10_engine.webp",
+    "/engine_family/sec3.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What “Rebuild” and “Replacement” Actually Mean",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "A **rebuild** keeps your original engine with the vehicle. We strip it completely, inspect every component, machine or replace worn parts, and reassemble to factory specifications. Your engine number stays original — important for matching-numbers cars."
+        },
+        {
+          "t": "p",
+          "html": "A **replacement** removes the failed engine and installs a different unit. That unit may be new from BMW, a remanufactured unit, or a used engine from another vehicle. The workshop's role is removal, fitting, and reconnecting ancillaries — not internal engine work."
+        },
+        {
+          "t": "p",
+          "html": "The choice between them depends on what we find when we inspect your engine. If the block is structurally sound, rebuild is usually the better option. If it's cracked or warped beyond serviceable limits, replacement is the only choice."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**4-Cylinder Rebuild from £1,900**6-Cylinder Rebuild from £2,800Performance M engines from £5,500",
+            "All pricing includes fitting, machining, and a 12-month unlimited-mileage warranty."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "This decision applies to every BMW engine we work on. The approach changes based on the engine family and chassis — here are the most common."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "3 Series",
+              "href": "/bmw-3-series-engines"
+            },
+            {
+              "label": "320d (N47 / B47)",
+              "href": "/bmw-320d-engines"
+            },
+            {
+              "label": "330d (N57)",
+              "href": "/bmw-330d-engines"
+            },
+            {
+              "label": "M3 (S54 / S55)",
+              "href": "/bmw-m3-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "5 Series",
+            "href": "/bmw-5-series-engines"
+          },
+          "chips": [
+            {
+              "label": "520d (N47 / B47)",
+              "href": "/bmw-520d-engines"
+            },
+            {
+              "label": "530d (N57)",
+              "href": "/bmw-530d-engines"
+            },
+            {
+              "label": "M5 (S63)",
+              "href": "/bmw-m5-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "X5",
+            "href": "/bmw-x5-engines"
+          },
+          "chips": [
+            {
+              "label": "xDrive30d (N57 / B57)",
+              "href": "/bmw-x5-xdrive30d-engines"
+            },
+            {
+              "label": "xDrive50i (N63)",
+              "href": "/bmw-x5-xdrive50i-engines"
+            },
+            {
+              "label": "X5 M (S63)",
+              "href": "/bmw-x5-m-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "M3",
+            "href": "/bmw-m3-engines"
+          },
+          "chips": [
+            {
+              "label": "M3 (E90/E92, S65)",
+              "href": "/bmw-m3-engines"
+            },
+            {
+              "label": "M3 Competition (F80, S55)",
+              "href": "/bmw-m3-competition-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "For other models, see our [full engine rebuild service](/bmw-engine-rebuild) or [engine replacement service](/bmw-engine-replacement) pages."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Process",
+      "steps": [
+        {
+          "title": "Inspection & Diagnosis",
+          "body": "We assess the engine on the bench to determine structural condition and the extent of wear. This tells us whether rebuild or replacement is viable."
+        },
+        {
+          "title": "Decision & Recommendation",
+          "body": "If the block is sound, we recommend a rebuild. If it's cracked or warped, we present replacement options with known provenance."
+        },
+        {
+          "title": "Approved Work Begins",
+          "body": "Either way, the work follows our standard process: full disassembly (or removal), machining or sourcing, reassembly, and testing."
+        },
+        {
+          "title": "Final Testing & Handover",
+          "body": "Every rebuild or replacement undergoes a road test before collection, with a 12-month unlimited-mileage warranty on all work."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Us",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**12-month unlimited-mileage warranty** — standard on every rebuild and replacement",
+            "**Full in-house machining** — we don't outsource critical work",
+            "**Matching-numbers preservation** — we rebuild original engines wherever viable",
+            "**Same-day inspection** — we assess your engine quickly and clearly",
+            "**No hidden costs** — our quote includes all parts, labour, and machining"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Meet the workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "Contact us — call, WhatsApp, or email with your registration and symptoms."
+        },
+        {
+          "title": "",
+          "body": "We book your car in for a full inspection and provide a clear written quote."
+        },
+        {
+          "title": "",
+          "body": "We carry out the rebuild or replacement, road-test the vehicle, and hand it back."
+        },
+        {
+          "title": "",
+          "body": "Your car drives away with a 12-month unlimited-mileage warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[BMW Engine Rebuild](/bmw-engine-rebuild)",
+            "[BMW Engine Replacement](/bmw-engine-replacement)",
+            "[BMW Engine Inspection & Assessment](/bmw-engine-inspection-assessment)",
+            "[BMW Engine Failure Repair](/bmw-engine-failure-repair)",
+            "[Rebuild vs Used Engine](/bmw-rebuild-vs-used)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How do you decide whether to rebuild or replace?",
+          "a": "We inspect the engine on the bench. If the block is structurally sound, we recommend a rebuild. If it's cracked or warped beyond serviceable limits, replacement is the only option. The decision is always based on what we find, not on a fixed rule."
+        },
+        {
+          "q": "Does a rebuild preserve the original engine number?",
+          "a": "Yes — a rebuild keeps your original engine block and number. This maintains matching-numbers status, which matters for classic and high-value BMWs."
+        },
+        {
+          "q": "Is a replacement engine always more expensive?",
+          "a": "Not always. Rebuild costs depend on the extent of wear; replacement costs depend on the availability and condition of a suitable unit. We quote both options after inspection so you can compare."
+        },
+        {
+          "q": "How long does each process take?",
+          "a": "A typical rebuild takes 3-5 working days. Replacement can be faster if a matching unit is already in stock, but sourcing the right engine sometimes adds time. We give a clear timeframe before work starts."
+        }
+      ]
+    }
+  ]
+}

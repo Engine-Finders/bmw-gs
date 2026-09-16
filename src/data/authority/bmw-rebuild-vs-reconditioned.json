@@ -1,0 +1,273 @@
+{
+  "slug": "bmw-rebuild-vs-reconditioned",
+  "metaTitle": "BMW Rebuild vs Reconditioned | BMW Garage",
+  "metaDescription": "BMW Rebuild vs Reconditioned: What's the difference? We explain how a full rebuild differs from reconditioning for BMW engines.",
+  "h1": "BMW Rebuild vs Reconditioned",
+  "lede": "Understanding what's actually included — and why the label matters less than the process.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine_family/sec9_middle.webp",
+    "/model/sec10.webp",
+    "/engine_family/sec1.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What \"Reconditioned\" and \"Rebuilt\" Actually Mean",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "In the UK BMW specialist community, these terms are often used interchangeably. But there is a genuine distinction in workshop practice that affects what you're paying for and what you can expect."
+        },
+        {
+          "t": "h3",
+          "text": "Reconditioned (or \"Recon\")"
+        },
+        {
+          "t": "p",
+          "html": "A reconditioned engine has typically been stripped down either partially or fully, cleaned, and had some damaged components replaced. The key point: a reconditioned engine may not be returned to full factory specification — it is made serviceable rather than as-new. The standard is \"operational\" rather than \"factory specification.\""
+        },
+        {
+          "t": "h3",
+          "text": "Rebuilt"
+        },
+        {
+          "t": "p",
+          "html": "A rebuilt engine generally implies a more thorough process: full disassembly to bare block and cylinder head, inspection of all components, and replacement of all wear items as standard practice. In a professional workshop, a rebuild includes new bearings, rings, gaskets, and seals, plus machining work to restore mating surfaces."
+        },
+        {
+          "t": "h3",
+          "text": "How the Terms Are Used in Practice"
+        },
+        {
+          "t": "p",
+          "html": "In reality, the terms overlap significantly. A \"reconditioned\" engine from one workshop might be as comprehensive as a \"rebuilt\" engine from another. The critical factor is not the label but the **documented process** — what was replaced, what was machined, and what standards were applied."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Our Rebuild Pricing",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**BMW engine rebuilds start from:**",
+            "[Pricing disclaimer →](/pricing-legal-disclaimer)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Get a quote for your specific BMW model →](/contact)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Which BMW Models This Applies To",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our rebuild service covers the full BMW range. Every engine we work on is rebuilt to the same standard — full disassembly, all wear items replaced, machining work performed where needed."
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Applicable Models",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "BMW 3 Series",
+              "href": "/bmw-3-series-engines"
+            },
+            {
+              "label": "BMW 1 Series",
+              "href": "/bmw-1-series-engines"
+            },
+            {
+              "label": "BMW 5 Series",
+              "href": "/bmw-5-series-engines"
+            },
+            {
+              "label": "BMW X3",
+              "href": "/bmw-x3-engines"
+            },
+            {
+              "label": "BMW X5",
+              "href": "/bmw-x5-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Key Engine Families",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "N47",
+              "href": "/bmw-n47-engine"
+            },
+            {
+              "label": "B47",
+              "href": "/bmw-b47-engine"
+            },
+            {
+              "label": "N57",
+              "href": "/bmw-n57-engine"
+            },
+            {
+              "label": "N55",
+              "href": "/bmw-n55-engine"
+            },
+            {
+              "label": "B58",
+              "href": "/bmw-b58-engine"
+            },
+            {
+              "label": "S55",
+              "href": "/bmw-s55-engine"
+            },
+            {
+              "label": "S58",
+              "href": "/bmw-s58-engine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Rebuild Process",
+      "steps": [
+        {
+          "title": "Inspection & Assessment",
+          "body": "Full stripdown to bare components. Every part is inspected for wear, damage, and suitability for reuse."
+        },
+        {
+          "title": "Machining",
+          "body": "Block and cylinder head machining to restore tolerances — honing, boring, and surface grinding as required."
+        },
+        {
+          "title": "Component Replacement",
+          "body": "All wear items replaced as standard: bearings, rings, gaskets, seals, timing chains, and tensioners."
+        },
+        {
+          "title": "Rebuild & Test",
+          "body": "Engine assembled to factory specifications, tested, and road-tested before collection."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Us",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Established 2009** — over 15 years of BMW engine specialism",
+            "**Full rebuilds only** — we don't do partial \"recon\" shortcuts unless explicitly agreed",
+            "**12-month unlimited-mileage warranty** on every rebuild",
+            "**3–5 day rebuild turnaround** — we work fast without cutting corners",
+            "**Nationwide recovery** — we can collect your BMW from anywhere in the UK (from £70)",
+            "**All work done in-house** — no outsourcing of machining or assembly"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Meet the workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "Contact Us",
+          "body": "Call, email, or use our quote form with your registration and model."
+        },
+        {
+          "title": "Inspection",
+          "body": "We assess your engine on-site or arrange recovery if your BMW is non-running."
+        },
+        {
+          "title": "Rebuild",
+          "body": "Full stripdown, machining, component replacement, and reassembly."
+        },
+        {
+          "title": "Collection",
+          "body": "We test the rebuilt engine, and you collect your BMW ready to drive."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[BMW Engine Rebuild](/bmw-engine-rebuild)",
+            "[BMW Rebuild vs Replacement](/bmw-rebuild-vs-replacement)",
+            "[BMW Rebuild vs Used Engine](/bmw-rebuild-vs-used)",
+            "[BMW Rebuild vs Remanufactured](/bmw-rebuild-vs-remanufactured)",
+            "[BMW Engine Inspection & Assessment](/bmw-engine-inspection-assessment)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What's the difference between a rebuilt and a reconditioned engine?",
+          "a": "In professional workshop practice, a **rebuilt** engine typically means full disassembly to bare block and cylinder head, with all wear items (bearings, rings, gaskets, seals) replaced as standard and machining work performed. A **reconditioned** engine may involve partial disassembly only, with some components cleaned and re-used rather than replaced, and is made serviceable rather than as-new. In practice, the terms are used loosely and can overlap significantly."
+        },
+        {
+          "q": "How much does a BMW engine rebuild cost?",
+          "a": "Our rebuilds start from £1,900 for a 4-cylinder diesel, £2,200 for a 4-cylinder petrol, £2,800 for a 6-cylinder diesel, £3,200 for a 6-cylinder petrol, £4,500 for a V8, and £5,500+ for M-Performance engines. Your final quote depends on the exact engine, condition, and any additional components that need replacement."
+        },
+        {
+          "q": "Do you rebuild BMW M engines?",
+          "a": "Yes. We rebuild all M-Performance engines including the S54, S55, S58, S62, S63, S65, and S85. M-engine rebuilds start from £5,500. The process is the same full stripdown and rebuild, but with performance-specific components and tolerances."
+        },
+        {
+          "q": "How long does a BMW engine rebuild take?",
+          "a": "Our standard rebuild turnaround is **3–5 days**, depending on the engine type and parts availability. This excludes inspection and diagnostic time if we need to assess a non-running engine first."
+        },
+        {
+          "q": "What warranty do you offer on a rebuild?",
+          "a": "Every rebuild comes with a **12-month unlimited-mileage warranty**. This covers all parts and labour for the duration of the warranty period."
+        }
+      ]
+    }
+  ]
+}

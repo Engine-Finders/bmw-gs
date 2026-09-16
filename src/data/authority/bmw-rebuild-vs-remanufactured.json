@@ -1,0 +1,215 @@
+{
+  "slug": "bmw-rebuild-vs-remanufactured",
+  "metaTitle": "BMW Rebuild vs Remanufactured | BMW Garage",
+  "metaDescription": "BMW Rebuild vs Remanufactured — what the terms mean, how our workshop approaches both, and what BMW owners need to know before deciding.",
+  "h1": "BMW Rebuild vs Remanufactured",
+  "lede": "These two terms are often blurred in practice. When used correctly, they describe different standards — but many workshops use them interchangeably. Here's what they actually mean, and how we approach both.",
+  "ctas": [
+    {
+      "label": "Get a Quote →",
+      "href": "/contact"
+    },
+    {
+      "label": "Our Engine Rebuild Process",
+      "href": "/bmw-engine-rebuild"
+    }
+  ],
+  "images": [
+    "/variant/sec12.webp",
+    "/engine_family/sec9_middle.webp",
+    "/model/sec10.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What the Terms Mean",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "These two terms are often blurred in practice. When used correctly, they describe different standards — but many workshops use them interchangeably. Here's what they actually mean, and how we approach both."
+        },
+        {
+          "t": "h3",
+          "text": "Rebuilt Engine"
+        },
+        {
+          "t": "p",
+          "html": "The engine is stripped, inspected, and only the worn or damaged components are replaced. The standard is **functional restoration** — bringing the engine back to a reliable, serviceable condition without necessarily returning it to factory-new tolerances."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Targeted repair process",
+            "Components replaced as needed",
+            "Standard: fit for purpose",
+            "Cost-effective for most rebuilds"
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Remanufactured Engine"
+        },
+        {
+          "t": "p",
+          "html": "The engine is completely torn down, cleaned, inspected, and machined back to **original factory tolerances**. It is restored to \"as-new\" specification through an extensive, audited process — typically at a dedicated facility using factory tooling."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Complete documented process",
+            "Every component measured against OEM specs",
+            "Standard: as-new specification",
+            "Typically more extensive warranty"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "**Our position:** In practice, the distinction isn't always clear-cut. A full rebuild that replaces all wear items and machines all mating surfaces is often, in practice, indistinguishable from remanufacturing. We explain exactly what our process delivers — not just the label."
+        },
+        {
+          "t": "p",
+          "html": "For a deeper look at what we check during every rebuild, see our guide on what we check on every rebuild, every time."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "BMW Engine Rebuild Pricing",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our rebuild prices start from the bands below, based on the engine type in your BMW. [See our pricing disclaimer →](/pricing-legal-disclaimer)"
+        },
+        {
+          "t": "p",
+          "html": "Prices are for a full engine rebuild including parts, labour, and machining. [Get a firm quote for your BMW →](/contact)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Which BMW Models This Applies To",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our rebuild and remanufacturing services cover all BMW engine families across the model range. Below are the key models we work on regularly."
+        },
+        {
+          "t": "h3",
+          "text": "Common Engine Families We Rebuild"
+        },
+        {
+          "t": "p",
+          "html": "For a full list of BMW variants, see the [BMW Garage homepage](/)."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Engine Rebuild Process",
+      "steps": [
+        {
+          "title": "Inspection & Strip-Down",
+          "body": "Full strip-down of your BMW engine, with a complete inspection report identifying all worn components."
+        },
+        {
+          "title": "Machining & Preparation",
+          "body": "Block machining, cylinder honing, and component preparation to OEM tolerances."
+        },
+        {
+          "title": "Assembly",
+          "body": "Precision assembly with all new wear items — bearings, rings, timing chains, gaskets, and seals."
+        },
+        {
+          "title": "Testing & Refit",
+          "body": "Full test run, final inspection, refit to your BMW, and road test before collection."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose BMW Garage",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Established 2009 — over a decade of BMW engine work",
+            "BMW-specific workshop — we only work on BMWs",
+            "12-month unlimited-mileage warranty on every rebuild",
+            "Full machine shop on-site",
+            "Nationwide engine recovery available",
+            "3-5 day rebuild turnaround for most engines",
+            "Every rebuild road-tested before collection",
+            "Fixed-price quotes — no surprises"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "Contact us",
+          "body": "Call, email, or use the reg lookup form with your BMW details."
+        },
+        {
+          "title": "Inspection & quote",
+          "body": "We inspect your engine and provide a fixed-price rebuild quote."
+        },
+        {
+          "title": "Rebuild",
+          "body": "We strip, machine, assemble, and test your BMW engine."
+        },
+        {
+          "title": "Collection",
+          "body": "Your BMW is road-tested and ready for collection with full warranty."
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What's the main difference between a rebuild and a remanufactured engine?",
+          "a": "In correct usage: a rebuilt engine replaces only the worn components to restore function; a remanufactured engine is fully machined and restored to as-new factory tolerances. In practice, many workshops use the terms interchangeably. We explain exactly what our process delivers, regardless of the label."
+        },
+        {
+          "q": "Does BMW Garage remanufacture engines or rebuild them?",
+          "a": "We perform a full rebuild process that includes machining all mating surfaces to factory tolerances and replacing all wear items. This means our rebuilds often achieve the same standard as a remanufactured engine, but we charge the rebuild price — not the remanufacturing premium. We're transparent about what's included."
+        },
+        {
+          "q": "Are BMW factory replacement engines rebuilt or remanufactured?",
+          "a": "BMW's own factory replacement engines are technically remanufactured to OEM standards. Our independent rebuilds are carried out to the same precision using genuine or OEM-quality parts, with a 12-month unlimited-mileage warranty."
+        },
+        {
+          "q": "How do I know if my BMW engine is rebuildable?",
+          "a": "We assess every engine case-by-case during our strip-down and inspection. Most BMW engines are rebuildable unless there's catastrophic structural damage. [Contact us for a quote](/contact) and we'll advise."
+        },
+        {
+          "q": "What's the warranty on a BMW engine rebuild?",
+          "a": "All our rebuilds come with a 12-month unlimited-mileage warranty covering parts and labour. [See our warranty terms →](/bmw-engine-warranty)"
+        }
+      ]
+    }
+  ]
+}

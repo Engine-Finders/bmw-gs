@@ -1,0 +1,254 @@
+{
+  "slug": "bmw-engine-compatibility",
+  "metaTitle": "BMW Engine Compatibility & Application Matching | BMW Garage",
+  "metaDescription": "BMW engine compatibility and application matching. We assess which engine will correctly fit your BMW, including cross-model and generation fitment. Get a quote.",
+  "h1": "BMW Engine Compatibility & Application Matching",
+  "lede": "",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/variant/sec11.webp",
+    "/engine_family/sec9_top.webp",
+    "/model/sec7.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What this service involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Engine compatibility is the assessment of whether a specific engine (or engine component) can be correctly fitted to a specific vehicle. This goes beyond basic VIN matching to consider cross-model and cross-generation fitment—ensuring the replacement or rebuilt engine is the correct match for your car."
+        },
+        {
+          "t": "p",
+          "html": "At BMW Garage, we apply a structured process to every compatibility check so that the engine we install is the right one for your chassis, ECU, emissions requirements, and driving expectations."
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Our compatibility process",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "**Engine family identification:** Confirming which engine family (e.g. B48, N57, S58) is required for the vehicle.",
+              "href": null
+            },
+            {
+              "label": "**Variant confirmation:** Within an engine family, there are often multiple variants with different power outputs, ancillaries, and specifications.",
+              "href": null
+            },
+            {
+              "label": "**Chassis compatibility check:** The same engine may fit multiple chassis, but sumps, manifolds, mounts, and ancillaries may differ.",
+              "href": null
+            },
+            {
+              "label": "**Generation compatibility:** BMW updates engines across generations (e.g. N47 → B47, N55 → B58). Components are not always interchangeable between generations.",
+              "href": null
+            },
+            {
+              "label": "**Component-level compatibility:** For repairs (rather than full engine replacement), individual components (timing chains, injectors, turbos) must be matched to the specific engine variant.",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Once the correct match is confirmed, we carry out the rebuild or replacement using the right components and specifications for your car."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting price for compatibility assessment & rebuild",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Compatibility assessment** is included as part of our standard inspection when you book a rebuild or replacement.",
+            "**Rebuild prices start from:** 4-Cyl Diesel from £1,900 • 4-Cyl Petrol from £2,200 6-Cyl Diesel from £2,800 • 6-Cyl Petrol from £3,200 V8 from £4,500 • Performance/M-Sport (S54/S55/S58/S63/S65) from £5,500",
+            "[Pricing disclaimer](/pricing-legal-disclaimer) — final price confirmed after full inspection."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable models and engine families",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Compatibility matching applies across the BMW range. Below are the most common model families we assess. Click through to the model page for full variant and engine details."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "1 Series",
+              "href": "/bmw-1-series-engines"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Key engine families for compatibility matching"
+        },
+        {
+          "t": "p",
+          "html": "For variant-specific compatibility, visit the [3 Series](/bmw-3-series-engines) or [5 Series](/bmw-5-series-engines) pages for detailed breakdowns."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our compatibility matching process",
+      "steps": [
+        {
+          "title": "Vehicle & VIN intake",
+          "body": "We record your vehicle's VIN, registration, and current engine code to establish the baseline."
+        },
+        {
+          "title": "Engine family identification",
+          "body": "We confirm which engine family (e.g. B48, N57, S58) is required for your specific chassis and year."
+        },
+        {
+          "title": "Variant & generation check",
+          "body": "Within the family, we pinpoint the exact variant (power output, ancillaries) and generation (e.g. N47 vs B47, N55 vs B58)."
+        },
+        {
+          "title": "Chassis & ancillaries fitment",
+          "body": "We check sumps, manifolds, mounts, and sensors for cross-model compatibility, even when the long block is identical."
+        },
+        {
+          "title": "ECU & emissions verification",
+          "body": "We confirm ECU compatibility and emissions specification to ensure MOT and legal compliance."
+        },
+        {
+          "title": "Component-level matching",
+          "body": "For repairs, we match individual components (timing chains, injectors, turbos) to the exact engine variant."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why BMW Garage for compatibility matching",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Workshop-led assessment:** We don't rely on catalogues alone—we physically check sumps, mounts, and ancillaries against the chassis.",
+            "**BMW-specific knowledge:** We understand the modular B-series architecture, TU changes, and M-division differences.",
+            "**Full rebuild or replacement capability:** Once the correct match is confirmed, we carry out the rebuild or replacement in-house.",
+            "**12-month unlimited-mileage warranty** on every rebuild we complete.",
+            "**Transparent pricing:** We quote after inspection, so there are no surprises."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[About our workshop](/about) • [Warranty explained](/warranty)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How compatibility matching works with us",
+      "steps": [
+        {
+          "title": "Contact us",
+          "body": "Call, WhatsApp, or use the reg lookup to tell us about your BMW."
+        },
+        {
+          "title": "Inspection & assessment",
+          "body": "We inspect your vehicle and run a full compatibility check."
+        },
+        {
+          "title": "Quote & approval",
+          "body": "We provide a fixed-price quote for the rebuild or replacement with the correctly matched engine."
+        },
+        {
+          "title": "Work carried out",
+          "body": "We carry out the rebuild or replacement using the correct parts and specifications."
+        },
+        {
+          "title": "Testing & handover",
+          "body": "We road-test your car and hand it back with a 12-month unlimited-mileage warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[BMW Engine Rebuild](/bmw-engine-rebuild)",
+            "[BMW Engine Replacement](/bmw-engine-replacement)",
+            "[BMW Engine Supply & Fit](/bmw-engine-supply-fit)",
+            "[BMW Diesel Timing Chain Repair (N47/B47)](/bmw-diesel-timing-chain-repair)",
+            "[BMW Petrol Timing Chain Repair (N20)](/bmw-petrol-timing-chain-repair)",
+            "[BMW V8 Hot-Vee Engine Repair (N63/S63)](/bmw-hot-vee-v8-repair)",
+            "[BMW M-Car Rod Bearing Repair (S54/S85)](/bmw-rod-bearing-repair)",
+            "[BMW Engine Machining](/bmw-engine-machining)",
+            "[BMW Engine Failure Repair](/bmw-engine-failure-repair)",
+            "[BMW Rebuild vs Replacement](/bmw-rebuild-vs-replacement)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "What does engine compatibility mean for my BMW?",
+          "a": "It means ensuring the specific engine or engine components are the correct match for your chassis, generation, ECU, and emissions requirements. We check engine family, variant, sumps, mounts, ancillaries, and more to avoid fitment issues."
+        },
+        {
+          "q": "Can you fit an engine from a different BMW model into my car?",
+          "a": "Sometimes, but it depends on the engine family, variant, and ancillaries. The same long block may fit multiple chassis, but sumps, manifolds, mounts, and sensors often differ. We assess this on a case-by-case basis."
+        },
+        {
+          "q": "Do you offer compatibility checks for older BMW models?",
+          "a": "Yes. We work on a wide range of BMW models, including E36, E46, E9x, F-series, and G-series. We have extensive knowledge of cross-generation compatibility."
+        },
+        {
+          "q": "Is compatibility assessment included in the rebuild price?",
+          "a": "Yes. The compatibility check is part of our standard inspection process when you book a rebuild or replacement with us. We don't charge separately for it."
+        },
+        {
+          "q": "What if the correct engine is no longer available?",
+          "a": "In some cases, we can source a compatible replacement from a similar generation or rebuild your existing engine with updated components. We'll discuss all viable options with you."
+        },
+        {
+          "q": "Do you match individual components like timing chains and injectors?",
+          "a": "Yes. For repairs, we match each component to the exact engine variant. For example, N47 timing chain kits differ between early and late versions, and injectors must be coded to the ECU."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "slug": "bmw-high-mileage-engine-rebuild",
+  "metaTitle": "BMW High-Mileage Engine Rebuild | BMW Garage",
+  "metaDescription": "High-mileage BMW engine rebuilds. Full strip-down, comprehensive inspection, and replacement of all wear items. 12mo unlimited-mileage warranty.",
+  "h1": "BMW High-Mileage Engine Rebuild",
+  "lede": "A comprehensive rebuild for BMW engines that have covered significant mileage. Full strip-down, inspection, machining assessment, and replacement of every wear item.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine_family/sec9_top.webp",
+    "/model/sec7.webp",
+    "/variant/sec12.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What a High-Mileage BMW Engine Rebuild Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "When a BMW engine has covered high mileage – typically over 100,000 miles – wear is distributed across the entire unit, not just a single component. A high-mileage rebuild addresses every area of wear, restoring the engine to a serviceable condition with a [12-month unlimited-mileage warranty](/bmw-engine-warranty)."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Full strip-down to bare block and cylinder head",
+            "Comprehensive measurement of every component against factory service limits",
+            "Machining assessment – boring, honing, and grinding where required",
+            "Replacement of all wear items: bearings, piston rings, gaskets, seals, timing components",
+            "Ancillary attention: oil pump, water pump, and other ancillaries assessed and replaced if worn",
+            "Reassembly with new fasteners, torqued to factory specifications"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "See our full engine rebuild process →"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "High-Mileage Rebuild Pricing",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**4-Cylinder:** from £1,900 **6-Cylinder:** from £2,800 **V8:** from £4,500 **Performance / M-Sport (S54, S55, S58, S63, S65):** from £5,500",
+            "[Pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Every rebuild includes a [12-month unlimited-mileage warranty](/bmw-engine-warranty). Recovery from £70. Turnaround typically 3–5 working days."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable BMW Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We rebuild high-mileage engines across the full BMW range. Below are the most common model families we see in the workshop for this service."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "1 Series",
+              "href": "/bmw-1-series-engines"
+            },
+            {
+              "label": "116d",
+              "href": "/bmw-116d-engines"
+            },
+            {
+              "label": "118d",
+              "href": "/bmw-118d-engines"
+            },
+            {
+              "label": "120d",
+              "href": "/bmw-120d-engines"
+            },
+            {
+              "label": "M140i",
+              "href": "/bmw-m140i-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "2 Series",
+            "href": "/bmw-2-series-engines"
+          },
+          "chips": [
+            {
+              "label": "218d",
+              "href": "/bmw-218d-engines"
+            },
+            {
+              "label": "220d",
+              "href": "/bmw-220d-engines"
+            },
+            {
+              "label": "220i",
+              "href": "/bmw-220i-engines"
+            },
+            {
+              "label": "M240i",
+              "href": "/bmw-m240i-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "3 Series",
+            "href": "/bmw-3-series-engines"
+          },
+          "chips": [
+            {
+              "label": "316d",
+              "href": "/bmw-316d-engines"
+            },
+            {
+              "label": "318d",
+              "href": "/bmw-318d-engines"
+            },
+            {
+              "label": "320d",
+              "href": "/bmw-320d-engines"
+            },
+            {
+              "label": "330d",
+              "href": "/bmw-330d-engines"
+            },
+            {
+              "label": "340i",
+              "href": "/bmw-340i-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "4 Series",
+            "href": "/bmw-4-series-engines"
+          },
+          "chips": [
+            {
+              "label": "420d",
+              "href": "/bmw-420d-engines"
+            },
+            {
+              "label": "430d",
+              "href": "/bmw-430d-engines"
+            },
+            {
+              "label": "440i",
+              "href": "/bmw-440i-engines"
+            },
+            {
+              "label": "M440i",
+              "href": "/bmw-m440i-xdrive-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "5 Series",
+            "href": "/bmw-5-series-engines"
+          },
+          "chips": [
+            {
+              "label": "520d",
+              "href": "/bmw-520d-engines"
+            },
+            {
+              "label": "530d",
+              "href": "/bmw-530d-engines"
+            },
+            {
+              "label": "540i",
+              "href": "/bmw-540i-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "X3",
+            "href": "/bmw-x3-engines"
+          },
+          "chips": [
+            {
+              "label": "xDrive20d",
+              "href": null
+            },
+            {
+              "label": "xDrive30i",
+              "href": null
+            },
+            {
+              "label": "X3 M40i",
+              "href": "/bmw-x3-m40i-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Full BMW engine rebuild service →](/bmw-engine-rebuild)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our High-Mileage Rebuild Process",
+      "steps": [
+        {
+          "title": "Arrival & Inspection",
+          "body": "We inspect the vehicle on arrival and confirm the scope of the rebuild."
+        },
+        {
+          "title": "Strip-Down",
+          "body": "Full disassembly to bare block and head."
+        },
+        {
+          "title": "Measurement & Assessment",
+          "body": "Every component measured; machining needs determined."
+        },
+        {
+          "title": "Replacement & Machining",
+          "body": "Wear items replaced; block bored/honed as needed."
+        },
+        {
+          "title": "Assembly & Testing",
+          "body": "Reassembled with new fasteners, tested before refit."
+        },
+        {
+          "title": "Refit & Road Test",
+          "body": "Engine refitted, road-tested, and signed off."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose BMW Garage",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Established 2009 – over 15 years of BMW engine expertise",
+            "Full in-house machining and assembly",
+            "[12-month unlimited-mileage warranty](/bmw-engine-warranty) on every rebuild",
+            "Recovery service from £70 – we collect your BMW",
+            "3-5 day turnaround on most rebuilds",
+            "[Meet our workshop →](/about)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "**Contact us** – call [0203 488 4649](tel:+441268944234) or [get a quote online](/contact)"
+        },
+        {
+          "title": "",
+          "body": "**Inspection** – we assess your BMW and confirm the rebuild scope"
+        },
+        {
+          "title": "",
+          "body": "**Rebuild** – full strip-down, machining, and assembly"
+        },
+        {
+          "title": "",
+          "body": "**Refit & Test** – engine refitted, road-tested, and warranted"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[BMW Engine Rebuild](/bmw-engine-rebuild)",
+            "[BMW Diesel Timing Chain Repair](/bmw-diesel-timing-chain-repair)",
+            "[BMW Petrol Timing Chain Repair](/bmw-petrol-timing-chain-repair)",
+            "[BMW Engine Bearing Replacement](/bmw-engine-bearing-replacement)",
+            "[BMW Engine Inspection & Assessment](/bmw-engine-inspection-assessment)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What mileage is considered high for a BMW engine?",
+          "a": "We typically consider over 100,000 miles as high mileage. However, BMW engines are known for strong blocks that can handle multiple rebuilds – the key is a comprehensive inspection to determine what can be machined and what must be replaced."
+        },
+        {
+          "q": "What components are replaced during a high-mileage rebuild?",
+          "a": "All wear items are replaced: bearings, piston rings, gaskets, seals, timing components, and fasteners. Ancillaries like the oil pump and water pump are assessed and replaced if worn."
+        },
+        {
+          "q": "How long does a high-mileage rebuild take?",
+          "a": "Typically 3–5 working days, depending on the extent of machining required. We aim to keep you mobile with a courtesy vehicle where possible."
+        },
+        {
+          "q": "What warranty do you offer?",
+          "a": "Every rebuild comes with a [12-month unlimited-mileage warranty](/bmw-engine-warranty) covering parts and labour. Recovery from £70 is available if needed."
+        }
+      ]
+    }
+  ]
+}

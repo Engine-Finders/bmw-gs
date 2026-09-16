@@ -25,15 +25,29 @@ import variantSec10 from "@/data/variant/bmwM8CompetitionSec10.json";
 import variantSec11 from "@/data/variant/bmwM8CompetitionSec11.json";
 import variantSec12 from "@/data/variant/bmwM8CompetitionSec12.json";
 import variantSec13 from "@/data/variant/bmwM8CompetitionSec13.json";
+import JsonLd from "@/components/shared/JsonLd";
+import { serviceSchema, faqSchema, breadcrumbSchema, graphDoc } from "@/lib/schema";
+
+const PATH = "/bmw-m8-competition-engines";
+const NAME = variantSec1.h1?.replaceAll("|", " ");
+const FAQ = [...(variantSec13.faqLeft || []), ...(variantSec13.faqRight || [])];
 
 export const metadata = {
   title: variantSec1.h1?.replaceAll("|", " ") || "bmw-m8-competition-engines",
   description: variantSec1.subhead || "",
+  alternates: { canonical: PATH },
 };
 
 export default function BmwM8CompetitionEnginesPage() {
   return (
     <>
+      <JsonLd
+        data={graphDoc([
+          serviceSchema({ name: NAME, description: variantSec1.subhead, path: PATH, price: (variantSec1.priceCta?.kicker || variantSec1.h1) }),
+          faqSchema(FAQ, PATH),
+          breadcrumbSchema([{ name: "Home", path: "/" }, { name: "Variants", path: "/variants" }, { name: NAME, path: PATH }], PATH),
+        ])}
+      />
       <VariantHeroSec1 data={variantSec1} />
       <VariantSec2 data={variantSec2} />
       <VariantSec3 data={variantSec3} />

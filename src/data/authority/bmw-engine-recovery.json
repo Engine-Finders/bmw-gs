@@ -1,0 +1,213 @@
+{
+  "slug": "bmw-engine-recovery",
+  "metaTitle": "BMW Engine Breakdown Recovery & Nationwide Collection | BMW Garage",
+  "metaDescription": "Professional BMW engine recovery service across the UK. We collect your BMW from any location and bring it to our specialist workshop for assessment and repair.",
+  "h1": "BMW Engine Breakdown Recovery & Nationwide Collection",
+  "lede": "We arrange same-day collection of your BMW from anywhere in the UK and transport it directly to our specialist workshop for a full assessment.",
+  "ctas": [
+    {
+      "label": "Arrange Collection",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/model/sec5.webp",
+    "/variant/sec11.webp",
+    "/engine_family/sec9_top.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Our BMW Engine Recovery Service Includes",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "When your BMW breaks down, the first step is to get it safely to a workshop that understands the brand. We provide a complete recovery and collection service for BMW vehicles across the UK, handling everything from the initial call to workshop intake."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Initial contact and incident assessment — we collect all relevant details about your vehicle and its location",
+            "Same-day dispatch of a recovery vehicle to your location, subject to availability",
+            "Safe loading and securing of your BMW on a flatbed recovery truck",
+            "Direct transport to our specialist [engine workshop](/bmw-engine-rebuild) in Billericay, Essex",
+            "Full workshop intake and logging into our system for assessment"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "We recover BMWs of all models and ages, from classic [3 Series](/bmw-3-series-engines) to modern [X5](/bmw-x5-engines) and high-performance [M3](/bmw-m3-engines) and [M5](/bmw-m5-engines) variants. Our [nationwide recovery](/bmw-engine-recovery) service means we can collect your vehicle from any location in the UK."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Recovery Pricing",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "Recovery from **£70** (UK mainland, standard car)",
+            "[Pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "For specific quotes on collection from remote areas, out-of-hours recovery, or low-clearance BMW models (including M-badged variants), please [contact us directly](/contact) or use our [online quote form](/contact)."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Which BMW Models We Recover",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our recovery service covers the full BMW range. We have specialist knowledge of low-clearance and performance models, and we take extra care with modern electronics and transmission systems."
+        },
+        {
+          "t": "p",
+          "html": "We also cover [7 Series](/bmw-7-series-engines), [X6](/bmw-x6-engines), [X7](/bmw-x7-engines), [Z4](/bmw-z4-engines) and other BMW models — if you own it, we can recover it. For specific chassis codes and variant details, see our [BMW garage homepage](/) or [contact us](/contact)."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Recovery Process — Step by Step",
+      "steps": [
+        {
+          "title": "Call or Request Online",
+          "body": "You contact us with your BMW's location and a description of the issue."
+        },
+        {
+          "title": "Vehicle Assessment & Planning",
+          "body": "We check your model and confirm the safest recovery method. Low-clearance BMWs (e.g. M models) get specialist handling."
+        },
+        {
+          "title": "Recovery Dispatch",
+          "body": "We dispatch a suitable recovery vehicle to your location — typically same-day."
+        },
+        {
+          "title": "Safe Loading & Securing",
+          "body": "Your BMW is loaded onto a flatbed or trailer and secured with straps to prevent movement during transport."
+        },
+        {
+          "title": "Transport to Workshop",
+          "body": "Your vehicle is transported directly to our workshop in Billericay, Essex."
+        },
+        {
+          "title": "Workshop Intake",
+          "body": "On arrival, your BMW is logged into our system and queued for inspection and diagnosis."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose BMW Garage for Engine Recovery?",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "We are **BMW specialists** — our workshop focuses exclusively on BMW engines and vehicles",
+            "Nationwide coverage — we collect from anywhere in the UK",
+            "Same-day dispatch where possible, with transparent communication",
+            "Specialist handling for **low-clearance, M-badged, and performance BMWs**",
+            "Direct transport to our workshop — no third-party handoffs",
+            "Full workshop assessment on arrival, with diagnostic equipment ready"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop and team →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How the Recovery Booking Process Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "**Contact us** — by phone, WhatsApp, or our online form"
+        },
+        {
+          "title": "",
+          "body": "**Vehicle details** — we confirm your BMW model, location, and any specific handling requirements"
+        },
+        {
+          "title": "",
+          "body": "**Recovery dispatch** — we arrange a recovery vehicle to your location, typically same-day"
+        },
+        {
+          "title": "",
+          "body": "**Transport & intake** — your BMW arrives at our workshop and is logged for assessment"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Once your BMW is in our workshop, we can carry out a full range of engine and vehicle services."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[BMW Engine Rebuild](/bmw-engine-rebuild)",
+            "[BMW Engine Replacement](/bmw-engine-replacement)",
+            "[BMW Diesel Timing Chain Repair](/bmw-diesel-timing-chain-repair)",
+            "[BMW Engine Inspection & Assessment](/bmw-engine-inspection-assessment)",
+            "[BMW Engine Failure Repair](/bmw-engine-failure-repair)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How quickly can you recover my BMW?",
+          "a": "We aim to dispatch a recovery vehicle on the same day you contact us, subject to availability and your location. We will provide an estimated arrival time when we confirm the booking."
+        },
+        {
+          "q": "Do you recover BMWs from anywhere in the UK?",
+          "a": "Yes, we offer nationwide recovery and collection for BMW vehicles. We have transported cars from as far as Scotland and Cornwall to our workshop in Billericay, Essex."
+        },
+        {
+          "q": "Do you handle low-clearance BMWs like M cars?",
+          "a": "Yes. We have specialist recovery equipment and procedures for low-clearance and performance BMWs (including M2, M3, M4, M5, M8, and M-badged SUVs) to avoid underbody damage."
+        },
+        {
+          "q": "What happens to my BMW when it arrives at the workshop?",
+          "a": "On arrival, your BMW is logged into our workshop system and queued for inspection. We then carry out a full assessment of the engine and vehicle to determine the next steps, including if a [rebuild](/bmw-engine-rebuild) or [replacement](/bmw-engine-replacement) is needed."
+        },
+        {
+          "q": "Is recovery included if I book an engine rebuild?",
+          "a": "Recovery is offered as a separate service, with prices starting from £70. We can provide a combined quote for recovery and workshop work. Please [contact us](/contact) for a complete estimate."
+        }
+      ]
+    }
+  ]
+}

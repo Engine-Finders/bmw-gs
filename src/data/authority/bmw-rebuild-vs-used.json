@@ -1,0 +1,299 @@
+{
+  "slug": "bmw-rebuild-vs-used",
+  "metaTitle": "BMW Rebuild vs Used Engine: Which Is Right for Your BMW? | BMW Garage",
+  "metaDescription": "Clear comparison of engine rebuild and used engine options for BMW owners. Understand the differences, process, and what we recommend.",
+  "h1": "BMW Rebuild vs Used Engine: Which Is Right for Your BMW?",
+  "lede": "A clear comparison of engine rebuild and used engine options for BMW owners — so you can make an informed decision.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/model/sec12.webp",
+    "/engine_family/sec2_top.webp",
+    "/engine_family/sec11.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Does \"Rebuild\" and \"Used Engine\" Mean for Your BMW?",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "When your BMW's engine needs attention, two common options are an **engine rebuild** or fitting a **used engine**. They are not the same, and the right choice depends on your situation."
+        },
+        {
+          "t": "h3",
+          "text": "Engine Rebuild"
+        },
+        {
+          "t": "p",
+          "html": "We take your BMW's original engine, fully disassemble it, and inspect every component. Worn parts are replaced, and machining work (boring, honing, grinding) is performed to exact tolerances. The engine is then reassembled to factory specification, using your vehicle's known history as a baseline."
+        },
+        {
+          "t": "h3",
+          "text": "Used Engine"
+        },
+        {
+          "t": "p",
+          "html": "A used engine is removed from a donor vehicle — often a salvage car — and installed as-is. Its condition, mileage, and maintenance history are largely unknown. No internal work is performed unless we choose to inspect or refresh it, which would then make it a rebuilt unit."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Our Rebuild Pricing",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We offer fixed-price rebuilds starting from:"
+        },
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": []
+        },
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": []
+        },
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": []
+        },
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": []
+        },
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": []
+        },
+        {
+          "t": "p",
+          "html": "All prices include full rebuild, machining, and fitting. [Full pricing details →](/pricing-legal-disclaimer)"
+        },
+        {
+          "t": "p",
+          "html": "Used engine pricing varies by availability — we can source and fit a used engine if that's your preferred route, but we always recommend a rebuild for the best long-term outcome."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Which BMW Models and Engines Apply?",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We rebuild engines across the BMW range. The decision between rebuild and used engine applies to virtually every BMW model, but here are some of the most common we work on:"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Popular Models",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "BMW 3 Series (E90, F30, G20)",
+              "href": "/bmw-3-series-engines"
+            },
+            {
+              "label": "BMW 5 Series (E60, F10, G30)",
+              "href": "/bmw-5-series-engines"
+            },
+            {
+              "label": "BMW X5 (E70, F15, G05)",
+              "href": "/bmw-x5-engines"
+            },
+            {
+              "label": "BMW X3 (F25, G01)",
+              "href": "/bmw-x3-engines"
+            },
+            {
+              "label": "BMW M3 (E46, E92, F80, G80)",
+              "href": "/bmw-m3-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Common Engine Families",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "BMW N47 / B47 (4-Cyl Diesel)",
+              "href": "/bmw-n47-engine"
+            },
+            {
+              "label": "BMW B48 (4-Cyl Petrol)",
+              "href": "/bmw-b48-engine"
+            },
+            {
+              "label": "BMW N57 / B57 (6-Cyl Diesel)",
+              "href": "/bmw-n57-engine"
+            },
+            {
+              "label": "BMW B58 (6-Cyl Petrol)",
+              "href": "/bmw-b58-engine"
+            },
+            {
+              "label": "BMW S55 / S58 (M Performance)",
+              "href": "/bmw-s55-engine"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "For a specific variant, check our [model pages](/) or use the registration lookup below."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Engine Rebuild Process",
+      "steps": [
+        {
+          "title": "Inspection & Diagnosis",
+          "body": "We strip the engine and inspect every component for wear, measuring against factory tolerances."
+        },
+        {
+          "title": "Machining",
+          "body": "Boring, honing, and grinding are performed to restore surfaces to exact specifications."
+        },
+        {
+          "title": "Parts Replacement",
+          "body": "All worn parts (bearings, pistons, timing components, gaskets) are replaced with new OEM-quality parts."
+        },
+        {
+          "title": "Assembly & Testing",
+          "body": "The engine is reassembled, run on our test rig, and then installed in your vehicle with a full road test."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose BMW Garage for Your Engine Work?",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Over 15 years of BMW engine specialist experience (founded 2009).",
+            "Fully equipped workshop with in-house machining capabilities.",
+            "All rebuilds include a 12-month unlimited mileage warranty.",
+            "We use your vehicle's VIN to ensure perfect engine matching and compatibility.",
+            "Recovery service available from £70 – we can collect your BMW from anywhere in the UK.",
+            "Transparent fixed-price quotes with no hidden costs."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Recent BMW Rebuild Jobs",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Real examples of engines we've rebuilt recently. (All images are representative of our work.)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How the Rebuild Process Works – From Quote to Collection",
+      "steps": [
+        {
+          "title": "Contact Us",
+          "body": "Call, email, or use our online form to describe your BMW's engine issue. We'll arrange for a free initial assessment."
+        },
+        {
+          "title": "Vehicle Arrival",
+          "body": "Bring your BMW to our workshop, or use our recovery service. We'll perform a full inspection and provide a fixed-price quote."
+        },
+        {
+          "title": "Rebuild / Replace",
+          "body": "Once you approve the work, we strip, machine, and rebuild your engine. We keep you updated throughout the process."
+        },
+        {
+          "title": "Testing & Collection",
+          "body": "Your BMW is road-tested, and we review the completed work with you. You drive away with a fully warrantied engine."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Explore other engine services and comparisons we offer:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[Engine Rebuild](/bmw-engine-rebuild)",
+            "[Engine Replacement](/bmw-engine-replacement)",
+            "[Rebuild vs Replacement](/bmw-rebuild-vs-replacement)",
+            "[Rebuild vs Remanufactured](/bmw-rebuild-vs-remanufactured)",
+            "[Rebuild vs Reconditioned](/bmw-rebuild-vs-reconditioned)",
+            "[Repair vs Full Rebuild](/bmw-repair-vs-rebuild)",
+            "[Engine Inspection](/bmw-engine-inspection-assessment)",
+            "[VIN Matching & Compatibility](/bmw-engine-matching)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "Is a used engine always cheaper than a rebuild?",
+          "a": "Not necessarily. While the purchase price of a used engine may be lower, hidden issues (wear, lack of service history) can lead to additional costs. Our rebuilds have a fixed price and come with a warranty, giving you certainty."
+        },
+        {
+          "q": "How long does a rebuild take compared to fitting a used engine?",
+          "a": "A rebuild typically takes 3-5 working days, depending on the engine. A used engine can be fitted faster if a suitable unit is in stock, but we recommend the rebuild for long-term reliability."
+        },
+        {
+          "q": "Can you source and fit a used engine if I prefer?",
+          "a": "Yes, we can source a compatible used engine for your BMW. However, we always advise that a rebuild is the more reliable option because we control the entire process and can guarantee the quality."
+        },
+        {
+          "q": "What warranty do you offer on rebuilds?",
+          "a": "Every engine rebuild we perform comes with a 12-month unlimited mileage warranty, covering parts and labour."
+        }
+      ]
+    }
+  ]
+}

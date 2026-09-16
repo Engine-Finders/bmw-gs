@@ -152,7 +152,7 @@ export default function Sec11({ data }) {
       </section>
 
       {/* ============ quote cta ============ */}
-      <section className="relative overflow-hidden bg-hero-dark text-white">
+      <section id="quote-form" className="relative scroll-mt-6 overflow-hidden bg-hero-dark text-white">
         {/* ===== mobile ===== */}
         <div className="relative md:hidden">
           <div className="relative h-44 w-full overflow-hidden">

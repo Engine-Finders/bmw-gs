@@ -59,7 +59,7 @@ export default function VariantSec13({ data }) {
   const formMobileLine2 = formHighlightRestWords.join(" ");
 
   return (
-    <section className="relative overflow-hidden bg-[#eef2f7]">
+    <section id="quote-form" className="relative scroll-mt-6 overflow-hidden bg-[#eef2f7]">
       {/* ===== mobile ===== */}
       <div className="relative px-4 py-7 md:hidden">
         <div className="flex items-center gap-2">

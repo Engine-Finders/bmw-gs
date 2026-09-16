@@ -34,7 +34,7 @@ export default function Home() {
   return (
     <>
       <HomeSec1 hero={homeSec1} lookup={homeSec2} />
-      <div className="bg-linear-to-b from-[#eaf3fb] to-white pb-6 pt-48 md:pt-28">
+      <div className="bg-linear-to-b from-[#eaf3fb] to-white pb-6 pt-40 md:pt-28">
         <HomeSec3 data={homeSec3} />
         <HomeSec4 data={homeSec4} />
       </div>

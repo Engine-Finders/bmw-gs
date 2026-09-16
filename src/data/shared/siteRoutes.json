@@ -1,846 +1,1277 @@
 [
   {
     "type": "model",
-    "slug": "bmw-1-series-engines"
+    "slug": "bmw-1-series-engines",
+    "title": "BMW 1 Series"
   },
   {
     "type": "model",
-    "slug": "bmw-2-series-engines"
+    "slug": "bmw-2-series-engines",
+    "title": "BMW 2 Series"
   },
   {
     "type": "model",
-    "slug": "bmw-4-series-engines"
+    "slug": "bmw-3-series-engines",
+    "title": "BMW 3 Series"
   },
   {
     "type": "model",
-    "slug": "bmw-5-series-engines"
+    "slug": "bmw-4-series-engines",
+    "title": "BMW 4 Series"
   },
   {
     "type": "model",
-    "slug": "bmw-6-series-engines"
+    "slug": "bmw-5-series-engines",
+    "title": "BMW 5 Series"
   },
   {
     "type": "model",
-    "slug": "bmw-7-series-engines"
+    "slug": "bmw-6-series-engines",
+    "title": "BMW 6 Series"
   },
   {
     "type": "model",
-    "slug": "bmw-8-series-engines"
+    "slug": "bmw-7-series-engines",
+    "title": "BMW 7 Series"
   },
   {
     "type": "model",
-    "slug": "bmw-m2-engines"
+    "slug": "bmw-8-series-engines",
+    "title": "BMW 8 Series"
   },
   {
     "type": "model",
-    "slug": "bmw-m3-engines"
+    "slug": "bmw-m2-engines",
+    "title": "BMW M2"
   },
   {
     "type": "model",
-    "slug": "bmw-m4-engines"
+    "slug": "bmw-m3-engines",
+    "title": "BMW M3"
   },
   {
     "type": "model",
-    "slug": "bmw-m5-engines"
+    "slug": "bmw-m4-engines",
+    "title": "BMW M4"
   },
   {
     "type": "model",
-    "slug": "bmw-m6-engines"
+    "slug": "bmw-m5-engines",
+    "title": "BMW M5"
   },
   {
     "type": "model",
-    "slug": "bmw-m8-engines"
+    "slug": "bmw-m6-engines",
+    "title": "BMW M6"
   },
   {
     "type": "model",
-    "slug": "bmw-x1-engines"
+    "slug": "bmw-m8-engines",
+    "title": "BMW M8"
   },
   {
     "type": "model",
-    "slug": "bmw-x2-engines"
+    "slug": "bmw-x1-engines",
+    "title": "BMW X1"
   },
   {
     "type": "model",
-    "slug": "bmw-x3-m-engines"
+    "slug": "bmw-x2-engines",
+    "title": "BMW X2"
   },
   {
     "type": "model",
-    "slug": "bmw-x3-engines"
+    "slug": "bmw-x3-engines",
+    "title": "BMW X3"
   },
   {
     "type": "model",
-    "slug": "bmw-x4-m-engines"
+    "slug": "bmw-x3-m-engines",
+    "title": "BMW X3 M"
   },
   {
     "type": "model",
-    "slug": "bmw-x4-engines"
+    "slug": "bmw-x4-engines",
+    "title": "BMW X4"
   },
   {
     "type": "model",
-    "slug": "bmw-x5-m-engines"
+    "slug": "bmw-x4-m-engines",
+    "title": "BMW X4 M"
   },
   {
     "type": "model",
-    "slug": "bmw-x5-engines"
+    "slug": "bmw-x5-engines",
+    "title": "BMW X5"
   },
   {
     "type": "model",
-    "slug": "bmw-x6-m-engines"
+    "slug": "bmw-x5-m-engines",
+    "title": "BMW X5 M"
   },
   {
     "type": "model",
-    "slug": "bmw-x6-engines"
+    "slug": "bmw-x6-engines",
+    "title": "BMW X6"
   },
   {
     "type": "model",
-    "slug": "bmw-x7-engines"
+    "slug": "bmw-x6-m-engines",
+    "title": "BMW X6 M"
   },
   {
     "type": "model",
-    "slug": "bmw-z4-engines"
+    "slug": "bmw-x7-engines",
+    "title": "BMW X7"
   },
   {
+    "type": "model",
+    "slug": "bmw-z4-engines",
+    "title": "BMW Z4"
+  },
+  {
+    "type": "variant",
+    "slug": "bmw-116d-engines",
+    "title": "BMW 116d"
+  },
+  {
     "type": "variant",
-    "slug": "bmw-116d-engines"
+    "slug": "bmw-116i-engines",
+    "title": "BMW 116i"
   },
   {
     "type": "variant",
-    "slug": "bmw-116i-engines"
+    "slug": "bmw-118d-engines",
+    "title": "BMW 118d"
   },
   {
     "type": "variant",
-    "slug": "bmw-118d-engines"
+    "slug": "bmw-118i-engines",
+    "title": "BMW 118i"
   },
   {
     "type": "variant",
-    "slug": "bmw-118i-engines"
+    "slug": "bmw-120d-engines",
+    "title": "BMW 120d"
   },
   {
     "type": "variant",
-    "slug": "bmw-120d-engines"
+    "slug": "bmw-120i-engines",
+    "title": "BMW 120i"
   },
   {
     "type": "variant",
-    "slug": "bmw-120i-engines"
+    "slug": "bmw-125d-engines",
+    "title": "BMW 125d"
   },
   {
     "type": "variant",
-    "slug": "bmw-125d-engines"
+    "slug": "bmw-125i-engines",
+    "title": "BMW 125i"
   },
   {
     "type": "variant",
-    "slug": "bmw-125i-engines"
+    "slug": "bmw-218d-engines",
+    "title": "BMW 218d"
   },
   {
     "type": "variant",
-    "slug": "bmw-218d-engines"
+    "slug": "bmw-218i-engines",
+    "title": "BMW 218i"
   },
   {
     "type": "variant",
-    "slug": "bmw-218i-engines"
+    "slug": "bmw-220d-engines",
+    "title": "BMW 220d"
   },
   {
     "type": "variant",
-    "slug": "bmw-220d-engines"
+    "slug": "bmw-220i-engines",
+    "title": "BMW 220i"
   },
   {
     "type": "variant",
-    "slug": "bmw-220i-engines"
+    "slug": "bmw-228i-engines",
+    "title": "BMW 228i"
   },
   {
     "type": "variant",
-    "slug": "bmw-228i-engines"
+    "slug": "bmw-230i-engines",
+    "title": "BMW 230i"
   },
   {
     "type": "variant",
-    "slug": "bmw-230i-engines"
+    "slug": "bmw-316d-engines",
+    "title": "BMW 316d"
   },
   {
     "type": "variant",
-    "slug": "bmw-316d-engines"
+    "slug": "bmw-316i-engines",
+    "title": "BMW 316i"
   },
   {
     "type": "variant",
-    "slug": "bmw-316i-engines"
+    "slug": "bmw-318d-engines",
+    "title": "BMW 318d"
   },
   {
     "type": "variant",
-    "slug": "bmw-318d-engines"
+    "slug": "bmw-318i-engines",
+    "title": "BMW 318i"
   },
   {
     "type": "variant",
-    "slug": "bmw-318i-engines"
+    "slug": "bmw-320d-engines",
+    "title": "BMW 320d"
   },
   {
     "type": "variant",
-    "slug": "bmw-320i-engines"
+    "slug": "bmw-320i-engines",
+    "title": "BMW 320i"
   },
   {
     "type": "variant",
-    "slug": "bmw-330d-engines"
+    "slug": "bmw-330d-engines",
+    "title": "BMW 330d"
   },
   {
     "type": "variant",
-    "slug": "bmw-330e-engines"
+    "slug": "bmw-330e-engines",
+    "title": "BMW 330e"
   },
   {
     "type": "variant",
-    "slug": "bmw-330i-engines"
+    "slug": "bmw-330i-engines",
+    "title": "BMW 330i"
   },
   {
     "type": "variant",
-    "slug": "bmw-335d-engines"
+    "slug": "bmw-335d-engines",
+    "title": "BMW 335d"
   },
   {
     "type": "variant",
-    "slug": "bmw-340i-engines"
+    "slug": "bmw-340i-engines",
+    "title": "BMW 340i"
   },
   {
     "type": "variant",
-    "slug": "bmw-420d-engines"
+    "slug": "bmw-420d-engines",
+    "title": "BMW 420d"
   },
   {
     "type": "variant",
-    "slug": "bmw-420i-engines"
+    "slug": "bmw-420i-engines",
+    "title": "BMW 420i"
   },
   {
     "type": "variant",
-    "slug": "bmw-425d-engines"
+    "slug": "bmw-425d-engines",
+    "title": "BMW 425d"
   },
   {
     "type": "variant",
-    "slug": "bmw-430d-engines"
+    "slug": "bmw-428i-430i-engines",
+    "title": "BMW 428i 430i"
   },
   {
     "type": "variant",
-    "slug": "bmw-428i-430i-engines"
+    "slug": "bmw-430d-engines",
+    "title": "BMW 430d"
   },
   {
     "type": "variant",
-    "slug": "bmw-430i-engines"
+    "slug": "bmw-430i-engines",
+    "title": "BMW 430i"
   },
   {
     "type": "variant",
-    "slug": "bmw-435d-engines"
+    "slug": "bmw-435d-engines",
+    "title": "BMW 435d"
   },
   {
     "type": "variant",
-    "slug": "bmw-440i-engines"
+    "slug": "bmw-440i-engines",
+    "title": "BMW 440i"
   },
   {
     "type": "variant",
-    "slug": "bmw-520d-engines"
+    "slug": "bmw-520d-engines",
+    "title": "BMW 520d"
   },
   {
     "type": "variant",
-    "slug": "bmw-520i-engines"
+    "slug": "bmw-520i-engines",
+    "title": "BMW 520i"
   },
   {
     "type": "variant",
-    "slug": "bmw-525d-engines"
+    "slug": "bmw-525d-engines",
+    "title": "BMW 525d"
   },
   {
     "type": "variant",
-    "slug": "bmw-528i-engines"
+    "slug": "bmw-528i-engines",
+    "title": "BMW 528i"
   },
   {
     "type": "variant",
-    "slug": "bmw-530d-engines"
+    "slug": "bmw-530d-engines",
+    "title": "BMW 530d"
   },
   {
     "type": "variant",
-    "slug": "bmw-530e-engines"
+    "slug": "bmw-530e-engines",
+    "title": "BMW 530e"
   },
   {
     "type": "variant",
-    "slug": "bmw-530i-engines"
+    "slug": "bmw-530i-engines",
+    "title": "BMW 530i"
   },
   {
     "type": "variant",
-    "slug": "bmw-535d-engines"
+    "slug": "bmw-535d-engines",
+    "title": "BMW 535d"
   },
   {
     "type": "variant",
-    "slug": "bmw-535i-engines"
+    "slug": "bmw-535i-engines",
+    "title": "BMW 535i"
   },
   {
     "type": "variant",
-    "slug": "bmw-540d-xdrive-engines"
+    "slug": "bmw-540d-xdrive-engines",
+    "title": "BMW 540d Xdrive"
   },
   {
     "type": "variant",
-    "slug": "bmw-540i-xdrive-engines"
+    "slug": "bmw-540i-engines",
+    "title": "BMW 540i"
   },
   {
     "type": "variant",
-    "slug": "bmw-540i-engines"
+    "slug": "bmw-540i-xdrive-engines",
+    "title": "BMW 540i Xdrive"
   },
   {
     "type": "variant",
-    "slug": "bmw-550e-xdrive-engines"
+    "slug": "bmw-550e-xdrive-engines",
+    "title": "BMW 550e Xdrive"
   },
   {
     "type": "variant",
-    "slug": "bmw-630d-engines"
+    "slug": "bmw-630d-engines",
+    "title": "BMW 630d"
   },
   {
     "type": "variant",
-    "slug": "bmw-640d-engines"
+    "slug": "bmw-640d-engines",
+    "title": "BMW 640d"
   },
   {
     "type": "variant",
-    "slug": "bmw-640i-engines"
+    "slug": "bmw-640i-engines",
+    "title": "BMW 640i"
   },
   {
     "type": "variant",
-    "slug": "bmw-650i-engines"
+    "slug": "bmw-650i-engines",
+    "title": "BMW 650i"
   },
   {
     "type": "variant",
-    "slug": "bmw-730d-engines"
+    "slug": "bmw-730d-engines",
+    "title": "BMW 730d"
   },
   {
     "type": "variant",
-    "slug": "bmw-740d-engines"
+    "slug": "bmw-730i-engines",
+    "title": "BMW 730i"
   },
   {
     "type": "variant",
-    "slug": "bmw-730i-engines"
+    "slug": "bmw-730ld-engines",
+    "title": "BMW 730ld"
   },
   {
     "type": "variant",
-    "slug": "bmw-740i-engines"
+    "slug": "bmw-740d-engines",
+    "title": "BMW 740d"
   },
   {
     "type": "variant",
-    "slug": "bmw-730ld-engines"
+    "slug": "bmw-740d-xdrive-engines",
+    "title": "BMW 740d Xdrive"
   },
   {
     "type": "variant",
-    "slug": "bmw-740ld-engines"
+    "slug": "bmw-740i-engines",
+    "title": "BMW 740i"
   },
   {
     "type": "variant",
-    "slug": "bmw-740d-xdrive-engines"
+    "slug": "bmw-740ld-engines",
+    "title": "BMW 740ld"
   },
   {
     "type": "variant",
-    "slug": "bmw-750i-engines"
+    "slug": "bmw-750i-engines",
+    "title": "BMW 750i"
   },
   {
     "type": "variant",
-    "slug": "bmw-760i-xdrive-engines"
+    "slug": "bmw-760i-xdrive-engines",
+    "title": "BMW 760i Xdrive"
   },
   {
     "type": "variant",
-    "slug": "bmw-840d-xdrive-engines"
+    "slug": "bmw-840d-xdrive-engines",
+    "title": "BMW 840d Xdrive"
   },
   {
     "type": "variant",
-    "slug": "bmw-840i-engines"
+    "slug": "bmw-840i-engines",
+    "title": "BMW 840i"
   },
   {
     "type": "variant",
-    "slug": "bmw-alpina-b8-engines"
+    "slug": "bmw-alpina-b8-engines",
+    "title": "BMW Alpina B8"
   },
   {
     "type": "variant",
-    "slug": "bmw-i5-edrive40-engines"
+    "slug": "bmw-i5-edrive40-engines",
+    "title": "BMW I5 Edrive40"
   },
   {
     "type": "variant",
-    "slug": "bmw-m135i-xdrive-engines"
+    "slug": "bmw-m135i-engines",
+    "title": "BMW M135i"
   },
   {
     "type": "variant",
-    "slug": "bmw-m135i-engines"
+    "slug": "bmw-m135i-xdrive-engines",
+    "title": "BMW M135i Xdrive"
   },
   {
     "type": "variant",
-    "slug": "bmw-m140i-engines"
+    "slug": "bmw-m140i-engines",
+    "title": "BMW M140i"
   },
   {
     "type": "variant",
-    "slug": "bmw-m2-competition-engines"
+    "slug": "bmw-m2-competition-engines",
+    "title": "BMW M2 Competition"
   },
   {
     "type": "variant",
-    "slug": "bmw-m2-cs-engines"
+    "slug": "bmw-m2-cs-engines",
+    "title": "BMW M2 CS"
   },
   {
     "type": "variant",
-    "slug": "bmw-m235i-engines"
+    "slug": "bmw-m235i-engines",
+    "title": "BMW M235i"
   },
   {
     "type": "variant",
-    "slug": "bmw-m240i-xdrive-engines"
+    "slug": "bmw-m240i-engines",
+    "title": "BMW M240i"
   },
   {
     "type": "variant",
-    "slug": "bmw-m240i-engines"
+    "slug": "bmw-m240i-xdrive-engines",
+    "title": "BMW M240i Xdrive"
   },
   {
     "type": "variant",
-    "slug": "bmw-m3-competition-engines"
+    "slug": "bmw-m3-competition-engines",
+    "title": "BMW M3 Competition"
   },
   {
     "type": "variant",
-    "slug": "bmw-m3-cs-engines"
+    "slug": "bmw-m3-cs-engines",
+    "title": "BMW M3 CS"
   },
   {
     "type": "variant",
-    "slug": "bmw-m3-csl-engines"
+    "slug": "bmw-m3-csl-engines",
+    "title": "BMW M3 CSL"
   },
   {
     "type": "variant",
-    "slug": "bmw-m3-gts-engines"
+    "slug": "bmw-m3-gts-engines",
+    "title": "BMW M3 GTS"
   },
   {
     "type": "variant",
-    "slug": "bmw-m3-touring-engines"
+    "slug": "bmw-m3-touring-engines",
+    "title": "BMW M3 Touring"
   },
   {
     "type": "variant",
-    "slug": "bmw-m340d-xdriv-engines"
+    "slug": "bmw-m340d-xdriv-engines",
+    "title": "BMW M340d Xdriv"
   },
   {
     "type": "variant",
-    "slug": "bmw-m340i-xdrive-engines"
+    "slug": "bmw-m340i-xdrive-engines",
+    "title": "BMW M340i Xdrive"
   },
   {
     "type": "variant",
-    "slug": "bmw-m4-competition-engines"
+    "slug": "bmw-m4-competition-engines",
+    "title": "BMW M4 Competition"
   },
   {
     "type": "variant",
-    "slug": "bmw-m4-cs-engines"
+    "slug": "bmw-m4-cs-engines",
+    "title": "BMW M4 CS"
   },
   {
     "type": "variant",
-    "slug": "bmw-m4-csl-engines"
+    "slug": "bmw-m4-csl-engines",
+    "title": "BMW M4 CSL"
   },
   {
     "type": "variant",
-    "slug": "bmw-m4-gts-engines"
+    "slug": "bmw-m4-gts-engines",
+    "title": "BMW M4 GTS"
   },
   {
     "type": "variant",
-    "slug": "bmw-m440i-xdrive-engines"
+    "slug": "bmw-m440i-xdrive-engines",
+    "title": "BMW M440i Xdrive"
   },
   {
     "type": "variant",
-    "slug": "bmw-m5-competition-engines"
+    "slug": "bmw-m5-competition-engines",
+    "title": "BMW M5 Competition"
   },
   {
     "type": "variant",
-    "slug": "bmw-m5-cs-engines"
+    "slug": "bmw-m5-cs-engines",
+    "title": "BMW M5 CS"
   },
   {
     "type": "variant",
-    "slug": "bmw-m5-touring-engines"
+    "slug": "bmw-m5-touring-engines",
+    "title": "BMW M5 Touring"
   },
   {
     "type": "variant",
-    "slug": "bmw-m6-convertible-engines"
+    "slug": "bmw-m6-convertible-engines",
+    "title": "BMW M6 Convertible"
   },
   {
     "type": "variant",
-    "slug": "bmw-m6-gran-coupe-engines"
+    "slug": "bmw-m6-gran-coupe-engines",
+    "title": "BMW M6 Gran Coupe"
   },
   {
     "type": "variant",
-    "slug": "bmw-m8-competition-engines"
+    "slug": "bmw-m8-competition-engines",
+    "title": "BMW M8 Competition"
   },
   {
     "type": "variant",
-    "slug": "bmw-m8-gran-coupe-engines"
+    "slug": "bmw-m8-gran-coupe-engines",
+    "title": "BMW M8 Gran Coupe"
   },
   {
     "type": "variant",
-    "slug": "bmw-m850i-xdrive-engines"
+    "slug": "bmw-m850i-xdrive-engines",
+    "title": "BMW M850i Xdrive"
   },
   {
     "type": "variant",
-    "slug": "bmw-x1-m35i-engines"
+    "slug": "bmw-x1-m35i-engines",
+    "title": "BMW X1 M35i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x1-sdrive18d-engines"
+    "slug": "bmw-x1-sdrive18d-engines",
+    "title": "BMW X1 Sdrive18d"
   },
   {
     "type": "variant",
-    "slug": "bmw-x1-xdrive20d-engines"
+    "slug": "bmw-x1-sdrive18i-engines",
+    "title": "BMW X1 Sdrive18i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x1-sdrive18i-engines"
+    "slug": "bmw-x1-xdrive20d-engines",
+    "title": "BMW X1 Xdrive20d"
   },
   {
     "type": "variant",
-    "slug": "bmw-x1-xdrive20i-engines"
+    "slug": "bmw-x1-xdrive20i-engines",
+    "title": "BMW X1 Xdrive20i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x1-xdrive23d-engines"
+    "slug": "bmw-x1-xdrive23d-engines",
+    "title": "BMW X1 Xdrive23d"
   },
   {
     "type": "variant",
-    "slug": "bmw-x1-xdrive23i-engines"
+    "slug": "bmw-x1-xdrive23i-engines",
+    "title": "BMW X1 Xdrive23i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x1-xdrive25e-engines"
+    "slug": "bmw-x1-xdrive25e-engines",
+    "title": "BMW X1 Xdrive25e"
   },
   {
     "type": "variant",
-    "slug": "bmw-x1-xdrive30e-engines"
+    "slug": "bmw-x1-xdrive30e-engines",
+    "title": "BMW X1 Xdrive30e"
   },
   {
     "type": "variant",
-    "slug": "bmw-x2-m35i-engines"
+    "slug": "bmw-x2-m35i-engines",
+    "title": "BMW X2 M35i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x2-sdrive18d-engines"
+    "slug": "bmw-x2-sdrive18d-engines",
+    "title": "BMW X2 Sdrive18d"
   },
   {
     "type": "variant",
-    "slug": "bmw-x2-xdrive20d-engines"
+    "slug": "bmw-x2-sdrive18i-engines",
+    "title": "BMW X2 Sdrive18i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x2-sdrive18i-engines"
+    "slug": "bmw-x2-xdrive20d-engines",
+    "title": "BMW X2 Xdrive20d"
   },
   {
     "type": "variant",
-    "slug": "bmw-x2-xdrive20i-engines"
+    "slug": "bmw-x2-xdrive20i-engines",
+    "title": "BMW X2 Xdrive20i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x3-20d-engines"
+    "slug": "bmw-x3-20d-engines",
+    "title": "BMW X3 20D"
   },
   {
     "type": "variant",
-    "slug": "bmw-x3-30d-engines"
+    "slug": "bmw-x3-30-xdrive-engines",
+    "title": "BMW X3 30 Xdrive"
   },
   {
     "type": "variant",
-    "slug": "bmw-x3-30-xdrive-engines"
+    "slug": "bmw-x3-30d-engines",
+    "title": "BMW X3 30D"
   },
   {
     "type": "variant",
-    "slug": "bmw-x3-30e-xdrive-engines"
+    "slug": "bmw-x3-30e-xdrive-engines",
+    "title": "BMW X3 30E Xdrive"
   },
   {
     "type": "variant",
-    "slug": "bmw-x3-m-competition-engines"
+    "slug": "bmw-x3-m-competition-engines",
+    "title": "BMW X3 M Competition"
   },
   {
     "type": "variant",
-    "slug": "bmw-x3-m40i-engines"
+    "slug": "bmw-x3-m40i-engines",
+    "title": "BMW X3 M40i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x3-m50-xdrive-engines"
+    "slug": "bmw-x3-m50-xdrive-engines",
+    "title": "BMW X3 M50 Xdrive"
   },
   {
     "type": "variant",
-    "slug": "bmw-x3-xdrive20d-engines"
+    "slug": "bmw-x3-xdrive20d-engines",
+    "title": "BMW X3 Xdrive20d"
   },
   {
     "type": "variant",
-    "slug": "bmw-x3-xdrive30d-engines"
+    "slug": "bmw-x3-xdrive20i-engines",
+    "title": "BMW X3 Xdrive20i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x3-xdrive20i-engines"
+    "slug": "bmw-x3-xdrive30d-engines",
+    "title": "BMW X3 Xdrive30d"
   },
   {
     "type": "variant",
-    "slug": "bmw-x3-xdrive30i-engines"
+    "slug": "bmw-x3-xdrive30e-engines",
+    "title": "BMW X3 Xdrive30e"
   },
   {
     "type": "variant",
-    "slug": "bmw-x3-xdrive30e-engines"
+    "slug": "bmw-x3-xdrive30i-engines",
+    "title": "BMW X3 Xdrive30i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x4-m-competition-engines"
+    "slug": "bmw-x4-m-competition-engines",
+    "title": "BMW X4 M Competition"
   },
   {
     "type": "variant",
-    "slug": "bmw-x4-m40i-engines"
+    "slug": "bmw-x4-m40i-engines",
+    "title": "BMW X4 M40i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x4-xdrive20d-engines"
+    "slug": "bmw-x4-xdrive20d-engines",
+    "title": "BMW X4 Xdrive20d"
   },
   {
     "type": "variant",
-    "slug": "bmw-x4-xdrive30d-engines"
+    "slug": "bmw-x4-xdrive20i-engines",
+    "title": "BMW X4 Xdrive20i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x4-xdrive20i-engines"
+    "slug": "bmw-x4-xdrive28i-engines",
+    "title": "BMW X4 Xdrive28i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x4-xdrive28i-engines"
+    "slug": "bmw-x4-xdrive30d-engines",
+    "title": "BMW X4 Xdrive30d"
   },
   {
     "type": "variant",
-    "slug": "bmw-x4-xdrive30i-engines"
+    "slug": "bmw-x4-xdrive30e-engines",
+    "title": "BMW X4 Xdrive30e"
   },
   {
     "type": "variant",
-    "slug": "bmw-x4-xdrive30e-engines"
+    "slug": "bmw-x4-xdrive30i-engines",
+    "title": "BMW X4 Xdrive30i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x4-xdrive35d-engines"
+    "slug": "bmw-x4-xdrive35d-engines",
+    "title": "BMW X4 Xdrive35d"
   },
   {
     "type": "variant",
-    "slug": "bmw-x5-m-competition-engines"
+    "slug": "bmw-x5-m-competition-engines",
+    "title": "BMW X5 M Competition"
   },
   {
     "type": "variant",
-    "slug": "bmw-x5-m50d-engines"
+    "slug": "bmw-x5-m50d-engines",
+    "title": "BMW X5 M50d"
   },
   {
     "type": "variant",
-    "slug": "bmw-x5-m60i-engines"
+    "slug": "bmw-x5-m60i-engines",
+    "title": "BMW X5 M60i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x5-sdrive25d-engines"
+    "slug": "bmw-x5-sdrive25d-engines",
+    "title": "BMW X5 Sdrive25d"
   },
   {
     "type": "variant",
-    "slug": "bmw-x5-sdrive40i-engines"
+    "slug": "bmw-x5-sdrive40i-engines",
+    "title": "BMW X5 Sdrive40i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x5-xdrive40i-engines"
+    "slug": "bmw-x5-xdrive30d-engines",
+    "title": "BMW X5 Xdrive30d"
   },
   {
     "type": "variant",
-    "slug": "bmw-x5-xdrive30d-engines"
+    "slug": "bmw-x5-xdrive35i-engines",
+    "title": "BMW X5 Xdrive35i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x5-xdrive35i-engines"
+    "slug": "bmw-x5-xdrive40e-engines",
+    "title": "BMW X5 Xdrive40e"
   },
   {
     "type": "variant",
-    "slug": "bmw-x5-xdrive40e-engines"
+    "slug": "bmw-x5-xdrive40i-engines",
+    "title": "BMW X5 Xdrive40i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x5-xdrive50e-engines"
+    "slug": "bmw-x5-xdrive50e-engines",
+    "title": "BMW X5 Xdrive50e"
   },
   {
     "type": "variant",
-    "slug": "bmw-x5-xdrive50i-engines"
+    "slug": "bmw-x5-xdrive50i-engines",
+    "title": "BMW X5 Xdrive50i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x6-m-competition-engines"
+    "slug": "bmw-x6-m-competition-engines",
+    "title": "BMW X6 M Competition"
   },
   {
     "type": "variant",
-    "slug": "bmw-x6-m50d-engines"
+    "slug": "bmw-x6-m50d-engines",
+    "title": "BMW X6 M50d"
   },
   {
     "type": "variant",
-    "slug": "bmw-x6-m60i-engines"
+    "slug": "bmw-x6-m60i-engines",
+    "title": "BMW X6 M60i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x6-xdrive30d-engines"
+    "slug": "bmw-x6-xdrive30d-engines",
+    "title": "BMW X6 Xdrive30d"
   },
   {
     "type": "variant",
-    "slug": "bmw-x6-xdrive40i-engines"
+    "slug": "bmw-x6-xdrive40i-engines",
+    "title": "BMW X6 Xdrive40i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x6-xdrive50e-engines"
+    "slug": "bmw-x6-xdrive50e-engines",
+    "title": "BMW X6 Xdrive50e"
   },
   {
     "type": "variant",
-    "slug": "bmw-x6-xdrive50i-engines"
+    "slug": "bmw-x6-xdrive50i-engines",
+    "title": "BMW X6 Xdrive50i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x7-m60i-engines"
+    "slug": "bmw-x7-m60i-engines",
+    "title": "BMW X7 M60i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x7-xdrive40d-engines"
+    "slug": "bmw-x7-xdrive40d-engines",
+    "title": "BMW X7 Xdrive40d"
   },
   {
     "type": "variant",
-    "slug": "bmw-x7-xdrive40i-engines"
+    "slug": "bmw-x7-xdrive40i-engines",
+    "title": "BMW X7 Xdrive40i"
   },
   {
     "type": "variant",
-    "slug": "bmw-x7-xdrive50e-engines"
+    "slug": "bmw-x7-xdrive50e-engines",
+    "title": "BMW X7 Xdrive50e"
   },
   {
     "type": "variant",
-    "slug": "bmw-xm-50e-engines"
+    "slug": "bmw-xm-engines",
+    "title": "BMW XM"
   },
   {
     "type": "variant",
-    "slug": "bmw-xm-label-red-engines"
+    "slug": "bmw-xm-50e-engines",
+    "title": "BMW XM 50E"
   },
   {
     "type": "variant",
-    "slug": "bmw-xm-label-engines"
+    "slug": "bmw-xm-label-engines",
+    "title": "BMW XM Label"
   },
   {
     "type": "variant",
-    "slug": "bmw-xm-engines"
+    "slug": "bmw-xm-label-red-engines",
+    "title": "BMW XM Label RED"
   },
   {
     "type": "variant",
-    "slug": "bmw-z4-3-0i-3-0si-engines"
+    "slug": "bmw-z4-3-0i-3-0si-engines",
+    "title": "BMW Z4 3 0I 3 0SI"
   },
   {
     "type": "variant",
-    "slug": "bmw-z4-m-roadster-m-coupe-engines"
+    "slug": "bmw-z4-m-roadster-m-coupe-engines",
+    "title": "BMW Z4 M Roadster M Coupe"
   },
   {
     "type": "variant",
-    "slug": "bmw-z4-m40i-engines"
+    "slug": "bmw-z4-m40i-engines",
+    "title": "BMW Z4 M40i"
   },
   {
     "type": "variant",
-    "slug": "bmw-z4-sdrive20i-engines"
+    "slug": "bmw-z4-sdrive20i-engines",
+    "title": "BMW Z4 Sdrive20i"
   },
   {
     "type": "variant",
-    "slug": "bmw-z4-sdrive23i-engines"
+    "slug": "bmw-z4-sdrive23i-engines",
+    "title": "BMW Z4 Sdrive23i"
   },
   {
     "type": "variant",
-    "slug": "bmw-z4-sdrive28i-engines"
+    "slug": "bmw-z4-sdrive28i-engines",
+    "title": "BMW Z4 Sdrive28i"
   },
   {
     "type": "variant",
-    "slug": "bmw-z4-sdrive30i-engines"
+    "slug": "bmw-z4-sdrive30i-engines",
+    "title": "BMW Z4 Sdrive30i"
   },
   {
     "type": "variant",
-    "slug": "bmw-z4-sdrive35i-engines"
+    "slug": "bmw-z4-sdrive35i-engines",
+    "title": "BMW Z4 Sdrive35i"
   },
   {
     "type": "variant",
-    "slug": "bmw-z4-sdrive35is-engines"
+    "slug": "bmw-z4-sdrive35is-engines",
+    "title": "BMW Z4 Sdrive35is"
   },
   {
     "type": "variant",
-    "slug": "bmw-z4-z4-2-5i-2-5si-engines"
+    "slug": "bmw-z4-z4-2-5i-2-5si-engines",
+    "title": "BMW Z4 Z4 2 5I 2 5SI"
   },
   {
     "type": "engine",
-    "slug": "bmw-b37-engine"
+    "slug": "bmw-b37-engine",
+    "title": "BMW B37"
   },
   {
     "type": "engine",
-    "slug": "bmw-b38-engine"
+    "slug": "bmw-b38-engine",
+    "title": "BMW B38"
   },
   {
     "type": "engine",
-    "slug": "bmw-b47-engine"
+    "slug": "bmw-b47-engine",
+    "title": "BMW B47"
   },
   {
     "type": "engine",
-    "slug": "bmw-b48-engine"
+    "slug": "bmw-b48-engine",
+    "title": "BMW B48"
   },
   {
     "type": "engine",
-    "slug": "bmw-b57-engine"
+    "slug": "bmw-b57-engine",
+    "title": "BMW B57"
   },
   {
     "type": "engine",
-    "slug": "bmw-m54-engine"
+    "slug": "bmw-b58-engine",
+    "title": "BMW B58"
   },
   {
     "type": "engine",
-    "slug": "bmw-n13-engine"
+    "slug": "bmw-m54-engine",
+    "title": "BMW M54"
   },
   {
     "type": "engine",
-    "slug": "bmw-n20-engine"
+    "slug": "bmw-n13-engine",
+    "title": "BMW N13"
   },
   {
     "type": "engine",
-    "slug": "bmw-n47-engine"
+    "slug": "bmw-n20-engine",
+    "title": "BMW N20"
   },
   {
     "type": "engine",
-    "slug": "bmw-n52-engine"
+    "slug": "bmw-n47-engine",
+    "title": "BMW N47"
   },
   {
     "type": "engine",
-    "slug": "bmw-n54-engine"
+    "slug": "bmw-n52-engine",
+    "title": "BMW N52"
   },
   {
     "type": "engine",
-    "slug": "bmw-n55-engine"
+    "slug": "bmw-n54-engine",
+    "title": "BMW N54"
   },
   {
     "type": "engine",
-    "slug": "bmw-n57-engine"
+    "slug": "bmw-n55-engine",
+    "title": "BMW N55"
   },
   {
     "type": "engine",
-    "slug": "bmw-n63-engine"
+    "slug": "bmw-n57-engine",
+    "title": "BMW N57"
   },
   {
     "type": "engine",
-    "slug": "bmw-n63tu-engine"
+    "slug": "bmw-n63-engine",
+    "title": "BMW N63"
   },
   {
     "type": "engine",
-    "slug": "bmw-n74-engine"
+    "slug": "bmw-n63tu-engine",
+    "title": "BMW N63tu"
   },
   {
     "type": "engine",
-    "slug": "bmw-s54-engine"
+    "slug": "bmw-n74-engine",
+    "title": "BMW N74"
   },
   {
     "type": "engine",
-    "slug": "bmw-s55-engine"
+    "slug": "bmw-s54-engine",
+    "title": "BMW S54"
   },
   {
     "type": "engine",
-    "slug": "bmw-s58-engine"
+    "slug": "bmw-s55-engine",
+    "title": "BMW S55"
   },
   {
     "type": "engine",
-    "slug": "bmw-s62-engine"
+    "slug": "bmw-s58-engine",
+    "title": "BMW S58"
   },
   {
     "type": "engine",
-    "slug": "bmw-s63-engine"
+    "slug": "bmw-s62-engine",
+    "title": "BMW S62"
   },
   {
     "type": "engine",
-    "slug": "bmw-s63tu-engine"
+    "slug": "bmw-s63-engine",
+    "title": "BMW S63"
   },
   {
     "type": "engine",
-    "slug": "bmw-s65-engine"
+    "slug": "bmw-s63tu-engine",
+    "title": "BMW S63tu"
   },
   {
     "type": "engine",
-    "slug": "bmw-s68-engine"
+    "slug": "bmw-s65-engine",
+    "title": "BMW S65"
   },
   {
     "type": "engine",
-    "slug": "bmw-s85-engine"
+    "slug": "bmw-s68-engine",
+    "title": "BMW S68"
+  },
+  {
+    "type": "engine",
+    "slug": "bmw-s85-engine",
+    "title": "BMW S85"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-cylinder-head-repair",
+    "title": "BMW Cylinder Head Repair & Rebuild"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-diesel-timing-chain-repair",
+    "title": "BMW Diesel Timing Chain Repair (N47/B47)"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-engine-bearing-replacement",
+    "title": "BMW Engine Bearing Replacement"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-engine-recovery",
+    "title": "BMW Engine Breakdown Recovery & Nationwide Collection"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-engine-compatibility",
+    "title": "BMW Engine Compatibility & Application Matching"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-engine-components-replaced",
+    "title": "BMW Engine Components We Replace"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-engine-failure-repair",
+    "title": "BMW Engine Failure Repair"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-engine-inspection-assessment",
+    "title": "BMW Engine Inspection & Assessment"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-engine-machining",
+    "title": "BMW Engine Machining & Rebuild Preparation"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-engine-matching",
+    "title": "BMW Engine Matching by Registration & VIN"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-engine-rebuild",
+    "title": "BMW Engine Rebuild"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-rebuild-vs-replacement",
+    "title": "BMW Engine Rebuild vs Replacement"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-engine-warranty",
+    "title": "BMW Engine Rebuild Warranty Explained"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-engine-removal-refit",
+    "title": "BMW Engine Removal, Refit & Final Testing"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-engine-replacement",
+    "title": "BMW Engine Replacement & Fitting"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-engine-supply-fit",
+    "title": "BMW Engine Supply & Fit"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-failed-rebuild-remediation",
+    "title": "BMW Failed Previous Rebuild Remediation"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-high-mileage-engine-rebuild",
+    "title": "BMW High-Mileage Engine Rebuild"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-rod-bearing-repair",
+    "title": "BMW M-Car Rod Bearing Repair (S54/S85)"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-m-power-engine-rebuild",
+    "title": "BMW M-Power Engine Rebuild"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-petrol-timing-chain-repair",
+    "title": "BMW N20 Petrol Timing Chain Repair & Replacement"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-n54-fuel-pump-injector-repair",
+    "title": "BMW N54 Fuel Pump & Injector Repair"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-oil-leak-gasket-repair",
+    "title": "BMW Oil Leak & Gasket Repair"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-rebuild-vs-reconditioned",
+    "title": "BMW Rebuild vs Reconditioned"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-rebuild-vs-remanufactured",
+    "title": "BMW Rebuild vs Remanufactured"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-rebuild-vs-used",
+    "title": "BMW Rebuild vs Used Engine: Which Is Right for Your BMW?"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-repair-vs-rebuild",
+    "title": "BMW Repair vs Full Rebuild"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-timing-chain-failure-repair",
+    "title": "BMW Timing Chain Failure Repair"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-trade-fleet-engine-services",
+    "title": "BMW Trade & Fleet Engine Services"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-turbo-ancillary-repair",
+    "title": "BMW Turbo & Ancillary Repair"
+  },
+  {
+    "type": "authority",
+    "slug": "bmw-hot-vee-v8-repair",
+    "title": "BMW V8 Hot-Vee Engine Repair (N63/S63)"
+  },
+  {
+    "type": "core",
+    "slug": "about",
+    "title": "BMW About"
+  },
+  {
+    "type": "core",
+    "slug": "contact",
+    "title": "BMW Contact"
+  },
+  {
+    "type": "core",
+    "slug": "financing",
+    "title": "BMW Financing"
+  },
+  {
+    "type": "core",
+    "slug": "warranty",
+    "title": "BMW Warranty"
+  },
+  {
+    "type": "core",
+    "slug": "privacy-policy",
+    "title": "BMW Privacy Policy"
+  },
+  {
+    "type": "core",
+    "slug": "terms-and-conditions",
+    "title": "BMW Terms AND Conditions"
+  },
+  {
+    "type": "core",
+    "slug": "pricing-legal-disclaimer",
+    "title": "BMW Pricing Legal Disclaimer"
+  },
+  {
+    "type": "directory",
+    "slug": "models",
+    "title": "BMW Models"
+  },
+  {
+    "type": "directory",
+    "slug": "variants",
+    "title": "BMW Variants"
+  },
+  {
+    "type": "directory",
+    "slug": "engines",
+    "title": "BMW Engines"
   }
 ]

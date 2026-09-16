@@ -1,0 +1,293 @@
+{
+  "slug": "bmw-hot-vee-v8-repair",
+  "metaTitle": "BMW V8 Hot-Vee Engine Repair (N63/S63) | BMW Garage",
+  "metaDescription": "Specialist BMW hot-vee V8 engine repair for N63 and S63 twin-turbo engines. Rod bearings, turbos, valve seals and cooling system work. Rebuilds start from £4,500.",
+  "h1": "BMW V8 Hot-Vee Engine Repair (N63/S63)",
+  "lede": "Specialist repair and rebuild of BMW's N63 and S63 twin-turbo V8 engines.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine_family/sec4.webp",
+    "/model/sec5.webp",
+    "/variant/sec11.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Does BMW Hot-Vee V8 Engine Repair Involve?",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "The N63 and S63 engines feature a \"hot-vee\" design where the twin turbochargers are mounted between the cylinder banks. This creates high under-bonnet temperatures and makes access significantly more difficult than conventional V8 layouts. Our repair process is designed to address the specific challenges of this engine family."
+        },
+        {
+          "t": "p",
+          "html": "Typical repair work includes:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Rod bearing replacement** – full engine strip-down to access and replace all connecting rod bearings, a preventive measure on higher-mileage examples",
+            "**Turbocharger servicing** – removal and inspection of hot-vee mounted turbos, including oil and coolant line checks",
+            "**Valve stem seal replacement** – addressing oil consumption issues, performed with precision and, where possible, without removing the cylinder head",
+            "**Cooling system overhaul** – full inspection and bleeding of the multiple cooling circuits, including turbocharger cooling lines and radiator cleaning",
+            "**Full reassembly with torque-critical fasteners** – hundreds of bolts torqued to BMW's exact specifications using digital torque wrenches and specialist tools"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Hot-Vee V8 Repair – Fixed-Price Starting Point",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**V8 (N63/S63) rebuilds from £4,500**",
+            "This is our fixed-price starting point for a full strip-down inspection and rebuild. Every quote is confirmed after inspection, with no hidden fees. [Learn more about our pricing →](/pricing-legal-disclaimer)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "For M-badged performance variants (S63 in M5, M6, M8, X5 M, X6 M), pricing starts from £6,500. See our M-Power engine rebuild service →"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "BMW Models With N63 and S63 Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We work on all BMW models fitted with the N63 family (4.4L twin-turbo V8) and the S63 M-performance variant. This includes:"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "N63 Engines (standard V8)",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "BMW 5 Series",
+              "href": "/bmw-5-series-engines"
+            },
+            {
+              "label": "BMW 6 Series",
+              "href": "/bmw-6-series-engines"
+            },
+            {
+              "label": "BMW 7 Series",
+              "href": "/bmw-7-series-engines"
+            },
+            {
+              "label": "BMW 8 Series",
+              "href": "/bmw-8-series-engines"
+            },
+            {
+              "label": "BMW X5",
+              "href": "/bmw-x5-engines"
+            },
+            {
+              "label": "BMW X6",
+              "href": "/bmw-x6-engines"
+            },
+            {
+              "label": "BMW X7",
+              "href": "/bmw-x7-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "S63 Engines (M-performance V8)",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "BMW M5",
+              "href": "/bmw-m5-engines"
+            },
+            {
+              "label": "BMW M6",
+              "href": "/bmw-m6-engines"
+            },
+            {
+              "label": "BMW M8",
+              "href": "/bmw-m8-engines"
+            },
+            {
+              "label": "BMW X5 M",
+              "href": "/bmw-x5-m-engines"
+            },
+            {
+              "label": "BMW X6 M",
+              "href": "/bmw-x6-m-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "If your car isn't listed, [contact us with your registration](/contact) and we'll confirm the engine type and repair options."
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Engine Families",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "BMW N63 Engine",
+              "href": "/bmw-n63-engine"
+            },
+            {
+              "label": "BMW S63 Engine",
+              "href": "/bmw-s63-engine"
+            },
+            {
+              "label": "BMW N63TU Engine",
+              "href": "/bmw-n63tu-engine"
+            },
+            {
+              "label": "BMW S63TU Engine",
+              "href": "/bmw-s63tu-engine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Hot-Vee V8 Repair Process",
+      "steps": [
+        {
+          "title": "Inspection & Assessment",
+          "body": "We strip the engine to inspect all components. This gives us a clear picture of what's needed before any work begins."
+        },
+        {
+          "title": "Component Replacement",
+          "body": "Rod bearings, valve stem seals, turbocharger cooling lines, gaskets and seals are replaced as required using OEM-spec parts."
+        },
+        {
+          "title": "Turbo Servicing & Cooling",
+          "body": "Hot-vee turbos are serviced, and the cooling system is thoroughly inspected, bled, and tested to ensure all circuits function correctly."
+        },
+        {
+          "title": "Precision Reassembly",
+          "body": "Reassembly is performed with digital torque wrenches and BMW timing tools, following the exact torque sequence and specifications."
+        },
+        {
+          "title": "Testing & Warranty",
+          "body": "The engine is run-tested in the workshop and road-tested in the vehicle. A 12-month unlimited-mileage warranty is included."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose BMW Garage for Hot-Vee V8 Repairs?",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Specialist V8 experience** – our technicians work daily on N63, S63 and other BMW V8 engines",
+            "**Full workshop facility** – engine strip-down, machining, and reassembly all completed in-house",
+            "**Precision tooling** – we use digital torque wrenches, BMW-specific timing tools and engine support cradles",
+            "**12-month unlimited-mileage warranty** – included on every rebuild, with no hidden exclusions",
+            "**Fixed-price quotes** – no surprises, quoted after a full strip-down inspection",
+            "**Nationwide engine recovery** – if your car needs to be brought to us, we can arrange collection"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Meet our workshop and team →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How Our Engine Repair Service Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "Contact us with your registration or VIN, or arrange to bring your car to our workshop"
+        },
+        {
+          "title": "",
+          "body": "We perform a full strip-down inspection to identify the exact work required"
+        },
+        {
+          "title": "",
+          "body": "You receive a fixed-price quote with no hidden fees"
+        },
+        {
+          "title": "",
+          "body": "We complete the repair, road-test the vehicle, and provide a 12-month warranty"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Engine Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[BMW Engine Rebuild](/bmw-engine-rebuild)",
+            "[BMW Engine Replacement](/bmw-engine-replacement)",
+            "[BMW Engine Bearing Replacement](/bmw-engine-bearing-replacement)",
+            "[BMW M-Power Engine Rebuild](/bmw-m-power-engine-rebuild)",
+            "[BMW Engine Inspection & Assessment](/bmw-engine-inspection-assessment)",
+            "[BMW Turbo & Ancillary Repair](/bmw-turbo-ancillary-repair)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What exactly is a \"hot-vee\" engine?",
+          "a": "A hot-vee engine has the turbochargers mounted between the cylinder banks in the \"V\" of the engine. This design allows for shorter exhaust paths and improved packaging, but creates high temperatures and makes access to the turbos and related components more difficult."
+        },
+        {
+          "q": "How long does a hot-vee V8 repair take?",
+          "a": "A full strip-down and rebuild typically takes 3–5 days, depending on the extent of the work required and parts availability. We provide a clear timeline during the inspection and quote process."
+        },
+        {
+          "q": "Is a hot-vee V8 repair more expensive than a standard V8?",
+          "a": "Yes, due to the additional labour and complexity involved. Accessing the turbos and performing repairs in the hot-vee area takes significantly longer than a conventional V8 layout. Our fixed-price quotes account for this."
+        },
+        {
+          "q": "Do you offer a warranty on hot-vee V8 repairs?",
+          "a": "Yes, all our engine repairs include a 12-month unlimited-mileage warranty. The warranty covers parts and labour for the work we have completed."
+        }
+      ]
+    }
+  ]
+}

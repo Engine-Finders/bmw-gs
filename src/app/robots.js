@@ -1,11 +1,9 @@
-const SITE_URL = "https://bmwgarage.uk";
+import { SITE_URL } from "./layout";
 
 export default function robots() {
   return {
-    rules: {
-      userAgent: "*",
-      allow: "/",
-    },
+    rules: { userAgent: "*", allow: "/" },
     sitemap: `${SITE_URL}/sitemap.xml`,
+    host: SITE_URL,
   };
 }

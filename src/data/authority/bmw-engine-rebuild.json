@@ -1,0 +1,263 @@
+{
+  "slug": "bmw-engine-rebuild",
+  "metaTitle": "BMW Engine Rebuild | BMW Garage",
+  "metaDescription": "Professional BMW engine rebuild specialists. Full strip-down, machine work, reassembly to BMW factory specs. 12-month warranty. Get a quote today.",
+  "h1": "BMW Engine Rebuild Specialists",
+  "lede": "Full strip-down, precision machine work, and reassembly to BMW factory specifications. 12-month unlimited mileage warranty.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine_family/sec2_top.webp",
+    "/engine_family/sec11.webp",
+    "/variant/sec1.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What a BMW Engine Rebuild Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "A professional engine rebuild returns your BMW's engine to factory-standard performance and reliability. Here's what the process includes at our workshop:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Full removal and strip-down** — Every component is disassembled, from pistons and rods to the cylinder head and crankshaft.",
+            "**Precision measurement** — Cylinder bores, bearing clearances, and valve clearances are checked against BMW's factory tolerances.",
+            "**Machine work** — Cylinders are bored and honed, crankshaft journals ground, and cylinder heads resurfaced. BMW aluminium components are hot-washed and aqua-blasted; engine blocks laser-cleaned before re-enamelling.",
+            "**High-quality replacement parts** — New pistons, rings, bearings, gaskets, seals, and a full timing chain kit are installed. Valve cover gaskets and cooling system parts are also renewed.",
+            "**Reassembly and testing** — Everything is torqued to BMW specification, VANOS is verified for correct operation, and compression/leak-down tests confirm a perfect seal before reinstallation."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "We use BMW-specific diagnostic software (ISTA) for post-rebuild testing and adaptation resets, ensuring your engine runs exactly as it should."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "BMW Engine Rebuild Pricing",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our rebuild prices are fixed, transparent, and include all parts, labour, and machining. No hidden extras."
+        },
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**4-Cylinder Engine** from £1,900",
+            "**6-Cylinder Engine** from £2,800",
+            "**V8 / Performance (M)** from £4,500 – £5,500+",
+            "[Pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Every rebuild includes a 12-month unlimited mileage warranty. Nationwide engine recovery available from £70. Turnaround typically 3-5 days."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Which BMW Models We Rebuild",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We rebuild engines across the entire BMW range, from the 1 Series to the X7 and M models."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "1 Series",
+              "href": "/bmw-1-series-engines"
+            },
+            {
+              "label": "View Variants →",
+              "href": "/bmw-120d-engines"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "3 Series"
+        },
+        {
+          "t": "p",
+          "html": "320d, 330d, 335d, 340i, M3"
+        },
+        {
+          "t": "h3",
+          "text": "5 Series"
+        },
+        {
+          "t": "p",
+          "html": "520d, 530d, 535d, 540i, M5"
+        },
+        {
+          "t": "h3",
+          "text": "X5"
+        },
+        {
+          "t": "p",
+          "html": "xDrive30d, xDrive40d, xDrive50i, X5 M"
+        },
+        {
+          "t": "h3",
+          "text": "M3"
+        },
+        {
+          "t": "p",
+          "html": "E46, E90, F80, G80"
+        },
+        {
+          "t": "h3",
+          "text": "M4"
+        },
+        {
+          "t": "p",
+          "html": "F82, F83, G82"
+        },
+        {
+          "t": "p",
+          "html": "We also rebuild [2 Series](/bmw-2-series-engines), [4 Series](/bmw-4-series-engines), [6 Series](/bmw-6-series-engines), [7 Series](/bmw-7-series-engines), [8 Series](/bmw-8-series-engines), [X1](/bmw-x1-engines), [X2](/bmw-x2-engines), [X3](/bmw-x3-engines), [X4](/bmw-x4-engines), [X6](/bmw-x6-engines), [X7](/bmw-x7-engines), [Z4](/bmw-z4-engines), and [XM](/bmw-xm-engines)."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Engine Rebuild Process",
+      "steps": [
+        {
+          "title": "",
+          "body": "The engine is fully removed and completely disassembled. All parts are laid out for inspection."
+        },
+        {
+          "title": "",
+          "body": "Cylinder bores, bearing clearances, and crankshaft journals are measured against BMW factory tolerances."
+        },
+        {
+          "title": "",
+          "body": "Boring, honing, crankshaft grinding, and cylinder head resurfacing. Alusil cylinders are honed using the correct specialist procedure."
+        },
+        {
+          "title": "",
+          "body": "New pistons, rings, bearings, gaskets, seals, and a full timing chain kit are installed. Valve cover gaskets and cooling system parts are also renewed."
+        },
+        {
+          "title": "",
+          "body": "Everything is torqued to BMW specification. VANOS is verified with BMW timing tools. Compression and leak-down tests confirm a perfect seal."
+        },
+        {
+          "title": "",
+          "body": "The rebuilt engine is refitted, all systems are checked with BMW ISTA, and the vehicle is road-tested before collection."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose BMW Garage for Your Engine Rebuild",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**BMW specialists since 2009** — We know BMW engines inside out, from the N47 to the S58.",
+            "**Full in-house machine shop** — Boring, honing, grinding, and resurfacing all carried out on our premises.",
+            "**BMW-specific tooling** — We use genuine BMW timing tools, locking tools, and ISTA diagnostic equipment.",
+            "**12-month unlimited mileage warranty** — We stand behind every rebuild.",
+            "**Transparent fixed pricing** — No surprises. Our quote is what you pay."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How Our Rebuild Service Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "Get in touch by phone, WhatsApp, or email. Tell us about your BMW and the issues you're experiencing."
+        },
+        {
+          "title": "",
+          "body": "We inspect your vehicle at our workshop to confirm the engine condition and provide a fixed quote."
+        },
+        {
+          "title": "",
+          "body": "We carry out the full rebuild, machine work, and testing using BMW-spec procedures and tooling."
+        },
+        {
+          "title": "",
+          "body": "Your BMW is road-tested and ready to go. We hand it back with a 12-month unlimited mileage warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Other engine services we offer for BMW models:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[BMW Diesel Timing Chain Repair (N47/B47)](/bmw-diesel-timing-chain-repair) — Our most common repair for diesel models.",
+            "[BMW Petrol Timing Chain Repair (N20)](/bmw-petrol-timing-chain-repair) — For petrol engines with timing chain issues.",
+            "[BMW M-Power Engine Rebuild](/bmw-m-power-engine-rebuild) — Specialist rebuilds for M models (S54, S55, S58, S63, S65).",
+            "[BMW V8 Hot-Vee Engine Repair (N63/S63)](/bmw-hot-vee-v8-repair) — For V8 models experiencing hot-vee issues.",
+            "[BMW Engine Replacement](/bmw-engine-replacement) — When a rebuild isn't the right option."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How long does a BMW engine rebuild take?",
+          "a": "A full BMW engine rebuild typically takes several days to weeks, depending on the engine complexity and parts availability. We aim for a 3-5 day turnaround for most rebuilds."
+        },
+        {
+          "q": "What is the warranty on a BMW engine rebuild?",
+          "a": "We offer a 12-month unlimited mileage warranty on all our BMW engine rebuilds, giving you peace of mind."
+        },
+        {
+          "q": "Do you offer collection and delivery?",
+          "a": "Yes, we provide nationwide engine recovery from £70."
+        },
+        {
+          "q": "How much does a BMW engine rebuild cost?",
+          "a": "Prices start from £1,900 for 4-cylinder engines, £2,800 for 6-cylinder engines, and from £4,500 for V8 and performance models. Contact us for a fixed quote for your specific engine."
+        },
+        {
+          "q": "Do you use genuine BMW parts?",
+          "a": "We use a combination of genuine BMW parts and high-quality OEM equivalents, depending on availability and what's best for your engine. All parts meet or exceed BMW specifications."
+        }
+      ]
+    }
+  ]
+}

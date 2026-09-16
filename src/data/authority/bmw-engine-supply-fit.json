@@ -1,0 +1,373 @@
+{
+  "slug": "bmw-engine-supply-fit",
+  "metaTitle": "BMW Engine Supply & Fit | BMW Garage",
+  "metaDescription": "Professional BMW engine supply and fit service. We source the correct engine for your BMW and install it in our Essex workshop. VIN-matching, full testing and warranty included.",
+  "h1": "BMW Engine Supply & Fit",
+  "lede": "A bundled service where we handle everything from engine sourcing to final installation and testing. You don't need to find a used engine, verify its condition, or arrange delivery — we manage the entire process in one straightforward package.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine_family/sec2_top.webp",
+    "/engine_family/sec11.webp",
+    "/variant/sec1.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What BMW Engine Supply & Fit Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "A bundled service where we handle everything from engine sourcing to final installation and testing. You don't need to find a used engine, verify its condition, or arrange delivery — we manage the entire process in one straightforward package."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**VIN-based engine matching:** We identify the correct engine specification for your BMW using the registration and VIN, referencing BMW parts data to confirm engine type, size, and official code.",
+            "**Engine sourcing from established suppliers:** We procure a quality replacement unit — rebuilt, remanufactured, or a carefully inspected used engine with verifiable history.",
+            "**Pre-installation preparation:** Before fitting, we replace service items such as gaskets, seals, timing components, and the water pump on the replacement engine, ensuring it is ready for long-term service.",
+            "**Removal of your existing engine:** We carefully remove the failed unit, following BMW-specific procedures to disconnect all systems without damaging surrounding components.",
+            "**Installation and full testing:** The replacement engine is fitted, all systems reconnected, fluids filled, and the vehicle undergoes a comprehensive road test and diagnostic check before handover."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "BMW Engine Supply & Fit — Starting Prices",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our supply-and-fit service includes a replacement engine sourced to your exact BMW specification, fitted in our Essex workshop, with a 12-month unlimited-mileage warranty. We never supply an engine without fitting it."
+        },
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**4-Cylinder engines** from £1,900",
+            "**6-Cylinder engines** from £2,800",
+            "**V8 engines** from £4,500",
+            "**M-Performance / M-badged engines** from £5,500+",
+            "[Pricing disclaimer →](/pricing-legal-disclaimer)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Prices vary by engine type, availability, and condition of the sourced unit. We quote after inspecting your vehicle and confirming the exact engine specification required — contact us for a precise estimate."
+        },
+        {
+          "t": "p",
+          "html": "[Get a tailored quote](/contact)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "BMW Models and Engines We Supply and Fit",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We supply and fit replacement engines for most BMW models and engine families. The service is tailored to your vehicle's exact specification — we never assume compatibility."
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Applicable Models",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "1 Series",
+              "href": "/bmw-1-series-engines"
+            },
+            {
+              "label": "2 Series",
+              "href": "/bmw-2-series-engines"
+            },
+            {
+              "label": "3 Series",
+              "href": "/bmw-3-series-engines"
+            },
+            {
+              "label": "4 Series",
+              "href": "/bmw-4-series-engines"
+            },
+            {
+              "label": "5 Series",
+              "href": "/bmw-5-series-engines"
+            },
+            {
+              "label": "6 Series",
+              "href": "/bmw-6-series-engines"
+            },
+            {
+              "label": "7 Series",
+              "href": "/bmw-7-series-engines"
+            },
+            {
+              "label": "8 Series",
+              "href": "/bmw-8-series-engines"
+            },
+            {
+              "label": "X1",
+              "href": "/bmw-x1-engines"
+            },
+            {
+              "label": "X2",
+              "href": "/bmw-x2-engines"
+            },
+            {
+              "label": "X3",
+              "href": "/bmw-x3-engines"
+            },
+            {
+              "label": "X4",
+              "href": "/bmw-x4-engines"
+            },
+            {
+              "label": "X5",
+              "href": "/bmw-x5-engines"
+            },
+            {
+              "label": "X6",
+              "href": "/bmw-x6-engines"
+            },
+            {
+              "label": "X7",
+              "href": "/bmw-x7-engines"
+            },
+            {
+              "label": "Z4",
+              "href": "/bmw-z4-engines"
+            },
+            {
+              "label": "XM",
+              "href": "/bmw-xm-engines"
+            },
+            {
+              "label": "M2",
+              "href": "/bmw-m2-engines"
+            },
+            {
+              "label": "M3",
+              "href": "/bmw-m3-engines"
+            },
+            {
+              "label": "M4",
+              "href": "/bmw-m4-engines"
+            },
+            {
+              "label": "M5",
+              "href": "/bmw-m5-engines"
+            },
+            {
+              "label": "M6",
+              "href": "/bmw-m6-engines"
+            },
+            {
+              "label": "M8",
+              "href": "/bmw-m8-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Common Engine Families We Source",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "N47",
+              "href": "/bmw-n47-engine"
+            },
+            {
+              "label": "B47",
+              "href": "/bmw-b47-engine"
+            },
+            {
+              "label": "N57",
+              "href": "/bmw-n57-engine"
+            },
+            {
+              "label": "B57",
+              "href": "/bmw-b57-engine"
+            },
+            {
+              "label": "N20",
+              "href": "/bmw-n20-engine"
+            },
+            {
+              "label": "B48",
+              "href": "/bmw-b48-engine"
+            },
+            {
+              "label": "N55",
+              "href": "/bmw-n55-engine"
+            },
+            {
+              "label": "B58",
+              "href": "/bmw-b58-engine"
+            },
+            {
+              "label": "N63",
+              "href": "/bmw-n63-engine"
+            },
+            {
+              "label": "N63TU",
+              "href": "/bmw-n63tu-engine"
+            },
+            {
+              "label": "S55",
+              "href": "/bmw-s55-engine"
+            },
+            {
+              "label": "S58",
+              "href": "/bmw-s58-engine"
+            },
+            {
+              "label": "S63",
+              "href": "/bmw-s63-engine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Supply-and-Fit Process",
+      "steps": [
+        {
+          "title": "VIN and registration check",
+          "body": "We use your BMW's VIN and registration to confirm the exact engine code, size, and specification required. This ensures compatibility from the start."
+        },
+        {
+          "title": "Engine sourcing",
+          "body": "We identify a suitable replacement unit from our established supplier network — rebuilt, remanufactured, or carefully inspected used with verifiable history."
+        },
+        {
+          "title": "Inspection and preparation",
+          "body": "The replacement engine is checked, and service items (gaskets, seals, timing components, water pump) are renewed as needed before fitment."
+        },
+        {
+          "title": "Removal of existing engine",
+          "body": "Your original engine is carefully removed, with all connections documented to ensure a smooth refit of the replacement."
+        },
+        {
+          "title": "Installation and refit",
+          "body": "The replacement engine is fitted, all systems reconnected, fluids filled, and a full operational test is carried out on-site."
+        },
+        {
+          "title": "Road test and handover",
+          "body": "A road test confirms everything works properly before we hand the vehicle back to you, with a 12-month unlimited-mileage warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why choose BMW Garage for engine supply and fit",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**VIN-accurate matching:** We don't guess — we use BMW-specific parts lookup tools to confirm the exact engine for your vehicle.",
+            "**No supply-only transactions:** We only supply engines we fit ourselves. Every unit is installed, tested, and warranted in-house.",
+            "**12-month unlimited-mileage warranty:** Included on every supply-and-fit job, covering parts and labour.",
+            "**Established workshop since 2009:** Based in Billericay, Essex, with BMW-specific experience and equipment.",
+            "**Full testing before handover:** Every replacement engine is road-tested and checked for proper operation before you collect."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Meet our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How a BMW supply-and-fit service works with us",
+      "steps": [
+        {
+          "title": "Call or enquire online",
+          "body": "Tell us your BMW model, registration, and the issue — we'll schedule an initial assessment."
+        },
+        {
+          "title": "VIN check and quote",
+          "body": "We confirm the correct engine specification and provide a fixed-price supply-and-fit quote."
+        },
+        {
+          "title": "Engine sourced and fitted",
+          "body": "We procure the replacement unit, prepare it, remove your old engine, and install the new one."
+        },
+        {
+          "title": "Tested and handed over",
+          "body": "Full testing and road check before collection, with warranty documentation provided."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related BMW engine services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[BMW Engine Replacement](/bmw-engine-replacement)",
+            "[BMW Engine Rebuild](/bmw-engine-rebuild)",
+            "[BMW Engine Recovery](/bmw-engine-recovery)",
+            "[BMW Engine Failure Repair](/bmw-engine-failure-repair)",
+            "[BMW Engine Matching by VIN](/bmw-engine-matching)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What's included in the supply-and-fit price?",
+          "a": "The price includes sourcing the correct engine, preparing it (replacing service items), removing your old engine, fitting the replacement, filling fluids, and full testing. A 12-month unlimited-mileage warranty is also included."
+        },
+        {
+          "q": "How do you know which engine is right for my BMW?",
+          "a": "We use your vehicle's VIN and registration number to check BMW parts data, confirming the exact engine type, size, and official code. This eliminates compatibility risk."
+        },
+        {
+          "q": "Do you supply engines without fitting them?",
+          "a": "No. We only supply engines that we fit ourselves. This ensures the unit is correctly installed, tested, and warranted as a complete service."
+        },
+        {
+          "q": "How long does a supply-and-fit job take?",
+          "a": "Typical turnaround is 3-5 working days once the correct engine is sourced, depending on availability. We'll give you a clearer timeline when we quote."
+        },
+        {
+          "q": "What warranty do you offer on a supplied and fitted engine?",
+          "a": "All our supply-and-fit jobs include a 12-month unlimited-mileage warranty covering parts and labour. Warranty terms are provided in writing."
+        }
+      ]
+    }
+  ]
+}

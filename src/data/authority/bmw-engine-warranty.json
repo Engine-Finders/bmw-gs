@@ -1,0 +1,483 @@
+{
+  "slug": "bmw-engine-warranty",
+  "metaTitle": "BMW Engine Rebuild Warranty Explained | BMW Garage",
+  "metaDescription": "What a BMW engine rebuild warranty covers, typical terms, exclusions and BMW-specific requirements. 12-month unlimited-mileage guarantee included with every rebuild from BMW Garage.",
+  "h1": "BMW Engine Rebuild Warranty Explained",
+  "lede": "Every BMW engine rebuild from our workshop comes with a 12-month unlimited-mileage guarantee covering workmanship and components. Here's exactly what that means for you.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/model/sec3.webp",
+    "/variant/sec10_car.webp",
+    "/engine_family/sec4.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Our BMW Rebuild Warranty Covers",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "An engine rebuild warranty is a workshop's guarantee covering the quality of workmanship and the components used during the rebuild. It is not an insurance product or a third-party extended warranty — it's our own commitment to the work we carry out."
+        },
+        {
+          "t": "p",
+          "html": "All BMW engine rebuilds completed at BMW Garage include a 12-month unlimited-mileage warranty as standard. This is a fully inclusive guarantee, with no additional purchase required."
+        },
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Every rebuild includes our 12-month unlimited-mileage warranty** — included in the following starting prices:",
+            "[View full pricing disclaimer →](/pricing-legal-disclaimer)"
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Typical Coverage in the Specialist Sector",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "**Workmanship** — defects in assembly or machining",
+              "href": null
+            },
+            {
+              "label": "**Components** — failure of parts replaced during the rebuild",
+              "href": null
+            },
+            {
+              "label": "**Duration** — 12 months",
+              "href": null
+            },
+            {
+              "label": "**Mileage** — unlimited",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Our warranty is structured around these standard specialist-sector terms, with no hidden mileage caps or pro-rata exclusions."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Quality Control & Warranty Inspection",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Images are staged placeholder photography pending final library. Actual work is carried out at our Billericay workshop."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our 12-month unlimited-mileage warranty applies to every BMW engine rebuild we carry out, across the full model range we support."
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Models covered",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "BMW 1 Series",
+              "href": "/bmw-1-series-engines"
+            },
+            {
+              "label": "116d",
+              "href": "/bmw-116d-engines"
+            },
+            {
+              "label": "118d",
+              "href": "/bmw-118d-engines"
+            },
+            {
+              "label": "120d",
+              "href": "/bmw-120d-engines"
+            },
+            {
+              "label": "116i",
+              "href": "/bmw-116i-engines"
+            },
+            {
+              "label": "118i",
+              "href": "/bmw-118i-engines"
+            },
+            {
+              "label": "M140i",
+              "href": "/bmw-m140i-engines"
+            },
+            {
+              "label": "BMW 2 Series",
+              "href": "/bmw-2-series-engines"
+            },
+            {
+              "label": "218d",
+              "href": "/bmw-218d-engines"
+            },
+            {
+              "label": "220d",
+              "href": "/bmw-220d-engines"
+            },
+            {
+              "label": "230i",
+              "href": "/bmw-230i-engines"
+            },
+            {
+              "label": "M240i",
+              "href": "/bmw-m240i-engines"
+            },
+            {
+              "label": "BMW 3 Series",
+              "href": "/bmw-3-series-engines"
+            },
+            {
+              "label": "316d",
+              "href": "/bmw-316d-engines"
+            },
+            {
+              "label": "320d",
+              "href": "/bmw-320d-engines"
+            },
+            {
+              "label": "330d",
+              "href": "/bmw-330d-engines"
+            },
+            {
+              "label": "320i",
+              "href": "/bmw-320i-engines"
+            },
+            {
+              "label": "340i",
+              "href": "/bmw-340i-engines"
+            },
+            {
+              "label": "M3",
+              "href": "/bmw-m3-engines"
+            },
+            {
+              "label": "BMW 4 Series",
+              "href": "/bmw-4-series-engines"
+            },
+            {
+              "label": "420d",
+              "href": "/bmw-420d-engines"
+            },
+            {
+              "label": "430d",
+              "href": "/bmw-430d-engines"
+            },
+            {
+              "label": "440i",
+              "href": "/bmw-440i-engines"
+            },
+            {
+              "label": "M4",
+              "href": "/bmw-m4-engines"
+            },
+            {
+              "label": "BMW 5 Series",
+              "href": "/bmw-5-series-engines"
+            },
+            {
+              "label": "520d",
+              "href": "/bmw-520d-engines"
+            },
+            {
+              "label": "530d",
+              "href": "/bmw-530d-engines"
+            },
+            {
+              "label": "540i",
+              "href": "/bmw-540i-engines"
+            },
+            {
+              "label": "M5",
+              "href": "/bmw-m5-engines"
+            },
+            {
+              "label": "BMW X3",
+              "href": "/bmw-x3-engines"
+            },
+            {
+              "label": "xDrive20d",
+              "href": "/bmw-x3-xdrive20d-engines"
+            },
+            {
+              "label": "xDrive30d",
+              "href": "/bmw-x3-xdrive30d-engines"
+            },
+            {
+              "label": "M40i",
+              "href": "/bmw-x3-m40i-engines"
+            },
+            {
+              "label": "BMW X5",
+              "href": "/bmw-x5-engines"
+            },
+            {
+              "label": "xDrive30d",
+              "href": "/bmw-x5-xdrive30d-engines"
+            },
+            {
+              "label": "xDrive50i",
+              "href": "/bmw-x5-xdrive50i-engines"
+            },
+            {
+              "label": "X5 M",
+              "href": "/bmw-x5-m-engines"
+            },
+            {
+              "label": "BMW M2",
+              "href": "/bmw-m2-engines"
+            },
+            {
+              "label": "M5",
+              "href": "/bmw-m5-engines"
+            },
+            {
+              "label": "M6",
+              "href": "/bmw-m6-engines"
+            },
+            {
+              "label": "M8",
+              "href": "/bmw-m8-engines"
+            },
+            {
+              "label": "M3",
+              "href": "/bmw-m3-engines"
+            },
+            {
+              "label": "M4",
+              "href": "/bmw-m4-engines"
+            },
+            {
+              "label": "full model list",
+              "href": "/"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Key engine families",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "N47",
+              "href": "/bmw-n47-engine"
+            },
+            {
+              "label": "B47",
+              "href": "/bmw-b47-engine"
+            },
+            {
+              "label": "N20",
+              "href": "/bmw-n20-engine"
+            },
+            {
+              "label": "B48",
+              "href": "/bmw-b48-engine"
+            },
+            {
+              "label": "N57",
+              "href": "/bmw-n57-engine"
+            },
+            {
+              "label": "B57",
+              "href": "/bmw-b57-engine"
+            },
+            {
+              "label": "N55",
+              "href": "/bmw-n55-engine"
+            },
+            {
+              "label": "B58",
+              "href": "/bmw-b58-engine"
+            },
+            {
+              "label": "S55",
+              "href": "/bmw-s55-engine"
+            },
+            {
+              "label": "S58",
+              "href": "/bmw-s58-engine"
+            },
+            {
+              "label": "N63",
+              "href": "/bmw-n63-engine"
+            },
+            {
+              "label": "S63",
+              "href": "/bmw-s63-engine"
+            },
+            {
+              "label": "S65",
+              "href": "/bmw-s65-engine"
+            },
+            {
+              "label": "S85",
+              "href": "/bmw-s85-engine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Warranty Process: How It Works",
+      "steps": [
+        {
+          "title": "Rebuild Completed",
+          "body": "Your BMW's engine is rebuilt to our exacting standards using OEM-quality components."
+        },
+        {
+          "title": "Quality Checks",
+          "body": "Every rebuild is bench-tested and road-tested before handover, with final inspection sign-off."
+        },
+        {
+          "title": "Warranty Issued",
+          "body": "Your 12-month unlimited-mileage warranty is provided in writing at collection."
+        },
+        {
+          "title": "Running-In Support",
+          "body": "We provide full running-in guidance and are available for any queries during the early mileage."
+        },
+        {
+          "title": "12-Month Coverage",
+          "body": "If a covered issue arises within 12 months, we inspect and remedy it under warranty terms."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose BMW Garage",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**12-month unlimited-mileage warranty** — included on every rebuild",
+            "**Full in-house machining** — we don't outsource critical work",
+            "**All brands, one workshop** — we specialise in BMW, but also handle all marques (within our Garage network)",
+            "**Transparent pricing** — fixed-price rebuilds with no hidden charges",
+            "**Nationwide recovery** — from £70, we can collect your vehicle (where covered)",
+            "**3-5 day turnaround** — for most rebuilds (subject to inspection)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Meet the workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How Our Rebuild Warranty Works in Practice",
+      "steps": [
+        {
+          "title": "",
+          "body": "**Book an inspection** — we assess your engine and provide a fixed-price quote."
+        },
+        {
+          "title": "",
+          "body": "**Rebuild carried out** — our technicians rebuild your engine to exacting standards."
+        },
+        {
+          "title": "",
+          "body": "**Warranty issued** — you receive written confirmation of your 12-month unlimited-mileage warranty."
+        },
+        {
+          "title": "",
+          "body": "**Peace of mind** — any covered issue within 12 months is remedied at our workshop."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[BMW Engine Rebuild](/bmw-engine-rebuild) — full rebuild service",
+            "[BMW Diesel Timing Chain Repair](/bmw-diesel-timing-chain-repair) — N47/B47 specific",
+            "[BMW Petrol Timing Chain Repair](/bmw-petrol-timing-chain-repair) — N20 specific",
+            "[BMW Engine Replacement](/bmw-engine-replacement) — replacement option",
+            "[BMW Engine Inspection & Assessment](/bmw-engine-inspection-assessment) — pre-rebuild evaluation",
+            "[BMW Rebuild vs Replacement](/bmw-rebuild-vs-replacement) — decision guide"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What does the 12-month warranty actually cover?",
+          "a": "Our warranty covers workmanship (assembly, machining) and components replaced during the rebuild. If a covered part fails or the workmanship proves defective within 12 months, we remedy it at no extra cost."
+        },
+        {
+          "q": "Is there a mileage limit?",
+          "a": "No — the warranty is unlimited mileage for the full 12-month term."
+        },
+        {
+          "q": "What does the warranty not cover?",
+          "a": "Consequential damage beyond the failed component itself, damage from neglect or misuse, modifications (e.g. aftermarket tuning), and normal wear-and-tear after the 12-month period. Pre-existing conditions not addressed during the rebuild are also excluded."
+        },
+        {
+          "q": "Do I need to follow a running-in procedure?",
+          "a": "Yes — proper running-in is essential for BMW engines, particularly those with tight tolerances (VANOS, timing systems, M-division engines). We provide full written guidance at collection."
+        },
+        {
+          "q": "Are oil changes required during the warranty period?",
+          "a": "Yes — the warranty requires the first oil change at 400–600 miles, and a second at 900–1,100 miles, then servicing at BMW intervals. This ensures the rebuild beds in correctly."
+        },
+        {
+          "q": "Does the warranty transfer to a new owner if I sell the car?",
+          "a": "The warranty is non-transferable — it applies to the original vehicle and the customer who commissioned the rebuild."
+        },
+        {
+          "q": "How long does a rebuild take?",
+          "a": "Typically 3-5 working days after inspection. Complex M-division or V-engine rebuilds may take longer — we will confirm the timeline when you book."
+        },
+        {
+          "q": "Do you offer a warranty on replacement engines too?",
+          "a": "Yes — our replacement engines also carry a 12-month unlimited-mileage warranty, subject to the same terms (running-in, service schedule, exclusions)."
+        }
+      ]
+    }
+  ]
+}

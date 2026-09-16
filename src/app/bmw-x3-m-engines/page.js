@@ -35,15 +35,29 @@ import modelSec15 from "@/data/model/bmwX3MSec15.json";
 import modelSec16 from "@/data/model/bmwX3MSec16.json";
 import modelSec17 from "@/data/model/bmwX3MSec17.json";
 import modelSec18 from "@/data/model/bmwX3MSec18.json";
+import JsonLd from "@/components/shared/JsonLd";
+import { serviceSchema, faqSchema, breadcrumbSchema, graphDoc } from "@/lib/schema";
+
+const PATH = "/bmw-x3-m-engines";
+const NAME = modelSec1.h1?.replaceAll("|", " ");
+const FAQ = [...(modelSec18.faqLeft || []), ...(modelSec18.faqRight || [])];
 
 export const metadata = {
   title: modelSec1.h1?.replaceAll("|", " ") || "bmw-x3-m-engines",
   description: modelSec1.subhead || "",
+  alternates: { canonical: PATH },
 };
 
 export default function BmwX3MEnginesPage() {
   return (
     <>
+      <JsonLd
+        data={graphDoc([
+          serviceSchema({ name: NAME, description: modelSec1.subhead, path: PATH, price: modelSec1.priceCta?.price }),
+          faqSchema(FAQ, PATH),
+          breadcrumbSchema([{ name: "Home", path: "/" }, { name: "Models", path: "/models" }, { name: NAME, path: PATH }], PATH),
+        ])}
+      />
       <ModelHeroSec1 data={modelSec1} />
       <ModelSec2 data={modelSec2} />
       <ModelSec3 data={modelSec3} />

@@ -1,0 +1,288 @@
+{
+  "slug": "bmw-failed-rebuild-remediation",
+  "metaTitle": "BMW Failed Previous Rebuild Remediation | BMW Garage",
+  "metaDescription": "If a previous BMW engine rebuild was done incorrectly, we can inspect, diagnose, and correct the work to BMW specification. Get a quote today.",
+  "h1": "BMW Failed Previous Rebuild Remediation",
+  "lede": "",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine_family/sec1.webp",
+    "/engine_family/sec9_bottom.webp",
+    "/model/sec12.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "When an engine rebuild hasn't been carried out correctly, the engine may not run properly, may leak, or may suffer premature failure. Our service is designed to assess the work that was done, identify what went wrong, and correct it to BMW factory specification."
+        },
+        {
+          "t": "p",
+          "html": "The process begins with a thorough inspection of the engine as a whole, followed by a strip-down to examine every component and the quality of the previous work. Once we know what needs correcting, we provide a clear remediation plan and a fixed price for the work."
+        },
+        {
+          "t": "p",
+          "html": "We work on all BMW engine families, including N-series, B-series, and M-performance engines (S54, S55, S58, S63, S65)."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Remediation of a failed previous rebuild starts from **£4,200**, depending on the engine type and the extent of the previous work that needs correcting. This is a fixed-price quote provided after our initial inspection and strip-down assessment. [See full pricing disclaimer](/pricing-legal-disclaimer)."
+        },
+        {
+          "t": "p",
+          "html": "All our rebuilds carry a 12-month unlimited mileage warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We provide this service for any BMW engine that has been rebuilt incorrectly. Below are the most common models and engine families we see in our workshop."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "BMW 3 Series",
+              "href": "/bmw-3-series-engines"
+            },
+            {
+              "label": "320d (N47/B47)",
+              "href": "/bmw-320d-engines"
+            },
+            {
+              "label": "330d (N57/B57)",
+              "href": "/bmw-330d-engines"
+            },
+            {
+              "label": "335d (M57/N57)",
+              "href": "/bmw-335d-engines"
+            },
+            {
+              "label": "M3 (S54/S55/S65)",
+              "href": "/bmw-m3-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "BMW 5 Series",
+            "href": "/bmw-5-series-engines"
+          },
+          "chips": [
+            {
+              "label": "520d (N47/B47)",
+              "href": "/bmw-520d-engines"
+            },
+            {
+              "label": "530d (M57/N57/B57)",
+              "href": "/bmw-530d-engines"
+            },
+            {
+              "label": "535d (M57/N57)",
+              "href": "/bmw-535d-engines"
+            },
+            {
+              "label": "M5 (S63)",
+              "href": "/bmw-m5-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "BMW X3",
+            "href": "/bmw-x3-engines"
+          },
+          "chips": [
+            {
+              "label": "X3 xDrive20d (N47/B47)",
+              "href": "/bmw-x3-xdrive20d-engines"
+            },
+            {
+              "label": "X3 xDrive30d (N57/B57)",
+              "href": "/bmw-x3-xdrive30d-engines"
+            },
+            {
+              "label": "X5 xDrive30d (M57/N57/B57)",
+              "href": "/bmw-x5-xdrive30d-engines"
+            },
+            {
+              "label": "X5 xDrive50i (N63)",
+              "href": "/bmw-x5-xdrive50i-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "M2",
+            "href": "/bmw-m2-engines"
+          },
+          "chips": [
+            {
+              "label": "M2 (N55/S55)",
+              "href": "/bmw-m2-engines"
+            },
+            {
+              "label": "M3 (S54/S55/S65)",
+              "href": "/bmw-m3-engines"
+            },
+            {
+              "label": "M4 (S55/S58)",
+              "href": "/bmw-m4-engines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Process",
+      "steps": [
+        {
+          "title": "",
+          "body": "We assess the engine and the vehicle to understand what work was previously done and what has gone wrong."
+        },
+        {
+          "title": "",
+          "body": "The engine is disassembled to examine the quality of the previous rebuild work, component by component."
+        },
+        {
+          "title": "",
+          "body": "All critical dimensions are checked against BMW factory tolerances, and we create a plan to correct all issues found."
+        },
+        {
+          "title": "",
+          "body": "We correct specific faults – re-machining, replacing incorrectly fitted components, or re-doing assemblies – and reassemble correctly to BMW specification."
+        },
+        {
+          "title": "",
+          "body": "After reassembly, we perform compression and leak-down tests, road-test the vehicle, and provide a full report."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose BMW Garage",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Established in 2009 with over 15 years of BMW engine experience.",
+            "Fixed-price quotes with no hidden fees.",
+            "12-month unlimited mileage warranty on all rebuilds.",
+            "We use genuine BMW or OEM-grade parts and BMW factory tolerances.",
+            "3–5 day rebuild turnaround for most engines.",
+            "Nationwide engine recovery service available from £70.",
+            "All work carried out at our workshop in Billericay, Essex."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "Call us on 0203 488 4649, WhatsApp us on 07975 827396, or fill in our [online quote form](/contact)."
+        },
+        {
+          "title": "",
+          "body": "We inspect your engine and provide a fixed-price quote for the remediation work."
+        },
+        {
+          "title": "",
+          "body": "Once you approve the quote, we strip down the engine, inspect everything, and begin corrective work."
+        },
+        {
+          "title": "",
+          "body": "After reassembly, we test the engine thoroughly and road-test your BMW. You collect your car with a 12-month warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[BMW Engine Rebuild](/bmw-engine-rebuild) – Full engine rebuild service.",
+            "[BMW Engine Replacement](/bmw-engine-replacement) – Replacement instead of rebuild.",
+            "[BMW Timing Chain Failure Repair](/bmw-timing-chain-failure-repair) – For N47/B47/N20 timing chain issues.",
+            "[BMW M-Car Rod Bearing Repair](/bmw-rod-bearing-repair) – For S54/S65/S85 performance engines.",
+            "[BMW Engine Inspection & Assessment](/bmw-engine-inspection-assessment) – Full engine health check."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "FAQs",
+      "items": [
+        {
+          "q": "How do you know if a previous rebuild has been done incorrectly?",
+          "a": "We don't diagnose the cause of failure online. Our process involves a full strip-down inspection of the engine in our workshop, where we can examine every component and verify the quality of the previous work against BMW factory tolerances."
+        },
+        {
+          "q": "How long does remediation take?",
+          "a": "The assessment process typically takes 2–3 days for strip-down and inspection. Once we know what needs correcting, the remediation work generally takes longer than a standard rebuild because we must first undo the incorrect work. Exact timeframes depend on the engine type and the extent of the errors."
+        },
+        {
+          "q": "What if you find more problems after starting work?",
+          "a": "We provide a fixed-price quote based on our initial strip-down inspection. If we discover additional issues during the work, we will always inform you and agree on any additional work before proceeding. Our quotes are transparent and we don't add hidden fees."
+        },
+        {
+          "q": "Do you offer a warranty on remediation work?",
+          "a": "Yes. All our engine rebuilds, including remediation of previous incorrect work, carry a 12-month unlimited mileage warranty."
+        },
+        {
+          "q": "Can you work on any BMW engine?",
+          "a": "Yes, we work on all BMW engine families, including N-series, B-series, and M-performance engines (S54, S55, S58, S63, S65). If you have a specific engine, contact us and we'll advise."
+        }
+      ]
+    }
+  ]
+}

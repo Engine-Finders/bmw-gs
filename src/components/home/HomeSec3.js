@@ -2,7 +2,7 @@ import Icon from "@/components/reusable/Icon";
 
 export default function HomeSec3({ data }) {
   return (
-    <section className="px-2 pt-8 sm:px-6 lg:px-8">
+    <section className="px-2 pt-0 sm:px-6 sm:pt-6 lg:px-8">
       <div
         className="mx-auto flex max-w-6xl items-stretch rounded-2xl border border-hero-blue/30 bg-[#f3f6fb] px-2 py-4 sm:px-6 sm:py-6"
         style={{ boxShadow: "0 0 40px -8px rgba(0,138,201,0.35)" }}

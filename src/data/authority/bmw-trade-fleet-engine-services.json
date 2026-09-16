@@ -1,0 +1,189 @@
+{
+  "slug": "bmw-trade-fleet-engine-services",
+  "metaTitle": "BMW Trade & Fleet Engine Services | BMW Garage",
+  "metaDescription": "Trade and fleet engine services for BMW vehicles – consistent quality, transparent quoting, technical support and fast turnaround. Rebuilds with full warranty for commercial customers.",
+  "h1": "BMW Trade & Fleet Engine Services",
+  "lede": "",
+  "ctas": [
+    {
+      "label": "Get a trade quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/model/sec7.webp",
+    "/variant/sec12.webp",
+    "/engine_family/sec9_middle.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What our trade and fleet service includes",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We provide BMW engine rebuild and replacement services designed specifically for commercial customers. Whether you run a garage, manage a fleet, or trade vehicles, you need consistent quality, clear communication, and minimum downtime. Every rebuild we carry out for trade or fleet customers follows the same workshop standards as our private work — full strip-down, machining, reassembly, and road testing — backed by a 12-month unlimited-mileage warranty that transfers to your end customer where applicable."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Fixed-price rebuilds with no hidden extras — you get a clear, itemised quote before work starts",
+            "Technical support for diagnosis, parts identification, and engine matching",
+            "Warranty that transfers to the final owner (subject to our standard terms)",
+            "Fast turnaround — we prioritise fleet vehicles to keep your revenue-generating assets on the road",
+            "Consistent, repeatable quality across multiple vehicles, using the same proven process every time",
+            "We work on all BMW models — from 1 Series to X7, including M-performance and M-cars"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Trade and fleet pricing",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We offer competitive, transparent pricing for commercial customers. Because each engine and vehicle has its own requirements, we provide a tailored quote after inspection. Our standard rebuild starting prices give you a benchmark:"
+        },
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**4-cylinder diesel** from £1,900  ·  **4-cylinder petrol** from £2,200 **6-cylinder diesel** from £2,800  ·  **6-cylinder petrol** from £3,200 **V8** from £4,500  ·  **Performance/M-Sport** from £5,500+",
+            "For trade-specific pricing and volume discounts, [contact our trade team](/contact).",
+            "[Pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Which BMW models and engines do we work on for trade and fleet?",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We rebuild and replace engines across the entire BMW range. For trade and fleet customers, the most common models we handle are:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "BMW 3 Series",
+              "href": "/bmw-3-series-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Popular variants we rebuild regularly for trade and fleet:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[BMW 320d](/bmw-320d-engines) (N47 / B47)",
+            "[BMW 520d](/bmw-520d-engines) (N47 / B47)",
+            "[BMW X3 xDrive20d](/bmw-x3-xdrive20d-engines) (N47 / B47)",
+            "[BMW X5 xDrive30d](/bmw-x5-xdrive30d-engines) (M57 / N57 / B57)",
+            "[BMW 330d](/bmw-330d-engines) (N57 / B57)",
+            "[BMW 530d](/bmw-530d-engines) (N57 / B57)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "We also work on petrol engines, including [N20](/bmw-n20-engine), [B48](/bmw-b48-engine), [N55](/bmw-n55-engine) and [B58](/bmw-b58-engine) units."
+        },
+        {
+          "t": "p",
+          "html": "For full details of engine families and specific variants, see our [engine rebuild service page](/bmw-engine-rebuild)."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why choose BMW Garage for your trade or fleet work?",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**We are a real workshop** — based in Billericay, Essex, with on-site machining and testing facilities.",
+            "**Consistent quality** — every rebuild follows the same proven process, whether it's your first engine or your hundredth.",
+            "**Transparent pricing** — we provide a fixed-price quote before work starts; no hidden extras.",
+            "**12-month unlimited-mileage warranty** — fully transferable to your end customer.",
+            "**Fast turnaround** — we understand fleet vehicles need to be back on the road. We prioritise commercial work to minimise downtime.",
+            "**Technical support** — we help you with diagnosis, parts identification, and compatibility queries.",
+            "**Experienced with BMW** — we work on all BMW models, from everyday diesels to M-performance and M-cars."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related services for trade customers",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[BMW Engine Rebuild](/bmw-engine-rebuild) – core rebuild service",
+            "[BMW Engine Replacement](/bmw-engine-replacement) – replacement service",
+            "[BMW Diesel Timing Chain Repair](/bmw-diesel-timing-chain-repair) – N47/B47 specialist",
+            "[BMW Engine Matching by Registration & VIN](/bmw-engine-matching) – for correct engine identification",
+            "[BMW Engine Removal, Refit & Final Testing](/bmw-engine-removal-refit) – full installation service",
+            "[BMW High-Mileage Engine Rebuild](/bmw-high-mileage-engine-rebuild) – for higher-mileage fleet vehicles"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently asked questions about our trade and fleet services",
+      "items": [
+        {
+          "q": "Do you offer supply-only engines for trade customers?",
+          "a": "No. We only provide rebuild and replacement services that include full fitting and testing. We do not supply bare engines or long-blocks for third-party installation."
+        },
+        {
+          "q": "Does your warranty transfer if I sell the vehicle on?",
+          "a": "Yes — our 12-month unlimited-mileage warranty is transferable to the new owner, subject to our standard terms. We'll provide the documentation to accompany the sale."
+        },
+        {
+          "q": "What is your typical turnaround time for a fleet vehicle?",
+          "a": "We aim for 3-5 working days for a standard rebuild, but this depends on parts availability and the scope of work. We always prioritise fleet and trade work to minimise downtime."
+        },
+        {
+          "q": "Can you work on multiple vehicles at once?",
+          "a": "Yes — we can handle multiple jobs in parallel. We have the workshop capacity and staffing to manage fleet-scale work. Get in touch to discuss your requirements."
+        },
+        {
+          "q": "Do you offer a discount for multiple engines?",
+          "a": "We offer competitive pricing for volume work. Contact our trade team with your specific needs and we'll prepare a quotation tailored to your fleet."
+        },
+        {
+          "q": "Do you recover vehicles or engines?",
+          "a": "Yes — we offer nationwide recovery from £70. We can collect the vehicle or the engine itself, depending on your preference."
+        }
+      ]
+    }
+  ]
+}

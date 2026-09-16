@@ -35,15 +35,29 @@ import modelSec15 from "@/data/model/bmwX7Sec15.json";
 import modelSec16 from "@/data/model/bmwX7Sec16.json";
 import modelSec17 from "@/data/model/bmwX7Sec17.json";
 import modelSec18 from "@/data/model/bmwX7Sec18.json";
+import JsonLd from "@/components/shared/JsonLd";
+import { serviceSchema, faqSchema, breadcrumbSchema, graphDoc } from "@/lib/schema";
+
+const PATH = "/bmw-x7-engines";
+const NAME = modelSec1.h1?.replaceAll("|", " ");
+const FAQ = [...(modelSec18.faqLeft || []), ...(modelSec18.faqRight || [])];
 
 export const metadata = {
   title: modelSec1.h1?.replaceAll("|", " ") || "bmw-x7-engines",
   description: modelSec1.subhead || "",
+  alternates: { canonical: PATH },
 };
 
 export default function BmwX7EnginesPage() {
   return (
     <>
+      <JsonLd
+        data={graphDoc([
+          serviceSchema({ name: NAME, description: modelSec1.subhead, path: PATH, price: modelSec1.priceCta?.price }),
+          faqSchema(FAQ, PATH),
+          breadcrumbSchema([{ name: "Home", path: "/" }, { name: "Models", path: "/models" }, { name: NAME, path: PATH }], PATH),
+        ])}
+      />
       <ModelHeroSec1 data={modelSec1} />
       <ModelSec2 data={modelSec2} />
       <ModelSec3 data={modelSec3} />

@@ -1,0 +1,361 @@
+{
+  "slug": "bmw-engine-machining",
+  "metaTitle": "BMW Engine Machining & Rebuild Preparation | BMW Garage",
+  "metaDescription": "Precision BMW engine machining: cylinder boring, honing, crankshaft grinding and head resurfacing. Alusil specialist work included in every rebuild.",
+  "h1": "BMW Engine Machining & Rebuild Preparation",
+  "lede": "Precision cylinder boring, honing, crankshaft grinding and cylinder head resurfacing — performed to BMW factory tolerances in our Essex workshop.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/model/sec3.webp",
+    "/variant/sec10_car.webp",
+    "/engine_family/sec4.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What BMW Engine Machining Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Engine machining is the precision preparation of cylinder blocks, cylinder heads and rotating assemblies before a full rebuild. At BMW Garage, every rebuild includes a full machining inspection and, where required, specialist machine work to restore components to factory specification."
+        },
+        {
+          "t": "h3",
+          "text": "Cylinder Boring & Honing"
+        },
+        {
+          "t": "p",
+          "html": "Cylinders are measured for ovality and wear. Where needed, we bore to the next oversize and finish with a cross-hatch hone pattern that ensures proper piston ring seating."
+        },
+        {
+          "t": "h3",
+          "text": "Crankshaft Grinding"
+        },
+        {
+          "t": "p",
+          "html": "Worn crankshaft journals are precision-ground to remove scoring and restore correct bearing clearances, matched to BMW's published tolerance ranges."
+        },
+        {
+          "t": "h3",
+          "text": "Cylinder Head Resurfacing"
+        },
+        {
+          "t": "p",
+          "html": "The cylinder head is machined flat to guarantee an even clamping force and a perfect seal against the block — critical for head gasket longevity."
+        },
+        {
+          "t": "h3",
+          "text": "Valve Seat Cutting & Grinding"
+        },
+        {
+          "t": "p",
+          "html": "Valve seats are re-cut and ground to ensure valves seal correctly, maintaining compression and preventing gas leakage under load."
+        },
+        {
+          "t": "p",
+          "html": "**Alusil specialist work:** Many BMW engines use Alusil (aluminium-silicon) cylinder liners. This material requires a specific honing and acid-etching finish to expose the silicon crystals — standard cast-iron honing methods will not work. Our machine shop is equipped and experienced in correct Alusil preparation."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Machining Pricing",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "Machining is included",
+            "in every BMW engine rebuild we carry out",
+            "Rebuilds start from:",
+            "[Pricing disclaimer →](/pricing-legal-disclaimer)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "All prices include full machining of the block, crankshaft, cylinder head and valve train as required during the rebuild. We quote after inspection — no hidden machine-shop extras."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "BMW Engines We Machine",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our machining capabilities cover the full range of BMW engines from 4-cylinder diesels to V8 and M-Performance units. Every block is assessed individually — the machining specification depends on the engine's condition, not its model."
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "4-Cylinder Diesel",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "N47",
+              "href": "/bmw-n47-engine"
+            },
+            {
+              "label": "B47",
+              "href": "/bmw-b47-engine"
+            },
+            {
+              "label": "B37",
+              "href": "/bmw-b37-engine"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Fitted to [1 Series](/bmw-1-series-engines), [2 Series](/bmw-2-series-engines), [3 Series](/bmw-3-series-engines), [X1](/bmw-x1-engines), [X3](/bmw-x3-engines)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "4-Cylinder Petrol",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "N13",
+              "href": "/bmw-n13-engine"
+            },
+            {
+              "label": "N20",
+              "href": "/bmw-n20-engine"
+            },
+            {
+              "label": "B48",
+              "href": "/bmw-b48-engine"
+            },
+            {
+              "label": "B38",
+              "href": "/bmw-b38-engine"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Fitted to [1 Series](/bmw-1-series-engines), [2 Series](/bmw-2-series-engines), [3 Series](/bmw-3-series-engines), [X1](/bmw-x1-engines), [X2](/bmw-x2-engines)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "6-Cylinder Diesel",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "N57",
+              "href": "/bmw-n57-engine"
+            },
+            {
+              "label": "B57",
+              "href": "/bmw-b57-engine"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Fitted to [3 Series](/bmw-3-series-engines), [5 Series](/bmw-5-series-engines), [X3](/bmw-x3-engines), [X5](/bmw-x5-engines), [7 Series](/bmw-7-series-engines)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "6-Cylinder Petrol",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "N55",
+              "href": "/bmw-n55-engine"
+            },
+            {
+              "label": "B58",
+              "href": "/bmw-b58-engine"
+            },
+            {
+              "label": "S55",
+              "href": "/bmw-s55-engine"
+            },
+            {
+              "label": "S58",
+              "href": "/bmw-s58-engine"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Fitted to [3 Series](/bmw-3-series-engines), [4 Series](/bmw-4-series-engines), [5 Series](/bmw-5-series-engines), [M2](/bmw-m2-engines), [M3](/bmw-m3-engines), [M4](/bmw-m4-engines), [X3 M](/bmw-x3-m-engines)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "V8 & Performance",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "N63",
+              "href": "/bmw-n63-engine"
+            },
+            {
+              "label": "S63",
+              "href": "/bmw-s63-engine"
+            },
+            {
+              "label": "S68",
+              "href": "/bmw-s68-engine"
+            },
+            {
+              "label": "S85",
+              "href": "/bmw-s85-engine"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Fitted to [5 Series](/bmw-5-series-engines), [6 Series](/bmw-6-series-engines), [8 Series](/bmw-8-series-engines), [X5 M](/bmw-x5-m-engines), [X6 M](/bmw-x6-m-engines), [M5](/bmw-m5-engines), [M8](/bmw-m8-engines)"
+        },
+        {
+          "t": "p",
+          "html": "Not sure which engine your BMW has? [Send us your registration](/contact) and we'll confirm the block type and machining requirements."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Machining Process",
+      "steps": [
+        {
+          "title": "",
+          "body": "Every engine is fully stripped and measured. We check cylinder ovality, bore wear, crankshaft journal condition, head flatness and valve seat condition."
+        },
+        {
+          "title": "",
+          "body": "Where cylinders are out of round or scored, we bore to the next oversize using a precision boring machine. This step is essential for engines that have suffered ring wear or bore scoring."
+        },
+        {
+          "title": "",
+          "body": "Cylinders are honed with a cross-hatch pattern to promote ring seating. For Alusil blocks, we apply the specialised acid-etch finish to expose silicon crystals — a step generic machine shops often miss."
+        },
+        {
+          "title": "",
+          "body": "Worn main and big-end journals are ground to restore roundness and correct bearing clearance. We measure against BMW's published tolerances for each engine code."
+        },
+        {
+          "title": "",
+          "body": "The head is machined flat to ensure an even clamping force. Warped heads are corrected; badly distorted heads may require replacement — we always advise during inspection."
+        },
+        {
+          "title": "",
+          "body": "Valve seats are cut and ground to guarantee perfect sealing. We check valve height and spring tension as part of the head rebuild."
+        },
+        {
+          "title": "",
+          "body": "Every machined component is re-measured and recorded against the specification for that engine. We only assemble once all dimensions are within BMW's tolerance band."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose BMW Garage for Engine Machining",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**In-house specialist machining** — we don't outsource; every block is prepared in our own workshop.",
+            "**BMW Alusil experience** — correct honing and etching procedures, not generic cast-iron methods.",
+            "**Factory tolerance measurement** — we work to BMW's published specifications, not \"close enough.\"",
+            "**Full rebuild integration** — machining is part of your complete rebuild; no separate machine-shop logistics.",
+            "**12-month unlimited-mileage warranty** — on the whole rebuild, including all machined components."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Meet the workshop team →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How Machining Fits Into Your Rebuild",
+      "steps": [
+        {
+          "title": "",
+          "body": "We recover your BMW or you bring it to our Billericay premises. The engine is removed and stripped down."
+        },
+        {
+          "title": "",
+          "body": "We measure every critical dimension: bore ovality, journal wear, head flatness and valve seat condition."
+        },
+        {
+          "title": "",
+          "body": "Boring, honing, grinding and resurfacing are carried out to BMW factory tolerances. Alusil blocks receive the correct acid-etch finish."
+        },
+        {
+          "title": "",
+          "body": "All components are re-measured and recorded. We only proceed to assembly once everything is within spec."
+        },
+        {
+          "title": "",
+          "body": "Your engine is rebuilt using the machined components, fitted back into the car, and road-tested before collection."
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What is engine machining?",
+          "a": "Engine machining is the precision preparation of cylinder blocks, cylinder heads and rotating assemblies. It includes cylinder boring and honing, crankshaft grinding, cylinder head resurfacing and valve seat cutting. These processes restore worn components to factory dimensions and surface finish."
+        },
+        {
+          "q": "Why do BMW engines need machining during a rebuild?",
+          "a": "Over time, cylinders become oval or scored, crankshaft journals wear, cylinder heads warp, and valve seats degrade. Machining corrects these issues so that new bearings, pistons, rings and gaskets can seal properly. Without proper machining, a rebuilt engine will suffer from oil consumption, compression loss or premature failure."
+        },
+        {
+          "q": "What is Alusil and why does it need specialist machining?",
+          "a": "Alusil is an aluminium-silicon alloy used for cylinder liners in many BMW engines. Unlike cast iron, it requires a specific honing process followed by an acid etch to expose silicon crystals on the bore surface. This creates the hard wearing surface that piston rings run against. Incorrect honing ruins the bore."
+        },
+        {
+          "q": "Do you machine Alusil blocks in-house?",
+          "a": "Yes — every Alusil block that comes through our workshop is machined in-house using the correct honing and etching procedures. We do not send blocks to external machine shops that may not be familiar with BMW's requirements."
+        },
+        {
+          "q": "Is machining included in your rebuild price?",
+          "a": "Yes — all required machining is included in our rebuild pricing. The prices listed above cover the full inspection, machining and assembly of your engine. There are no separate machine-shop surcharges added later."
+        },
+        {
+          "q": "How long does the machining process take?",
+          "a": "Machining is part of our 3-5 day rebuild turnaround. The exact machining time depends on the condition of your engine, but we always provide a clear timeline during the initial inspection."
+        }
+      ]
+    }
+  ]
+}

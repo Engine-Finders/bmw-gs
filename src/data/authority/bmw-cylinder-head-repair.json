@@ -1,0 +1,593 @@
+{
+  "slug": "bmw-cylinder-head-repair",
+  "metaTitle": "BMW Cylinder Head Repair & Rebuild | BMW Garage",
+  "metaDescription": "Professional BMW cylinder head repair and rebuild services at BMW Garage. We service VANOS systems, resurface heads, replace gaskets, and more. Get a quote today.",
+  "h1": "BMW Cylinder Head Repair & Rebuild",
+  "lede": "Professional cylinder head overhaul for all BMW engines, including VANOS service, head resurfacing, and full gasket replacement.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/model/sec7.webp",
+    "/variant/sec12.webp",
+    "/engine_family/sec9_middle.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Cylinder Head Repair & Rebuild Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our cylinder head service is a complete overhaul of the top end of your BMW engine. We follow a precise process to restore sealing, compression, and valve timing to factory standards."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Head removal** – the cylinder head is carefully lifted from the engine block.",
+            "**Full strip-down** – all components (valves, springs, retainers, camshafts) are disassembled.",
+            "**Inspection and measurement** – the head is checked for warpage, cracks, and wear; valve guides and seats are measured with precision tools.",
+            "**Machining (skimming)** – the head is resurfaced to ensure a perfectly flat sealing surface.",
+            "**Valve work** – valves are ground or replaced, new stem seals fitted, and seats recut or replaced.",
+            "**Reassembly with new gaskets and seals** – including head gasket, camshaft seals, and all necessary O-rings.",
+            "**VANOS service** – on engines equipped with BMW's variable valve timing, the VANOS unit is serviced during head work to maintain optimal performance."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "All work is carried out in our Essex workshop using specialist equipment and genuine or OEM-quality parts."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Cylinder Head Rebuild Pricing",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Starting from** — 4-cylinder engines: £1,900 6-cylinder engines: £2,800 V8 engines: £4,500",
+            "Prices are for a full cylinder head rebuild including parts and labour. Final cost depends on engine type, condition, and any additional machining required. [See pricing disclaimer](/pricing-legal-disclaimer)."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Request an accurate quote](/contact)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable BMW Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Cylinder head repair and rebuild is available across the full BMW range – from 1 Series to X7, and all M-performance variants. Below are the key model families and engine groups we cover."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "1 Series",
+              "href": "/bmw-1-series-engines"
+            },
+            {
+              "label": "116d",
+              "href": "/bmw-116d-engines"
+            },
+            {
+              "label": "118d",
+              "href": "/bmw-118d-engines"
+            },
+            {
+              "label": "120d",
+              "href": "/bmw-120d-engines"
+            },
+            {
+              "label": "116i",
+              "href": "/bmw-116i-engines"
+            },
+            {
+              "label": "118i",
+              "href": "/bmw-118i-engines"
+            },
+            {
+              "label": "120i",
+              "href": "/bmw-120i-engines"
+            },
+            {
+              "label": "M135i",
+              "href": "/bmw-m135i-engines"
+            },
+            {
+              "label": "M140i",
+              "href": "/bmw-m140i-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "2 Series",
+            "href": "/bmw-2-series-engines"
+          },
+          "chips": [
+            {
+              "label": "218d",
+              "href": "/bmw-218d-engines"
+            },
+            {
+              "label": "220d",
+              "href": "/bmw-220d-engines"
+            },
+            {
+              "label": "220i",
+              "href": "/bmw-220i-engines"
+            },
+            {
+              "label": "230i",
+              "href": "/bmw-230i-engines"
+            },
+            {
+              "label": "M235i",
+              "href": "/bmw-m235i-engines"
+            },
+            {
+              "label": "M240i",
+              "href": "/bmw-m240i-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "3 Series",
+            "href": "/bmw-3-series-engines"
+          },
+          "chips": [
+            {
+              "label": "316d",
+              "href": "/bmw-316d-engines"
+            },
+            {
+              "label": "318d",
+              "href": "/bmw-318d-engines"
+            },
+            {
+              "label": "320d",
+              "href": "/bmw-320d-engines"
+            },
+            {
+              "label": "320i",
+              "href": "/bmw-320i-engines"
+            },
+            {
+              "label": "330i",
+              "href": "/bmw-330i-engines"
+            },
+            {
+              "label": "335d",
+              "href": "/bmw-335d-engines"
+            },
+            {
+              "label": "M340i",
+              "href": "/bmw-m340i-xdrive-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "4 Series",
+            "href": "/bmw-4-series-engines"
+          },
+          "chips": [
+            {
+              "label": "420d",
+              "href": "/bmw-420d-engines"
+            },
+            {
+              "label": "430d",
+              "href": "/bmw-430d-engines"
+            },
+            {
+              "label": "420i",
+              "href": "/bmw-420i-engines"
+            },
+            {
+              "label": "430i",
+              "href": "/bmw-430i-engines"
+            },
+            {
+              "label": "435d",
+              "href": "/bmw-435d-engines"
+            },
+            {
+              "label": "440i",
+              "href": "/bmw-440i-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "5 Series",
+            "href": "/bmw-5-series-engines"
+          },
+          "chips": [
+            {
+              "label": "520d",
+              "href": "/bmw-520d-engines"
+            },
+            {
+              "label": "530d",
+              "href": "/bmw-530d-engines"
+            },
+            {
+              "label": "520i",
+              "href": "/bmw-520i-engines"
+            },
+            {
+              "label": "530i",
+              "href": "/bmw-530i-engines"
+            },
+            {
+              "label": "535d",
+              "href": "/bmw-535d-engines"
+            },
+            {
+              "label": "540i",
+              "href": "/bmw-540i-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "6 Series",
+            "href": "/bmw-6-series-engines"
+          },
+          "chips": [
+            {
+              "label": "630d",
+              "href": "/bmw-630d-engines"
+            },
+            {
+              "label": "640d",
+              "href": "/bmw-640d-engines"
+            },
+            {
+              "label": "640i",
+              "href": "/bmw-640i-engines"
+            },
+            {
+              "label": "650i",
+              "href": "/bmw-650i-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "7 Series",
+            "href": "/bmw-7-series-engines"
+          },
+          "chips": [
+            {
+              "label": "730d/740d",
+              "href": null
+            },
+            {
+              "label": "730i/740i",
+              "href": null
+            },
+            {
+              "label": "750i",
+              "href": "/bmw-750i-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "8 Series",
+            "href": "/bmw-8-series-engines"
+          },
+          "chips": [
+            {
+              "label": "840d",
+              "href": "/bmw-840d-xdrive-engines"
+            },
+            {
+              "label": "840i",
+              "href": "/bmw-840i-engines"
+            },
+            {
+              "label": "M850i",
+              "href": "/bmw-m850i-xdrive-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "X Series & Z4",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "X1",
+              "href": "/bmw-x1-engines"
+            },
+            {
+              "label": "X2",
+              "href": "/bmw-x2-engines"
+            },
+            {
+              "label": "X3",
+              "href": "/bmw-x3-engines"
+            },
+            {
+              "label": "X4",
+              "href": "/bmw-x4-engines"
+            },
+            {
+              "label": "X5",
+              "href": "/bmw-x5-engines"
+            },
+            {
+              "label": "X6",
+              "href": "/bmw-x6-engines"
+            },
+            {
+              "label": "X7",
+              "href": "/bmw-x7-engines"
+            },
+            {
+              "label": "XM",
+              "href": "/bmw-xm-engines"
+            },
+            {
+              "label": "Z4",
+              "href": "/bmw-z4-engines"
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "M-Performance",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "M2",
+              "href": "/bmw-m2-engines"
+            },
+            {
+              "label": "M3",
+              "href": "/bmw-m3-engines"
+            },
+            {
+              "label": "M4",
+              "href": "/bmw-m4-engines"
+            },
+            {
+              "label": "M5",
+              "href": "/bmw-m5-engines"
+            },
+            {
+              "label": "M6",
+              "href": "/bmw-m6-engines"
+            },
+            {
+              "label": "M8",
+              "href": "/bmw-m8-engines"
+            },
+            {
+              "label": "X3 M",
+              "href": "/bmw-x3-m-engines"
+            },
+            {
+              "label": "X4 M",
+              "href": "/bmw-x4-m-engines"
+            },
+            {
+              "label": "X5 M",
+              "href": "/bmw-x5-m-engines"
+            },
+            {
+              "label": "X6 M",
+              "href": "/bmw-x6-m-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "We also work on all BMW engine families, including:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[N13](/bmw-n13-engine)",
+            "[N20](/bmw-n20-engine)",
+            "[N47](/bmw-n47-engine)",
+            "[B47](/bmw-b47-engine)",
+            "[B48](/bmw-b48-engine)",
+            "[N55](/bmw-n55-engine)",
+            "[B58](/bmw-b58-engine)",
+            "[N57](/bmw-n57-engine)",
+            "[B57](/bmw-b57-engine)",
+            "[N63](/bmw-n63-engine)",
+            "[S55](/bmw-s55-engine)",
+            "[S58](/bmw-s58-engine)",
+            "[S63](/bmw-s63-engine)",
+            "[S54](/bmw-s54-engine)",
+            "[S65](/bmw-s65-engine)",
+            "[S85](/bmw-s85-engine)",
+            "[M54](/bmw-m54-engine)",
+            "[N52](/bmw-n52-engine)",
+            "[N54](/bmw-n54-engine)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Cylinder Head Rebuild Process",
+      "steps": [
+        {
+          "title": "Removal & Strip-down",
+          "body": "The head is removed from the engine and fully disassembled – valves, springs, retainers, and camshafts are taken out."
+        },
+        {
+          "title": "Inspection & Measurement",
+          "body": "We measure for warpage, cracks, and wear; valve guides and seats are checked with dial gauges and micrometers."
+        },
+        {
+          "title": "Machining (Skimming)",
+          "body": "The head is resurfaced on a precision machine to ensure a perfectly flat mating surface."
+        },
+        {
+          "title": "Valve Work",
+          "body": "Valves are ground or replaced, seats recut or replaced, and new stem seals fitted."
+        },
+        {
+          "title": "VANOS Service",
+          "body": "Where applicable, the VANOS unit is serviced to ensure correct variable valve timing."
+        },
+        {
+          "title": "Reassembly",
+          "body": "The head is reassembled with new gaskets, seals, and O-rings, then torqued to BMW specifications."
+        },
+        {
+          "title": "Final Testing",
+          "body": "We perform leak and pressure tests before the head is refitted to the vehicle."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Get a Cylinder Head Rebuild Quote",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Or [contact us directly](/contact) – we'll discuss your BMW's cylinder head repair requirements in detail."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose BMW Garage for Cylinder Head Work",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Specialist BMW workshop with over a decade of experience",
+            "All work carried out in-house – no subcontracting",
+            "Precision machining using professional equipment",
+            "VANOS servicing integrated into every applicable rebuild",
+            "12-month unlimited-mileage warranty on all work",
+            "Transparent fixed-price quotes – no hidden extras",
+            "Nationwide engine recovery available if your car is off the road"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Meet our workshop team →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How the Cylinder Head Repair Service Works",
+      "steps": [
+        {
+          "title": "1. Contact Us",
+          "body": "Call, WhatsApp, or email us with your BMW's details and symptoms."
+        },
+        {
+          "title": "2. Inspection & Quote",
+          "body": "We inspect the head and provide a fixed-price quote for the rebuild."
+        },
+        {
+          "title": "3. Rebuild",
+          "body": "We carry out the full cylinder head overhaul in our workshop."
+        },
+        {
+          "title": "4. Refit & Test",
+          "body": "The head is refitted to your engine and tested before collection."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Full BMW Engine Rebuild](/bmw-engine-rebuild)",
+            "[Diesel Timing Chain Repair](/bmw-diesel-timing-chain-repair)",
+            "[Petrol Timing Chain Repair](/bmw-petrol-timing-chain-repair)",
+            "[Engine Inspection & Assessment](/bmw-engine-inspection-assessment)",
+            "[Engine Replacement](/bmw-engine-replacement)",
+            "[Oil Leak & Gasket Repair](/bmw-oil-leak-gasket-repair)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Read our full guide to BMW engine rebuilds and what we check on every rebuild."
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What does a BMW cylinder head rebuild include?",
+          "a": "It includes removal, full strip-down, inspection, head resurfacing (skimming), valve grinding or replacement, new valve stem seals, seat recutting, VANOS service (where applicable), reassembly with new gaskets and seals, and final testing."
+        },
+        {
+          "q": "How long does cylinder head repair take?",
+          "a": "Typical turnaround is 3–5 working days, depending on the extent of machining required and parts availability. We will give you a clear timeline when you bring your vehicle in."
+        },
+        {
+          "q": "Do you service VANOS during the head rebuild?",
+          "a": "Yes, for all BMW engines with VANOS (most modern models), we service the unit as part of the cylinder head overhaul to ensure correct variable valve timing and engine performance."
+        },
+        {
+          "q": "Is the cylinder head skimmed on every rebuild?",
+          "a": "We always measure the head for warpage. If it is out of specification, we resurface it to restore a perfectly flat sealing surface. This is a standard part of our process."
+        },
+        {
+          "q": "What warranty do you offer on cylinder head work?",
+          "a": "All cylinder head rebuilds come with a 12-month unlimited-mileage warranty covering parts and labour."
+        }
+      ]
+    }
+  ]
+}

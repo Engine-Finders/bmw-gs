@@ -1,25 +1,27 @@
 import siteRoutes from "@/data/shared/siteRoutes.json";
-
-const SITE_URL = "https://bmwgarage.uk";
+import { SITE_URL } from "./layout";
 
 // The 3 hand-built reference pages predate the generation manifest and are
 // never written into it (migrate_bmw_content.py always skips them), so they
 // are listed explicitly here alongside the generated routes.
 const REFERENCE_ROUTES = [
-  { slug: "bmw-3-series-engines" },
-  { slug: "bmw-320d-engines" },
-  { slug: "bmw-b58-engine" },
+  { type: "model", slug: "bmw-3-series-engines" },
+  { type: "variant", slug: "bmw-320d-engines" },
+  { type: "engine", slug: "bmw-b58-engine" },
 ];
 
-export default function sitemap() {
-  const staticRoutes = [{ url: SITE_URL, lastModified: new Date(), changeFrequency: "weekly", priority: 1 }];
+const PRIORITY = { model: 0.8, engine: 0.8, variant: 0.6, authority: 0.7, core: 0.4, directory: 0.5 };
 
-  const generatedRoutes = [...REFERENCE_ROUTES, ...siteRoutes].map(({ slug }) => ({
+export default function sitemap() {
+  const now = new Date();
+  const home = [{ url: SITE_URL, lastModified: now, changeFrequency: "weekly", priority: 1 }];
+
+  const generated = [...REFERENCE_ROUTES, ...siteRoutes].map(({ slug, type }) => ({
     url: `${SITE_URL}/${slug}`,
-    lastModified: new Date(),
-    changeFrequency: "monthly",
-    priority: 0.7,
+    lastModified: now,
+    changeFrequency: type === "core" ? "yearly" : "monthly",
+    priority: PRIORITY[type] ?? 0.6,
   }));
 
-  return [...staticRoutes, ...generatedRoutes];
+  return [...home, ...generated];
 }

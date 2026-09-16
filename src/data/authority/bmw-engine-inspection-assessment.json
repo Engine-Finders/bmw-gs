@@ -1,0 +1,252 @@
+{
+  "slug": "bmw-engine-inspection-assessment",
+  "metaTitle": "BMW Engine Inspection & Assessment | BMW Garage",
+  "metaDescription": "Full BMW engine inspection & assessment at BMW Garage. We strip, measure & assess your BMW engine to determine what work is required. Book today.",
+  "h1": "BMW Engine Inspection & Assessment",
+  "lede": "We strip, inspect and measure your BMW engine to determine exactly what work is required — then quote you the work that actually needs doing.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/variant/sec10_car.webp",
+    "/engine_family/sec4.webp",
+    "/model/sec5.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "BMW specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What a BMW Engine Inspection & Assessment Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "An engine inspection and assessment is the process we follow to determine the condition of your BMW engine and what work is required. This is **not** a diagnostic process focused on failure symptoms — it is the physical inspection that happens after a problem has been identified."
+        },
+        {
+          "t": "p",
+          "html": "We assess the engine thoroughly, from initial visual checks through to full strip-down and component measurement. The outcome is a detailed scope of work and a quotation based on what your engine actually needs."
+        },
+        {
+          "t": "p",
+          "html": "Because BMW engines vary significantly across models and generations, our assessment process is adapted to each specific engine type — whether it's a 4-cylinder diesel with a rear-mounted timing chain or a high-performance S58 from an M3."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "BMW Engine Inspection & Assessment",
+            "From **£250** + VAT",
+            "Includes strip-down, component inspection and quotation. Excludes engine removal/refit — quoted separately where required.",
+            "[Pricing disclaimer →](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Which BMW Models & Engines We Assess",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our inspection and assessment process covers the full BMW range — from 1 Series to X7, including M-cars. We assess the engine in its specific vehicle application, not just by engine code alone."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "BMW 1 Series",
+              "href": "/bmw-1-series-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Key variants we regularly assess include:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[320d (N47/B47)](/bmw-320d-engines) — timing chain inspection",
+            "[520d (N47/B47)](/bmw-520d-engines) — timing chain & turbo actuator checks",
+            "[X5 xDrive30d (N57/B57)](/bmw-x5-xdrive30d-engines) — turbo & injector assessment",
+            "[M3 Competition (S55)](/bmw-m3-competition-engines) — crank hub & bearing inspection",
+            "[M4 Competition (S55)](/bmw-m4-competition-engines) — crank hub & bearing inspection",
+            "[M5 Competition (S63)](/bmw-m5-competition-engines) — hot-vee turbo & valve seal assessment"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "We also assess [M2](/bmw-m2-engines), [M6](/bmw-m6-engines), [8 Series](/bmw-8-series-engines) and all [X3 M](/bmw-x3-m-engines) / [X4 M](/bmw-x4-m-engines) models."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our BMW Engine Assessment Process",
+      "steps": [
+        {
+          "title": "Initial Visual Inspection",
+          "body": "The engine bay is inspected for leaks, damaged components, missing parts or physical damage."
+        },
+        {
+          "title": "Fluid Assessment",
+          "body": "Oil, coolant and other fluids are checked for contamination, levels and condition."
+        },
+        {
+          "title": "Component Inspection",
+          "body": "Belts, hoses, wiring and sensors are examined for condition and wear."
+        },
+        {
+          "title": "Engine Removal (if required)",
+          "body": "For a full assessment, the engine is removed from the vehicle and mounted on a stand."
+        },
+        {
+          "title": "Strip-Down",
+          "body": "The engine is systematically disassembled — cylinder head removed, sump dropped, internals exposed."
+        },
+        {
+          "title": "Component-by-Component Inspection",
+          "body": "Each component is inspected for wear and condition. Critical measurements are taken: bore wear, crankshaft journal condition, bearing wear, valve guide wear."
+        },
+        {
+          "title": "Machinability Assessment",
+          "body": "Components are assessed to determine whether they can be machined back to specification or must be replaced."
+        },
+        {
+          "title": "Quotation",
+          "body": "A detailed scope of work and quotation is prepared based on the inspection findings."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose BMW Garage for Your Engine Assessment",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Established 2009** — 17 years of BMW engine experience",
+            "**Full workshop & machine shop** — we do the work in-house, not subcontracted",
+            "**BMW-specific tooling** — including VANOS, timing and M-car specialist equipment",
+            "**Detailed, transparent quotations** — no guesswork, no “while we're in there” surprises",
+            "**We assess in the vehicle or on the stand** — whatever the engine needs",
+            "**12-month unlimited-mileage warranty** on all rebuild work"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[About our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Recent Engine Assessments",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "All images are staged at our workshop. Real completed-job photography being added as each job is documented."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How a BMW Engine Assessment Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "You contact us — by phone, email or the quote form — with your BMW's registration or engine details."
+        },
+        {
+          "title": "",
+          "body": "We agree the scope — whether an initial bay inspection or a full engine-out strip-down assessment."
+        },
+        {
+          "title": "",
+          "body": "Your BMW arrives at our workshop (or we recover it — [nationwide recovery available](/bmw-engine-recovery))."
+        },
+        {
+          "title": "",
+          "body": "We carry out the inspection and strip-down per the agreed scope."
+        },
+        {
+          "title": "",
+          "body": "We provide a detailed quotation — with clear costs and a firm recommendation."
+        },
+        {
+          "title": "",
+          "body": "You decide whether to proceed with the work (rebuild, replacement or repair)."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related BMW Engine Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[BMW Engine Rebuild](/bmw-engine-rebuild) — full rebuild after assessment",
+            "[BMW Diesel Timing Chain Repair](/bmw-diesel-timing-chain-repair) — N47/B47-specific",
+            "[BMW Petrol Timing Chain Repair](/bmw-petrol-timing-chain-repair) — N20 and others",
+            "[BMW Engine Bearing Replacement](/bmw-engine-bearing-replacement) — S54/S85/S65 rod bearings",
+            "[BMW V8 Hot-Vee Engine Repair](/bmw-hot-vee-v8-repair) — N63/S63 services",
+            "[BMW M-Power Engine Rebuild](/bmw-m-power-engine-rebuild) — S55/S58/S63 specialist"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How long does a BMW engine inspection take?",
+          "a": "An initial bay inspection takes 1–2 hours. A full engine-out strip-down assessment typically takes 1–2 days, depending on engine complexity and access."
+        },
+        {
+          "q": "How much does an engine assessment cost?",
+          "a": "Our standard inspection and assessment starts from £250 + VAT. This includes strip-down, component inspection and a detailed quotation. Engine removal and refit are quoted separately where required."
+        },
+        {
+          "q": "Do you assess M-car engines (S55, S58, S63)?",
+          "a": "Yes. We regularly assess S55 (M2 Competition / M3 / M4), S58 (X3 M / X4 M / G80 M3) and S63 (M5 / M6 / M8) engines. These require specific procedures, which we have in-house."
+        },
+        {
+          "q": "What if you find more damage during the assessment?",
+          "a": "We quote the work based on what we find. If additional issues are discovered during strip-down, we pause, call you with the updated findings, and agree a revised scope before proceeding."
+        },
+        {
+          "q": "Do you assess BMW diesel engines with timing chain issues?",
+          "a": "Yes. We assess N47, B47 and N57 diesel engines — including the rear-mounted timing chain systems found in 1, 2, 3, 4, 5, X1, X3 and X5 models."
+        }
+      ]
+    }
+  ]
+}

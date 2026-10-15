@@ -21,7 +21,7 @@ export default function ModelSec15({ data }) {
 
           <div className="relative px-4 py-5">
             <BMWStripe className="h-3 w-6" />
-            <h2 className="origin-left scale-y-110 scale-x-90 mt-2 max-w-[58%] text-2xl font-extrabold uppercase leading-[1.05] tracking-tighter">
+            <h2 className="hp-h2 mt-2 max-w-[58%] uppercase">
               <span className="block text-[#101828]">{mobileLine1}</span>
               <span className="block text-hero-blue">{mobileLine2}</span>
             </h2>
@@ -53,7 +53,7 @@ export default function ModelSec15({ data }) {
             <div className="flex items-center gap-3">
               <Icon name="engine" className="h-8 w-8 shrink-0 text-[#101828]" />
               <div>
-                <h3 className="text-base font-extrabold uppercase leading-tight">
+                <h3 className="hp-h3 uppercase">
                   <span className="block text-[#101828]">{data.checklistTitlePre}</span>
                   {data.checklistHref ? (
                     <Link href={data.checklistHref} className="block text-hero-blue">
@@ -126,7 +126,7 @@ export default function ModelSec15({ data }) {
       <div className="relative mx-auto max-w-6xl">
         {/* header */}
         <div className="max-w-md pt-2">
-          <h2 className="origin-left scale-y-110 scale-x-90 text-3xl font-extrabold uppercase leading-[1.05] tracking-tighter lg:text-4xl">
+          <h2 className="hp-h2 uppercase">
             <span className="block text-[#101828]">{data.headlinePre}</span>
             <span className="flex items-center gap-2 text-hero-blue">
               {data.headlineHighlight}
@@ -191,7 +191,7 @@ export default function ModelSec15({ data }) {
 
               <div className="relative flex items-center gap-3">
                 <Icon name="engine" className="h-9 w-9 shrink-0 text-hero-blue" />
-                <h3 className="origin-left scale-y-110 scale-x-90 text-lg font-extrabold uppercase leading-tight">
+                <h3 className="hp-h3 uppercase">
                   <span className="block text-[#101828]">{data.checklistTitlePre}</span>
                   {data.checklistHref ? (
                     <Link href={data.checklistHref} className="block text-hero-blue">

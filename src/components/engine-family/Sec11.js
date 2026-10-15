@@ -110,7 +110,7 @@ export default function Sec11({ data }) {
         <div className="relative px-4 py-7 md:hidden">
           <div className="overflow-hidden">
             <BMWStripe className="float-left mr-2 h-5 w-10 shrink-0" />
-            <h2 className="text-lg font-bold uppercase leading-none tracking-tight">
+            <h2 className="hp-h2 uppercase">
               <span className="text-[#101828]">{faq.kicker} </span>
               <span className="text-hero-blue">{faq.kickerHighlight}</span>
             </h2>
@@ -128,7 +128,7 @@ export default function Sec11({ data }) {
           <div className="mx-auto max-w-6xl">
             <div className="flex items-center gap-2">
               <BMWStripe className="h-6 w-12 shrink-0" />
-              <h2 className="text-xl font-bold uppercase leading-none tracking-tight lg:text-2xl">
+              <h2 className="hp-h2 uppercase">
                 <span className="text-[#101828]">{faq.kicker} </span>
                 <span className="text-hero-blue">{faq.kickerHighlight}</span>
               </h2>
@@ -161,7 +161,7 @@ export default function Sec11({ data }) {
           </div>
 
           <div className="relative -mt-10 px-4 pb-10">
-            <h2 className="text-2xl font-bold uppercase leading-tight tracking-tighter">
+            <h2 className="hp-h2 uppercase">
               <span className="block text-white">{cta.headlinePre}</span>
               <span className="block text-4xl text-hero-blue">{cta.headlineHighlight}</span>
               <span className="block text-white">{cta.headlinePost}</span>
@@ -201,7 +201,7 @@ export default function Sec11({ data }) {
                   <Icon name="phone" className="h-5 w-5 shrink-0 text-hero-blue" />
                   <div className="min-w-0">
                     <p className="truncate text-[11px] font-bold uppercase text-hero-blue">{cta.phone.label}</p>
-                    <p className="truncate text-[10px] text-white">{cta.phone.sub}</p>
+                    <p className="text-[10px] text-white">{cta.phone.sub}</p>
                   </div>
                 </div>
                 <span className="h-8 w-px shrink-0 bg-white/15" aria-hidden="true" />
@@ -231,7 +231,7 @@ export default function Sec11({ data }) {
 
           <div className="relative mx-auto grid max-w-6xl grid-cols-[minmax(0,1fr)_minmax(0,1.1fr)] gap-10 px-4 py-14 sm:px-6 lg:px-8">
             <div>
-              <h2 className="text-3xl font-bold uppercase leading-tight tracking-tighter lg:text-4xl">
+              <h2 className="hp-h2 uppercase">
                 <span className="block text-white">{cta.headlinePre}</span>
                 <span className="block text-5xl text-hero-blue lg:text-6xl">{cta.headlineHighlight}</span>
                 <span className="block text-white">{cta.headlinePost}</span>

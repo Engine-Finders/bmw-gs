@@ -19,7 +19,7 @@ export default function ModelSec2({ data }) {
             <p className="text-xs font-bold uppercase tracking-widest text-[#101828]">{data.kicker}</p>
           </div>
 
-          <h2 className="origin-left scale-y-110 scale-x-90 mt-2 text-[1.6rem] font-extrabold uppercase leading-[1.05] tracking-tighter">
+          <h2 className="hp-h2 mt-2 uppercase">
             <span className="block text-[#101828]">{line1}</span>
             <span className="block text-hero-blue">{line2}</span>
           </h2>
@@ -79,13 +79,13 @@ export default function ModelSec2({ data }) {
             <Image src={data.image} alt="BMW N47/B47 timing chain assembly" fill className="object-cover" sizes="1152px" />
 
             <div className="absolute inset-0 flex flex-col justify-start px-8 pt-6 lg:px-10 lg:pt-8">
-              <div className="max-w-[44%]">
+              <div className="max-w-[39%]">
                 <div className="flex items-center gap-2">
                   <Icon name="warning" className="h-4 w-4 shrink-0 text-red-500" />
                   <p className="text-xs font-bold uppercase tracking-widest text-[#101828]">{data.kicker}</p>
                 </div>
 
-                <h2 className="origin-left scale-y-110 scale-x-90 mt-3 text-4xl font-extrabold uppercase leading-[1.05] tracking-tighter lg:text-5xl">
+                <h2 className="hp-h2 mt-3 uppercase">
                   <span className="block text-[#101828]">{line1}</span>
                   <span className="block text-hero-blue">{line2}</span>
                 </h2>

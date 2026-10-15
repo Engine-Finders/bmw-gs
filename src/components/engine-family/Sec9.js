@@ -68,7 +68,7 @@ export default function Sec9({ data }) {
         <div className="relative md:hidden">
           <div className="relative px-4 pt-6">
             <BMWStripe className="h-6 w-11 shrink-0" />
-            <h2 className="mt-2 text-2xl font-bold uppercase leading-[1.05] tracking-tighter">
+            <h2 className="hp-h2 mt-2 uppercase">
               <span className="block text-white">{byModel.titlePre}</span>
               <span className="block">
                 <span className="text-hero-blue">{byModel.titleHighlight}</span>
@@ -93,7 +93,7 @@ export default function Sec9({ data }) {
             </div>
             <div>
               <BMWStripe className="h-6 w-11 shrink-0" />
-              <h2 className="mt-2 text-3xl font-bold uppercase leading-[1.05] tracking-tighter lg:text-4xl">
+              <h2 className="hp-h2 mt-2 uppercase">
                 <span className="block text-white">{byModel.titlePre}</span>
                 <span className="block">
                   <span className="text-hero-blue">{byModel.titleHighlight}</span>

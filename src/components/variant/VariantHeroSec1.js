@@ -28,7 +28,7 @@ export default function VariantHeroSec1({ data }) {
               <p className="text-[11px] font-semibold uppercase leading-none tracking-widest text-white">{data.kicker}</p>
             </div>
 
-            <h1 className="origin-left scale-y-110 scale-x-90 mt-1.5 text-[1.55rem] font-bold uppercase leading-[1.05] tracking-tighter">
+            <h1 className="hp-h1 mt-1.5 uppercase">
               <span className="block text-white">{line1}</span>
               <span className="block text-hero-blue">{line2Mobile}</span>
               <span className="block text-white">{line3Mobile}</span>
@@ -132,7 +132,7 @@ export default function VariantHeroSec1({ data }) {
           <div className="max-w-2xl">
             <BMWStripe className="h-4 w-8" />
 
-            <h1 className="origin-left scale-y-110 scale-x-90 mt-3 text-4xl font-bold uppercase leading-[1.05] tracking-tighter lg:text-5xl">
+            <h1 className="hp-h1 mt-3 uppercase">
               <span className="block whitespace-nowrap text-white">{line1}</span>
               <span className="block whitespace-nowrap text-hero-blue">{line2}</span>
               <span className="block text-white">{line3}</span>

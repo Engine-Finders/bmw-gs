@@ -17,7 +17,7 @@ export default function HomeSec7({ data }) {
             <BMWStripe size="lg" />
           </div>
           <div className="relative mb-5 flex items-center justify-center gap-2">
-            <h2 className="-skew-x-6 origin-left scale-y-115 scale-x-92 text-center text-3xl font-extrabold uppercase tracking-tighter text-[#101828]">
+            <h2 className="hp-h2 text-center uppercase text-[#101828]">
               {w1} <span className="text-bmw-blue">B</span>
               <span className="text-bmw-blue">M</span>
               <span className="bg-linear-to-r from-bmw-blue to-bmw-red bg-clip-text text-transparent">W</span> {w2}
@@ -68,7 +68,7 @@ export default function HomeSec7({ data }) {
         {/* ===== desktop ===== */}
         <div className="hidden md:block">
           <div className="relative mb-6 flex items-center justify-center">
-            <h2 className="-skew-x-6 origin-left scale-y-115 scale-x-92 text-3xl font-extrabold uppercase tracking-tighter text-[#101828] sm:text-4xl">
+            <h2 className="hp-h2 uppercase text-[#101828]">
               {w1} <span className="text-bmw-blue">B</span>
               <span className="text-bmw-blue">M</span>
               <span className="bg-linear-to-r from-bmw-blue to-bmw-red bg-clip-text text-transparent">W</span> {w2}

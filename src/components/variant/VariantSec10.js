@@ -14,7 +14,7 @@ export default function VariantSec10({ data }) {
         {/* ===== mobile ===== */}
         <div className="relative md:hidden">
           <div className="px-4 pb-6 pt-6">
-            <MobileSplitTitle titlePre={about.titlePre} titleHighlight={about.titleHighlight} className="text-xl" />
+            <MobileSplitTitle titlePre={about.titlePre} titleHighlight={about.titleHighlight} />
 
             <div className="relative -mx-4 mt-4 aspect-[1881/1144] w-screen overflow-hidden">
               <Image src={about.imageMobile} alt="BMW 320d engine and sedan" fill className="object-cover" sizes="100vw" />
@@ -45,7 +45,7 @@ export default function VariantSec10({ data }) {
           <div className="relative mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
             <div className="max-w-lg">
               <BMWStripe className="h-4 w-8 shrink-0" />
-              <h2 className="mt-3 text-3xl font-bold uppercase leading-tight tracking-tighter lg:text-4xl">
+              <h2 className="hp-h2 mt-3 uppercase">
                 {about.titlePre} <span className="block text-hero-blue">{about.titleHighlight}</span>
               </h2>
               <div className="mt-4 space-y-3 text-sm leading-relaxed text-[#101828]">
@@ -65,7 +65,7 @@ export default function VariantSec10({ data }) {
         <div className="relative px-4 py-8 md:hidden">
           <div className="flex items-center gap-2">
             <BMWStripe className="h-4 w-8 shrink-0" />
-            <h2 className="text-lg font-bold uppercase leading-none tracking-tighter">
+            <h2 className="hp-h2 uppercase">
               <span className="text-white">{codes.titlePre}</span>
               <span className="text-hero-blue">{codes.titleHighlight}</span>
             </h2>
@@ -103,7 +103,7 @@ export default function VariantSec10({ data }) {
           <div className="relative mx-auto max-w-6xl">
             <div className="flex items-center gap-3">
               <BMWStripe className="h-6 w-11 shrink-0" />
-              <h2 className="text-2xl font-bold uppercase leading-none tracking-tighter lg:text-3xl">
+              <h2 className="hp-h2 uppercase">
                 <span className="text-white">{codes.titlePre}</span>
                 <span className="text-hero-blue">{codes.titleHighlight}</span>
               </h2>
@@ -143,7 +143,7 @@ export default function VariantSec10({ data }) {
         {/* ===== mobile ===== */}
         <div className="relative md:hidden">
           <div className="px-4 pb-6 pt-6">
-            <MobileSplitTitle titlePre={compatibility.titlePre} titleHighlight={compatibility.titleHighlight} className="text-lg" />
+            <MobileSplitTitle titlePre={compatibility.titlePre} titleHighlight={compatibility.titleHighlight} />
 
             <div className="relative -mx-4 mt-4 aspect-430/363 w-screen overflow-hidden">
               <Image src={compatibility.imageMobile} alt="BMW touring in workshop" fill className="object-cover" sizes="100vw" />
@@ -180,7 +180,7 @@ export default function VariantSec10({ data }) {
           <div className="relative mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
             <div className="flex items-center gap-3">
               <BMWStripe className="h-6 w-11 shrink-0" />
-              <h2 className="text-2xl font-bold uppercase leading-none tracking-tighter lg:text-3xl">
+              <h2 className="hp-h2 uppercase">
                 <span className="text-[#101828]">{compatibility.titlePre}</span>
                 <span className="text-hero-blue">{compatibility.titleHighlight}</span>
               </h2>
@@ -206,7 +206,7 @@ export default function VariantSec10({ data }) {
       <section className="relative overflow-hidden bg-[#f3f6fb]">
         {/* ===== mobile ===== */}
         <div className="relative px-4 py-8 md:hidden">
-          <MobileSplitTitle titlePre={applications.titlePre} titleHighlight={applications.titleHighlight} className="text-lg" />
+          <MobileSplitTitle titlePre={applications.titlePre} titleHighlight={applications.titleHighlight} />
 
           <div className="no-scrollbar -mx-4 mt-4 overflow-x-auto px-4">
             <div className="glass-card relative min-w-200 overflow-hidden rounded-lg">
@@ -257,7 +257,7 @@ export default function VariantSec10({ data }) {
           <div className="relative mx-auto max-w-6xl">
             <div className="flex items-center gap-3">
               <BMWStripe className="h-6 w-11 shrink-0" />
-              <h2 className="text-2xl font-bold uppercase leading-none tracking-tighter lg:text-3xl">
+              <h2 className="hp-h2 uppercase">
                 <span className="text-[#101828]">{applications.titlePre}</span>
                 <span className="text-hero-blue">{applications.titleHighlight}</span>
               </h2>

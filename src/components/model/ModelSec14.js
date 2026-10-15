@@ -18,7 +18,7 @@ export default function ModelSec14({ data }) {
           </div>
 
           <div className="relative max-w-[68%] px-4 py-5">
-            <h2 className="origin-left scale-y-110 scale-x-90 text-2xl font-extrabold uppercase leading-[1.15] tracking-tighter">
+            <h2 className="hp-h2 uppercase">
               <span className="block text-white">{mobileLine1a}</span>
               <span className="block text-white">{mobileLine1b}</span>
               <span className="block text-hero-blue">{line2Word1}</span>
@@ -56,7 +56,7 @@ export default function ModelSec14({ data }) {
 
       <div className="relative mx-auto max-w-6xl">
         <div className="max-w-[46%]">
-          <h2 className="origin-left scale-y-110 scale-x-90 text-3xl font-extrabold uppercase leading-[1.05] tracking-tighter lg:text-4xl">
+          <h2 className="hp-h2 uppercase">
             <span className="block text-white">{data.line1}</span>
             <span className="block">
               <span className="text-hero-blue">{data.line2Highlight}</span>

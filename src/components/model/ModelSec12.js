@@ -19,7 +19,7 @@ export default function ModelSec12({ data }) {
         />
 
         <div className="relative px-4 py-10">
-          <h2 className="origin-left scale-y-110 scale-x-90 text-3xl font-extrabold uppercase leading-[1.05] tracking-tighter">
+          <h2 className="hp-h2 uppercase">
             <span className="block text-[#101828]">{data.headlinePre}</span>
             <span className="block text-hero-blue">{data.headlineHighlight}</span>
           </h2>
@@ -35,11 +35,11 @@ export default function ModelSec12({ data }) {
                 <div className="px-3 py-2" style={{ background: "rgba(5,12,28,0.9)" }}>
                   <div className="flex items-center gap-1.5">
                     <Icon name={c.icon} className="h-4 w-4 shrink-0 text-hero-blue" />
-                    <p className="truncate text-xs font-extrabold uppercase text-white">
+                    <p className="text-xs font-extrabold uppercase text-white">
                       {c.href ? <Link href={c.href}>{c.model}</Link> : c.model}
                     </p>
                   </div>
-                  <p className="mt-0.5 truncate text-[10px] uppercase tracking-wide text-white">{c.tag}</p>
+                  <p className="mt-0.5 text-[10px] leading-tight uppercase tracking-wide text-white">{c.tag}</p>
                 </div>
               </div>
             ))}
@@ -85,7 +85,7 @@ export default function ModelSec12({ data }) {
       <div className="relative mx-auto max-w-6xl">
         {/* header */}
         <div className="max-w-xl">
-          <h2 className="origin-left scale-y-110 scale-x-90 text-3xl font-extrabold uppercase leading-[1.05] tracking-tighter lg:text-4xl">
+          <h2 className="hp-h2 uppercase">
             <span className="block whitespace-nowrap text-[#101828]">{data.headlinePre}</span>
             <span className="block whitespace-nowrap text-hero-blue">{data.headlineHighlight}</span>
           </h2>

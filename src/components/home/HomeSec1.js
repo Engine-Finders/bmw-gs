@@ -23,7 +23,7 @@ export default function HomeSec1({ hero, lookup }) {
 
           <div className="relative flex flex-col px-4 pt-6 pb-40">
             <div className="max-w-[62%]">
-              <h1 className="-skew-x-6 origin-left scale-y-115 scale-x-92 text-3xl font-extrabold uppercase leading-[1.05] tracking-tighter">
+              <h1 className="hp-h1 uppercase">
                 <span className="block text-white">{line1}</span>
                 <span className="block text-hero-blue">{line2}</span>
                 <span className="block text-white">{line3}</span>
@@ -38,7 +38,7 @@ export default function HomeSec1({ hero, lookup }) {
                   compact
                   left={
                     <div className="shrink-0">
-                      <h2 className="origin-left scale-y-115 scale-x-92 flex items-center justify-center gap-2 text-2xl font-extrabold uppercase tracking-tighter text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.85)]">
+                      <h2 className="hp-h3 italic flex items-center justify-center gap-2 uppercase text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.85)]">
                         <BMWStripe />
                         {lookup.h2}
                       </h2>
@@ -67,7 +67,7 @@ export default function HomeSec1({ hero, lookup }) {
           <div className="pointer-events-none absolute -left-32 top-10 h-96 w-96 rounded-full bg-hero-blue/25 blur-[110px]" />
 
           <div className="relative mx-auto max-w-6xl px-4 pb-24 pt-8 sm:px-6 lg:px-8 lg:pt-10">
-            <h1 className="-skew-x-6 origin-left scale-y-115 scale-x-92 text-4xl font-extrabold uppercase leading-[1.05] tracking-tighter sm:text-5xl lg:text-6xl">
+            <h1 className="hp-h1 uppercase">
               <span className="block text-white">{line1}</span>
               <span className="block text-hero-blue">{line2}</span>
               <span className="block text-white">{line3}</span>
@@ -81,7 +81,7 @@ export default function HomeSec1({ hero, lookup }) {
                   large
                   left={
                     <div className="shrink-0 sm:max-w-xs">
-                      <h2 className="origin-left scale-y-115 scale-x-92 flex items-center justify-center gap-2 text-2xl font-extrabold uppercase tracking-tighter text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.85)] sm:text-3xl sm:justify-start">
+                      <h2 className="hp-h3 italic flex items-center justify-center gap-2 uppercase text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.85)] sm:justify-start">
                         <BMWStripe />
                         {lookup.h2}
                       </h2>

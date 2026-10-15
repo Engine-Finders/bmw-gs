@@ -42,7 +42,7 @@ export default function ModelSec5({ data }) {
         <div className="relative px-4 pb-8 pt-10">
           <BMWStripe className="h-3 w-6" />
 
-          <h2 className="origin-left scale-y-110 scale-x-90 mt-3 max-w-[70%] text-3xl font-extrabold uppercase leading-[1.05] tracking-tighter">
+          <h2 className="hp-h2 mt-3 max-w-[70%] uppercase">
             <span className="block text-white">{line1}</span>
             <span className="block text-hero-blue">{line2}</span>
           </h2>
@@ -78,7 +78,7 @@ export default function ModelSec5({ data }) {
 
           {/* comparison matrix */}
           <div className="glass-luminous card-glare relative mt-5 overflow-hidden rounded-2xl">
-            <div className="grid grid-cols-[minmax(0,0.9fr)_minmax(0,1fr)_minmax(0,1fr)] divide-x divide-white/10 border-b border-white/10">
+            <div className="grid grid-cols-[minmax(0,1.25fr)_minmax(0,1fr)_minmax(0,1fr)] divide-x divide-white/10 border-b border-white/10">
               <div />
               <div className="flex items-center gap-1.5 px-2 py-3">
                 <Icon name="shield-check" className="h-5 w-5 shrink-0 text-hero-blue" />
@@ -93,11 +93,11 @@ export default function ModelSec5({ data }) {
             {data.comparison.rows.map((r, i) => (
               <div
                 key={r.feature}
-                className={`grid grid-cols-[minmax(0,0.9fr)_minmax(0,1fr)_minmax(0,1fr)] divide-x divide-white/10 ${i > 0 ? "border-t border-white/10" : ""}`}
+                className={`grid grid-cols-[minmax(0,1.25fr)_minmax(0,1fr)_minmax(0,1fr)] divide-x divide-white/10 ${i > 0 ? "border-t border-white/10" : ""}`}
               >
                 <div className="flex min-w-0 items-start gap-1.5 px-2 py-3">
                   <Icon name={r.icon} className="h-4 w-4 shrink-0 text-white" />
-                  <p className="min-w-0 break-words text-[10px] font-bold uppercase leading-tight text-white">{r.feature}</p>
+                  <p className="min-w-0 text-[10px] font-bold uppercase leading-tight text-white">{r.feature}</p>
                 </div>
                 <p className="min-w-0 break-words px-2 py-3 text-[11px] leading-snug text-white">{withCompEmphasis(r.ours)}</p>
                 <p className="min-w-0 break-words px-2 py-3 text-[11px] leading-snug text-white">{r.used}</p>
@@ -136,7 +136,7 @@ export default function ModelSec5({ data }) {
             <p className="text-xs font-semibold uppercase leading-none tracking-widest text-white">{data.kicker}</p>
           </div>
 
-          <h2 className="origin-left scale-y-110 scale-x-90 mt-3 text-4xl font-extrabold uppercase leading-[1.05] tracking-tighter lg:text-5xl">
+          <h2 className="hp-h2 mt-3 uppercase">
             <span className="block text-white">{line1}</span>
             <span className="block text-hero-blue">{line2}</span>
           </h2>

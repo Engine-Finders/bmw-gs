@@ -20,7 +20,7 @@ export default function ModelSec3({ data }) {
               <p className="text-[10px] font-semibold uppercase leading-none tracking-widest text-white">{data.kicker}</p>
             </div>
 
-            <h2 className="origin-left scale-y-110 scale-x-90 mt-2 text-3xl font-extrabold uppercase leading-[1.05] tracking-tighter">
+            <h2 className="hp-h2 mt-2 uppercase">
               <span className="block text-white">{line1}</span>
               <span className="block text-hero-blue">{line2}</span>
             </h2>
@@ -119,7 +119,7 @@ export default function ModelSec3({ data }) {
           <p className="text-xs font-semibold uppercase leading-none tracking-widest text-white">{data.kicker}</p>
         </div>
 
-        <h2 className="origin-left scale-y-110 scale-x-90 mt-3 text-4xl font-extrabold uppercase leading-[1.05] tracking-tighter lg:text-5xl">
+        <h2 className="hp-h2 mt-3 uppercase">
           <span className="block text-white">{line1}</span>
           <span className="block text-hero-blue">{line2}</span>
         </h2>

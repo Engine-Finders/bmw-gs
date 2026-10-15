@@ -13,7 +13,7 @@ export default function VariantSec4({ data }) {
             style={{ background: "linear-gradient(to right, #fff 0%, #fff 62%, rgba(255,255,255,0.85) 72%, transparent 88%)" }}
           />
           <div className="relative z-10 p-4">
-            <h2 className="origin-left scale-y-110 scale-x-90 text-2xl font-bold uppercase leading-[1.02] tracking-tighter">
+            <h2 className="hp-h2 uppercase">
               <span className="block text-[#101828]">{data.headlinePre}</span>
               <span className="block text-hero-blue">{data.headlineHighlight}</span>
             </h2>
@@ -83,7 +83,7 @@ export default function VariantSec4({ data }) {
 
           <div className="relative z-10 mx-auto flex h-full max-w-6xl items-center px-4 sm:px-6 lg:px-8">
             <div className="max-w-lg">
-              <h2 className="origin-left scale-y-110 scale-x-90 text-4xl font-bold uppercase leading-[1.02] tracking-tighter lg:text-5xl">
+              <h2 className="hp-h2 uppercase">
                 <span className="block text-[#101828]">{data.headlinePre}</span>
                 <span className="block text-hero-blue">{data.headlineHighlight}</span>
               </h2>

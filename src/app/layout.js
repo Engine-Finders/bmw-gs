@@ -1,4 +1,4 @@
-import { Geist, Geist_Mono, Barlow } from "next/font/google";
+import { Geist, Geist_Mono, Barlow, Roboto_Condensed } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/shared/Navbar";
 import Footer from "@/components/shared/Footer";
@@ -19,6 +19,14 @@ const geistSans = Geist({
 const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],
+});
+
+// Homepage titles use Roboto Condensed (italic, 900) — same as the Mercedes garage site.
+const robotoCondensed = Roboto_Condensed({
+  variable: "--font-roboto-condensed",
+  subsets: ["latin"],
+  weight: ["700", "800", "900"],
+  style: ["normal", "italic"],
 });
 
 const barlow = Barlow({
@@ -44,7 +52,7 @@ export default function RootLayout({ children }) {
   return (
     <html
       lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} ${barlow.variable} h-full antialiased`}
+      className={`${geistSans.variable} ${geistMono.variable} ${barlow.variable} ${robotoCondensed.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
         <JsonLd data={businessGraph()} />

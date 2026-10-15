@@ -23,7 +23,7 @@ export default function ModelHeroSec1({ data }) {
               <p className="text-[10px] font-semibold uppercase leading-none tracking-widest text-white">{data.kicker}</p>
             </div>
 
-            <h1 className="origin-left scale-y-110 scale-x-90 mt-1.5 text-[1.55rem] font-extrabold uppercase leading-[1.02] tracking-tighter">
+            <h1 className="hp-h1 mt-2 uppercase">
               <span className="block text-white">{line1}</span>
               <span className="block text-hero-blue">{line2}</span>
               <span className="block text-white">{line3}</span>
@@ -136,7 +136,7 @@ export default function ModelHeroSec1({ data }) {
               <p className="text-xs font-semibold uppercase leading-none tracking-widest text-white">{data.kicker}</p>
             </div>
 
-            <h1 className="origin-left scale-y-110 scale-x-90 mt-3 text-4xl font-extrabold uppercase leading-[1.05] tracking-tighter lg:text-5xl">
+            <h1 className="hp-h1 mt-3 uppercase">
               <span className="block whitespace-nowrap text-white">{line1}</span>
               <span className="block whitespace-nowrap text-hero-blue">{line2}</span>
               <span className="block text-white">{line3}</span>

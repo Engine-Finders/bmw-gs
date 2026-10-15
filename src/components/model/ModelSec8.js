@@ -46,7 +46,7 @@ export default function ModelSec8({ data }) {
         <BMWStripe size="lg" className="absolute right-4 top-4 opacity-90" />
 
         <div className="relative px-4 pb-8 pt-8">
-          <h2 className="origin-left scale-y-110 scale-x-90 text-3xl font-extrabold uppercase leading-[1.05] tracking-tighter">
+          <h2 className="hp-h2 uppercase">
             <span className="block text-white">{line1}</span>
             <span className="block text-hero-blue">{line2}</span>
           </h2>
@@ -115,7 +115,7 @@ export default function ModelSec8({ data }) {
       <BMWStripe size="wide" className="absolute -right-2 -top-2 rotate-6 opacity-90" />
 
       <div className="relative mx-auto max-w-6xl">
-        <h2 className="origin-left scale-y-110 scale-x-90 pt-8 text-4xl font-extrabold uppercase leading-[1.05] tracking-tighter sm:text-5xl">
+        <h2 className="hp-h2 pt-8 uppercase">
           <span className="text-white">{line1} </span>
           <span className="text-hero-blue">{line2}</span>
         </h2>

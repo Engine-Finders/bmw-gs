@@ -16,7 +16,7 @@ export default function HomeSec12({ data }) {
         <div className="min-w-0 flex-1 px-4 py-5">
           <p className="text-[10px] font-semibold uppercase tracking-widest text-white">{kicker}</p>
 
-          <h2 className="-skew-x-6 origin-left scale-y-115 scale-x-92 mt-1 text-3xl font-extrabold uppercase leading-[1.05] tracking-tighter">
+          <h2 className="hp-h2 mt-1 uppercase">
             <span className="block text-white">{hl1}</span>
             <span className="block text-hero-blue">{hl2}</span>
           </h2>
@@ -57,7 +57,7 @@ export default function HomeSec12({ data }) {
         <BMWStripe size="lg" className="absolute bottom-6 right-6 z-10" />
 
         <div className="relative mx-auto max-w-6xl px-4 py-9 sm:px-6 lg:px-8">
-          <h2 className="-skew-x-6 origin-left scale-y-115 scale-x-92 max-w-lg text-4xl font-extrabold uppercase leading-tight tracking-tighter sm:text-5xl">
+          <h2 className="hp-h2 max-w-lg uppercase">
             <span className="block text-white">{kicker}</span>
             <span className="block text-hero-blue">{headline}</span>
           </h2>

@@ -12,7 +12,7 @@ export default function VariantSec9({ data }) {
 
         <div className="relative px-4 pb-6 pt-6">
           <div className="max-w-[88%]">
-            <h2 className="text-xl font-bold uppercase leading-[1.1] tracking-tighter">
+            <h2 className="hp-h2 uppercase">
               <span className="block text-white">{data.headlinePre}</span>
               <span className="block whitespace-nowrap text-hero-blue">{data.headlineHighlight}</span>
               <span className="block text-white">{data.headlinePost}</span>
@@ -50,7 +50,7 @@ export default function VariantSec9({ data }) {
 
         <div className="relative mx-auto flex max-w-6xl justify-end px-4 py-14 sm:px-6 lg:px-8 lg:py-16">
           <div className="max-w-2xl">
-            <h2 className="text-3xl font-bold uppercase leading-[1.1] tracking-tighter lg:text-4xl">
+            <h2 className="hp-h2 uppercase">
               <span className="block whitespace-nowrap text-white">{data.headlinePre}</span>
               <span className="block text-hero-blue">
                 {data.headlineHighlight} <span className="text-white">{data.headlinePost}</span>

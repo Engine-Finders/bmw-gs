@@ -19,7 +19,7 @@ export default function HomeSec5({ data }) {
       <div className="relative mx-auto max-w-6xl">
         <div className="text-center">
           <BMWStripe size="wide" className="mx-auto mb-4" />
-          <h2 className="origin-left scale-y-115 scale-x-92 text-3xl font-extrabold tracking-tighter text-[#101828] sm:text-4xl">
+          <h2 className="hp-h2 text-[#101828]">
             <span className="block">{line1}</span>
             <span className="block">
               {line2a} <span className="text-hero-blue">{line2b}</span>

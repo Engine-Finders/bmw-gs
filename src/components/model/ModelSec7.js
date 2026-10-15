@@ -7,9 +7,9 @@ export default function ModelSec7({ data }) {
     <section className="relative overflow-hidden bg-[#f3f6fb]">
       {/* ===== mobile ===== */}
       <div className="relative px-4 py-10 md:hidden">
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-3">
           <BMWStripe className="h-4 w-8" />
-          <h2 className="origin-left scale-y-110 scale-x-90 text-2xl font-extrabold uppercase leading-none tracking-tighter">
+          <h2 className="hp-h2 uppercase">
             <span className="text-[#101828]">Our </span>
             <span className="text-hero-blue">Workshop</span>
           </h2>
@@ -24,7 +24,7 @@ export default function ModelSec7({ data }) {
                   {c.number}
                 </span>
               </div>
-              <div className="flex min-h-11 items-center justify-center px-2 py-2" style={{ background: "rgba(5,12,28,0.9)" }}>
+              <div className="flex min-h-14 items-center justify-center px-2 py-2" style={{ background: "rgba(5,12,28,0.9)" }}>
                 <p className="text-center text-[9px] font-extrabold uppercase leading-tight tracking-wide text-white">{c.title}</p>
               </div>
             </div>
@@ -58,9 +58,9 @@ export default function ModelSec7({ data }) {
       {/* ===== desktop ===== */}
       <div className="relative hidden px-4 py-10 sm:px-6 md:block lg:px-8">
       <div className="relative mx-auto max-w-6xl">
-        <div className="flex items-center gap-2.5">
+        <div className="flex items-center gap-4">
           <BMWStripe className="h-6 w-11" />
-          <h2 className="origin-left scale-y-110 scale-x-90 text-3xl font-extrabold uppercase leading-none tracking-tighter sm:text-4xl">
+          <h2 className="hp-h2 uppercase">
             <span className="text-[#101828]">Our </span>
             <span className="text-hero-blue">Workshop</span>
           </h2>

@@ -53,6 +53,47 @@ h3,
   font-family: var(--font-barlow), Arial, Helvetica, sans-serif;
 }
 
+/* Homepage titles: same typography as the Mercedes garage (.h1/.h2/.h3 there) — Roboto Condensed,
+   -0.5px tracking; mobile sizes are the base, md (768px+) swaps in the desktop sizes. */
+.hp-h1,
+.hp-h2,
+.hp-h3 {
+  font-family: var(--font-roboto-condensed), Arial, Helvetica, sans-serif;
+  letter-spacing: -0.5px;
+}
+
+.hp-h1 {
+  font-size: 32px;
+  font-weight: 900;
+  font-style: italic;
+  line-height: 1.05;
+}
+
+.hp-h2 {
+  font-size: 28px;
+  font-weight: 900;
+  font-style: italic;
+  line-height: 1.05;
+}
+
+.hp-h3 {
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 1.1;
+}
+
+@media (min-width: 768px) {
+  .hp-h1 {
+    font-size: 65px;
+  }
+  .hp-h2 {
+    font-size: 55px;
+  }
+  .hp-h3 {
+    font-size: 32px;
+  }
+}
+
 .heading-accent {
   color: var(--color-hero-blue);
 }

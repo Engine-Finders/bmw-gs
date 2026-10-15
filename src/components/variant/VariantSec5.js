@@ -17,7 +17,7 @@ export default function VariantSec5({ data }) {
       <div className="relative px-4 py-10 md:hidden">
         <div className="flex items-center gap-2">
           <BMWStripe className="h-4 w-8 shrink-0" />
-          <h2 className="text-xl font-bold uppercase leading-none tracking-tighter">
+          <h2 className="hp-h2 uppercase">
             {data.titlePre}
             <span className="text-hero-blue">{data.titleHighlight}</span>
           </h2>
@@ -73,7 +73,7 @@ export default function VariantSec5({ data }) {
         <div className="relative mx-auto max-w-6xl">
           <div className="flex items-center gap-3">
             <BMWStripe className="h-6 w-11 shrink-0" />
-            <h2 className="text-3xl font-bold uppercase leading-none tracking-tighter lg:text-4xl">
+            <h2 className="hp-h2 uppercase">
               {data.titlePre}
               <span className="text-hero-blue">{data.titleHighlight}</span>
             </h2>

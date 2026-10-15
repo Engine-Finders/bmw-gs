@@ -10,7 +10,7 @@ export default function Sec3({ data }) {
       {/* ===== mobile ===== */}
       <div className="relative md:hidden">
         <div className="relative px-4 py-7">
-          <MobileSplitTitle titlePre={data.titlePre} titleHighlight={data.titleHighlight} className="text-xl" baseColorClass="text-white" />
+          <MobileSplitTitle titlePre={data.titlePre} titleHighlight={data.titleHighlight} baseColorClass="text-white" />
 
           <div className="no-scrollbar -mx-4 mt-5 overflow-x-auto px-4">
             <div
@@ -83,11 +83,9 @@ export default function Sec3({ data }) {
           <div>
             <div className="flex items-center gap-3">
               <BMWStripe className="h-7 w-14 shrink-0" />
-              <span className="whitespace-nowrap text-3xl font-bold uppercase leading-[1.05] tracking-tighter text-white lg:text-4xl">
-                {data.titlePre}
-              </span>
+              <h2 className="hp-h2 whitespace-nowrap uppercase text-white">{data.titlePre}</h2>
             </div>
-            <p className="text-3xl font-bold uppercase leading-[1.05] tracking-tighter text-hero-blue lg:text-4xl">{data.titleHighlight}</p>
+            <p className="hp-h2 uppercase text-hero-blue">{data.titleHighlight}</p>
           </div>
 
           <div

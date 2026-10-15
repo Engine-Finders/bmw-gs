@@ -13,7 +13,7 @@ export default function HomeSec13({ data }) {
       <div className="relative px-4 py-7 md:hidden">
         <div className="flex items-start justify-between gap-3">
           <div className="min-w-0 flex-1">
-            <h2 className="-skew-x-6 origin-left scale-y-115 scale-x-92 text-[28px] font-extrabold uppercase leading-[1.05] tracking-tighter">
+            <h2 className="hp-h2 uppercase">
               <span className="block text-[#101828]">{line1}</span>
               <span className="block text-hero-blue">{line2}</span>
             </h2>
@@ -40,8 +40,8 @@ export default function HomeSec13({ data }) {
                 <Icon name={b.icon} className="h-6 w-6 text-hero-blue" />
               </span>
               <div className="min-w-0">
-                <p className="truncate text-[11px] font-extrabold uppercase text-[#101828]">{b.value}</p>
-                <p className="truncate text-[10px] uppercase text-[#101828]">{b.label}</p>
+                <p className="text-[11px] leading-tight font-extrabold uppercase text-[#101828]">{b.value}</p>
+                <p className="mt-0.5 text-[10px] leading-tight uppercase text-[#101828]">{b.label}</p>
               </div>
             </div>
           ))}
@@ -56,7 +56,7 @@ export default function HomeSec13({ data }) {
       <div className="relative mx-auto max-w-6xl">
         <div className="grid grid-cols-1 items-start gap-6 lg:grid-cols-2 lg:gap-8">
           <div>
-            <h2 className="-skew-x-6 origin-left scale-y-115 scale-x-92 text-4xl font-extrabold uppercase leading-tight tracking-tighter sm:text-5xl">
+            <h2 className="hp-h2 uppercase">
               <span className="block text-[#101828]">{line1}</span>
               <span className="block text-hero-blue">{line2}</span>
             </h2>

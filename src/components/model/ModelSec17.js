@@ -24,7 +24,7 @@ export default function ModelSec17({ data }) {
           <p className="whitespace-nowrap text-[9px] font-semibold uppercase leading-none tracking-wide text-[#101828]">{data.kicker}</p>
         </div>
 
-        <h2 className="origin-left scale-y-110 scale-x-90 mt-2 text-2xl font-extrabold uppercase leading-[1.05] tracking-tighter">
+        <h2 className="hp-h2 mt-2 uppercase">
           <span className="block whitespace-nowrap text-[#101828]">{mobileLine1}</span>
           <span className="block whitespace-nowrap text-hero-blue">{mobileLine2}</span>
         </h2>
@@ -140,7 +140,7 @@ export default function ModelSec17({ data }) {
           <p className="text-xs font-semibold uppercase leading-none tracking-widest text-[#101828]">{data.kicker}</p>
         </div>
 
-        <h2 className="origin-left scale-y-110 scale-x-90 mt-2 text-2xl font-extrabold uppercase leading-[1.05] tracking-tighter text-[#101828] lg:text-3xl">
+        <h2 className="hp-h2 mt-2 uppercase text-[#101828]">
           {data.headline}
         </h2>
 

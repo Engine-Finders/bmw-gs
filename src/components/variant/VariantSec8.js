@@ -17,7 +17,7 @@ export default function VariantSec8({ data }) {
       <section className="relative overflow-hidden bg-hero-dark">
         {/* ===== mobile ===== */}
         <div className="relative px-4 py-10 md:hidden">
-          <h2 className="text-xl font-bold uppercase leading-tight tracking-tighter">
+          <h2 className="hp-h2 uppercase">
             <span className="block text-white">{gallery.titlePre}</span>
             <span className="block text-hero-blue">{gallery.titleHighlight}</span>
           </h2>
@@ -32,9 +32,9 @@ export default function VariantSec8({ data }) {
                 <div className="px-3 py-2" style={{ background: "rgba(5,12,28,0.9)" }}>
                   <div className="flex items-center gap-1.5">
                     <Icon name={it.icon} className="h-4 w-4 shrink-0 text-hero-blue" />
-                    <p className="truncate text-xs font-extrabold uppercase text-white">{it.model}</p>
+                    <p className="text-xs font-extrabold uppercase text-white">{it.model}</p>
                   </div>
-                  <p className="mt-0.5 truncate text-[9px] uppercase tracking-wide text-white">{it.status}</p>
+                  <p className="mt-0.5 text-[9px] uppercase tracking-wide text-white">{it.status}</p>
                 </div>
               </div>
             ))}
@@ -59,7 +59,7 @@ export default function VariantSec8({ data }) {
         {/* ===== desktop ===== */}
         <div className="relative hidden px-4 py-10 sm:px-6 md:block lg:px-8">
           <div className="relative mx-auto max-w-6xl">
-            <h2 className="text-3xl font-bold uppercase leading-tight tracking-tighter lg:text-4xl">
+            <h2 className="hp-h2 uppercase">
               <span className="block text-white">{gallery.titlePre}</span>
               <span className="block text-hero-blue">{gallery.titleHighlight}</span>
             </h2>
@@ -72,10 +72,10 @@ export default function VariantSec8({ data }) {
                     <Image src={gallery.image} alt={it.model} fill className="object-cover" sizes="16vw" />
                   </div>
                   <div className="px-3 py-2.5 backdrop-blur-md" style={{ background: "rgba(5,12,28,0.9)" }}>
-                    <p className="truncate text-xs font-extrabold uppercase text-white">{it.model}</p>
+                    <p className="text-xs font-extrabold uppercase text-white">{it.model}</p>
                     <div className="mt-1 flex items-center gap-1.5">
                       <Icon name={it.icon} className="h-3.5 w-3.5 shrink-0 text-white" />
-                      <p className="truncate text-[10px] uppercase tracking-wide text-white">{it.status}</p>
+                      <p className="text-[10px] uppercase tracking-wide text-white">{it.status}</p>
                     </div>
                   </div>
                 </div>
@@ -89,7 +89,7 @@ export default function VariantSec8({ data }) {
       <section className="relative overflow-hidden bg-white">
         {/* ===== mobile ===== */}
         <div className="relative px-4 py-6 md:hidden">
-          <h2 className="text-xl font-bold uppercase leading-none tracking-tighter">
+          <h2 className="hp-h2 uppercase">
             <span className="text-[#101828]">{howItWorks.titlePre}</span>
             <span className="text-hero-blue">{howItWorks.titleHighlight}</span>
           </h2>
@@ -146,7 +146,7 @@ export default function VariantSec8({ data }) {
         {/* ===== desktop ===== */}
         <div className="relative hidden px-4 py-10 sm:px-6 md:block lg:px-8">
           <div className="relative mx-auto max-w-6xl">
-            <h2 className="text-3xl font-bold uppercase leading-tight tracking-tighter lg:text-4xl">
+            <h2 className="hp-h2 uppercase">
               <span className="text-[#101828]">{howItWorks.titlePre}</span>
               <span className="text-hero-blue">{howItWorks.titleHighlight}</span>
             </h2>

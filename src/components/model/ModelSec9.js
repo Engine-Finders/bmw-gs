@@ -19,7 +19,7 @@ export default function ModelSec9({ data }) {
 
           <div className="relative max-w-[55%] px-4 pt-6">
             <BMWStripe className="h-3 w-6" />
-            <h2 className="origin-left scale-y-110 scale-x-90 mt-2 text-2xl font-extrabold uppercase leading-[1.05] tracking-tighter">
+            <h2 className="hp-h2 mt-2 uppercase">
               <span className="block text-[#101828]">{line1}</span>
               <span className="block text-hero-blue">{line2}</span>
             </h2>
@@ -117,7 +117,7 @@ export default function ModelSec9({ data }) {
       <div className="relative mx-auto max-w-6xl">
         <div className="max-w-lg pt-8">
           <BMWStripe className="h-3.5 w-7" />
-          <h2 className="origin-left scale-y-110 scale-x-90 mt-3 text-4xl font-extrabold uppercase leading-[1.05] tracking-tighter sm:text-5xl">
+          <h2 className="hp-h2 mt-3 uppercase">
             <span className="block text-[#101828]">{line1}</span>
             <span className="block text-hero-blue">{line2}</span>
           </h2>

@@ -16,7 +16,7 @@ export default function HomeSec6({ data }) {
       >
         <div className="text-center">
           <BMWStripe size="wide" className="mx-auto mb-4" />
-          <h2 className="origin-left scale-y-115 scale-x-92 text-3xl font-extrabold tracking-tighter text-[#101828] sm:text-4xl">{data.h2}</h2>
+          <h2 className="hp-h2 text-[#101828]">{data.h2}</h2>
         </div>
 
         {/* portrait row — infinite scroll right */}

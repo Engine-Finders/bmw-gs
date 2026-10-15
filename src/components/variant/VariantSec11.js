@@ -10,7 +10,7 @@ export default function VariantSec11({ data }) {
       {/* ===== mobile ===== */}
       <div className="relative md:hidden">
         <div className="relative px-4 py-6">
-          <MobileSplitTitle titlePre={data.titlePre} titleHighlight={data.titleHighlight} className="text-xl" baseColorClass="text-white" />
+          <MobileSplitTitle titlePre={data.titlePre} titleHighlight={data.titleHighlight} baseColorClass="text-white" />
           <p className="mt-2 text-xs leading-snug text-white">{data.description}</p>
 
           <div className="no-scrollbar -mx-4 mt-5 overflow-x-auto px-4">
@@ -66,7 +66,7 @@ export default function VariantSec11({ data }) {
           <div className="max-w-2xl">
             <div className="flex items-center gap-3">
               <BMWStripe className="h-6 w-11 shrink-0" />
-              <h2 className="text-3xl font-bold uppercase leading-none tracking-tighter lg:text-4xl">
+              <h2 className="hp-h2 uppercase">
                 <span className="text-white">{data.titlePre}</span>
                 <span className="text-hero-blue">{data.titleHighlight}</span>
               </h2>

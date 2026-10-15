@@ -16,7 +16,7 @@ export default function ModelSec11({ data }) {
 
         <div className="relative px-4 pb-8 pt-12">
           <BMWStripe className="h-3 w-6" />
-          <h2 className="origin-left scale-y-110 scale-x-90 mt-2 text-3xl font-extrabold uppercase leading-[1.05] tracking-tighter">
+          <h2 className="hp-h2 mt-2 uppercase">
             <span className="block text-white">{line1}</span>
             <span className="block text-hero-blue">{line2}</span>
           </h2>
@@ -45,13 +45,13 @@ export default function ModelSec11({ data }) {
 
       <div className="relative mx-auto max-w-6xl">
         <div className="max-w-[44%]">
-          <div className="flex items-center gap-3">
+          <div className="flex items-center gap-4">
             <BMWStripe className="h-6 w-11 shrink-0" />
-            <h2 className="origin-left scale-y-110 scale-x-90 text-3xl font-extrabold uppercase leading-[1.05] tracking-tighter lg:text-4xl">
+            <h2 className="hp-h2 uppercase">
               <span className="block text-white">{line1}</span>
             </h2>
           </div>
-          <h2 className="origin-left scale-y-110 scale-x-90 text-3xl font-extrabold uppercase leading-[1.05] tracking-tighter lg:text-4xl">
+          <h2 className="hp-h2 uppercase">
             <span className="block text-hero-blue">{line2}</span>
           </h2>
 

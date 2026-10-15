@@ -26,7 +26,7 @@ export default function HomeSec9_5({ data }) {
       >
         <div className="[grid-area:title]">
           <p className="text-xs font-semibold uppercase tracking-widest text-hero-blue">{data.eyebrow}</p>
-          <h2 className="-skew-x-6 origin-left scale-y-115 scale-x-92 mt-2 text-4xl font-extrabold uppercase leading-[1.05] tracking-tighter text-[#101828] sm:text-5xl">
+          <h2 className="hp-h2 mt-2 uppercase text-[#101828]">
             <span className="block">Built With</span>
             <span className="block">Better Parts</span>
           </h2>

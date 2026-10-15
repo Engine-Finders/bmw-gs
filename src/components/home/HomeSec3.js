@@ -8,12 +8,12 @@ export default function HomeSec3({ data }) {
         style={{ boxShadow: "0 0 40px -8px rgba(0,138,201,0.35)" }}
       >
         {data.stats.map((stat) => (
-          <div key={stat.label} className="flex min-w-0 flex-1 flex-col items-center px-0.5 text-center">
+          <div key={stat.label} className="flex grow basis-auto flex-col items-center px-1 text-center sm:flex-1 sm:basis-0 sm:px-0.5">
             <Icon name={stat.icon} className="mb-1 h-6 w-6 shrink-0 text-hero-blue sm:mb-2 sm:h-9 sm:w-9" />
             <p className="whitespace-nowrap text-[11px] font-extrabold text-[#101828] sm:text-2xl lg:text-3xl">
               {stat.value}
             </p>
-            <p className="mt-0.5 text-[9px] font-medium leading-tight text-[#101828] sm:mt-1 sm:text-xs lg:text-sm">
+            <p className="mt-0.5 w-0 min-w-full text-[9px] font-medium leading-tight text-[#101828] sm:mt-1 sm:w-auto sm:min-w-0 sm:text-xs lg:text-sm">
               {stat.label}
             </p>
           </div>

@@ -13,7 +13,7 @@ export default function VariantSec3({ data }) {
     <section className="relative overflow-hidden bg-[#f3f6fb]">
       {/* ===== mobile ===== */}
       <div className="relative px-4 py-10 md:hidden">
-        <MobileSplitTitle titlePre={headlinePre} titleHighlight={headlineHighlight} className="text-xl" />
+        <MobileSplitTitle titlePre={headlinePre} titleHighlight={headlineHighlight} />
 
         <p className="mt-2 text-sm text-[#101828]">
           {data.startingFromLabel} <span className="font-extrabold text-hero-blue">{data.startingFromPrice}</span>
@@ -77,7 +77,7 @@ export default function VariantSec3({ data }) {
             <div className="flex items-start gap-2">
               <Icon name="warning" className="mt-0.5 h-6 w-6 shrink-0 text-red-500" />
               <div>
-                <h3 className="text-sm font-extrabold uppercase leading-tight text-white">
+                <h3 className="hp-h3 uppercase text-white">
                   {data.warning.titlePre}
                   <span className="text-hero-blue">{data.warning.titleHighlight}</span>
                 </h3>
@@ -116,7 +116,7 @@ export default function VariantSec3({ data }) {
         <div className="relative mx-auto max-w-6xl">
           <div className="flex items-center gap-3">
             <BMWStripe className="h-6 w-11 shrink-0" />
-            <h2 className="text-3xl font-bold uppercase leading-none tracking-tighter text-[#101828] lg:text-4xl">{data.headline}</h2>
+            <h2 className="hp-h2 uppercase text-[#101828]">{data.headline}</h2>
           </div>
           <p className="mt-2 text-lg text-[#101828]">
             {data.startingFromLabel} <span className="font-extrabold text-hero-blue">{data.startingFromPrice}</span>
@@ -185,7 +185,7 @@ export default function VariantSec3({ data }) {
               <div className="flex items-start gap-3">
                 <Icon name="warning" className="mt-1 h-8 w-8 shrink-0 text-red-500" />
                 <div>
-                  <h3 className="text-2xl font-extrabold uppercase leading-tight text-white lg:text-3xl">
+                  <h3 className="hp-h3 uppercase text-white">
                     {data.warning.titlePre}
                     <span className="text-hero-blue">{data.warning.titleHighlight}</span>
                   </h3>

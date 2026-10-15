@@ -14,7 +14,7 @@ export default function VariantSec6({ data }) {
       {/* ===== mobile ===== */}
       <div className="relative px-4 py-10 md:hidden">
         <div className="relative overflow-hidden pr-9">
-          <h2 className="text-lg font-bold uppercase leading-tight tracking-tighter text-[#101828]">
+          <h2 className="hp-h2 uppercase text-[#101828]">
             <span className="block">
               {mobileLine1.map((t, i) => (
                 <span key={i} className={t.highlight ? "text-hero-blue" : undefined}>
@@ -79,7 +79,7 @@ export default function VariantSec6({ data }) {
         <div className="relative mx-auto max-w-6xl px-8 py-10 lg:px-12">
           <div className="flex items-center gap-3">
             <BMWStripe className="h-6 w-11 shrink-0" />
-            <h2 className="text-2xl font-bold uppercase leading-none tracking-tighter text-[#101828] lg:text-3xl">
+            <h2 className="hp-h2 uppercase text-[#101828]">
               {data.titlePre}
               <span className="text-hero-blue">{data.titleHighlight}</span>
             </h2>

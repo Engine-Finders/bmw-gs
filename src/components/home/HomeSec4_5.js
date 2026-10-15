@@ -25,7 +25,7 @@ export default function HomeSec4_5({ data }) {
           </div>
           <p className="mt-1.5 text-center text-[10px] italic uppercase tracking-wide text-white">{data.kicker}</p>
 
-          <h2 className="-skew-x-6 origin-left mt-2 scale-y-115 scale-x-92 text-center text-3xl font-extrabold uppercase leading-[1.05] tracking-tighter">
+          <h2 className="hp-h2 mt-2 text-center uppercase">
             <span className="block text-white">{line1}</span>
             <span className="block text-hero-blue">{line2}</span>
           </h2>
@@ -106,7 +106,7 @@ export default function HomeSec4_5({ data }) {
           </div>
 
           <div className="relative pb-8 lg:pb-12">
-            <h2 className="-skew-x-6 origin-left scale-y-115 scale-x-92 text-4xl font-extrabold uppercase leading-[1.05] tracking-tighter sm:text-5xl">
+            <h2 className="hp-h2 uppercase">
               <span className="block text-white">{line1}</span>
               <span className="block text-hero-blue">{line2}</span>
             </h2>

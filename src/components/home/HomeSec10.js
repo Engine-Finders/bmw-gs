@@ -20,7 +20,7 @@ export default function HomeSec10({ data }) {
           </div>
 
           <div className="relative px-4 py-7">
-            <h2 className="-skew-x-6 origin-left scale-y-115 scale-x-92 text-[30px] font-extrabold uppercase italic leading-[1.08] tracking-tighter">
+            <h2 className="hp-h2 uppercase">
               <span className="block">
                 Why <span className="text-bmw-blue">BM</span>
                 <span className="text-bmw-red">W</span> Owners
@@ -57,7 +57,7 @@ export default function HomeSec10({ data }) {
 
           <div className="relative mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8 lg:py-10">
             <div className="max-w-[44%]">
-              <h2 className="-skew-x-6 origin-left scale-y-115 scale-x-92 text-3xl font-extrabold uppercase leading-tight tracking-tighter sm:text-4xl">
+              <h2 className="hp-h2 uppercase">
                 Why <span className="text-bmw-blue">BM</span>
                 <span className="text-bmw-red">W</span> Owners Travel Across The UK To Us
               </h2>

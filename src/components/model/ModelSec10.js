@@ -7,7 +7,7 @@ export default function ModelSec10({ data }) {
     <section className="relative overflow-hidden bg-[#f3f6fb]">
       {/* ===== mobile ===== */}
       <div className="relative px-4 py-10 md:hidden">
-        <h2 className="origin-left scale-y-110 scale-x-90 text-3xl font-extrabold uppercase leading-[1.05] tracking-tighter">
+        <h2 className="hp-h2 uppercase">
           <span className="block text-[#101828]">{data.headlinePre}</span>
           <span className="block text-hero-blue">{data.headlineHighlight}</span>
         </h2>
@@ -74,7 +74,7 @@ export default function ModelSec10({ data }) {
 
       <div className="relative mx-auto max-w-6xl">
         <div className="pt-8">
-          <h2 className="origin-left scale-y-110 scale-x-90 text-4xl font-extrabold uppercase leading-[1.05] tracking-tighter sm:text-5xl">
+          <h2 className="hp-h2 uppercase">
             <span className="text-[#101828]">{data.headlinePre} </span>
             <span className="text-hero-blue">{data.headlineHighlight}</span>
           </h2>

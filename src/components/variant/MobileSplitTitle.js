@@ -1,4 +1,4 @@
-export default function MobileSplitTitle({ titlePre, titleHighlight, className = "text-lg", baseColorClass = "text-[#101828]" }) {
+export default function MobileSplitTitle({ titlePre, titleHighlight, className = "", baseColorClass = "text-[#101828]" }) {
   const words = [
     ...titlePre.trim().split(/\s+/).map((w) => ({ w, highlight: false })),
     ...titleHighlight.trim().split(/\s+/).map((w) => ({ w, highlight: true })),
@@ -9,7 +9,7 @@ export default function MobileSplitTitle({ titlePre, titleHighlight, className =
 
   return (
     <div className="relative overflow-hidden pr-9">
-      <h2 className={`${className} font-bold uppercase leading-tight tracking-tighter`}>
+      <h2 className={`hp-h2 uppercase ${className}`}>
         {[line1, line2].map((line, li) => (
           <span key={li} className="block">
             {line.map((t, i) => (

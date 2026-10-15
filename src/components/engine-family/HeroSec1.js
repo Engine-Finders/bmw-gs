@@ -21,12 +21,12 @@ export default function HeroSec1({ data }) {
           <div className="max-w-[80%]">
             <div className="flex items-center gap-2">
               <BMWStripe className="h-6 w-11 shrink-0" />
-              <p className="text-[1.55rem] font-title font-extrabold italic uppercase leading-[1.05] tracking-tighter">
+              <p className="hp-h1 uppercase">
                 <span className="text-white">{data.titlePre} </span>
                 <span className="text-hero-blue">{data.titleHighlight}</span>
               </p>
             </div>
-            <p className="text-[1.55rem] font-title font-extrabold italic uppercase leading-[1.05] tracking-tighter text-white">{data.titleLine2}</p>
+            <p className="hp-h1 uppercase text-white">{data.titleLine2}</p>
 
             <p className="mt-1.5 text-sm leading-snug text-white">{data.subhead}</p>
 
@@ -107,12 +107,12 @@ export default function HeroSec1({ data }) {
           <div className="max-w-xl">
             <div className="flex items-center gap-3">
               <BMWStripe className="h-7 w-14 shrink-0" />
-              <p className="whitespace-nowrap text-4xl font-title font-extrabold italic uppercase leading-[1.05] tracking-tighter lg:text-5xl">
+              <p className="hp-h1 whitespace-nowrap uppercase">
                 <span className="text-white">{data.titlePre} </span>
                 <span className="text-hero-blue">{data.titleHighlight}</span>
               </p>
             </div>
-            <p className="text-4xl font-title font-extrabold italic uppercase leading-[1.05] tracking-tighter text-white lg:text-5xl">{data.titleLine2}</p>
+            <p className="hp-h1 uppercase text-white">{data.titleLine2}</p>
 
             <p className="mt-3 max-w-md text-sm leading-relaxed text-white lg:text-[15px]">{data.subhead}</p>
 

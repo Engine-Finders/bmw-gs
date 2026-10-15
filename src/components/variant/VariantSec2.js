@@ -9,7 +9,7 @@ export default function VariantSec2({ data }) {
       {/* ===== mobile ===== */}
       <div className="relative px-4 py-10 md:hidden">
         <BMWStripe className="h-3 w-6" />
-        <h2 className="origin-left scale-y-110 scale-x-90 mt-2 text-2xl font-bold uppercase leading-[1.05] tracking-tighter text-[#101828]">
+        <h2 className="hp-h2 mt-2 uppercase text-[#101828]">
           {data.headlinePre}
           <span className="text-hero-blue">{data.headlineHighlight}</span>
           {data.headlinePost}
@@ -76,7 +76,7 @@ export default function VariantSec2({ data }) {
       <div className="relative hidden px-4 py-10 sm:px-6 md:block lg:px-8">
         <div className="relative mx-auto max-w-6xl">
           <BMWStripe className="h-3.5 w-7" />
-          <h2 className="origin-left scale-y-110 scale-x-90 mt-3 text-4xl font-bold uppercase leading-[1.05] tracking-tighter text-[#101828] lg:text-5xl">
+          <h2 className="hp-h2 mt-3 uppercase text-[#101828]">
             {data.headlinePre}
             <span className="text-hero-blue">{data.headlineHighlight}</span>
             {data.headlinePost}

@@ -64,7 +64,7 @@ export default function VariantSec13({ data }) {
       <div className="relative px-4 py-7 md:hidden">
         <div className="flex items-center gap-2">
           <BMWStripe className="h-4 w-8 shrink-0" />
-          <h2 className="origin-left scale-y-110 scale-x-90 whitespace-nowrap text-lg font-bold uppercase leading-none tracking-tight">
+          <h2 className="hp-h2 uppercase">
             <span className="text-[#101828]">{data.kicker} </span>
             <span className="text-hero-blue">{data.kickerHighlight}</span>
           </h2>
@@ -87,7 +87,7 @@ export default function VariantSec13({ data }) {
         >
           <BMWStripe className="absolute right-4 top-4 h-11 w-22" />
 
-          <h3 className="origin-left scale-y-110 scale-x-90 max-w-[82%] text-lg font-extrabold uppercase leading-[1.1] tracking-tight">
+          <h3 className="hp-h3 max-w-[82%] uppercase">
             <span className="block">
               <span className="text-white">{data.form.headlinePre} </span>
               <span className="text-hero-blue">{formHighlightWord1}</span>
@@ -158,7 +158,7 @@ export default function VariantSec13({ data }) {
       <div className="relative mx-auto max-w-6xl">
         <div className="flex items-center gap-2">
           <BMWStripe className="h-6 w-11 shrink-0" />
-          <h2 className="origin-left scale-y-110 scale-x-90 text-xl font-bold uppercase leading-none tracking-tight lg:text-2xl">
+          <h2 className="hp-h2 uppercase">
             <span className="text-[#101828]">{data.kicker} </span>
             <span className="text-hero-blue">{data.kickerHighlight}</span>
           </h2>
@@ -189,7 +189,7 @@ export default function VariantSec13({ data }) {
         >
           <BMWStripe className="absolute right-6 top-6 h-8 w-16" />
 
-          <h3 className="origin-left scale-y-110 scale-x-90 whitespace-nowrap text-lg font-extrabold uppercase leading-tight tracking-tight text-white lg:text-xl">
+          <h3 className="hp-h3 whitespace-nowrap uppercase text-white">
             {data.form.headlinePre} <span className="text-hero-blue">{data.form.headlineHighlight}</span>{" "}
             {data.form.headlinePost}
           </h3>

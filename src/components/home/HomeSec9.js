@@ -20,7 +20,7 @@ export default function HomeSec9({ data }) {
 
       {/* ===== mobile ===== */}
       <div className="relative px-4 py-8 md:hidden">
-        <h2 className="-skew-x-6 origin-left scale-y-115 scale-x-92 text-center text-3xl font-extrabold uppercase leading-[1.1] tracking-tighter text-white">
+        <h2 className="hp-h2 text-center uppercase text-white">
           <span className="block">Recently Completed</span>
           <span className="block">
             <span className="text-hero-blue">BMW</span>{" "}
@@ -41,7 +41,7 @@ export default function HomeSec9({ data }) {
 
       {/* ===== desktop ===== */}
       <div className="relative mx-auto hidden max-w-6xl px-4 py-8 sm:px-6 md:block lg:px-8 lg:py-10">
-        <h2 className="-skew-x-6 origin-left scale-y-115 scale-x-92 text-center text-3xl font-extrabold uppercase tracking-tighter text-white sm:text-4xl">
+        <h2 className="hp-h2 text-center uppercase text-white">
           Recently Completed{" "}
           <span className="bg-linear-to-r from-bmw-blue via-bmw-violet to-bmw-red bg-clip-text text-transparent">
             BMW

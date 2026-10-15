@@ -17,7 +17,7 @@ export default function Sec5({ data }) {
       <div className="relative px-4 py-7 md:hidden">
         <div className="overflow-hidden">
           <BMWStripe className="float-left mr-2 h-6 w-12 shrink-0" />
-          <h2 className="text-2xl font-bold uppercase leading-[1.05] tracking-tighter">
+          <h2 className="hp-h2 uppercase">
             {data.titlePre}
             <span className="text-hero-blue">{data.titleHighlight}</span>
           </h2>
@@ -73,7 +73,7 @@ export default function Sec5({ data }) {
         <div className="relative mx-auto max-w-6xl">
           <div className="flex items-center gap-3">
             <BMWStripe className="h-7 w-14 shrink-0" />
-            <h2 className="text-3xl font-bold uppercase leading-[1.05] tracking-tighter lg:text-4xl">
+            <h2 className="hp-h2 uppercase">
               {data.titlePre}
               <span className="text-hero-blue">{data.titleHighlight}</span>
             </h2>

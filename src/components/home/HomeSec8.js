@@ -15,17 +15,15 @@ export default function HomeSec8({ data }) {
       {/* ===== mobile ===== */}
       <div className="relative overflow-hidden md:hidden">
         <div className="absolute inset-0">
-          <Image src="/home/sec8_mobile.jpg" alt="" fill className="object-cover" sizes="100vw" />
-          <div className="absolute inset-0 bg-linear-to-b from-black/20 via-black/60 to-black/92" />
+          <div className="absolute inset-0 bg-black" />
         </div>
 
         <div className="relative px-4 py-8">
           {/* centered title */}
-          <h2 className="-skew-x-6 origin-left scale-y-115 scale-x-92 text-center text-2xl font-extrabold uppercase leading-[1.15] tracking-tighter text-white">
+          <h2 className="hp-h2 text-center uppercase text-white">
             <span className="block">{line1}</span>
-            <span className="block">{line2}</span>
-            <span className="block">
-              {line3a}{" "}
+            <span className="block whitespace-nowrap">
+              {line2} {line3a}{" "}
               <span className="bg-linear-to-r from-bmw-red to-bmw-blue bg-clip-text text-transparent">{line3b}</span>
             </span>
           </h2>
@@ -74,7 +72,7 @@ export default function HomeSec8({ data }) {
       <div className="relative flex flex-col gap-8 py-8 lg:flex-row lg:items-start lg:gap-6 lg:py-10">
         {/* left: header + guarantee cards */}
         <div className="shrink-0 px-4 sm:px-6 lg:w-[34%] lg:pl-8">
-          <h2 className="-skew-x-6 origin-left scale-y-115 scale-x-92 text-4xl font-extrabold uppercase leading-[1.05] tracking-tighter text-[#101828] sm:text-5xl">
+          <h2 className="hp-h2 uppercase text-[#101828]">
             <span className="block">{line1}</span>
             <span className="block">{line2}</span>
             <span className="block">

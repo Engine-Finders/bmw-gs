@@ -7,21 +7,16 @@ export default function HomeSec11({ data }) {
     <section>
       {/* ===== mobile ===== */}
       <div className="md:hidden">
-        {/* Division 1: workshop context. Height is content-driven (no fixed aspect box, no empty
-            space) — the original mobile photo is cropped with our own CSS clip-path diagonal
-            (rather than relying on the aspect ratio baked into the source file), so it always
-            fits the text exactly regardless of how tall the paragraphs end up. */}
+        {/* Division 1: workshop context. The mobile photo already has the white panel and diagonal stripes
+            baked in, so it is used as-is as the background; height follows the text. */}
         <div className="relative overflow-hidden bg-white">
-          <div
-            className="absolute inset-0"
-            style={{ clipPath: "polygon(34% 0, 100% 0, 100% 100%, 26% 100%)" }}
-          >
-            <Image src={data.mobileImage} alt="Inside the BMW Garage workshop" fill className="object-cover object-right" sizes="100vw" />
+          <div className="absolute inset-y-0 left-[10%] right-[-10%]">
+            <Image src={data.mobileImage} alt="Inside the BMW Garage workshop" fill className="object-cover object-left" sizes="100vw" />
           </div>
 
-          <div className="relative px-4 py-6">
-            <div className="max-w-[34%] text-[#101828]">
-              <h2 className="-skew-x-6 origin-left scale-y-115 scale-x-92 text-xl font-extrabold uppercase leading-[1.05] tracking-tighter">
+          <div className="relative px-4 pb-2 pt-1">
+            <div className="max-w-[46%] text-[#101828]">
+              <h2 className="hp-h2 uppercase">
                 <span className="block whitespace-nowrap">Meet The</span>
                 <span className="block">
                   Work<span className="text-hero-blue">Shop</span>
@@ -30,7 +25,7 @@ export default function HomeSec11({ data }) {
               <BMWStripe size="wide" className="mt-2" />
             </div>
 
-            <div className="mt-3 max-w-[27%] space-y-1.5 text-[9px] font-medium leading-snug text-[#101828]">
+            <div className="mt-3 max-w-[40%] space-y-1.5 text-[11px] font-medium leading-snug text-[#101828]">
               {data.paragraphs.map((p, i) => (
                 <p key={i}>{p}</p>
               ))}
@@ -94,7 +89,7 @@ export default function HomeSec11({ data }) {
 
           <div className="relative mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
             <div className="max-w-[26%] text-[#101828]">
-              <h2 className="-skew-x-6 origin-left scale-y-115 scale-x-92 text-4xl font-extrabold uppercase leading-[1.05] tracking-tighter sm:text-5xl">
+              <h2 className="hp-h2 uppercase">
                 <span className="block">Meet The</span>
                 <span className="block">
                   Work<span className="text-hero-blue">Shop</span>

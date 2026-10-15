@@ -5,7 +5,7 @@ export default function ModelSec13({ data }) {
     <section className="relative overflow-hidden bg-[#eef2f7]">
       {/* ===== mobile ===== */}
       <div className="relative px-4 py-6 md:hidden">
-        <h2 className="origin-left scale-y-110 scale-x-90 whitespace-nowrap text-2xl font-extrabold uppercase leading-[1.05] tracking-tighter">
+        <h2 className="hp-h2 whitespace-nowrap uppercase">
           <span className="text-[#101828]">{data.headlinePre} </span>
           <span className="text-hero-blue">{data.headlineHighlight}</span>
         </h2>
@@ -62,7 +62,7 @@ export default function ModelSec13({ data }) {
       {/* ===== desktop ===== */}
       <div className="relative hidden px-4 py-10 sm:px-6 md:block lg:px-8">
       <div className="relative mx-auto max-w-6xl">
-        <h2 className="origin-left scale-y-110 scale-x-90 text-2xl font-extrabold uppercase tracking-tight lg:text-3xl">
+        <h2 className="hp-h2 uppercase">
           <span className="text-[#101828]">{data.headlinePre} </span>
           <span className="text-hero-blue">{data.headlineHighlight}</span>
         </h2>

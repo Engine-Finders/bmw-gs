@@ -37,7 +37,7 @@ export default function VariantSec12({ data }) {
         >
           <div className="flex items-center gap-2">
             <BMWStripe className="h-4 w-8 shrink-0" />
-            <h2 className="whitespace-nowrap text-lg font-bold uppercase leading-none tracking-tighter">
+            <h2 className="hp-h2 whitespace-nowrap uppercase">
               <span className="text-white">{costs.titlePre}</span>
               <span className="text-hero-blue">{costs.titleHighlight}</span>
             </h2>
@@ -132,7 +132,7 @@ export default function VariantSec12({ data }) {
                 <div>
                   <div className="flex items-center gap-3">
                     <BMWStripe className="h-6 w-11 shrink-0" />
-                    <h2 className="whitespace-nowrap text-2xl font-bold uppercase leading-none tracking-tighter">
+                    <h2 className="hp-h2 whitespace-nowrap uppercase">
                       <span className="text-white">{costs.titlePre}</span>
                       <span className="text-hero-blue">{costs.titleHighlight}</span>
                     </h2>

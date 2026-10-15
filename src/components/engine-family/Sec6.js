@@ -54,7 +54,7 @@ export default function Sec6({ data }) {
           <div className="relative px-4 pb-8 pt-8">
           <div className="overflow-hidden">
             <BMWStripe className="float-left mr-2 h-6 w-12 shrink-0" />
-            <h2 className="text-2xl font-bold uppercase leading-[1.05] tracking-tighter">
+            <h2 className="hp-h2 uppercase">
               <span className="text-[#101828]">{reviews.titlePre}</span>
               <span className="text-hero-blue">{reviews.titleHighlight}</span>
             </h2>
@@ -109,7 +109,7 @@ export default function Sec6({ data }) {
           <div className="relative mx-auto max-w-6xl">
             <div className="flex items-center gap-3">
               <BMWStripe className="h-7 w-14 shrink-0" />
-              <h2 className="text-3xl font-bold uppercase leading-[1.05] tracking-tighter lg:text-4xl">
+              <h2 className="hp-h2 uppercase">
                 <span className="text-[#101828]">{reviews.titlePre}</span>
                 <span className="text-hero-blue">{reviews.titleHighlight}</span>
               </h2>
@@ -174,7 +174,7 @@ export default function Sec6({ data }) {
             <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-lg border border-black/10 bg-white shadow-sm">
               <Icon name={coverage.icon} className="h-6 w-6 text-hero-blue" />
             </span>
-            <h2 className="text-xl font-bold uppercase leading-[1.05] tracking-tighter">
+            <h2 className="hp-h2 uppercase">
               <span className="block text-[#101828]">{coverage.titlePre}</span>
               <span className="block text-hero-blue">{coverage.titleHighlight}</span>
             </h2>
@@ -215,7 +215,7 @@ export default function Sec6({ data }) {
             </span>
 
             <div className="shrink-0 border-r border-black/10 pr-8">
-              <h2 className="text-3xl font-bold uppercase leading-[1.05] tracking-tighter lg:text-4xl">
+              <h2 className="hp-h2 uppercase">
                 <span className="block text-[#101828]">{coverage.titlePre}</span>
                 <span className="block text-hero-blue">{coverage.titleHighlight}</span>
               </h2>
@@ -245,7 +245,7 @@ export default function Sec6({ data }) {
         {/* ===== mobile ===== */}
         <div className="relative px-4 py-7 md:hidden">
           <div className="relative overflow-hidden pr-9">
-            <h2 className="text-lg font-bold uppercase leading-tight tracking-tighter">
+            <h2 className="hp-h2 uppercase">
               <span className="block text-[#101828]">
                 {whyChooseWords.slice(0, 3).map((t, i) => (
                   <span key={i} className={t.highlight ? "text-hero-blue" : undefined}>
@@ -289,7 +289,7 @@ export default function Sec6({ data }) {
           <div className="relative mx-auto max-w-6xl">
             <div className="flex items-center gap-3">
               <BMWStripe className="h-7 w-14 shrink-0" />
-              <h2 className="text-3xl font-bold uppercase leading-none tracking-tighter lg:text-4xl">
+              <h2 className="hp-h2 uppercase">
                 <span className="text-[#101828]">{whyChoose.titlePre}</span>
                 <span className="text-hero-blue">{whyChoose.titleHighlight}</span>
               </h2>

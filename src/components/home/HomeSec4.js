@@ -8,7 +8,7 @@ export default function HomeSec4({ data }) {
       <div className="relative mx-auto max-w-6xl overflow-hidden rounded-2xl border border-bmw-violet bg-white px-4 py-6 sm:px-8 sm:py-8">
         <div className="text-center">
           <BMWStripe className="mx-auto mb-3" />
-          <h2 className="origin-left scale-y-115 scale-x-92 text-3xl font-extrabold tracking-tighter text-[#101828] sm:text-4xl">{data.h2}</h2>
+          <h2 className="hp-h2 text-[#101828]">{data.h2}</h2>
           <p className="mt-2 text-sm text-[#101828]">{data.description}</p>
         </div>
 

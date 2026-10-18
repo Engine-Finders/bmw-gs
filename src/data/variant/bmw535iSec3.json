@@ -2,10 +2,11 @@
   "headline": "BMW 535i Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/n54-n55-n20-family-engine-hero.webp",
   "cards": [
     {
       "code": "N55",
+      "image": "/engines/n54-n55-n20-family-engine-hero.webp",
       "generation": "F10/F11 (2010–2017)",
       "price": "£2,800",
       "codeHref": "/bmw-n55-engine"

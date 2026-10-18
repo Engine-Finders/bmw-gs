@@ -2,16 +2,18 @@
   "headline": "BMW X3 xDrive20d Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/what-engine-is-in-the-bmw-x3-xdrive20d-engine.webp",
   "cards": [
     {
       "code": "B47",
+      "image": "/engines/b47-engine.webp",
       "generation": "G01 (2017–2024)",
       "price": "£2,200",
       "codeHref": "/bmw-b47-engine"
     },
     {
       "code": "B57",
+      "image": "/engines/b57-engine.webp",
       "generation": "G01 (2017–2024)",
       "price": "£2,800",
       "codeHref": "/bmw-b57-engine"

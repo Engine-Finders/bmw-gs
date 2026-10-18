@@ -9,7 +9,7 @@
     {
       "titlePre": "4-Cylinder",
       "titleHighlight": "Rebuild",
-      "code": "(N47 / B47)",
+      "code": "(N47 / B47)", "image": "/engines/n47-engine-hero.webp",
       "price": "£1,900",
       "featured": false,
       "codeHref": "/bmw-b47-engine"
@@ -17,7 +17,7 @@
     {
       "titlePre": "6-Cylinder",
       "titleHighlight": "Rebuild",
-      "code": "(N57 / B58)",
+      "code": "(N57 / B58)", "image": "/engines/n57-engine-hero.webp",
       "price": "£2,800",
       "featured": false,
       "codeHref": "/bmw-b58-engine"
@@ -25,7 +25,7 @@
     {
       "titlePre": "M3",
       "titleHighlight": "Rebuild",
-      "code": "(S54 / S55)",
+      "code": "(S54 / S55)", "image": "/engines/m-engine-hero.webp",
       "price": "£5,500",
       "featured": true,
       "codeHref": "/bmw-s54-engine"

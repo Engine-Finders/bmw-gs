@@ -2,10 +2,11 @@
   "headline": "BMW 530i Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/b48-engine.webp",
   "cards": [
     {
       "code": "B48",
+      "image": "/engines/b48-engine.webp",
       "generation": "G30/G31 (2017–2023)",
       "price": "£2,200",
       "codeHref": "/bmw-b48-engine"

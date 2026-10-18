@@ -2,10 +2,11 @@
   "headline": "BMW M135i xDrive Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/m135i-m140i-engine.webp",
   "cards": [
     {
       "code": "B48",
+      "image": "/engines/b48-engine.webp",
       "generation": "F40 (2019–2024)",
       "price": "£2,200",
       "codeHref": "/bmw-b48-engine"

@@ -2,22 +2,25 @@
   "headline": "BMW 220i Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/n54-n55-n20-family-engine-hero.webp",
   "cards": [
     {
       "code": "N20",
+      "image": "/engines/n54-n55-n20-family-engine-hero.webp",
       "generation": "F22/F23 (2014–2016)",
       "price": "£2,200",
       "codeHref": "/bmw-n20-engine"
     },
     {
       "code": "B48",
+      "image": "/engines/b48-engine.webp",
       "generation": "F22/F23 (2016–2021)",
       "price": "£2,200",
       "codeHref": "/bmw-b48-engine"
     },
     {
       "code": "B48",
+      "image": "/engines/b48-engine.webp",
       "generation": "G42 (2021–present)",
       "price": "£2,200",
       "codeHref": "/bmw-b48-engine"

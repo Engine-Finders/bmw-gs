@@ -2,10 +2,11 @@
   "headline": "BMW M440i xDrive Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/m440d-engine.webp",
   "cards": [
     {
       "code": "B58",
+      "image": "/engines/b58-engine.webp",
       "generation": "G22/G23/G26 (2020–present)",
       "price": "£2,800",
       "codeHref": "/bmw-b58-engine"

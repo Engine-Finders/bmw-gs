@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "BMW X5 M60i ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m60i-engine.webp",
     "cards": [
       {
         "codeHighlight": "N47",
+        "image": "/engines/n47-engine-hero.webp",
         "codeRest": "(G05, 2012–2015)",
         "body": "A 2.0-litre diesel fitted to the early G05 X5 M60i. Known for timing chain failure due to chain guide wear — see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
         "cta": "Check Your N47 X5 M60i",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "B47",
+        "image": "/engines/b47-engine.webp",
         "codeRest": "(G05, 2015–2019 / G05, 2019–2024)",
         "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
         "cta": "Check Your B47 X5 M60i",
@@ -75,6 +77,7 @@
     "rows": [
       {
         "generation": "F15 (diesel)",
+        "image": "/cars/x5-f15-xdrive30d-m-sport-2013-2018.webp",
         "chassis": "F15",
         "years": "2013–2018",
         "engineCode": "N47/B47/N57",
@@ -82,6 +85,7 @@
       },
       {
         "generation": "F15 (PHEV)",
+        "image": "/cars/x5-f15-xdrive30d-m-sport-2013-2018.webp",
         "chassis": "F15",
         "years": "2015–2018",
         "engineCode": "B48 + electric",
@@ -89,6 +93,7 @@
       },
       {
         "generation": "F15 (petrol I6)",
+        "image": "/cars/x5-f15-xdrive30d-m-sport-2013-2018.webp",
         "chassis": "F15",
         "years": "2013–2018",
         "engineCode": "N55/B58",
@@ -96,6 +101,7 @@
       },
       {
         "generation": "F15 (V8)",
+        "image": "/cars/x5-f15-xdrive30d-m-sport-2013-2018.webp",
         "chassis": "F15",
         "years": "2013–2018",
         "engineCode": "N63",
@@ -104,6 +110,7 @@
       },
       {
         "generation": "F15 (M50d)",
+        "image": "/cars/x5-f15-xdrive30d-m-sport-2013-2018.webp",
         "chassis": "F15",
         "years": "2013–2018",
         "engineCode": "N57 Tri-Turbo",
@@ -111,6 +118,7 @@
       },
       {
         "generation": "G05 (I6 petrol)",
+        "image": "/cars/x5-g05-x5-m-2019-2023.webp",
         "chassis": "G05",
         "years": "2018–present",
         "engineCode": "B58",
@@ -119,6 +127,7 @@
       },
       {
         "generation": "G05 (diesel)",
+        "image": "/cars/x5-g05-x5-m-2019-2023.webp",
         "chassis": "G05",
         "years": "2018–present",
         "engineCode": "B57",
@@ -127,6 +136,7 @@
       },
       {
         "generation": "G05 (PHEV)",
+        "image": "/cars/x5-g05-x5-m-2019-2023.webp",
         "chassis": "G05",
         "years": "2018–present, updated",
         "engineCode": "B58 + electric",
@@ -134,6 +144,7 @@
       },
       {
         "generation": "G05 (V8 M60i)",
+        "image": "/cars/x5-g05-x5-m-2019-2023.webp",
         "chassis": "G05",
         "years": "2020–present",
         "engineCode": "[MISSING: exact engine code]",

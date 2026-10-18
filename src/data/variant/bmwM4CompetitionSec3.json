@@ -2,16 +2,18 @@
   "headline": "BMW M4 Competition Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/m-engine-hero.webp",
   "cards": [
     {
       "code": "S55",
+      "image": "/engines/m-engine-hero.webp",
       "generation": "F82/F83 (2014–2020)",
       "price": "£5,500",
       "codeHref": "/bmw-s55-engine"
     },
     {
       "code": "S58",
+      "image": "/engines/s58-model-hero.webp",
       "generation": "G82/G83 (2021–present)",
       "price": "£5,500",
       "codeHref": "/bmw-s58-engine"

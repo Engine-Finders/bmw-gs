@@ -2,22 +2,25 @@
   "headline": "BMW 520d Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/520d-engine.webp",
   "cards": [
     {
       "code": "N47",
+      "image": "/engines/n47-engine-hero.webp",
       "generation": "F10/F11 (2010–2017)",
       "price": "£2,200",
       "codeHref": "/bmw-n47-engine"
     },
     {
       "code": "B47",
+      "image": "/engines/b47-engine.webp",
       "generation": "G30/G31 (2017–2023)",
       "price": "£2,200",
       "codeHref": "/bmw-b47-engine"
     },
     {
       "code": "B47",
+      "image": "/engines/b47-engine.webp",
       "generation": "G60 (2023–present)",
       "price": "£2,200",
       "codeHref": "/bmw-b47-engine"

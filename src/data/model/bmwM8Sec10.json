@@ -11,21 +11,21 @@
       "number": "01",
       "model": "BMW M8",
       "spec": "4.4L Petrol Twin-Turbo (S63)",
-      "image": "/variant/vehicles/_fallback.webp",
+      "image": "/cars/m8-f92-lci-m8-competition-coupe-2022.webp",
       "href": "/bmw-m8-engines"
     },
     {
       "number": "02",
       "model": "BMW M8 Competition",
       "spec": "4.4L Petrol Twin-Turbo (S63)",
-      "image": "/variant/vehicles/_fallback.webp",
+      "image": "/cars/m8-f93-m8-competition-first-edition-door-coupe.webp",
       "href": "/bmw-m8-competition-engines"
     },
     {
       "number": "03",
       "model": "BMW M8 Gran Coupe",
       "spec": "4.4L Petrol Twin-Turbo (S63)",
-      "image": "/variant/vehicles/_fallback.webp",
+      "image": "/cars/m8-f92-lci-m8-competition-coupe-2022.webp",
       "href": "/bmw-m8-gran-coupe-engines"
     }
   ]

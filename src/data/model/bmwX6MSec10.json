@@ -11,14 +11,14 @@
       "number": "01",
       "model": "BMW X6 M",
       "spec": "4.4L V8 Petrol Twin-Turbo (S63, S63TU)",
-      "image": "/variant/vehicles/x6-m.webp",
+      "image": "/cars/x6-f16-xdrive30d-m-sport-2014-2019.webp",
       "href": "/bmw-x6-m-engines"
     },
     {
       "number": "02",
       "model": "BMW X6 M Competition",
       "spec": "4.4L V8 Petrol Twin-Turbo (S63 (E71) · S63TU (F86) · S63 (F96))",
-      "image": "/variant/vehicles/_fallback.webp",
+      "image": "/cars/x6-f16-xdrive30d-m-sport-2014-2019.webp",
       "href": "/bmw-x6-m-competition-engines"
     }
   ]

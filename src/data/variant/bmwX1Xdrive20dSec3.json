@@ -2,7 +2,7 @@
   "headline": "BMW X1 xDrive20d Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/b47-engine.webp",
   "cards": [
     {
       "code": "B37 (3-cylinder)",

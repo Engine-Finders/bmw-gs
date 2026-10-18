@@ -75,6 +75,7 @@
     "rows": [
       {
         "generation": "[MISSING: generation not confirmed in VRF]",
+        "image": "/cars/z4-e89-sdrive35is-2010-2016.webp",
         "chassis": "[MISSING: generation not confirmed in VRF]",
         "years": "2012–2015",
         "engineCode": "N47",
@@ -83,6 +84,7 @@
       },
       {
         "generation": "[MISSING: generation not confirmed in VRF]",
+        "image": "/cars/z4-e89-sdrive35is-2010-2016.webp",
         "chassis": "[MISSING: generation not confirmed in VRF]",
         "years": "2015–2019",
         "engineCode": "B47",
@@ -91,6 +93,7 @@
       },
       {
         "generation": "[MISSING: generation not confirmed in VRF]",
+        "image": "/cars/z4-g29-sdrive20i-m-sport-2019.webp",
         "chassis": "[MISSING: generation not confirmed in VRF]",
         "years": "2019–2024",
         "engineCode": "B47",

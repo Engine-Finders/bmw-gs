@@ -17,31 +17,31 @@
       "number": "02",
       "model": "BMW M5 (E60, S85)",
       "spec": "Rebuild & Replacement Available",
-      "image": "/variant/vehicles/_fallback.webp"
+      "image": "/cars/m5-e60-m5-2005-2010.webp"
     },
     {
       "number": "03",
       "model": "BMW M5 (F10, S63)",
       "spec": "Rebuild & Replacement Available",
-      "image": "/variant/vehicles/_fallback.webp"
+      "image": "/cars/m5-f10-m5-2011-2013.webp"
     },
     {
       "number": "04",
       "model": "BMW M5 Competition (F90, S63)",
       "spec": "Rebuild & Replacement Available",
-      "image": "/variant/vehicles/_fallback.webp"
+      "image": "/cars/m5-f90-lci-m5-competition-2020-2023.webp"
     },
     {
       "number": "05",
       "model": "BMW M5 CS (F90, S63)",
       "spec": "Rebuild & Replacement Available",
-      "image": "/variant/vehicles/_fallback.webp"
+      "image": "/cars/m5-f90-m5-cs-2021-2022.webp"
     },
     {
       "number": "06",
       "model": "BMW M5 (G90, S68)",
       "spec": "Rebuild & Replacement Available",
-      "image": "/variant/vehicles/_fallback.webp"
+      "image": "/cars/m5-g90-m5-2024.webp"
     }
   ]
 }

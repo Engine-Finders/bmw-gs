@@ -2,7 +2,7 @@
   "headline": "BMW X6 xDrive30d Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/bmw-x6-30d-engine.webp",
   "cards": [
     {
       "code": "N57/B57",
@@ -12,6 +12,7 @@
     },
     {
       "code": "B57",
+      "image": "/engines/b57-engine.webp",
       "generation": "G06 (2019–present)",
       "price": "£2,800",
       "codeHref": "/bmw-b57-engine"

@@ -11,31 +11,31 @@
       "number": "01",
       "model": "BMW M2 (F87, N55)",
       "spec": "Rebuild & Replacement Available",
-      "image": "/variant/vehicles/_fallback.webp"
+      "image": "/cars/m2-f87-m2-2015-2018.webp"
     },
     {
       "number": "02",
       "model": "BMW M2 Competition (F87, S55)",
       "spec": "Rebuild & Replacement Available",
-      "image": "/variant/vehicles/_fallback.webp"
+      "image": "/cars/m2-f87-m2-competition-2018-2021.webp"
     },
     {
       "number": "03",
       "model": "BMW M2 CS (F87, S55)",
       "spec": "Rebuild & Replacement Available",
-      "image": "/variant/vehicles/_fallback.webp"
+      "image": "/cars/m2-f87-m2-cs-2020.webp"
     },
     {
       "number": "04",
       "model": "BMW M2 (G87, S58)",
       "spec": "Rebuild & Replacement Available",
-      "image": "/variant/vehicles/_fallback.webp"
+      "image": "/cars/m2-g87-m2-2023-2024.webp"
     },
     {
       "number": "05",
       "model": "BMW M2 Competition (G87, S58)",
       "spec": "Rebuild & Replacement Available",
-      "image": "/variant/vehicles/_fallback.webp"
+      "image": "/cars/m2-g87-m2-2023-2024.webp"
     }
   ]
 }

@@ -2,10 +2,11 @@
   "headline": "BMW Z4 sDrive35is Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/n54-n55-n20-family-engine-hero.webp",
   "cards": [
     {
       "code": "N54",
+      "image": "/engines/n54-n55-n20-family-engine-hero.webp",
       "generation": "E89 (2009–2016)",
       "price": "£2,800",
       "codeHref": "/bmw-n54-engine"

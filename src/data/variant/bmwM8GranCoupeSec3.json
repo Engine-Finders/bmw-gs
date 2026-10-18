@@ -2,22 +2,25 @@
   "headline": "BMW M8 Gran Coupe Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/n63-s63-engine-hero.webp",
   "cards": [
     {
       "code": "S63",
+      "image": "/engines/n63-s63-engine-hero.webp",
       "generation": "F91/F92/F93",
       "price": "£6,500",
       "codeHref": "/bmw-s63-engine"
     },
     {
       "code": "S63",
+      "image": "/engines/n63-s63-engine-hero.webp",
       "generation": "F91/F92/F93",
       "price": "£6,500",
       "codeHref": "/bmw-s63-engine"
     },
     {
       "code": "S63",
+      "image": "/engines/n63-s63-engine-hero.webp",
       "generation": "F93",
       "price": "£6,500",
       "codeHref": "/bmw-s63-engine"

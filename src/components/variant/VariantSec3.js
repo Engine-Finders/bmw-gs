@@ -37,7 +37,7 @@ export default function VariantSec3({ data }) {
                 <span className="text-[11px] font-semibold text-[#101828]">{c.generation}</span>
               </div>
               <Image
-                src={data.engineImage}
+                src={c.image ?? data.engineImage}
                 alt={`${c.code} engine`}
                 width={220}
                 height={230}
@@ -145,7 +145,7 @@ export default function VariantSec3({ data }) {
                     <span className="text-xs font-semibold text-[#101828]">{c.generation}</span>
                   </div>
                   <div className="relative mt-1 w-full flex-1">
-                    <Image src={data.engineImage} alt={`${c.code} engine`} fill className="object-contain" sizes="220px" />
+                    <Image src={c.image ?? data.engineImage} alt={`${c.code} engine`} fill className="object-contain" sizes="220px" />
                   </div>
                   <p className="text-xs font-semibold uppercase text-[#101828]">Rebuild From</p>
                   <p className="text-2xl font-extrabold text-hero-blue">{c.price}</p>

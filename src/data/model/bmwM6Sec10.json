@@ -11,25 +11,25 @@
       "number": "01",
       "model": "BMW M6 (E63/E64, S85)",
       "spec": "Rebuild & Replacement Available",
-      "image": "/variant/vehicles/_fallback.webp"
+      "image": "/cars/m6-e63-m6-2005-2010.webp"
     },
     {
       "number": "02",
       "model": "BMW M6 (F13, S63)",
       "spec": "Rebuild & Replacement Available",
-      "image": "/variant/vehicles/_fallback.webp"
+      "image": "/cars/m6-f13-m6-coupe-2012-2018.webp"
     },
     {
       "number": "03",
       "model": "BMW M6 Convertible (F12, S63)",
       "spec": "Rebuild & Replacement Available",
-      "image": "/variant/vehicles/_fallback.webp"
+      "image": "/cars/m6-f12-m6-convertible-2012-2018.webp"
     },
     {
       "number": "04",
       "model": "BMW M6 Gran Coupe (F06, S63)",
       "spec": "Rebuild & Replacement Available",
-      "image": "/variant/vehicles/_fallback.webp"
+      "image": "/cars/m6-f06-m6-gran-coupe-door-coupe.webp"
     }
   ]
 }

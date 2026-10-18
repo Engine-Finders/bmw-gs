@@ -75,6 +75,7 @@
     "rows": [
       {
         "generation": "E85",
+        "image": "/cars/z4-e85-lci-2-5si-2006-2008.webp",
         "chassis": "Roadster",
         "years": "2002–2008",
         "engineCode": "M54 (2002–2006) / N52 (2006–2008)",
@@ -82,6 +83,7 @@
       },
       {
         "generation": "E86",
+        "image": "/cars/z4-e86-3-0si-coupe-2006-2008.webp",
         "chassis": "Coupe",
         "years": "2006–2008",
         "engineCode": "N52",

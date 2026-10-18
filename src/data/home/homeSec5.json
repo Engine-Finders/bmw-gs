@@ -11,7 +11,7 @@
       "problem": "Rear-mounted timing chain stretches with age — because it sits behind the flywheel, the gearbox has to come out to reach it, which is why so many N47s get written off on price rather than actually being unfixable.",
       "cost": "From £1,900",
       "turnaround": "3-5 working days",
-      "image": "/home/engine_trim.webp",
+      "image": "/engines/n47-engine-hero.webp",
       "href": "/bmw-n47-engine"
     },
     {
@@ -23,7 +23,7 @@
       "problem": "Timing chain wear alongside turbo actuator failure — the actuator issue is often mistaken for a bigger fault than it is.",
       "cost": "From £2,800",
       "turnaround": "3-5 working days",
-      "image": "/home/engine_trim.webp",
+      "image": "/engines/n57-engine-hero.webp",
       "href": "/bmw-n57-engine"
     },
     {
@@ -35,7 +35,7 @@
       "problem": "BMW fixed the N47's timing chain problem by moving it to the front — but the B47's EGR cooler can crack internally, letting coolant contact built-up soot. It's serious enough that BMW issued a recall (NHTSA 18V-755) on affected years. Well worth checking your VIN.",
       "cost": "From £1,900",
       "turnaround": "3-5 working days",
-      "image": "/home/engine_trim.webp",
+      "image": "/engines/b47-engine.webp",
       "href": "/bmw-b47-engine"
     },
     {
@@ -47,7 +47,7 @@
       "problem": "Timing chain stretch, similar profile to the N47 but on the petrol side — BMW's B48 that followed it resolved most of this.",
       "cost": "From £2,600",
       "turnaround": "3-5 working days",
-      "image": "/home/engine_trim.webp",
+      "image": "/engines/n54-n55-n20-family-engine-hero.webp",
       "href": "/bmw-n20-engine"
     },
     {
@@ -59,7 +59,7 @@
       "problem": "The \"hot-vee\" turbo layout sits inside the V of the engine for a compact package — brilliant for performance, brutal for heat. Valve seals and coolant lines degrade faster than on a conventional layout.",
       "cost": "From £4,500",
       "turnaround": "3-5 working days",
-      "image": "/home/engine_trim.webp",
+      "image": "/engines/n63-s63-engine-hero.webp",
       "href": "/bmw-n63-engine"
     },
     {
@@ -71,7 +71,7 @@
       "problem": "The crank hub is friction-fit rather than keyed or pinned. Under hard use it can slip, throwing engine timing out and causing serious internal damage. It's the single most talked-about issue in the S55 community, and most owners upgrade it preventatively.",
       "cost": "From £5,500",
       "turnaround": "3-5 working days",
-      "image": "/home/engine_trim.webp",
+      "image": "/engines/m-engine-hero.webp",
       "href": "/bmw-s55-engine"
     }
   ],

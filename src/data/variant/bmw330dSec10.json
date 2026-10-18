@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "BMW 330d ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/b47-engine.webp",
     "cards": [
       {
         "codeHighlight": "N47",
+        "image": "/engines/n47-engine-hero.webp",
         "codeRest": "(F30/F31, 2012–2015)",
         "body": "A 2.0-litre diesel fitted to the early F30/F31 330d. Known for timing chain failure due to chain guide wear — see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
         "cta": "Check Your N47 330d",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "B47",
+        "image": "/engines/b47-engine.webp",
         "codeRest": "(F30/F31, 2015–2019 / G20/G21, 2019–2024)",
         "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
         "cta": "Check Your B47 330d",
@@ -75,6 +77,7 @@
     "rows": [
       {
         "generation": "F30/F31",
+        "image": "/cars/3-series-f30-330d-m-sport-2012-2015.webp",
         "chassis": "F30/F31",
         "years": "2012–2015",
         "engineCode": "N47",
@@ -83,6 +86,7 @@
       },
       {
         "generation": "F30/F31",
+        "image": "/cars/3-series-f31-lci-330d-m-sport-2015-2019.webp",
         "chassis": "F30/F31",
         "years": "2015–2019",
         "engineCode": "B47",
@@ -91,6 +95,7 @@
       },
       {
         "generation": "G20/G21",
+        "image": "/cars/3-series-g20-330d-xdrive-m-sport-2019.webp",
         "chassis": "G20/G21",
         "years": "2019–2024",
         "engineCode": "B47",

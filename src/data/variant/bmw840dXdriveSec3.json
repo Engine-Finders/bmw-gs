@@ -2,10 +2,11 @@
   "headline": "BMW 840d xDrive Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/b57-engine.webp",
   "cards": [
     {
       "code": "B57",
+      "image": "/engines/b57-engine.webp",
       "generation": "G14/G15/G16 (2018–present)",
       "price": "£2,800",
       "codeHref": "/bmw-b57-engine"

@@ -2,10 +2,11 @@
   "headline": "BMW X5 sDrive25d Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/n47-engine-hero.webp",
   "cards": [
     {
       "code": "N47",
+      "image": "/engines/n47-engine-hero.webp",
       "generation": "F15 (2013–2018)",
       "price": "£2,200",
       "codeHref": "/bmw-n47-engine"

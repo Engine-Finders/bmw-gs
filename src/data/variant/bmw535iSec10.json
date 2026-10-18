@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "BMW 535i ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/n54-n55-n20-family-engine-hero.webp",
     "cards": [
       {
         "codeHighlight": "N47",
+        "image": "/engines/n47-engine-hero.webp",
         "codeRest": "(F10/F11, 2012–2015)",
         "body": "A 2.0-litre diesel fitted to the early F10/F11 535i. Known for timing chain failure due to chain guide wear — see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
         "cta": "Check Your N47 535i",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "B47",
+        "image": "/engines/b47-engine.webp",
         "codeRest": "(F10/F11, 2015–2019 / F10/F11, 2019–2024)",
         "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
         "cta": "Check Your B47 535i",
@@ -75,6 +77,7 @@
     "rows": [
       {
         "generation": "F10/F11",
+        "image": "/cars/5-series-f10-535i-m-sport-2010-2013.webp",
         "chassis": "F10/F11",
         "years": "2010–2017",
         "engineCode": "N55",

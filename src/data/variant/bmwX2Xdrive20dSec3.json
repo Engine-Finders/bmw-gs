@@ -2,16 +2,18 @@
   "headline": "BMW X2 xDrive20d Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/b38-engine.webp",
   "cards": [
     {
       "code": "B38",
+      "image": "/engines/b38-engine.webp",
       "generation": "F39 (2012–2015)",
       "price": "£2,200",
       "codeHref": "/bmw-b38-engine"
     },
     {
       "code": "B48",
+      "image": "/engines/b48-engine.webp",
       "generation": "F39 (2015–2019)",
       "price": "£2,200",
       "codeHref": "/bmw-b48-engine"

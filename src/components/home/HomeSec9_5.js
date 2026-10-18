@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { floatingParts } from "@/lib/partImage";
 import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
 
@@ -17,6 +18,8 @@ const FLOATERS = [
 ];
 
 export default function HomeSec9_5({ data }) {
+  // each floating part is a different component: the ones listed on this section first, then the main engine parts
+  const parts = floatingParts(data.parts.map((p) => p.name), FLOATERS.length);
   return (
     <section className="relative overflow-hidden bg-[#f3f6fb] px-4 py-8 sm:px-6 lg:px-8">
       <div className="pointer-events-none absolute -right-24 bottom-10 h-80 w-80 rounded-full bg-hero-blue/12 blur-3xl" />
@@ -52,7 +55,7 @@ export default function HomeSec9_5({ data }) {
               }}
             >
               <div className="relative h-full w-full" style={{ transform: `rotate(${f.rotate}deg)` }}>
-                <Image src={data.partImage} alt="Engine component" fill className="object-contain" sizes="150px" />
+                <Image src={parts[i] ?? data.partImage} alt="Engine component" fill className="object-contain" sizes="150px" />
               </div>
             </div>
           ))}

@@ -11,33 +11,33 @@
       "number": "01",
       "model": "BMW X7 xDrive30d",
       "spec": "Rebuild & Replacement Available",
-      "image": "/variant/vehicles/_fallback.webp"
+      "image": "/cars/x7-g07-lci-xdrive40d-m-sport-2022.webp"
     },
     {
       "number": "02",
       "model": "BMW X7 xDrive40d",
       "spec": "3.0L I6 Diesel (B57)",
-      "image": "/variant/vehicles/_fallback.webp",
+      "image": "/cars/x7-g07-lci-xdrive40d-m-sport-2022.webp",
       "href": "/bmw-x7-xdrive40d-engines"
     },
     {
       "number": "03",
       "model": "BMW X7 xDrive40i",
       "spec": "3.0L I6 Petrol MHEV (B58)",
-      "image": "/variant/vehicles/_fallback.webp",
+      "image": "/cars/x7-g07-lci-xdrive40d-m-sport-2022.webp",
       "href": "/bmw-x7-xdrive40i-engines"
     },
     {
       "number": "04",
       "model": "BMW X7 xDrive50i",
       "spec": "Rebuild & Replacement Available",
-      "image": "/variant/vehicles/_fallback.webp"
+      "image": "/cars/x7-g07-lci-xdrive40d-m-sport-2022.webp"
     },
     {
       "number": "05",
       "model": "BMW Alpina XB7",
       "spec": "Rebuild & Replacement Available",
-      "image": "/variant/vehicles/_fallback.webp"
+      "image": "/cars/x7-g07-lci-xdrive40d-m-sport-2022.webp"
     }
   ]
 }

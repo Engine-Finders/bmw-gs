@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { partImageFor } from "@/lib/partImage";
 import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
 
@@ -19,7 +20,7 @@ export default function Sec4({ data }) {
           {data.cards.map((c) => (
             <div key={c.title} className="glass-card relative flex flex-col overflow-hidden rounded-2xl">
               <div className="relative aspect-4/3 w-full">
-                <Image src={c.image} alt={c.title} fill className="object-cover" sizes="50vw" />
+                <Image src={partImageFor(c.title, c.image)} alt={c.title} fill className={partImageFor(c.title) ? "object-contain px-4 pb-8 pt-3" : "object-cover"} sizes="50vw" />
               </div>
               <div className="relative px-3 pb-4 pt-6 text-center">
                 <span
@@ -69,7 +70,7 @@ export default function Sec4({ data }) {
                 className="glass-card relative flex flex-col overflow-hidden rounded-2xl transition-transform hover:-translate-y-0.5"
               >
                 <div className="relative aspect-4/3 w-full">
-                  <Image src={c.image} alt={c.title} fill className="object-cover" sizes="25vw" />
+                  <Image src={partImageFor(c.title, c.image)} alt={c.title} fill className={partImageFor(c.title) ? "object-contain px-4 pb-8 pt-3" : "object-cover"} sizes="25vw" />
                 </div>
                 <div className="relative px-4 pb-6 pt-8 text-center">
                   <span

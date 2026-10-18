@@ -2,10 +2,11 @@
   "headline": "BMW X5 xDrive40i Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/bmw-x5-xdrive40i-engine.webp",
   "cards": [
     {
       "code": "B58",
+      "image": "/engines/b58-engine.webp",
       "generation": "G05 (2018–present)",
       "price": "£2,800",
       "codeHref": "/bmw-b58-engine"

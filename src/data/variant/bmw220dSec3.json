@@ -2,16 +2,18 @@
   "headline": "BMW 220d Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/b47-engine.webp",
   "cards": [
     {
       "code": "B47",
+      "image": "/engines/b47-engine.webp",
       "generation": "F22/F23 (2014–2021)",
       "price": "£2,200",
       "codeHref": "/bmw-b47-engine"
     },
     {
       "code": "B47",
+      "image": "/engines/b47-engine.webp",
       "generation": "G42 (2021–present)",
       "price": "£2,200",
       "codeHref": "/bmw-b47-engine"

@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "BMW X7 M60i ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/m60i-engine.webp",
     "cards": [
       {
         "codeHighlight": "N47",
+        "image": "/engines/n47-engine-hero.webp",
         "codeRest": "(G07, 2012–2015)",
         "body": "A 2.0-litre diesel fitted to the early G07 X7 M60i. Known for timing chain failure due to chain guide wear — see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
         "cta": "Check Your N47 X7 M60i",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "B47",
+        "image": "/engines/b47-engine.webp",
         "codeRest": "(G07, 2015–2019 / G07, 2019–2024)",
         "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
         "cta": "Check Your B47 X7 M60i",
@@ -75,6 +77,7 @@
     "rows": [
       {
         "generation": "G07",
+        "image": "/cars/x7-g07-lci-xdrive40d-m-sport-2022.webp",
         "chassis": "G07",
         "years": "2022–present",
         "engineCode": "—",

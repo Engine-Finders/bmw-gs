@@ -2,10 +2,11 @@
   "headline": "BMW 425d Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/what-engine-is-in-the-bmw-425d-engine.webp",
   "cards": [
     {
       "code": "B47",
+      "image": "/engines/b47-engine.webp",
       "generation": "F32/F33/F36 (2013–2020)",
       "price": "£2,200",
       "codeHref": "/bmw-b47-engine"

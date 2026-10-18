@@ -2,34 +2,39 @@
   "headline": "BMW X6 xDrive50i Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/bmw-x6-xdrive50i-engine.webp",
   "cards": [
     {
       "code": "N63",
+      "image": "/engines/n63-s63-engine-hero.webp",
       "generation": "F16 (2014–2019)",
       "price": "£4,500",
       "codeHref": "/bmw-n63-engine"
     },
     {
       "code": "N57",
+      "image": "/engines/n57-engine-hero.webp",
       "generation": "F16 (2014–2019)",
       "price": "£2,800",
       "codeHref": "/bmw-n57-engine"
     },
     {
       "code": "B58",
+      "image": "/engines/b58-engine.webp",
       "generation": "G06 (2019–present)",
       "price": "£3,200",
       "codeHref": "/bmw-b58-engine"
     },
     {
       "code": "B57",
+      "image": "/engines/b57-engine.webp",
       "generation": "G06 (2019–present)",
       "price": "£2,800",
       "codeHref": "/bmw-b57-engine"
     },
     {
       "code": "S63",
+      "image": "/engines/n63-s63-engine-hero.webp",
       "generation": "G06 (2020–present)",
       "price": "£6,500",
       "codeHref": "/bmw-s63-engine"

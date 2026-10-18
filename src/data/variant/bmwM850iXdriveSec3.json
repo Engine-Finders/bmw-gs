@@ -2,10 +2,11 @@
   "headline": "BMW M850i xDrive Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/n63-s63-engine-hero.webp",
   "cards": [
     {
       "code": "N63",
+      "image": "/engines/n63-s63-engine-hero.webp",
       "generation": "G14/G15/G16 (2018–present)",
       "price": "£6,500",
       "codeHref": "/bmw-n63-engine"

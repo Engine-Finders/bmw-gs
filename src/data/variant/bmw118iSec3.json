@@ -2,7 +2,7 @@
   "headline": "BMW 118i Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/116i-118i-engine.webp",
   "cards": [
     {
       "code": "N13",
@@ -12,6 +12,7 @@
     },
     {
       "code": "B38",
+      "image": "/engines/b38-engine.webp",
       "generation": "F40 (2019–2024)",
       "price": "£2,200",
       "codeHref": "/bmw-b38-engine"

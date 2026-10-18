@@ -2,16 +2,18 @@
   "headline": "BMW 316d Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/n47-engine-hero.webp",
   "cards": [
     {
       "code": "N47",
+      "image": "/engines/n47-engine-hero.webp",
       "generation": "F30/F31 (pre-facelift) (2012–2015)",
       "price": "£2,200",
       "codeHref": "/bmw-n47-engine"
     },
     {
       "code": "B47",
+      "image": "/engines/b47-engine.webp",
       "generation": "F30/F31 (LCI facelift) (2015–2019)",
       "price": "£2,200",
       "codeHref": "/bmw-b47-engine"

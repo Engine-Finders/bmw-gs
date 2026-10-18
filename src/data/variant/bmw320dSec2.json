@@ -2,7 +2,7 @@
   "headlinePre": "Your ",
   "headlineHighlight": "BMW 320d",
   "headlinePost": " Engine",
-  "image": "/variant/sec10_engine.webp",
+  "image": "/engines/318d-and-320d-engine.webp",
   "specs": [
     { "icon": "car", "label": "Vehicle", "value": "BMW 320d" },
     { "icon": "layers", "label": "Model", "value": "3 Series" },

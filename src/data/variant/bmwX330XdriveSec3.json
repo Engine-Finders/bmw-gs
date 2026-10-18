@@ -2,7 +2,7 @@
   "headline": "BMW X3 30 xDrive Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/b48-engine.webp",
   "cards": [
     {
       "code": "B48 (revised)",

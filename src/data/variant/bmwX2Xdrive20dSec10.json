@@ -12,10 +12,11 @@
   "codes": {
     "titlePre": "BMW X2 xDrive20d ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/engines/b38-engine.webp",
     "cards": [
       {
         "codeHighlight": "N47",
+        "image": "/engines/n47-engine-hero.webp",
         "codeRest": "(F39, 2012–2015)",
         "body": "A 2.0-litre diesel fitted to the early F39 X2 xDrive20d. Known for timing chain failure due to chain guide wear — see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
         "cta": "Check Your N47 X2 xDrive20d",
@@ -23,6 +24,7 @@
       },
       {
         "codeHighlight": "B47",
+        "image": "/engines/b47-engine.webp",
         "codeRest": "(F39, 2015–2019 / F39, 2019–2024)",
         "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
         "cta": "Check Your B47 X2 xDrive20d",
@@ -75,6 +77,7 @@
     "rows": [
       {
         "generation": "F39",
+        "image": "/cars/x2-f39-m35i-xdrive-2018-2023.webp",
         "chassis": "F39",
         "years": "2018–present",
         "engineCode": "B38",
@@ -83,6 +86,7 @@
       },
       {
         "generation": "F39",
+        "image": "/cars/x2-f39-m35i-xdrive-2018-2023.webp",
         "chassis": "F39",
         "years": "2018–present",
         "engineCode": "B48",

@@ -2,10 +2,11 @@
   "headline": "BMW X5 xDrive40e Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/b48-engine.webp",
   "cards": [
     {
       "code": "B48",
+      "image": "/engines/b48-engine.webp",
       "generation": "F15 (2015–2018)",
       "price": "£2,200",
       "codeHref": "/bmw-b48-engine"

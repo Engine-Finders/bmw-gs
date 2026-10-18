@@ -2,16 +2,18 @@
   "headline": "BMW 540i Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/b58-engine.webp",
   "cards": [
     {
       "code": "B58",
+      "image": "/engines/b58-engine.webp",
       "generation": "G30/G31 (2017–2023)",
       "price": "£3,200",
       "codeHref": "/bmw-b58-engine"
     },
     {
       "code": "B58",
+      "image": "/engines/b58-engine.webp",
       "generation": "G60 (2023–present)",
       "price": "£3,200",
       "codeHref": "/bmw-b58-engine"

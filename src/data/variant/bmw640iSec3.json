@@ -2,16 +2,18 @@
   "headline": "BMW 640i Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/n54-n55-n20-family-engine-hero.webp",
   "cards": [
     {
       "code": "N55",
+      "image": "/engines/n54-n55-n20-family-engine-hero.webp",
       "generation": "F06/F12/F13 (2011–2015)",
       "price": "£2,800",
       "codeHref": "/bmw-n55-engine"
     },
     {
       "code": "B58",
+      "image": "/engines/b58-engine.webp",
       "generation": "F06/F12/F13 (2015–2018)",
       "price": "£2,800",
       "codeHref": "/bmw-b58-engine"

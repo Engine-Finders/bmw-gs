@@ -2,7 +2,7 @@
   "headline": "BMW X3 M50 xDrive Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
-  "engineImage": "/variant/sec10_engine.webp",
+  "engineImage": "/engines/m50i-engine.webp",
   "cards": [
     {
       "code": "B58 (revised)",

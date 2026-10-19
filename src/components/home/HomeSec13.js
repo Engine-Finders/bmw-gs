@@ -26,7 +26,7 @@ export default function HomeSec13({ data }) {
 
           <div className="relative h-30 w-30 shrink-0">
             <BMWStripe size="lg" className="absolute -right-1 -top-1 -rotate-12" />
-            <Image src="/home/sec9_5_engine.webp" alt="BMW engine" fill className="object-contain" sizes="100px" />
+            <Image src={data.image} alt="BMW engine" fill className="object-contain" sizes="100px" />
           </div>
         </div>
 

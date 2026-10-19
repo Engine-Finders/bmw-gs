@@ -1,10 +1,10 @@
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
+import ExpandGrid from "@/components/reusable/ExpandGrid";
 import BMWStripe from "@/components/reusable/BMWStripe";
 
 export default function HomeSec7({ data }) {
   const [w1, brand, w2] = data.h2.split(/\s*(BMW)\s*/i);
-  const mobileModels = data.models.slice(0, 10);
 
   return (
     <section className="relative overflow-hidden px-4 py-8 sm:px-6 lg:px-8">
@@ -25,8 +25,14 @@ export default function HomeSec7({ data }) {
             <BMWStripe className="h-6 w-10 shrink-0 -skew-x-12" />
           </div>
 
-          <div className="grid grid-cols-2 gap-3">
-            {mobileModels.map((m) => (
+          <ExpandGrid
+            className="grid grid-cols-2 gap-3"
+            limit={6}
+            label="View More Models"
+            wrapClass="mt-5 flex justify-center"
+            buttonClass="flex items-center gap-2 rounded-lg border-2 border-hero-blue bg-white/70 px-5 py-2.5 text-xs font-bold uppercase tracking-wide text-hero-blue backdrop-blur-md transition hover:bg-hero-blue hover:text-white"
+          >
+            {data.models.map((m) => (
               <a
                 key={m.slug}
                 href={m.href}
@@ -38,7 +44,7 @@ export default function HomeSec7({ data }) {
                 <p className="text-xs font-extrabold uppercase text-[#101828]">{m.name}</p>
               </a>
             ))}
-          </div>
+          </ExpandGrid>
 
           <div
             className="mt-5 flex items-stretch rounded-2xl border border-hero-blue/30 bg-[#f3f6fb] px-2 py-4"
@@ -76,7 +82,14 @@ export default function HomeSec7({ data }) {
             <BMWStripe className="absolute right-0 top-1/2 h-10 w-20 -translate-y-1/2" />
           </div>
 
-          <div className="grid grid-cols-3 gap-4 sm:grid-cols-4 lg:grid-cols-6">
+          <ExpandGrid
+            className="grid grid-cols-3 gap-4 sm:grid-cols-4 lg:grid-cols-6"
+            limit={8}
+            limitLg={12}
+            label="View More Models"
+            wrapClass="mt-6 flex justify-center"
+            buttonClass="flex items-center gap-2 rounded-md border-2 border-hero-blue bg-white/70 px-6 py-2.5 text-xs font-bold uppercase tracking-wide text-hero-blue backdrop-blur-md transition hover:bg-hero-blue hover:text-white"
+          >
             {data.models.map((m) => (
               <a
                 key={m.slug}
@@ -89,7 +102,7 @@ export default function HomeSec7({ data }) {
                 <p className="text-xs font-bold text-hero-blue">{m.name}</p>
               </a>
             ))}
-          </div>
+          </ExpandGrid>
 
           <div
             className="mt-6 flex items-stretch rounded-2xl border border-hero-blue/30 bg-[#f3f6fb] px-6 py-6"

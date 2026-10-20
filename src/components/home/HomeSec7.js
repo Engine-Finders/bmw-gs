@@ -13,17 +13,16 @@ export default function HomeSec7({ data }) {
       <div className="relative mx-auto max-w-6xl">
         {/* ===== mobile ===== */}
         <div className="md:hidden">
-          <div className="mb-4 flex justify-center">
+          <div className="mb-4 flex items-center justify-center gap-3">
+            <span className="h-px w-12 bg-hero-blue/40" />
             <BMWStripe size="lg" />
+            <span className="h-px w-12 bg-hero-blue/40" />
           </div>
-          <div className="relative mb-5 flex items-center justify-center gap-2">
-            <h2 className="hp-h2 text-center uppercase text-[#101828]">
-              {w1} <span className="text-bmw-blue">B</span>
-              <span className="text-bmw-blue">M</span>
-              <span className="bg-linear-to-r from-bmw-blue to-bmw-red bg-clip-text text-transparent">W</span> {w2}
-            </h2>
-            <BMWStripe className="h-6 w-10 shrink-0 -skew-x-12" />
-          </div>
+          <h2 className="hp-h2 mb-5 text-center uppercase text-[#101828]">
+            {w1} <span className="text-bmw-blue">B</span>
+            <span className="text-bmw-blue">M</span>
+            <span className="bg-linear-to-r from-bmw-blue to-bmw-red bg-clip-text text-transparent">W</span> {w2}
+          </h2>
 
           <ExpandGrid
             className="grid grid-cols-2 gap-3"
@@ -67,14 +66,16 @@ export default function HomeSec7({ data }) {
 
         {/* ===== desktop ===== */}
         <div className="hidden md:block">
-          <div className="relative mb-6 flex items-center justify-center">
-            <h2 className="hp-h2 uppercase text-[#101828]">
-              {w1} <span className="text-bmw-blue">B</span>
-              <span className="text-bmw-blue">M</span>
-              <span className="bg-linear-to-r from-bmw-blue to-bmw-red bg-clip-text text-transparent">W</span> {w2}
-            </h2>
-            <BMWStripe className="absolute right-0 top-1/2 h-10 w-20 -translate-y-1/2" />
+          <div className="mb-4 flex items-center justify-center gap-3">
+            <span className="h-px w-20 bg-hero-blue/40" />
+            <BMWStripe size="lg" className="md:h-6 md:w-14" />
+            <span className="h-px w-20 bg-hero-blue/40" />
           </div>
+          <h2 className="hp-h2 mb-6 text-center uppercase text-[#101828]">
+            {w1} <span className="text-bmw-blue">B</span>
+            <span className="text-bmw-blue">M</span>
+            <span className="bg-linear-to-r from-bmw-blue to-bmw-red bg-clip-text text-transparent">W</span> {w2}
+          </h2>
 
           <ExpandGrid
             className="grid grid-cols-3 gap-4 sm:grid-cols-4 lg:grid-cols-6"

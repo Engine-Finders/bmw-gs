@@ -53,7 +53,7 @@ export default function HomeSec4_5({ data }) {
 
           <a
             href={data.cta.href}
-            className="mx-auto mt-3 block w-1/2 rounded-sm border-2 border-hero-blue bg-hero-blue py-2.5 text-center text-sm font-bold uppercase text-white shadow-[0_0_20px_rgba(0,127,248,0.4)] transition-colors hover:bg-transparent hover:text-hero-blue"
+            className="mx-auto mt-3 block w-fit whitespace-nowrap rounded-sm border-2 border-hero-blue bg-hero-blue px-6 py-2.5 text-center text-sm font-bold uppercase text-white shadow-[0_0_20px_rgba(0,127,248,0.4)] transition-colors hover:bg-transparent hover:text-hero-blue"
           >
             {data.cta.label} →
           </a>

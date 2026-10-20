@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -110,12 +110,161 @@
             {
               "label": "1 Series",
               "href": "/bmw-1-series-engines"
+            },
+            {
+              "label": "2 Series",
+              "href": "/bmw-2-series-engines"
+            },
+            {
+              "label": "3 Series",
+              "href": "/bmw-3-series-engines"
+            },
+            {
+              "label": "4 Series",
+              "href": "/bmw-4-series-engines"
+            },
+            {
+              "label": "5 Series",
+              "href": "/bmw-5-series-engines"
+            },
+            {
+              "label": "6 Series",
+              "href": "/bmw-6-series-engines"
+            },
+            {
+              "label": "7 Series",
+              "href": "/bmw-7-series-engines"
+            },
+            {
+              "label": "8 Series",
+              "href": "/bmw-8-series-engines"
+            },
+            {
+              "label": "X1",
+              "href": "/bmw-x1-engines"
+            },
+            {
+              "label": "X2",
+              "href": "/bmw-x2-engines"
+            },
+            {
+              "label": "X3",
+              "href": "/bmw-x3-engines"
+            },
+            {
+              "label": "X4",
+              "href": "/bmw-x4-engines"
+            },
+            {
+              "label": "X5",
+              "href": "/bmw-x5-engines"
+            },
+            {
+              "label": "X6",
+              "href": "/bmw-x6-engines"
+            },
+            {
+              "label": "X7",
+              "href": "/bmw-x7-engines"
+            },
+            {
+              "label": "Z4",
+              "href": "/bmw-z4-engines"
+            },
+            {
+              "label": "XM",
+              "href": "/bmw-xm-engines"
+            },
+            {
+              "label": "M2",
+              "href": "/bmw-m2-engines"
+            },
+            {
+              "label": "M3",
+              "href": "/bmw-m3-engines"
+            },
+            {
+              "label": "M4",
+              "href": "/bmw-m4-engines"
+            },
+            {
+              "label": "M5",
+              "href": "/bmw-m5-engines"
+            },
+            {
+              "label": "M6",
+              "href": "/bmw-m6-engines"
+            },
+            {
+              "label": "M8",
+              "href": "/bmw-m8-engines"
+            },
+            {
+              "label": "X3 M",
+              "href": "/bmw-x3-m-engines"
+            },
+            {
+              "label": "X4 M",
+              "href": "/bmw-x4-m-engines"
+            },
+            {
+              "label": "X5 M",
+              "href": "/bmw-x5-m-engines"
+            },
+            {
+              "label": "X6 M",
+              "href": "/bmw-x6-m-engines"
             }
           ]
         },
         {
           "t": "h3",
           "text": "Key engine families for compatibility matching"
+        },
+        {
+          "t": "table",
+          "head": [
+            "Engine Family",
+            "Common applications"
+          ],
+          "rows": [
+            [
+              "[N47](/bmw-n47-engine)",
+              "1 Series, 2 Series, 3 Series, X1 (pre-2015)"
+            ],
+            [
+              "[B47](/bmw-b47-engine)",
+              "1 Series, 2 Series, 3 Series, X1 (post-2015)"
+            ],
+            [
+              "[N55](/bmw-n55-engine)",
+              "1 Series, 2 Series, 3 Series, 4 Series, X3, X4"
+            ],
+            [
+              "[B58](/bmw-b58-engine)",
+              "1 Series M140i, 2 Series M240i, 3 Series 340i, 4 Series 440i, 5 Series 540i, X3 M40i, X4 M40i, X5, X6, X7"
+            ],
+            [
+              "[N57](/bmw-n57-engine)",
+              "3 Series, 4 Series, 5 Series, 6 Series, 7 Series, X3, X4, X5, X6"
+            ],
+            [
+              "[B57](/bmw-b57-engine)",
+              "5 Series, 7 Series, X5, X6, X7"
+            ],
+            [
+              "[S55](/bmw-s55-engine)",
+              "M2 Competition, M3 (F80), M4 (F82/F83)"
+            ],
+            [
+              "[S58](/bmw-s58-engine)",
+              "X3 M, X4 M, M2 (G87), M3 (G80), M4 (G82/G83)"
+            ],
+            [
+              "[S63](/bmw-s63-engine)",
+              "M5, M6, M8, X5 M, X6 M"
+            ]
+          ]
         },
         {
           "t": "p",

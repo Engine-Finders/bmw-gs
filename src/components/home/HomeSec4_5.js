@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
-import BMWStripe from "@/components/reusable/BMWStripe";
 import WheelSpinFrames from "@/components/home/WheelSpinFrames";
 
 export default function HomeSec4_5({ data }) {
@@ -19,18 +18,14 @@ export default function HomeSec4_5({ data }) {
 
         {/* content overlaid on the image: text lands in its dark upper zone, footer at the bottom */}
         <div className="absolute inset-0 flex flex-col px-4 pt-4 pb-4">
-          <div className="flex items-center gap-2">
-            <BMWStripe />
-            <p className="text-[10px] font-semibold uppercase tracking-widest text-white">{data.eyebrow}</p>
-          </div>
-          <p className="mt-1.5 text-center text-[10px] italic uppercase tracking-wide text-white">{data.kicker}</p>
+          <p className="text-center text-[10px] italic uppercase tracking-wide text-white">{data.kicker}</p>
 
           <h2 className="hp-h2 mt-2 text-center uppercase">
             <span className="block text-white">{line1}</span>
             <span className="block text-hero-blue">{line2}</span>
           </h2>
           <p className="-skew-x-6 mt-1 text-center text-lg font-bold uppercase text-white">{data.subhead1}</p>
-          <p className="-skew-x-6 text-center text-[10px] italic font-semibold uppercase tracking-wide text-white">
+          <p className="-skew-x-6 text-center text-[10px] font-normal italic uppercase tracking-wide text-white">
             {data.subhead2}
           </p>
 
@@ -72,7 +67,7 @@ export default function HomeSec4_5({ data }) {
               <p className="text-[10px] uppercase tracking-widest text-white">{data.footer}</p>
               <span className="h-px w-10 bg-white/25" />
             </div>
-            <BMWStripe size="lg" className="mt-3" />
+            <Image src="/brand/logo-icon.webp" alt="BMW Garage" width={512} height={175} className="mt-3 h-8 w-auto" sizes="100px" />
           </div>
           <div className="h-6 shrink-0" />
         </div>
@@ -87,12 +82,8 @@ export default function HomeSec4_5({ data }) {
         </div>
 
         {/* top row */}
-        <div className="relative mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-2 px-4 pt-6 sm:px-6 lg:px-8">
-          <div className="flex items-center gap-2">
-            <BMWStripe />
-            <p className="text-xs font-semibold uppercase tracking-widest text-white">{data.eyebrow}</p>
-          </div>
-          <p className="text-[11px] uppercase tracking-wide text-white">{data.kicker}</p>
+        <div className="relative mx-auto flex max-w-6xl flex-wrap items-center justify-end gap-2 px-4 pt-6 sm:px-6 lg:px-8">
+          <p className="text-[11px] font-normal italic uppercase tracking-wide text-white">{data.kicker}</p>
         </div>
 
         {/* car (left, grounded) + headline stack (right) */}
@@ -111,7 +102,7 @@ export default function HomeSec4_5({ data }) {
               <span className="block text-hero-blue">{line2}</span>
             </h2>
             <p className="mt-3 text-xl font-bold uppercase text-white sm:text-2xl">{data.subhead1}</p>
-            <p className="text-xs font-semibold uppercase tracking-wide text-white">{data.subhead2}</p>
+            <p className="text-xs font-normal italic uppercase tracking-wide text-white">{data.subhead2}</p>
 
             <div className="mt-4 max-w-xs space-y-1 text-sm text-white">
               {data.body.map((line, i) => (
@@ -151,7 +142,7 @@ export default function HomeSec4_5({ data }) {
           </div>
           <div className="mt-4 flex items-center justify-center gap-3">
             <span className="h-px w-8 bg-white/25" />
-            <BMWStripe size="lg" />
+            <Image src="/brand/logo-icon.webp" alt="BMW Garage" width={512} height={175} className="h-8 w-auto" sizes="100px" />
             <span className="h-px w-8 bg-white/25" />
           </div>
         </div>

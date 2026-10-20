@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -80,12 +80,12 @@
           "html": "Timing chain issues affect a range of BMW engines. We carry out full timing chain replacement on the following models and engine families."
         },
         {
-          "t": "linkgrid",
-          "items": [
-            {
-              "label": "BMW 1 Series",
-              "href": "/bmw-1-series-engines"
-            },
+          "t": "modelgroup",
+          "model": {
+            "label": "BMW 1 Series",
+            "href": "/bmw-1-series-engines"
+          },
+          "chips": [
             {
               "label": "116d",
               "href": "/bmw-116d-engines"
@@ -109,20 +109,9 @@
             {
               "label": "120i",
               "href": "/bmw-120i-engines"
-            },
-            {
-              "label": "N47",
-              "href": "/bmw-n47-engine"
-            },
-            {
-              "label": "N20",
-              "href": "/bmw-n20-engine"
-            },
-            {
-              "label": "B47",
-              "href": "/bmw-b47-engine"
             }
-          ]
+          ],
+          "note": "**Engines:** [N47](/bmw-n47-engine), [N20](/bmw-n20-engine), [B47](/bmw-b47-engine)"
         },
         {
           "t": "modelgroup",
@@ -147,11 +136,8 @@
               "label": "230i",
               "href": "/bmw-230i-engines"
             }
-          ]
-        },
-        {
-          "t": "p",
-          "html": "**Engines:** [N47](/bmw-n47-engine), [B47](/bmw-b47-engine), [N20](/bmw-n20-engine)"
+          ],
+          "note": "**Engines:** [N47](/bmw-n47-engine), [B47](/bmw-b47-engine), [N20](/bmw-n20-engine)"
         },
         {
           "t": "modelgroup",
@@ -182,13 +168,10 @@
             },
             {
               "label": "328i",
-              "href": null
+              "href": "/bmw-3-series-engines"
             }
-          ]
-        },
-        {
-          "t": "p",
-          "html": "**Engines:** [N47](/bmw-n47-engine), [N57](/bmw-n57-engine), [N20](/bmw-n20-engine), [B47](/bmw-b47-engine)"
+          ],
+          "note": "**Engines:** [N47](/bmw-n47-engine), [N57](/bmw-n57-engine), [N20](/bmw-n20-engine), [B47](/bmw-b47-engine)"
         },
         {
           "t": "modelgroup",
@@ -213,11 +196,8 @@
               "label": "430i",
               "href": "/bmw-430i-engines"
             }
-          ]
-        },
-        {
-          "t": "p",
-          "html": "**Engines:** [N47](/bmw-n47-engine), [N57](/bmw-n57-engine), [B47](/bmw-b47-engine), [N20](/bmw-n20-engine)"
+          ],
+          "note": "**Engines:** [N47](/bmw-n47-engine), [N57](/bmw-n57-engine), [B47](/bmw-b47-engine), [N20](/bmw-n20-engine)"
         },
         {
           "t": "modelgroup",
@@ -242,11 +222,8 @@
               "label": "535d",
               "href": "/bmw-535d-engines"
             }
-          ]
-        },
-        {
-          "t": "p",
-          "html": "**Engines:** [N47](/bmw-n47-engine), [N57](/bmw-n57-engine), [B47](/bmw-b47-engine)"
+          ],
+          "note": "**Engines:** [N47](/bmw-n47-engine), [N57](/bmw-n57-engine), [B47](/bmw-b47-engine)"
         },
         {
           "t": "modelgroup",
@@ -261,17 +238,14 @@
             },
             {
               "label": "sDrive20d",
-              "href": null
+              "href": "/bmw-x1-engines"
             },
             {
               "label": "xDrive20d",
               "href": "/bmw-x1-xdrive20d-engines"
             }
-          ]
-        },
-        {
-          "t": "p",
-          "html": "**Engines:** [N47](/bmw-n47-engine) (E84), [B47](/bmw-b47-engine) (F48)"
+          ],
+          "note": "**Engines:** [N47](/bmw-n47-engine) (E84), [B47](/bmw-b47-engine) (F48)"
         },
         {
           "t": "modelgroup",
@@ -288,11 +262,8 @@
               "label": "xDrive30d",
               "href": "/bmw-x3-xdrive30d-engines"
             }
-          ]
-        },
-        {
-          "t": "p",
-          "html": "**Engines:** [N47](/bmw-n47-engine), [N57](/bmw-n57-engine), [B47](/bmw-b47-engine)"
+          ],
+          "note": "**Engines:** [N47](/bmw-n47-engine), [N57](/bmw-n57-engine), [B47](/bmw-b47-engine)"
         },
         {
           "t": "modelgroup",
@@ -309,15 +280,12 @@
               "label": "xDrive30d",
               "href": "/bmw-x4-xdrive30d-engines"
             }
-          ]
+          ],
+          "note": "**Engines:** [N57](/bmw-n57-engine), [B47](/bmw-b47-engine)"
         },
         {
           "t": "p",
-          "html": "**Engines:** [N57](/bmw-n57-engine), [B47](/bmw-b47-engine)"
-        },
-        {
-          "t": "p",
-          "html": "Timing chain issues are most prevalent on N47 diesel engines (2007–2015) and N20 petrol engines. Read our full N47 buying guide →"
+          "html": "Timing chain issues are most prevalent on N47 diesel engines (2007–2015) and N20 petrol engines. [Read our full N47 buying guide →](/guides)"
         }
       ]
     },
@@ -425,19 +393,19 @@
       "items": [
         {
           "q": "What are the early signs of BMW timing chain failure?",
-          "a": "The most common early symptom is a metallic rattling noise during cold starts, which typically lasts a few seconds until oil pressure builds[reference:0][reference:1]. Other signs include rough idle, misfires, loss of power, and a check engine light with cam/crank correlation faults[reference:2]."
+          "a": "The most common early symptom is a metallic rattling noise during cold starts, which typically lasts a few seconds until oil pressure builds. Other signs include rough idle, misfires, loss of power, and a check engine light with cam/crank correlation faults."
         },
         {
           "q": "Which BMW engines are most prone to timing chain issues?",
-          "a": "The N47 diesel (2.0L, 2007–2015) is the most notorious, with the chain mounted at the rear of the engine[reference:3]. The N20 petrol (2.0L turbo, 2011–2016) also suffers from timing chain stretch[reference:4]. Other affected engines include N57 (diesel I6) and B47 (later diesel)."
+          "a": "The N47 diesel (2.0L, 2007–2015) is the most notorious, with the chain mounted at the rear of the engine. The N20 petrol (2.0L turbo, 2011–2016) also suffers from timing chain stretch. Other affected engines include N57 (diesel I6) and B47 (later diesel)."
         },
         {
           "q": "Do you remove the engine for timing chain replacement?",
-          "a": "For N47 engines, yes — the chain is mounted at the rear of the engine and cannot be accessed without full engine removal[reference:5][reference:6]. For front-mounted chains (N20, N55, B58), the engine stays in place but the front end is stripped for access."
+          "a": "For N47 engines, yes — the chain is mounted at the rear of the engine and cannot be accessed without full engine removal. For front-mounted chains (N20, N55, B58), the engine stays in place but the front end is stripped for access."
         },
         {
           "q": "How long does a BMW timing chain replacement take?",
-          "a": "For an N47 engine-out job, the repair typically takes 30–35 hours of workshop time[reference:7]. Front-mounted chain replacements are quicker, typically 12–16 hours[reference:8]. We provide a timeline estimate during the quoting process."
+          "a": "For an N47 engine-out job, the repair typically takes 30–35 hours of workshop time. Front-mounted chain replacements are quicker, typically 12–16 hours. We provide a timeline estimate during the quoting process."
         },
         {
           "q": "What is included in your timing chain repair?",
@@ -445,7 +413,7 @@
         },
         {
           "q": "Can I drive my BMW if the timing chain is rattling?",
-          "a": "We don't recommend it. If the tensioner is failing or a guide is cracked, the chain can jump teeth or break completely, leading to catastrophic engine damage[reference:9]. Have it inspected as soon as possible."
+          "a": "We don't recommend it. If the tensioner is failing or a guide is cracked, the chain can jump teeth or break completely, leading to catastrophic engine damage. Have it inspected as soon as possible."
         }
       ]
     }

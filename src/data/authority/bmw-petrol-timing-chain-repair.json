@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     }
   ],
   "images": [
@@ -47,7 +47,10 @@
         {
           "t": "callout",
           "heading": "",
-          "paras": []
+          "paras": [
+            "From £1,900",
+            "N20 timing chain replacement (parts & labour)"
+          ]
         }
       ]
     },
@@ -56,8 +59,12 @@
       "heading": "Applicable Models & Engines",
       "blocks": [
         {
-          "t": "linkgrid",
-          "items": [
+          "t": "modelgroup",
+          "model": {
+            "label": "BMW 3 Series (F30/F31)",
+            "href": null
+          },
+          "chips": [
             {
               "label": "BMW 3 Series (F30/F31)",
               "href": "/bmw-3-series-engines"
@@ -68,25 +75,85 @@
             },
             {
               "label": "328i",
-              "href": null
+              "href": "/bmw-3-series-engines"
             }
           ]
         },
         {
-          "t": "h3",
-          "text": "BMW 4 Series (F32/F33/F36)"
+          "t": "modelgroup",
+          "model": {
+            "label": "BMW 4 Series (F32/F33/F36)",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "BMW 4 Series (F32/F33/F36)",
+              "href": "/bmw-4-series-engines"
+            },
+            {
+              "label": "420i",
+              "href": "/bmw-420i-engines"
+            },
+            {
+              "label": "428i/430i",
+              "href": "/bmw-428i-430i-engines"
+            }
+          ]
         },
         {
-          "t": "h3",
-          "text": "BMW 5 Series (F10/F11)"
+          "t": "modelgroup",
+          "model": {
+            "label": "BMW 5 Series (F10/F11)",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "BMW 5 Series (F10/F11)",
+              "href": "/bmw-5-series-engines"
+            },
+            {
+              "label": "520i",
+              "href": "/bmw-520i-engines"
+            },
+            {
+              "label": "528i",
+              "href": "/bmw-528i-engines"
+            }
+          ]
         },
         {
-          "t": "h3",
-          "text": "BMW X1 (E84)"
+          "t": "modelgroup",
+          "model": {
+            "label": "BMW X1 (E84)",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "BMW X1 (E84)",
+              "href": "/bmw-x1-engines"
+            },
+            {
+              "label": "sDrive18i/xDrive20i",
+              "href": "/bmw-x1-engines"
+            }
+          ]
         },
         {
-          "t": "h3",
-          "text": "BMW Z4 (E89)"
+          "t": "modelgroup",
+          "model": {
+            "label": "BMW Z4 (E89)",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "BMW Z4 (E89)",
+              "href": "/bmw-z4-engines"
+            },
+            {
+              "label": "sDrive28i",
+              "href": "/bmw-z4-sdrive28i-engines"
+            }
+          ]
         },
         {
           "t": "p",

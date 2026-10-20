@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -196,11 +196,11 @@
             },
             {
               "label": "sDrive18d / xDrive20d",
-              "href": null
+              "href": "/bmw-x1-engines"
             },
             {
               "label": "sDrive18i / xDrive20i",
-              "href": null
+              "href": "/bmw-x1-engines"
             },
             {
               "label": "X2",
@@ -208,11 +208,11 @@
             },
             {
               "label": "sDrive18d / xDrive20d",
-              "href": null
+              "href": "/bmw-x2-engines"
             },
             {
               "label": "sDrive18i / xDrive20i",
-              "href": null
+              "href": "/bmw-x2-engines"
             },
             {
               "label": "X3",
@@ -220,11 +220,11 @@
             },
             {
               "label": "xDrive20d",
-              "href": null
+              "href": "/bmw-x3-engines"
             },
             {
               "label": "xDrive20i",
-              "href": null
+              "href": "/bmw-x3-engines"
             },
             {
               "label": "X4",
@@ -232,11 +232,11 @@
             },
             {
               "label": "xDrive20d",
-              "href": null
+              "href": "/bmw-x4-engines"
             },
             {
               "label": "xDrive20i",
-              "href": null
+              "href": "/bmw-x4-engines"
             }
           ]
         },
@@ -345,11 +345,11 @@
             },
             {
               "label": "730d / 740d",
-              "href": null
+              "href": "/bmw-7-series-engines"
             },
             {
               "label": "730i / 740i",
-              "href": null
+              "href": "/bmw-7-series-engines"
             },
             {
               "label": "8 Series",
@@ -373,7 +373,7 @@
             },
             {
               "label": "xDrive30d",
-              "href": null
+              "href": "/bmw-x3-engines"
             },
             {
               "label": "X4",
@@ -385,7 +385,7 @@
             },
             {
               "label": "xDrive30d",
-              "href": null
+              "href": "/bmw-x4-engines"
             },
             {
               "label": "X5",
@@ -454,7 +454,8 @@
             },
             {
               "label": "M5",
-              "href": "/bmw-m5-engines"
+              "href": "/bmw-m5-engines",
+              "desc": "(V8)"
             },
             {
               "label": "6 Series",
@@ -478,7 +479,7 @@
             },
             {
               "label": "M760i",
-              "href": null
+              "href": "/bmw-7-series-engines"
             },
             {
               "label": "8 Series",
@@ -526,7 +527,8 @@
             },
             {
               "label": "M60i",
-              "href": "/bmw-x7-m60i-engines"
+              "href": "/bmw-x7-m60i-engines",
+              "desc": "(V8 versions)"
             }
           ]
         },
@@ -686,7 +688,7 @@
       "steps": [
         {
           "title": "Contact us",
-          "body": "Call, email, or use our [online quote form](/contact) — we'll ask for your registration and a brief description of the issue."
+          "body": "Call, email, or use our [online quote form](/get-quote) — we'll ask for your registration and a brief description of the issue."
         },
         {
           "title": "Inspection & quote",

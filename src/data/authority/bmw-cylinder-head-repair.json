@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -74,7 +74,7 @@
         },
         {
           "t": "p",
-          "html": "[Request an accurate quote](/contact)"
+          "html": "[Request an accurate quote](/get-quote)"
         }
       ]
     },
@@ -87,12 +87,12 @@
           "html": "Cylinder head repair and rebuild is available across the full BMW range – from 1 Series to X7, and all M-performance variants. Below are the key model families and engine groups we cover."
         },
         {
-          "t": "linkgrid",
-          "items": [
-            {
-              "label": "1 Series",
-              "href": "/bmw-1-series-engines"
-            },
+          "t": "modelgroup",
+          "model": {
+            "label": "1 Series",
+            "href": "/bmw-1-series-engines"
+          },
+          "chips": [
             {
               "label": "116d",
               "href": "/bmw-116d-engines"
@@ -297,11 +297,11 @@
           "chips": [
             {
               "label": "730d/740d",
-              "href": null
+              "href": "/bmw-7-series-engines"
             },
             {
               "label": "730i/740i",
-              "href": null
+              "href": "/bmw-7-series-engines"
             },
             {
               "label": "750i",
@@ -559,7 +559,7 @@
         },
         {
           "t": "p",
-          "html": "Read our full guide to BMW engine rebuilds and what we check on every rebuild."
+          "html": "Read our [full guide to BMW engine rebuilds](/guides) and [what we check on every rebuild](/guides)."
         }
       ]
     },

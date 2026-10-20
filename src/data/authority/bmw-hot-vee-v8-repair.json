@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -72,7 +72,7 @@
         },
         {
           "t": "p",
-          "html": "For M-badged performance variants (S63 in M5, M6, M8, X5 M, X6 M), pricing starts from £6,500. See our M-Power engine rebuild service →"
+          "html": "For M-badged performance variants (S63 in M5, M6, M8, X5 M, X6 M), pricing starts from £6,500. [See our M-Power engine rebuild service →](/bmw-m-power-engine-rebuild)"
         }
       ]
     },
@@ -93,31 +93,38 @@
           "chips": [
             {
               "label": "BMW 5 Series",
-              "href": "/bmw-5-series-engines"
+              "href": "/bmw-5-series-engines",
+              "desc": "550i, 545i, M550i (F10, G30)"
             },
             {
               "label": "BMW 6 Series",
-              "href": "/bmw-6-series-engines"
+              "href": "/bmw-6-series-engines",
+              "desc": "650i (E63, F12/F13)"
             },
             {
               "label": "BMW 7 Series",
-              "href": "/bmw-7-series-engines"
+              "href": "/bmw-7-series-engines",
+              "desc": "750i, 760i (F01, G11)"
             },
             {
               "label": "BMW 8 Series",
-              "href": "/bmw-8-series-engines"
+              "href": "/bmw-8-series-engines",
+              "desc": "M850i (G15)"
             },
             {
               "label": "BMW X5",
-              "href": "/bmw-x5-engines"
+              "href": "/bmw-x5-engines",
+              "desc": "xDrive50i, M50i (E70, F15, G05)"
             },
             {
               "label": "BMW X6",
-              "href": "/bmw-x6-engines"
+              "href": "/bmw-x6-engines",
+              "desc": "xDrive50i, M50i (E71, F16, G06)"
             },
             {
               "label": "BMW X7",
-              "href": "/bmw-x7-engines"
+              "href": "/bmw-x7-engines",
+              "desc": "xDrive50i (G07)"
             }
           ]
         },
@@ -130,29 +137,34 @@
           "chips": [
             {
               "label": "BMW M5",
-              "href": "/bmw-m5-engines"
+              "href": "/bmw-m5-engines",
+              "desc": "F10, F90 (S63)"
             },
             {
               "label": "BMW M6",
-              "href": "/bmw-m6-engines"
+              "href": "/bmw-m6-engines",
+              "desc": "F06/F12/F13 (S63)"
             },
             {
               "label": "BMW M8",
-              "href": "/bmw-m8-engines"
+              "href": "/bmw-m8-engines",
+              "desc": "G14/G15/G16 (S63)"
             },
             {
               "label": "BMW X5 M",
-              "href": "/bmw-x5-m-engines"
+              "href": "/bmw-x5-m-engines",
+              "desc": "F85, F95 (S63)"
             },
             {
               "label": "BMW X6 M",
-              "href": "/bmw-x6-m-engines"
+              "href": "/bmw-x6-m-engines",
+              "desc": "F86, F96 (S63)"
             }
           ]
         },
         {
           "t": "p",
-          "html": "If your car isn't listed, [contact us with your registration](/contact) and we'll confirm the engine type and repair options."
+          "html": "If your car isn't listed, [contact us with your registration](/get-quote) and we'll confirm the engine type and repair options."
         },
         {
           "t": "modelgroup",
@@ -163,19 +175,23 @@
           "chips": [
             {
               "label": "BMW N63 Engine",
-              "href": "/bmw-n63-engine"
+              "href": "/bmw-n63-engine",
+              "desc": "4.4L twin-turbo V8, hot-vee layout"
             },
             {
               "label": "BMW S63 Engine",
-              "href": "/bmw-s63-engine"
+              "href": "/bmw-s63-engine",
+              "desc": "M-performance variant, used in M5, M6, M8, X5 M, X6 M"
             },
             {
               "label": "BMW N63TU Engine",
-              "href": "/bmw-n63tu-engine"
+              "href": "/bmw-n63tu-engine",
+              "desc": "updated N63 with improved cooling and turbo hardware"
             },
             {
               "label": "BMW S63TU Engine",
-              "href": "/bmw-s63tu-engine"
+              "href": "/bmw-s63tu-engine",
+              "desc": "latest M V8, in F90 M5 and F95 X5 M"
             }
           ]
         }

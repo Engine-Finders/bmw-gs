@@ -28,7 +28,7 @@ export default function HomeSec7({ data }) {
           <ExpandGrid
             className="grid grid-cols-2 gap-3"
             limit={6}
-            label="View More Models"
+            label="View All Models"
             wrapClass="mt-5 flex justify-center"
             buttonClass="flex items-center gap-2 rounded-lg border-2 border-hero-blue bg-white/70 px-5 py-2.5 text-xs font-bold uppercase tracking-wide text-hero-blue backdrop-blur-md transition hover:bg-hero-blue hover:text-white"
           >
@@ -63,12 +63,6 @@ export default function HomeSec7({ data }) {
             ))}
           </div>
 
-          <a
-            href={data.cta.href}
-            className="mt-4 block rounded-sm border-2 border-hero-blue px-6 py-3 text-center text-sm font-bold uppercase text-hero-blue"
-          >
-            {data.cta.label} →
-          </a>
         </div>
 
         {/* ===== desktop ===== */}
@@ -86,7 +80,7 @@ export default function HomeSec7({ data }) {
             className="grid grid-cols-3 gap-4 sm:grid-cols-4 lg:grid-cols-6"
             limit={8}
             limitLg={12}
-            label="View More Models"
+            label="View All Models"
             wrapClass="mt-6 flex justify-center"
             buttonClass="flex items-center gap-2 rounded-md border-2 border-hero-blue bg-white/70 px-6 py-2.5 text-xs font-bold uppercase tracking-wide text-hero-blue backdrop-blur-md transition hover:bg-hero-blue hover:text-white"
           >

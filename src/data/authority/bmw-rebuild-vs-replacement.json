@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -75,12 +75,12 @@
           "html": "This decision applies to every BMW engine we work on. The approach changes based on the engine family and chassis — here are the most common."
         },
         {
-          "t": "linkgrid",
-          "items": [
-            {
-              "label": "3 Series",
-              "href": "/bmw-3-series-engines"
-            },
+          "t": "modelgroup",
+          "model": {
+            "label": "3 Series",
+            "href": "/bmw-3-series-engines"
+          },
+          "chips": [
             {
               "label": "320d (N47 / B47)",
               "href": "/bmw-320d-engines"

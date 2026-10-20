@@ -2,6 +2,7 @@ const sizes = {
   default: "h-4 w-8",
   lg: "h-5 w-12",
   wide: "h-1.5 w-24",
+  em: "h-[0.8em] w-[1.6em]",
   full: "h-1.5 w-full",
 };
 

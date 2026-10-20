@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     }
   ],
   "images": [
@@ -87,8 +87,12 @@
           "html": "We rebuild engines across the entire BMW range, from the 1 Series to the X7 and M models."
         },
         {
-          "t": "linkgrid",
-          "items": [
+          "t": "modelgroup",
+          "model": {
+            "label": "1 Series",
+            "href": null
+          },
+          "chips": [
             {
               "label": "1 Series",
               "href": "/bmw-1-series-engines"
@@ -97,47 +101,98 @@
               "label": "View Variants →",
               "href": "/bmw-120d-engines"
             }
-          ]
+          ],
+          "note": "116i, 118d, 120d, M135i, M140i"
         },
         {
-          "t": "h3",
-          "text": "3 Series"
+          "t": "modelgroup",
+          "model": {
+            "label": "3 Series",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "3 Series",
+              "href": "/bmw-3-series-engines"
+            },
+            {
+              "label": "View Variants →",
+              "href": "/bmw-320d-engines"
+            }
+          ],
+          "note": "320d, 330d, 335d, 340i, M3"
         },
         {
-          "t": "p",
-          "html": "320d, 330d, 335d, 340i, M3"
+          "t": "modelgroup",
+          "model": {
+            "label": "5 Series",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "5 Series",
+              "href": "/bmw-5-series-engines"
+            },
+            {
+              "label": "View Variants →",
+              "href": "/bmw-530d-engines"
+            }
+          ],
+          "note": "520d, 530d, 535d, 540i, M5"
         },
         {
-          "t": "h3",
-          "text": "5 Series"
+          "t": "modelgroup",
+          "model": {
+            "label": "X5",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "X5",
+              "href": "/bmw-x5-engines"
+            },
+            {
+              "label": "View Variants →",
+              "href": "/bmw-x5-xdrive30d-engines"
+            }
+          ],
+          "note": "xDrive30d, xDrive40d, xDrive50i, X5 M"
         },
         {
-          "t": "p",
-          "html": "520d, 530d, 535d, 540i, M5"
+          "t": "modelgroup",
+          "model": {
+            "label": "M3",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "M3",
+              "href": "/bmw-m3-engines"
+            },
+            {
+              "label": "View Variants →",
+              "href": "/bmw-m3-engines"
+            }
+          ],
+          "note": "E46, E90, F80, G80"
         },
         {
-          "t": "h3",
-          "text": "X5"
-        },
-        {
-          "t": "p",
-          "html": "xDrive30d, xDrive40d, xDrive50i, X5 M"
-        },
-        {
-          "t": "h3",
-          "text": "M3"
-        },
-        {
-          "t": "p",
-          "html": "E46, E90, F80, G80"
-        },
-        {
-          "t": "h3",
-          "text": "M4"
-        },
-        {
-          "t": "p",
-          "html": "F82, F83, G82"
+          "t": "modelgroup",
+          "model": {
+            "label": "M4",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "M4",
+              "href": "/bmw-m4-engines"
+            },
+            {
+              "label": "View Variants →",
+              "href": "/bmw-m4-engines"
+            }
+          ],
+          "note": "F82, F83, G82"
         },
         {
           "t": "p",
@@ -150,27 +205,27 @@
       "heading": "Our Engine Rebuild Process",
       "steps": [
         {
-          "title": "",
+          "title": "Removal & Teardown",
           "body": "The engine is fully removed and completely disassembled. All parts are laid out for inspection."
         },
         {
-          "title": "",
+          "title": "Precision Measurement",
           "body": "Cylinder bores, bearing clearances, and crankshaft journals are measured against BMW factory tolerances."
         },
         {
-          "title": "",
+          "title": "Machine Work",
           "body": "Boring, honing, crankshaft grinding, and cylinder head resurfacing. Alusil cylinders are honed using the correct specialist procedure."
         },
         {
-          "title": "",
+          "title": "Component Replacement",
           "body": "New pistons, rings, bearings, gaskets, seals, and a full timing chain kit are installed. Valve cover gaskets and cooling system parts are also renewed."
         },
         {
-          "title": "",
+          "title": "Reassembly & Testing",
           "body": "Everything is torqued to BMW specification. VANOS is verified with BMW timing tools. Compression and leak-down tests confirm a perfect seal."
         },
         {
-          "title": "",
+          "title": "Reinstallation & Road Test",
           "body": "The rebuilt engine is refitted, all systems are checked with BMW ISTA, and the vehicle is road-tested before collection."
         }
       ]
@@ -196,19 +251,19 @@
       "heading": "How Our Rebuild Service Works",
       "steps": [
         {
-          "title": "",
+          "title": "Contact Us",
           "body": "Get in touch by phone, WhatsApp, or email. Tell us about your BMW and the issues you're experiencing."
         },
         {
-          "title": "",
+          "title": "Vehicle Inspection",
           "body": "We inspect your vehicle at our workshop to confirm the engine condition and provide a fixed quote."
         },
         {
-          "title": "",
+          "title": "Rebuild & Testing",
           "body": "We carry out the full rebuild, machine work, and testing using BMW-spec procedures and tooling."
         },
         {
-          "title": "",
+          "title": "Collection",
           "body": "Your BMW is road-tested and ready to go. We hand it back with a 12-month unlimited mileage warranty."
         }
       ]

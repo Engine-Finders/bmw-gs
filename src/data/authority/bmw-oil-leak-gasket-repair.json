@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -68,7 +68,7 @@
           "heading": "",
           "paras": [
             "Oil leak repairs vary depending on the source and labour involved. We provide a fixed-price quote after a full inspection. Call us or use the registration lookup for an initial estimate.",
-            "[Request a Quote](/contact)",
+            "[Request a Quote](/get-quote)",
             "[Pricing disclaimer](/pricing-legal-disclaimer)"
           ]
         }
@@ -83,8 +83,12 @@
           "html": "Oil leaks can occur on any BMW engine, but certain models and engine families are more prone. We perform leak repairs across the entire BMW range, with particular expertise on:"
         },
         {
-          "t": "linkgrid",
-          "items": [
+          "t": "modelgroup",
+          "model": {
+            "label": "3 Series",
+            "href": null
+          },
+          "chips": [
             {
               "label": "3 Series",
               "href": "/bmw-3-series-engines"
@@ -101,47 +105,118 @@
               "label": "N47",
               "href": "/bmw-n47-engine"
             }
-          ]
+          ],
+          "note": "E46, E90, F30, G20 – particularly N55, N63, and N47 engines."
         },
         {
-          "t": "h3",
-          "text": "5 Series"
+          "t": "modelgroup",
+          "model": {
+            "label": "5 Series",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "5 Series",
+              "href": "/bmw-5-series-engines"
+            },
+            {
+              "label": "N63",
+              "href": "/bmw-n63-engine"
+            },
+            {
+              "label": "N57",
+              "href": "/bmw-n57-engine"
+            },
+            {
+              "label": "N55",
+              "href": "/bmw-n55-engine"
+            }
+          ],
+          "note": "E60, F10, G30 – common on N63, N57, and N55."
         },
         {
-          "t": "p",
-          "html": "E60, F10, G30 – common on N63, N57, and N55."
+          "t": "modelgroup",
+          "model": {
+            "label": "X5",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "X5",
+              "href": "/bmw-x5-engines"
+            },
+            {
+              "label": "N63",
+              "href": "/bmw-n63-engine"
+            },
+            {
+              "label": "N57",
+              "href": "/bmw-n57-engine"
+            }
+          ],
+          "note": "E70, F15, G05 – N63 and N57 oil leaks are frequent."
         },
         {
-          "t": "h3",
-          "text": "X5"
+          "t": "modelgroup",
+          "model": {
+            "label": "X6",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "X6",
+              "href": "/bmw-x6-engines"
+            },
+            {
+              "label": "N63",
+              "href": "/bmw-n63-engine"
+            },
+            {
+              "label": "N57",
+              "href": "/bmw-n57-engine"
+            }
+          ],
+          "note": "Same engine families as X5 – N63, N57, B57."
         },
         {
-          "t": "p",
-          "html": "E70, F15, G05 – N63 and N57 oil leaks are frequent."
+          "t": "modelgroup",
+          "model": {
+            "label": "M3",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "M3",
+              "href": "/bmw-m3-engines"
+            },
+            {
+              "label": "S65",
+              "href": "/bmw-s65-engine"
+            },
+            {
+              "label": "S55",
+              "href": "/bmw-s55-engine"
+            }
+          ],
+          "note": "E9x (S65) and F80 (S55) – rod bearings aside, oil leaks from valve covers and oil filter housing."
         },
         {
-          "t": "h3",
-          "text": "X6"
-        },
-        {
-          "t": "p",
-          "html": "Same engine families as X5 – N63, N57, B57."
-        },
-        {
-          "t": "h3",
-          "text": "M3"
-        },
-        {
-          "t": "p",
-          "html": "E9x (S65) and F80 (S55) – rod bearings aside, oil leaks from valve covers and oil filter housing."
-        },
-        {
-          "t": "h3",
-          "text": "M5"
-        },
-        {
-          "t": "p",
-          "html": "F10 (S63) – hot-vee turbo oil lines and valve seals are common."
+          "t": "modelgroup",
+          "model": {
+            "label": "M5",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "M5",
+              "href": "/bmw-m5-engines"
+            },
+            {
+              "label": "S63",
+              "href": "/bmw-s63-engine"
+            }
+          ],
+          "note": "F10 (S63) – hot-vee turbo oil lines and valve seals are common."
         },
         {
           "t": "p",
@@ -242,7 +317,7 @@
         },
         {
           "t": "p",
-          "html": "Read our 3 Series ownership guide or 5 Series guide for more insights."
+          "html": "Read our [3 Series ownership guide](/guides) or [5 Series guide](/guides) for more insights."
         }
       ]
     },

@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -52,7 +52,7 @@
         },
         {
           "t": "p",
-          "html": "Read our S85 buying guide for more context on this engine, or see what to check when buying an S54-powered BMW."
+          "html": "[Read our S85 buying guide for more context on this engine](/guides), or [see what to check when buying an S54-powered BMW](/guides)."
         }
       ]
     },
@@ -78,6 +78,26 @@
         {
           "t": "p",
           "html": "We carry out rod bearing replacement on the following BMW M-car engines and chassis:"
+        },
+        {
+          "t": "table",
+          "head": [
+            "Engine",
+            "Model / Chassis",
+            "Production Years"
+          ],
+          "rows": [
+            [
+              "[S54](/bmw-s54-engine)",
+              "[E46 M3](/bmw-m3-engines) · [Z4 M](/bmw-z4-engines)",
+              "2000–2006 (E46) · 2006–2008 (Z4 M)"
+            ],
+            [
+              "[S85](/bmw-s85-engine)",
+              "[E60 M5](/bmw-m5-engines) · [E63/E64 M6](/bmw-m6-engines)",
+              "2005–2010"
+            ]
+          ]
         },
         {
           "t": "modelgroup",
@@ -110,7 +130,7 @@
         },
         {
           "t": "p",
-          "html": "Read our S54 buying guide for more on what to check before purchase, or our S85 guide for the V10."
+          "html": "[Read our S54 buying guide](/guides) for more on what to check before purchase, or [our S85 guide](/guides) for the V10."
         }
       ]
     },

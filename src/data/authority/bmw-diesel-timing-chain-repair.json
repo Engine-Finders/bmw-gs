@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     }
   ],
   "images": [
@@ -71,12 +71,12 @@
           "html": "This repair applies to BMW models equipped with the N47 or B47 diesel engine family — pre-2015 N47 engines (rear-mounted chain) and post-2015 B47 engines (EGR cooler recall applies separately)."
         },
         {
-          "t": "linkgrid",
-          "items": [
-            {
-              "label": "1 Series",
-              "href": "/bmw-1-series-engines"
-            },
+          "t": "modelgroup",
+          "model": {
+            "label": "1 Series",
+            "href": "/bmw-1-series-engines"
+          },
+          "chips": [
             {
               "label": "116d (N47/B47)",
               "href": "/bmw-116d-engines"
@@ -112,7 +112,7 @@
             },
             {
               "label": "225d (B47)",
-              "href": null
+              "href": "/bmw-2-series-engines"
             }
           ]
         },
@@ -154,7 +154,7 @@
             },
             {
               "label": "425d/430d (N47/B47)",
-              "href": null
+              "href": "/bmw-4-series-engines"
             }
           ]
         },
@@ -184,7 +184,7 @@
           "chips": [
             {
               "label": "sDrive18d / xDrive20d (N47/B47)",
-              "href": null
+              "href": "/bmw-x1-engines"
             }
           ]
         },

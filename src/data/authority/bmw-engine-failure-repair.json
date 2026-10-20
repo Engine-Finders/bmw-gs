@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a quote",
-      "href": "/contact"
+      "href": "/get-quote"
     }
   ],
   "images": [
@@ -80,7 +80,7 @@
         },
         {
           "t": "p",
-          "html": "[Request an assessment](/contact)"
+          "html": "[Request an assessment](/get-quote)"
         }
       ]
     },
@@ -91,6 +91,39 @@
         {
           "t": "p",
           "html": "Repairs start from the relevant rebuild price for your engine type. The final cost depends on the strip-down assessment and the extent of damage."
+        },
+        {
+          "t": "table",
+          "head": [
+            "Engine type",
+            "Repair starting from"
+          ],
+          "rows": [
+            [
+              "4-Cyl Diesel (N47 / B47)",
+              "£1,900"
+            ],
+            [
+              "4-Cyl Petrol (N20 / B48)",
+              "£2,200"
+            ],
+            [
+              "6-Cyl Diesel (N57 / B57)",
+              "£2,800"
+            ],
+            [
+              "6-Cyl Petrol (N55 / B58)",
+              "£3,200"
+            ],
+            [
+              "V8 (N63 / S63)",
+              "£4,500"
+            ],
+            [
+              "Performance / M-Sport (S54 / S55 / S58 / S65)",
+              "£5,500+"
+            ]
+          ]
         },
         {
           "t": "p",
@@ -191,27 +224,33 @@
           "chips": [
             {
               "label": "3 Series 320d",
-              "href": "/bmw-320d-engines"
+              "href": "/bmw-320d-engines",
+              "desc": "N47 timing-chain stretch (pre-2015)"
             },
             {
               "label": "3 Series 330d",
-              "href": "/bmw-330d-engines"
+              "href": "/bmw-330d-engines",
+              "desc": "N57 turbo actuator wear"
             },
             {
               "label": "5 Series 530d",
-              "href": "/bmw-530d-engines"
+              "href": "/bmw-530d-engines",
+              "desc": "N57 timing-chain & turbo actuator"
             },
             {
               "label": "M3 (F80)",
-              "href": "/bmw-m3-engines"
+              "href": "/bmw-m3-engines",
+              "desc": "S55 crank-hub failure"
             },
             {
               "label": "M5 (F10)",
-              "href": "/bmw-m5-engines"
+              "href": "/bmw-m5-engines",
+              "desc": "S63 valve-seal & coolant-line issues"
             },
             {
               "label": "X5 xDrive50i",
-              "href": "/bmw-x5-xdrive50i-engines"
+              "href": "/bmw-x5-xdrive50i-engines",
+              "desc": "N63 hot-vee cooling & valve-seal wear"
             }
           ]
         }

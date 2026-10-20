@@ -1,5 +1,4 @@
 import Image from "next/image";
-import BMWStripe from "@/components/reusable/BMWStripe";
 
 const TILE_FADE =
   "radial-gradient(60% 90% at 0% 0%, white 0%, transparent 55%), radial-gradient(60% 90% at 100% 0%, white 0%, transparent 55%), radial-gradient(60% 90% at 0% 100%, white 0%, transparent 55%), radial-gradient(60% 90% at 100% 100%, white 0%, transparent 55%)";
@@ -14,9 +13,17 @@ export default function HomeSec6({ data }) {
         className="relative mx-auto max-w-6xl rounded-2xl border border-white bg-white px-4 py-6 sm:px-6 sm:py-8"
         style={{ boxShadow: "0 0 60px -8px rgba(255,255,255,0.9), 0 0 20px rgba(0,0,0,0.06)" }}
       >
-        <div className="text-center">
-          <BMWStripe size="wide" className="mx-auto mb-4" />
-          <h2 className="hp-h2 text-[#101828]">{data.h2}</h2>
+        {/* our logo sits half on / half off the card's own top edge, on a pill of the page colour so the card border doesn't cut through it */}
+        <span className="absolute left-1/2 top-0 z-10 -translate-x-1/2 -translate-y-1/2 rounded-full bg-white px-4 py-1.5">
+          <Image src="/brand/logo-icon-light.webp" alt="BMW Garage" width={512} height={175} className="h-11 w-auto" sizes="120px" />
+        </span>
+
+        <div className="pt-2 text-center">
+          <div className="flex items-center justify-center gap-3">
+            <span className="h-px w-20 bg-hero-blue/40" />
+            <h2 className="hp-h2 text-[#101828]">{data.h2}</h2>
+            <span className="h-px w-20 bg-hero-blue/40" />
+          </div>
         </div>
 
         {/* portrait row — infinite scroll right */}

@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -70,6 +70,16 @@
           "paras": [
             "**Bearing replacement is included as standard in our full engine rebuild prices.**",
             "Prices start from:",
+            {
+              "ul": [
+                "4-cylinder diesel – **£1,900**",
+                "4-cylinder petrol – **£2,200**",
+                "6-cylinder diesel – **£2,800**",
+                "6-cylinder petrol – **£3,200**",
+                "V8 – **£4,500**",
+                "Performance M-Power (S54, S55, S58, S63, S65, S85) – **£5,500+**"
+              ]
+            },
             "If you require bearing replacement as a standalone service, please [contact us](/contact) for a tailored quote. [Pricing disclaimer](/pricing-legal-disclaimer)"
           ]
         }
@@ -221,31 +231,31 @@
       "heading": "Our Bearing Replacement Process",
       "steps": [
         {
-          "title": "",
+          "title": "Engine Preparation",
           "body": "We prepare the engine for bottom-end access, safely supporting the vehicle and draining fluids."
         },
         {
-          "title": "",
+          "title": "Oil Pan Removal",
           "body": "The oil pan and any obstructions are removed to expose the main and connecting rod bearing caps."
         },
         {
-          "title": "",
+          "title": "Bearing Cap Removal",
           "body": "We remove the bearing caps and carefully extract the old bearing shells."
         },
         {
-          "title": "",
+          "title": "Journal Inspection & Measurement",
           "body": "Crankshaft journals are inspected for wear and measured against BMW factory tolerances using precision tools."
         },
         {
-          "title": "",
+          "title": "New Bearing Installation",
           "body": "New bearings are fitted with correct clearance, verified with plastigauge or micrometer readings."
         },
         {
-          "title": "",
+          "title": "Reassembly & Torque",
           "body": "All components are reassembled and torqued to BMW's exact specifications, including new bolts where required."
         },
         {
-          "title": "",
+          "title": "Oil System Service",
           "body": "We replace the oil and filter, and perform a final check before road testing."
         }
       ]

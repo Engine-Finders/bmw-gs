@@ -1,5 +1,6 @@
 {
-  "h2": "Find My BMW",
+  "h2": "Get Your BMW Engine Quote",
+  "buttonLabel": "Get Your Instant Engine Quote",
   "description": "Enter your reg. We'll identify your engine, tell you the cost, and arrange recovery.",
   "note": "Live DVLA/VIN API integration"
 }

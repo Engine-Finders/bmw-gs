@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -68,8 +68,45 @@
           ]
         },
         {
+          "t": "table",
+          "head": [
+            "Engine Type",
+            "Replacement & Fitting From"
+          ],
+          "rows": [
+            [
+              "4-Cyl Diesel",
+              "£1,900"
+            ],
+            [
+              "4-Cyl Petrol",
+              "£2,200"
+            ],
+            [
+              "6-Cyl Diesel",
+              "£2,800"
+            ],
+            [
+              "6-Cyl Petrol",
+              "£3,200"
+            ],
+            [
+              "V8",
+              "£4,500"
+            ],
+            [
+              "V12",
+              "£8,000+"
+            ],
+            [
+              "Performance / M-Sport",
+              "£5,500+"
+            ]
+          ]
+        },
+        {
           "t": "p",
-          "html": "[Get a Fixed Price Quote](/contact)"
+          "html": "[Get a Fixed Price Quote](/get-quote)"
         }
       ]
     },
@@ -87,6 +124,62 @@
             {
               "label": "1 Series",
               "href": "/bmw-1-series-engines"
+            },
+            {
+              "label": "2 Series",
+              "href": "/bmw-2-series-engines"
+            },
+            {
+              "label": "3 Series",
+              "href": "/bmw-3-series-engines"
+            },
+            {
+              "label": "4 Series",
+              "href": "/bmw-4-series-engines"
+            },
+            {
+              "label": "5 Series",
+              "href": "/bmw-5-series-engines"
+            },
+            {
+              "label": "6 Series",
+              "href": "/bmw-6-series-engines"
+            },
+            {
+              "label": "7 Series",
+              "href": "/bmw-7-series-engines"
+            },
+            {
+              "label": "8 Series",
+              "href": "/bmw-8-series-engines"
+            },
+            {
+              "label": "X1",
+              "href": "/bmw-x1-engines"
+            },
+            {
+              "label": "X3",
+              "href": "/bmw-x3-engines"
+            },
+            {
+              "label": "X5",
+              "href": "/bmw-x5-engines"
+            },
+            {
+              "label": "X7",
+              "href": "/bmw-x7-engines"
+            },
+            {
+              "label": "M3",
+              "href": "/bmw-m3-engines"
+            },
+            {
+              "label": "M5",
+              "href": "/bmw-m5-engines"
+            },
+            {
+              "label": "Z4",
+              "href": "/bmw-z4-engines"
             }
           ]
         },
@@ -104,6 +197,50 @@
             {
               "label": "N47",
               "href": "/bmw-n47-engine"
+            },
+            {
+              "label": "B47",
+              "href": "/bmw-b47-engine"
+            },
+            {
+              "label": "N20",
+              "href": "/bmw-n20-engine"
+            },
+            {
+              "label": "B48",
+              "href": "/bmw-b48-engine"
+            },
+            {
+              "label": "N55",
+              "href": "/bmw-n55-engine"
+            },
+            {
+              "label": "B58",
+              "href": "/bmw-b58-engine"
+            },
+            {
+              "label": "N57",
+              "href": "/bmw-n57-engine"
+            },
+            {
+              "label": "B57",
+              "href": "/bmw-b57-engine"
+            },
+            {
+              "label": "N63",
+              "href": "/bmw-n63-engine"
+            },
+            {
+              "label": "S55",
+              "href": "/bmw-s55-engine"
+            },
+            {
+              "label": "S58",
+              "href": "/bmw-s58-engine"
+            },
+            {
+              "label": "S63",
+              "href": "/bmw-s63-engine"
             }
           ]
         },
@@ -121,6 +258,34 @@
             {
               "label": "320d (N47/B47)",
               "href": "/bmw-320d-engines"
+            },
+            {
+              "label": "520d (N47/B47)",
+              "href": "/bmw-520d-engines"
+            },
+            {
+              "label": "330d (N57/B57)",
+              "href": "/bmw-330d-engines"
+            },
+            {
+              "label": "530d (N57/B57)",
+              "href": "/bmw-530d-engines"
+            },
+            {
+              "label": "X5 xDrive30d (M57/N57)",
+              "href": "/bmw-x5-xdrive30d-engines"
+            },
+            {
+              "label": "M3 (S55/S58)",
+              "href": "/bmw-m3-engines"
+            },
+            {
+              "label": "440i (B58)",
+              "href": "/bmw-440i-engines"
+            },
+            {
+              "label": "730d/740d (N57/B57)",
+              "href": "/bmw-7-series-engines"
             }
           ]
         }
@@ -235,7 +400,7 @@
         },
         {
           "t": "p",
-          "html": "Read more: Rebuild, Replacement or Used Engine: How We Decide • What Determines Whether Your Engine Is Worth Rebuilding"
+          "html": "Read more: [Rebuild, Replacement or Used Engine: How We Decide](/guides) • [What Determines Whether Your Engine Is Worth Rebuilding](/guides)"
         }
       ]
     },
@@ -283,7 +448,7 @@
         },
         {
           "t": "p",
-          "html": "Call us: [0203 488 4649](tel:02034884649) • WhatsApp: [07975 827396](https://wa.me/447975827396)"
+          "html": "Call us: [0203 488 4649](tel:+441268944234) • WhatsApp: [07975 827396](https://wa.me/447975827396)"
         }
       ]
     }

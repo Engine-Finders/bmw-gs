@@ -1,5 +1,4 @@
 {
-  "eyebrow": "Performance Belongs On The Road",
   "kicker": "Less time off the road. More time behind the wheel.",
   "h2": "Get Back|On The Road",
   "subhead1": "With Up To 40% Off",
@@ -14,7 +13,7 @@
     { "label": "Faster Turnaround", "icon": "speed" },
     { "label": "The Same BMW DNA", "icon": "road" }
   ],
-  "cta": { "label": "Check My BMW", "href": "#find-my-bmw" },
+  "cta": { "label": "Get Your Free Engine Quote", "href": "#find-my-bmw" },
   "footer": "Because Every Drive Matters",
   "bgImage": "/home/sec4_5_bg.png",
   "mobileImage": "/home/sec4_5_mobile.webp",

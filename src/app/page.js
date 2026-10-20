@@ -36,14 +36,14 @@ export default function Home() {
       <HomeSec1 hero={homeSec1} lookup={homeSec2} />
       <div className="bg-linear-to-b from-[#eaf3fb] to-white pb-6 pt-40 md:pt-28">
         <HomeSec3 data={homeSec3} />
-        <HomeSec4 data={homeSec4} />
+        <HomeSec7 data={homeSec7} />
       </div>
       <div className="bg-[#f3f6fb]">
         <HomeSec4_5 data={homeSec4_5} />
       </div>
       <HomeSec5 data={homeSec5} />
       <HomeSec6 data={homeSec6} />
-      <HomeSec7 data={homeSec7} />
+      <HomeSec4 data={homeSec4} />
       <HomeSec8 data={homeSec8} />
       <HomeSec9 data={homeSec9} />
       <HomeSec9_5 data={homeSec9_5} />

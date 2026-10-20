@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -91,6 +91,15 @@
             "Machining is included",
             "in every BMW engine rebuild we carry out",
             "Rebuilds start from:",
+            {
+              "ul": [
+                "**4-Cyl Diesel** £1,900",
+                "**4-Cyl Petrol** £2,200",
+                "**6-Cyl Diesel** £2,800",
+                "**6-Cyl Petrol** £3,200",
+                "**V8 / Performance** from £4,500 / £5,500+"
+              ]
+            },
             "[Pricing disclaimer →](/pricing-legal-disclaimer)"
           ]
         },
@@ -252,31 +261,31 @@
       "heading": "Our Machining Process",
       "steps": [
         {
-          "title": "",
+          "title": "Inspection & Assessment",
           "body": "Every engine is fully stripped and measured. We check cylinder ovality, bore wear, crankshaft journal condition, head flatness and valve seat condition."
         },
         {
-          "title": "",
+          "title": "Cylinder Boring",
           "body": "Where cylinders are out of round or scored, we bore to the next oversize using a precision boring machine. This step is essential for engines that have suffered ring wear or bore scoring."
         },
         {
-          "title": "",
+          "title": "Honing & Alusil Finish",
           "body": "Cylinders are honed with a cross-hatch pattern to promote ring seating. For Alusil blocks, we apply the specialised acid-etch finish to expose silicon crystals — a step generic machine shops often miss."
         },
         {
-          "title": "",
+          "title": "Crankshaft Grinding",
           "body": "Worn main and big-end journals are ground to restore roundness and correct bearing clearance. We measure against BMW's published tolerances for each engine code."
         },
         {
-          "title": "",
+          "title": "Cylinder Head Resurfacing",
           "body": "The head is machined flat to ensure an even clamping force. Warped heads are corrected; badly distorted heads may require replacement — we always advise during inspection."
         },
         {
-          "title": "",
+          "title": "Valve Seat Work",
           "body": "Valve seats are cut and ground to guarantee perfect sealing. We check valve height and spring tension as part of the head rebuild."
         },
         {
-          "title": "",
+          "title": "Final Measurement & Sign-Off",
           "body": "Every machined component is re-measured and recorded against the specification for that engine. We only assemble once all dimensions are within BMW's tolerance band."
         }
       ]
@@ -306,23 +315,23 @@
       "heading": "How Machining Fits Into Your Rebuild",
       "steps": [
         {
-          "title": "",
+          "title": "Vehicle arrives at our workshop",
           "body": "We recover your BMW or you bring it to our Billericay premises. The engine is removed and stripped down."
         },
         {
-          "title": "",
+          "title": "Full machining inspection",
           "body": "We measure every critical dimension: bore ovality, journal wear, head flatness and valve seat condition."
         },
         {
-          "title": "",
+          "title": "Precision machining",
           "body": "Boring, honing, grinding and resurfacing are carried out to BMW factory tolerances. Alusil blocks receive the correct acid-etch finish."
         },
         {
-          "title": "",
+          "title": "Final measurement & sign-off",
           "body": "All components are re-measured and recorded. We only proceed to assembly once everything is within spec."
         },
         {
-          "title": "",
+          "title": "Full rebuild and road test",
           "body": "Your engine is rebuilt using the machined components, fitted back into the car, and road-tested before collection."
         }
       ]

@@ -3,11 +3,11 @@
   "metaTitle": "BMW Repair vs Full Rebuild | BMW Garage",
   "metaDescription": "BMW engine repair vs full rebuild: understand the difference, when each is appropriate, and how we decide. Fixed-price rebuilds from £1,900.",
   "h1": "BMW Repair vs Full Rebuild",
-  "lede": "",
+  "lede": "Understanding the difference between a targeted engine repair and a complete engine rebuild — and knowing which one your BMW actually needs.",
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -92,6 +92,30 @@
         {
           "t": "p",
           "html": "Our fixed-price rebuilds start from the bands below. Every rebuild includes full strip-down, inspection, machining where required, and replacement of all wear items — no surprises."
+        },
+        {
+          "t": "p",
+          "html": "£1,900"
+        },
+        {
+          "t": "p",
+          "html": "£2,200"
+        },
+        {
+          "t": "p",
+          "html": "£2,800"
+        },
+        {
+          "t": "p",
+          "html": "£3,200"
+        },
+        {
+          "t": "p",
+          "html": "£4,500"
+        },
+        {
+          "t": "p",
+          "html": "£5,500+"
         },
         {
           "t": "p",

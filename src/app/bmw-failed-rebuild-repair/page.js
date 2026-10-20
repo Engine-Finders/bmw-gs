@@ -1,9 +1,9 @@
 import AuthorityPage from "@/components/shared/AuthorityPage";
 import JsonLd from "@/components/shared/JsonLd";
 import { serviceSchema, faqSchema, breadcrumbSchema, graphDoc } from "@/lib/schema";
-import data from "@/data/authority/bmw-failed-rebuild-remediation.json";
+import data from "@/data/authority/bmw-failed-rebuild-repair.json";
 
-const PATH = "/bmw-failed-rebuild-remediation";
+const PATH = "/bmw-failed-rebuild-repair";
 const FAQ = (data.sections || []).filter((s) => s.kind === "faq").flatMap((s) => s.items || []);
 
 export const metadata = {

@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -86,12 +86,12 @@
           "html": "We rebuild high-mileage engines across the full BMW range. Below are the most common model families we see in the workshop for this service."
         },
         {
-          "t": "linkgrid",
-          "items": [
-            {
-              "label": "1 Series",
-              "href": "/bmw-1-series-engines"
-            },
+          "t": "modelgroup",
+          "model": {
+            "label": "1 Series",
+            "href": "/bmw-1-series-engines"
+          },
+          "chips": [
             {
               "label": "116d",
               "href": "/bmw-116d-engines"
@@ -219,11 +219,11 @@
           "chips": [
             {
               "label": "xDrive20d",
-              "href": null
+              "href": "/bmw-x3-engines"
             },
             {
               "label": "xDrive30i",
-              "href": null
+              "href": "/bmw-x3-engines"
             },
             {
               "label": "X3 M40i",
@@ -290,7 +290,7 @@
       "steps": [
         {
           "title": "",
-          "body": "**Contact us** – call [0203 488 4649](tel:02034884649) or [get a quote online](/contact)"
+          "body": "**Contact us** – call [0203 488 4649](tel:+441268944234) or [get a quote online](/get-quote)"
         },
         {
           "title": "",

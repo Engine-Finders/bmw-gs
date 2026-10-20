@@ -18,6 +18,8 @@ const nextConfig = {
   },
   async redirects() {
     return [
+      // guide pages renamed to the addresses used in the content documents: old address keeps working
+      { source: "/bmw-failed-rebuild-remediation", destination: "/bmw-failed-rebuild-repair", permanent: true },
       {
         source: "/:path*",
         has: [{ type: "host", value: "www.bmwgarage.uk" }],

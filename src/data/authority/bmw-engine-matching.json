@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Check your engine",
-      "href": "/contact"
+      "href": "/get-quote"
     }
   ],
   "images": [
@@ -59,7 +59,7 @@
           "heading": "",
           "paras": [
             "Engine matching is included as part of our [engine rebuild](/bmw-engine-rebuild) or [engine replacement](/bmw-engine-replacement) service. We do not offer standalone engine matching without associated work.",
-            "[Get a quote](/contact)"
+            "[Get a quote](/get-quote)"
           ]
         }
       ]
@@ -78,6 +78,94 @@
             {
               "label": "1 Series",
               "href": "/bmw-1-series-engines"
+            },
+            {
+              "label": "2 Series",
+              "href": "/bmw-2-series-engines"
+            },
+            {
+              "label": "3 Series",
+              "href": "/bmw-3-series-engines"
+            },
+            {
+              "label": "4 Series",
+              "href": "/bmw-4-series-engines"
+            },
+            {
+              "label": "5 Series",
+              "href": "/bmw-5-series-engines"
+            },
+            {
+              "label": "6 Series",
+              "href": "/bmw-6-series-engines"
+            },
+            {
+              "label": "7 Series",
+              "href": "/bmw-7-series-engines"
+            },
+            {
+              "label": "8 Series",
+              "href": "/bmw-8-series-engines"
+            },
+            {
+              "label": "X1",
+              "href": "/bmw-x1-engines"
+            },
+            {
+              "label": "X2",
+              "href": "/bmw-x2-engines"
+            },
+            {
+              "label": "X3",
+              "href": "/bmw-x3-engines"
+            },
+            {
+              "label": "X4",
+              "href": "/bmw-x4-engines"
+            },
+            {
+              "label": "X5",
+              "href": "/bmw-x5-engines"
+            },
+            {
+              "label": "X6",
+              "href": "/bmw-x6-engines"
+            },
+            {
+              "label": "X7",
+              "href": "/bmw-x7-engines"
+            },
+            {
+              "label": "Z4",
+              "href": "/bmw-z4-engines"
+            },
+            {
+              "label": "XM",
+              "href": "/bmw-xm-engines"
+            },
+            {
+              "label": "M2",
+              "href": "/bmw-m2-engines"
+            },
+            {
+              "label": "M3",
+              "href": "/bmw-m3-engines"
+            },
+            {
+              "label": "M4",
+              "href": "/bmw-m4-engines"
+            },
+            {
+              "label": "M5",
+              "href": "/bmw-m5-engines"
+            },
+            {
+              "label": "M6",
+              "href": "/bmw-m6-engines"
+            },
+            {
+              "label": "M8",
+              "href": "/bmw-m8-engines"
             }
           ]
         },
@@ -91,6 +179,66 @@
             {
               "label": "N47",
               "href": "/bmw-n47-engine"
+            },
+            {
+              "label": "B47",
+              "href": "/bmw-b47-engine"
+            },
+            {
+              "label": "N57",
+              "href": "/bmw-n57-engine"
+            },
+            {
+              "label": "B57",
+              "href": "/bmw-b57-engine"
+            },
+            {
+              "label": "N20",
+              "href": "/bmw-n20-engine"
+            },
+            {
+              "label": "B48",
+              "href": "/bmw-b48-engine"
+            },
+            {
+              "label": "N55",
+              "href": "/bmw-n55-engine"
+            },
+            {
+              "label": "B58",
+              "href": "/bmw-b58-engine"
+            },
+            {
+              "label": "N63",
+              "href": "/bmw-n63-engine"
+            },
+            {
+              "label": "S63",
+              "href": "/bmw-s63-engine"
+            },
+            {
+              "label": "S55",
+              "href": "/bmw-s55-engine"
+            },
+            {
+              "label": "S58",
+              "href": "/bmw-s58-engine"
+            },
+            {
+              "label": "S54",
+              "href": "/bmw-s54-engine"
+            },
+            {
+              "label": "S65",
+              "href": "/bmw-s65-engine"
+            },
+            {
+              "label": "S85",
+              "href": "/bmw-s85-engine"
+            },
+            {
+              "label": "S68",
+              "href": "/bmw-s68-engine"
             }
           ]
         }
@@ -101,23 +249,23 @@
       "heading": "Our engine matching process",
       "steps": [
         {
-          "title": "",
+          "title": "VIN decoding",
           "body": "We decode your BMW's 17-character VIN to extract production date, chassis code, engine type, drivetrain, and optional equipment."
         },
         {
-          "title": "",
+          "title": "Registration lookup",
           "body": "We cross-reference your V5C registration document to confirm engine capacity, fuel type, and model year."
         },
         {
-          "title": "",
+          "title": "Parts catalogue cross-reference",
           "body": "We use the VIN to query manufacturer parts catalogues and identify the exact engine variant fitted to your vehicle."
         },
         {
-          "title": "",
+          "title": "Component verification",
           "body": "We physically check the engine number on the block against the VIN record for absolute certainty."
         },
         {
-          "title": "",
+          "title": "Compatibility assessment",
           "body": "We confirm that any replacement engine matches your vehicle's specifications — same engine code, correct ancillaries and mounting points."
         }
       ]
@@ -157,19 +305,19 @@
       "heading": "How BMW engine matching works",
       "steps": [
         {
-          "title": "",
+          "title": "Initial check",
           "body": "Enter your registration and we'll decode your BMW's VIN to confirm the engine family."
         },
         {
-          "title": "",
+          "title": "Full matching",
           "body": "We cross-reference manufacturer catalogues to identify the exact engine variant and components."
         },
         {
-          "title": "",
+          "title": "Physical verification",
           "body": "We check the engine number on the block against the VIN record for absolute certainty."
         },
         {
-          "title": "",
+          "title": "Work begins",
           "body": "With the engine correctly identified, we begin the rebuild or replacement with the right components."
         }
       ]

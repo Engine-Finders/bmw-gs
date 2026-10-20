@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -79,7 +79,7 @@
         },
         {
           "t": "p",
-          "html": "[Get a tailored quote](/contact)"
+          "html": "[Get a tailored quote](/get-quote)"
         }
       ]
     },
@@ -201,35 +201,43 @@
           "chips": [
             {
               "label": "N47",
-              "href": "/bmw-n47-engine"
+              "href": "/bmw-n47-engine",
+              "desc": "(4-cyl diesel, 2007–2015)"
             },
             {
               "label": "B47",
-              "href": "/bmw-b47-engine"
+              "href": "/bmw-b47-engine",
+              "desc": "(4-cyl diesel, 2015–present)"
             },
             {
               "label": "N57",
-              "href": "/bmw-n57-engine"
+              "href": "/bmw-n57-engine",
+              "desc": "(6-cyl diesel)"
             },
             {
               "label": "B57",
-              "href": "/bmw-b57-engine"
+              "href": "/bmw-b57-engine",
+              "desc": "(6-cyl diesel, modern)"
             },
             {
               "label": "N20",
-              "href": "/bmw-n20-engine"
+              "href": "/bmw-n20-engine",
+              "desc": "(4-cyl petrol)"
             },
             {
               "label": "B48",
-              "href": "/bmw-b48-engine"
+              "href": "/bmw-b48-engine",
+              "desc": "(4-cyl petrol, modern)"
             },
             {
               "label": "N55",
-              "href": "/bmw-n55-engine"
+              "href": "/bmw-n55-engine",
+              "desc": "(6-cyl petrol)"
             },
             {
               "label": "B58",
-              "href": "/bmw-b58-engine"
+              "href": "/bmw-b58-engine",
+              "desc": "(6-cyl petrol, modern)"
             },
             {
               "label": "N63",
@@ -237,7 +245,8 @@
             },
             {
               "label": "N63TU",
-              "href": "/bmw-n63tu-engine"
+              "href": "/bmw-n63tu-engine",
+              "desc": "(V8)"
             },
             {
               "label": "S55",
@@ -249,7 +258,8 @@
             },
             {
               "label": "S63",
-              "href": "/bmw-s63-engine"
+              "href": "/bmw-s63-engine",
+              "desc": "(M-performance V8/I6)"
             }
           ]
         }

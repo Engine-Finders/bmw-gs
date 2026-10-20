@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Arrange Collection",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -72,7 +72,7 @@
         },
         {
           "t": "p",
-          "html": "For specific quotes on collection from remote areas, out-of-hours recovery, or low-clearance BMW models (including M-badged variants), please [contact us directly](/contact) or use our [online quote form](/contact)."
+          "html": "For specific quotes on collection from remote areas, out-of-hours recovery, or low-clearance BMW models (including M-badged variants), please [contact us directly](/contact) or use our [online quote form](/get-quote)."
         }
       ]
     },
@@ -83,6 +83,56 @@
         {
           "t": "p",
           "html": "Our recovery service covers the full BMW range. We have specialist knowledge of low-clearance and performance models, and we take extra care with modern electronics and transmission systems."
+        },
+        {
+          "t": "table",
+          "head": [
+            "Model",
+            "Chassis",
+            "Notes"
+          ],
+          "rows": [
+            [
+              "[3 Series](/bmw-3-series-engines)",
+              "E90, F30, G20",
+              "Saloon, Touring, M3"
+            ],
+            [
+              "[5 Series](/bmw-5-series-engines)",
+              "E60, F10, G30",
+              "Saloon, Touring, M5"
+            ],
+            [
+              "[X5](/bmw-x5-engines)",
+              "E53, E70, F15, G05",
+              "SUV, X5 M"
+            ],
+            [
+              "[X3](/bmw-x3-engines)",
+              "E83, F25, G01",
+              "SUV, X3 M"
+            ],
+            [
+              "[1 Series](/bmw-1-series-engines)",
+              "E87, F20, F40",
+              "Hatchback, M135i, M140i"
+            ],
+            [
+              "[4 Series](/bmw-4-series-engines)",
+              "F32, G22",
+              "Coupe, Convertible, M4"
+            ],
+            [
+              "[M2](/bmw-m2-engines)",
+              "F87, G87",
+              "Performance coupe"
+            ],
+            [
+              "[8 Series](/bmw-8-series-engines)",
+              "G14, G15",
+              "Coupe, M8"
+            ]
+          ]
         },
         {
           "t": "p",

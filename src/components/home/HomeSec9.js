@@ -18,8 +18,15 @@ export default function HomeSec9({ data }) {
         <Image src={data.bgImage} alt="" fill className="object-cover" sizes="100vw" />
       </div>
 
+      {/* BMW-blue glare line along the top edge */}
+      <div aria-hidden="true" className="pointer-events-none absolute inset-x-0 top-0 h-16 bg-linear-to-b from-[#007ff8]/25 to-transparent" />
+      <div
+        aria-hidden="true"
+        className="pointer-events-none absolute inset-x-[8%] top-0 h-px bg-linear-to-r from-transparent via-[#9fd0ff] to-transparent shadow-[0_0_14px_3px_rgba(0,127,248,0.55)]"
+      />
+
       {/* ===== mobile ===== */}
-      <div className="relative px-4 py-8 md:hidden">
+      <div className="relative px-4 pb-8 pt-10 md:hidden">
         <h2 className="hp-h2 text-center uppercase text-white">
           <span className="block">Recently Completed</span>
           <span className="block">
@@ -36,6 +43,20 @@ export default function HomeSec9({ data }) {
               </div>
             </div>
           ))}
+        </div>
+        <div className="mt-6 flex flex-col items-center gap-3">
+          <div className="w-fit rounded-sm p-0.5" style={{ background: "linear-gradient(90deg, #fff 0%, #007ff8 55%, #0062c4 100%)" }}>
+            <a
+              href={data.cta.href}
+              className="block whitespace-nowrap rounded-[3px] bg-hero-blue px-8 py-2.5 text-center text-sm font-bold text-white transition-colors hover:bg-hero-dark hover:text-hero-blue"
+            >
+              {data.cta.label} →
+            </a>
+          </div>
+          <span className="flex items-center gap-2 text-[11px] uppercase tracking-wide text-white/70">
+            <Image src="/brand/logo-icon.webp" alt="BMW Garage" width={512} height={175} className="h-7 w-auto" sizes="90px" />
+            {data.footerTagline}
+          </span>
         </div>
       </div>
 
@@ -79,6 +100,22 @@ export default function HomeSec9({ data }) {
               </div>
             ))}
           </div>
+        </div>
+
+        <div className="mt-8 flex items-center justify-center gap-4">
+          <div className="rounded-sm p-0.5" style={{ background: "linear-gradient(90deg, #fff 0%, #007ff8 55%, #0062c4 100%)" }}>
+            <a
+              href={data.cta.href}
+              className="block rounded-[3px] bg-hero-blue px-6 py-2.5 text-sm font-bold text-white transition-colors hover:bg-hero-dark hover:text-hero-blue"
+            >
+              {data.cta.label} →
+            </a>
+          </div>
+          <span className="h-6 w-px bg-white/20" />
+          <span className="flex items-center gap-2 text-xs uppercase tracking-wide text-white/70">
+            <Image src="/brand/logo-icon.webp" alt="BMW Garage" width={512} height={175} className="h-8 w-auto" sizes="100px" />
+            {data.footerTagline}
+          </span>
         </div>
       </div>
     </section>

@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote →",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Our Engine Rebuild Process",
@@ -82,7 +82,7 @@
         },
         {
           "t": "p",
-          "html": "For a deeper look at what we check during every rebuild, see our guide on what we check on every rebuild, every time."
+          "html": "For a deeper look at what we check during every rebuild, see our guide on [what we check on every rebuild, every time](/guides)."
         }
       ]
     },
@@ -95,8 +95,45 @@
           "html": "Our rebuild prices start from the bands below, based on the engine type in your BMW. [See our pricing disclaimer →](/pricing-legal-disclaimer)"
         },
         {
+          "t": "table",
+          "head": [
+            "Engine Type",
+            "Rebuild Starting From"
+          ],
+          "rows": [
+            [
+              "4-Cyl Diesel",
+              "£1,900"
+            ],
+            [
+              "4-Cyl Petrol",
+              "£2,200"
+            ],
+            [
+              "6-Cyl Diesel",
+              "£2,800"
+            ],
+            [
+              "6-Cyl Petrol",
+              "£3,200"
+            ],
+            [
+              "V8",
+              "£4,500"
+            ],
+            [
+              "V12",
+              "£8,000+"
+            ],
+            [
+              "Performance/M-Sport (S54/S55/S58/S63/S65)",
+              "£5,500+"
+            ]
+          ]
+        },
+        {
           "t": "p",
-          "html": "Prices are for a full engine rebuild including parts, labour, and machining. [Get a firm quote for your BMW →](/contact)"
+          "html": "Prices are for a full engine rebuild including parts, labour, and machining. [Get a firm quote for your BMW →](/get-quote)"
         }
       ]
     },
@@ -203,7 +240,7 @@
         },
         {
           "q": "How do I know if my BMW engine is rebuildable?",
-          "a": "We assess every engine case-by-case during our strip-down and inspection. Most BMW engines are rebuildable unless there's catastrophic structural damage. [Contact us for a quote](/contact) and we'll advise."
+          "a": "We assess every engine case-by-case during our strip-down and inspection. Most BMW engines are rebuildable unless there's catastrophic structural damage. [Contact us for a quote](/get-quote) and we'll advise."
         },
         {
           "q": "What's the warranty on a BMW engine rebuild?",

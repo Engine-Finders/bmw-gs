@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -51,6 +51,17 @@
           "heading": "",
           "paras": [
             "**Every rebuild includes our 12-month unlimited-mileage warranty** — included in the following starting prices:",
+            {
+              "ul": [
+                "4-Cyl Diesel from £1,900",
+                "4-Cyl Petrol from £2,200",
+                "6-Cyl Diesel from £2,800",
+                "6-Cyl Petrol from £3,200",
+                "V8 from £4,500",
+                "V12 from £8,000+",
+                "Performance M-Sport from £5,500+"
+              ]
+            },
             "[View full pricing disclaimer →](/pricing-legal-disclaimer)"
           ]
         },
@@ -62,20 +73,24 @@
           },
           "chips": [
             {
-              "label": "**Workmanship** — defects in assembly or machining",
-              "href": null
+              "label": "**Workmanship**",
+              "href": null,
+              "desc": "defects in assembly or machining"
             },
             {
-              "label": "**Components** — failure of parts replaced during the rebuild",
-              "href": null
+              "label": "**Components**",
+              "href": null,
+              "desc": "failure of parts replaced during the rebuild"
             },
             {
-              "label": "**Duration** — 12 months",
-              "href": null
+              "label": "**Duration**",
+              "href": null,
+              "desc": "12 months"
             },
             {
-              "label": "**Mileage** — unlimited",
-              "href": null
+              "label": "**Mileage**",
+              "href": null,
+              "desc": "unlimited"
             }
           ]
         },
@@ -280,11 +295,13 @@
             },
             {
               "label": "M4",
-              "href": "/bmw-m4-engines"
+              "href": "/bmw-m4-engines",
+              "desc": "and all / variants"
             },
             {
               "label": "full model list",
-              "href": "/"
+              "href": "/",
+              "desc": "And all other BMW models we support (see )"
             }
           ]
         },
@@ -301,7 +318,8 @@
             },
             {
               "label": "B47",
-              "href": "/bmw-b47-engine"
+              "href": "/bmw-b47-engine",
+              "desc": "4-Cyl Diesel"
             },
             {
               "label": "N20",
@@ -309,7 +327,8 @@
             },
             {
               "label": "B48",
-              "href": "/bmw-b48-engine"
+              "href": "/bmw-b48-engine",
+              "desc": "4-Cyl Petrol"
             },
             {
               "label": "N57",
@@ -317,7 +336,8 @@
             },
             {
               "label": "B57",
-              "href": "/bmw-b57-engine"
+              "href": "/bmw-b57-engine",
+              "desc": "6-Cyl Diesel"
             },
             {
               "label": "N55",
@@ -325,7 +345,8 @@
             },
             {
               "label": "B58",
-              "href": "/bmw-b58-engine"
+              "href": "/bmw-b58-engine",
+              "desc": "6-Cyl Petrol"
             },
             {
               "label": "S55",
@@ -333,7 +354,8 @@
             },
             {
               "label": "S58",
-              "href": "/bmw-s58-engine"
+              "href": "/bmw-s58-engine",
+              "desc": "M-Performance"
             },
             {
               "label": "N63",
@@ -341,7 +363,8 @@
             },
             {
               "label": "S63",
-              "href": "/bmw-s63-engine"
+              "href": "/bmw-s63-engine",
+              "desc": "V8"
             },
             {
               "label": "S65",
@@ -349,7 +372,8 @@
             },
             {
               "label": "S85",
-              "href": "/bmw-s85-engine"
+              "href": "/bmw-s85-engine",
+              "desc": "M V8/V10"
             }
           ]
         }

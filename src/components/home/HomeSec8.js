@@ -3,7 +3,6 @@
 import { useState } from "react";
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
-import BMWStripe from "@/components/reusable/BMWStripe";
 
 export default function HomeSec8({ data }) {
   const [line1, line2, line3] = data.h2.split("|");
@@ -56,7 +55,7 @@ export default function HomeSec8({ data }) {
               <div key={h.label} className="glow-card overflow-hidden p-2 text-center">
                 <Icon name={h.icon} className="mx-auto mb-1.5 h-6 w-6 text-white" />
                 <p className="text-[9px] leading-tight text-white">{h.label}</p>
-                <BMWStripe size="full" className="mt-2 block" />
+                <span className="mt-2 block h-px w-full bg-hero-blue/60" />
               </div>
             ))}
           </div>
@@ -86,7 +85,7 @@ export default function HomeSec8({ data }) {
               <div key={h.label} className="glow-card overflow-hidden p-3 sm:p-4">
                 <Icon name={h.icon} className="mb-4 h-9 w-9 text-white sm:mb-6" />
                 <p className="text-xs text-white sm:text-sm">{h.label}</p>
-                <BMWStripe size="full" className="mt-3 block sm:mt-4" />
+                <span className="mt-3 block h-px w-full bg-hero-blue/60 sm:mt-4" />
               </div>
             ))}
           </div>

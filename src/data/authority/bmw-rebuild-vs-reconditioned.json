@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -77,12 +77,22 @@
           "heading": "",
           "paras": [
             "**BMW engine rebuilds start from:**",
+            {
+              "ul": [
+                "4-Cylinder Diesel — from £1,900",
+                "4-Cylinder Petrol — from £2,200",
+                "6-Cylinder Diesel — from £2,800",
+                "6-Cylinder Petrol — from £3,200",
+                "V8 — from £4,500",
+                "M-Performance (S54/S55/S58/S63/S65) — from £5,500+"
+              ]
+            },
             "[Pricing disclaimer →](/pricing-legal-disclaimer)"
           ]
         },
         {
           "t": "p",
-          "html": "[Get a quote for your specific BMW model →](/contact)"
+          "html": "[Get a quote for your specific BMW model →](/get-quote)"
         }
       ]
     },
@@ -103,23 +113,28 @@
           "chips": [
             {
               "label": "BMW 3 Series",
-              "href": "/bmw-3-series-engines"
+              "href": "/bmw-3-series-engines",
+              "desc": "E46, E90, F30, G20 (all engine types)"
             },
             {
               "label": "BMW 1 Series",
-              "href": "/bmw-1-series-engines"
+              "href": "/bmw-1-series-engines",
+              "desc": "E87, F20, F40 (all engine types)"
             },
             {
               "label": "BMW 5 Series",
-              "href": "/bmw-5-series-engines"
+              "href": "/bmw-5-series-engines",
+              "desc": "E39, E60, F10, G30 (all engine types)"
             },
             {
               "label": "BMW X3",
-              "href": "/bmw-x3-engines"
+              "href": "/bmw-x3-engines",
+              "desc": "E83, F25, G01, G45 (all engine types)"
             },
             {
               "label": "BMW X5",
-              "href": "/bmw-x5-engines"
+              "href": "/bmw-x5-engines",
+              "desc": "E53, E70, F15, G05 (all engine types)"
             }
           ]
         },
@@ -132,31 +147,38 @@
           "chips": [
             {
               "label": "N47",
-              "href": "/bmw-n47-engine"
+              "href": "/bmw-n47-engine",
+              "desc": "4-cylinder diesel (timing chain focus)"
             },
             {
               "label": "B47",
-              "href": "/bmw-b47-engine"
+              "href": "/bmw-b47-engine",
+              "desc": "4-cylinder diesel (modern)"
             },
             {
               "label": "N57",
-              "href": "/bmw-n57-engine"
+              "href": "/bmw-n57-engine",
+              "desc": "6-cylinder diesel"
             },
             {
               "label": "N55",
-              "href": "/bmw-n55-engine"
+              "href": "/bmw-n55-engine",
+              "desc": "6-cylinder petrol"
             },
             {
               "label": "B58",
-              "href": "/bmw-b58-engine"
+              "href": "/bmw-b58-engine",
+              "desc": "6-cylinder petrol (modern)"
             },
             {
               "label": "S55",
-              "href": "/bmw-s55-engine"
+              "href": "/bmw-s55-engine",
+              "desc": "M-Performance (M2, M3, M4)"
             },
             {
               "label": "S58",
-              "href": "/bmw-s58-engine"
+              "href": "/bmw-s58-engine",
+              "desc": "M-Performance (G8x M3/M4, X3M/X4M)"
             }
           ]
         }

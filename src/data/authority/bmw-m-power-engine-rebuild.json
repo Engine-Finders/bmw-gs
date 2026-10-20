@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -71,6 +71,47 @@
           "html": "We rebuild the full range of BMW M-Power S-code engines. Each engine has specific requirements, and our process is tailored accordingly."
         },
         {
+          "t": "table",
+          "head": [
+            "Engine",
+            "Models"
+          ],
+          "rows": [
+            [
+              "[S54](/bmw-s54-engine)",
+              "[E46 M3](/bmw-m3-engines), [Z4 M](/bmw-z4-engines)"
+            ],
+            [
+              "[S55](/bmw-s55-engine)",
+              "[F80 M3](/bmw-m3-engines), [F82 M4](/bmw-m4-engines), [F87 M2 Competition](/bmw-m2-engines)"
+            ],
+            [
+              "[S58](/bmw-s58-engine)",
+              "[G80 M3](/bmw-m3-engines), [G82 M4](/bmw-m4-engines), [G87 M2](/bmw-m2-engines), [X3 M](/bmw-x3-m-engines), [X4 M](/bmw-x4-m-engines)"
+            ],
+            [
+              "[S62](/bmw-s62-engine)",
+              "[E39 M5](/bmw-m5-engines)"
+            ],
+            [
+              "[S63](/bmw-s63-engine)",
+              "[F10 M5](/bmw-m5-engines), [F90 M5](/bmw-m5-engines), [M6](/bmw-m6-engines), [M8](/bmw-m8-engines), [X5 M](/bmw-x5-m-engines), [X6 M](/bmw-x6-m-engines)"
+            ],
+            [
+              "[S65](/bmw-s65-engine)",
+              "[E90/E92/E93 M3](/bmw-m3-engines)"
+            ],
+            [
+              "[S85](/bmw-s85-engine)",
+              "[E60 M5](/bmw-m5-engines), [E63/E64 M6](/bmw-m6-engines)"
+            ],
+            [
+              "[S68](/bmw-s68-engine)",
+              "[XM](/bmw-xm-engines), [G90 M5](/bmw-m5-engines)"
+            ]
+          ]
+        },
+        {
           "t": "p",
           "html": "For detailed information on each variant, see the relevant [M3](/bmw-m3-engines), [M4](/bmw-m4-engines), [M5](/bmw-m5-engines), [M6](/bmw-m6-engines), [M8](/bmw-m8-engines), or [M2](/bmw-m2-engines) pages."
         }
@@ -81,27 +122,27 @@
       "heading": "Our M-Power Rebuild Process",
       "steps": [
         {
-          "title": "",
+          "title": "Strip-Down & Documentation",
           "body": "Complete disassembly with careful documentation of every component's condition, orientation, and clearances."
         },
         {
-          "title": "",
+          "title": "Component Inspection",
           "body": "Every component measured against M-specification tolerances. Crankshaft assessment is critical, as M crankshafts are specific and expensive."
         },
         {
-          "title": "",
+          "title": "Machining & Preparation",
           "body": "Precision cylinder boring/honing, crankshaft grinding, and block surface preparation to exact M specifications."
         },
         {
-          "title": "",
+          "title": "Bearing & Timing Systems",
           "body": "Replacement of bearings (e.g., S54/S65/S85 rod bearings) and timing systems (chains, tensioners, VANOS)."
         },
         {
-          "title": "",
+          "title": "Precision Assembly",
           "body": "Assembly using M-specification torque procedures and BMW M-specialist tooling, following TIS documentation."
         },
         {
-          "title": "",
+          "title": "Comprehensive Testing",
           "body": "Compression, pressure, and performance checks on a test stand, followed by in-vehicle road testing to verify operation."
         }
       ]
@@ -128,19 +169,19 @@
       "heading": "How It Works",
       "steps": [
         {
-          "title": "",
+          "title": "Contact Us",
           "body": "Call, email, or use the quote form with your vehicle details."
         },
         {
-          "title": "",
+          "title": "Inspection",
           "body": "We inspect your engine and provide a detailed quote."
         },
         {
-          "title": "",
+          "title": "Rebuild",
           "body": "We carry out the rebuild using M-specification procedures."
         },
         {
-          "title": "",
+          "title": "Test & Return",
           "body": "Engine is tested and your vehicle returned."
         }
       ]

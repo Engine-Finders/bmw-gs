@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -48,7 +48,7 @@
         },
         {
           "t": "p",
-          "html": "Read our full rebuild checklist for more detail on our inspection process."
+          "html": "Read our [full rebuild checklist](/guides) for more detail on our inspection process."
         }
       ]
     },
@@ -97,6 +97,46 @@
             {
               "label": "B47",
               "href": "/bmw-b47-engine"
+            },
+            {
+              "label": "N20",
+              "href": "/bmw-n20-engine"
+            },
+            {
+              "label": "B48",
+              "href": "/bmw-b48-engine"
+            },
+            {
+              "label": "N55",
+              "href": "/bmw-n55-engine"
+            },
+            {
+              "label": "B58",
+              "href": "/bmw-b58-engine"
+            },
+            {
+              "label": "N57",
+              "href": "/bmw-n57-engine"
+            },
+            {
+              "label": "B57",
+              "href": "/bmw-b57-engine"
+            },
+            {
+              "label": "S55",
+              "href": "/bmw-s55-engine"
+            },
+            {
+              "label": "S58",
+              "href": "/bmw-s58-engine"
+            },
+            {
+              "label": "N63",
+              "href": "/bmw-n63-engine"
+            },
+            {
+              "label": "S63",
+              "href": "/bmw-s63-engine"
             }
           ]
         },

@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { lookupVrm, buildQuoteUrl } from "@/lib/vrmLookup";
+import UnionJack from "@/components/reusable/UnionJack";
 
 export default function RegLookupForm({
   buttonLabel = "Find My BMW",
@@ -14,6 +15,7 @@ export default function RegLookupForm({
   compactButton = false,
   hideArrow = false,
   hideButton = false,
+  tight = false,
 }) {
   const [reg, setReg] = useState("");
   const [loading, setLoading] = useState(false);
@@ -45,7 +47,7 @@ export default function RegLookupForm({
           ? "flex w-full items-center gap-2 text-left"
           : stacked
             ? "flex w-full flex-col items-start gap-3 text-left"
-            : "flex w-full flex-col items-center gap-6 text-center sm:flex-row sm:justify-between sm:text-left"
+            : `flex w-full flex-col items-center ${tight ? "gap-3 sm:gap-6" : "gap-6"} text-center sm:flex-row sm:text-left`
       }
     >
       {left}
@@ -60,18 +62,15 @@ export default function RegLookupForm({
         }`}
       >
         <span
-          className={`flex ${row ? "w-8" : stacked ? "w-9" : "w-12 sm:w-14"} shrink-0 flex-col items-center justify-center gap-1 bg-[#003399] text-white`}
+          className={`flex ${row ? "w-8" : stacked ? "w-9" : "w-12 sm:w-14"} shrink-0 items-center justify-center bg-[#003399]`}
         >
-          <span className="flex h-3.5 w-3.5 items-center justify-center rounded-full border border-[#ffcc00] text-[8px] leading-none text-[#ffcc00]">
-            ★
-          </span>
-          <span className={`${row || stacked ? "text-[9px]" : "text-[11px] sm:text-xs"} font-extrabold tracking-wide`}>GB</span>
+          <UnionJack className={row ? "w-5" : stacked ? "w-6" : "w-8 sm:w-9"} />
         </span>
         <input
           type="text"
           value={reg}
           onChange={(e) => setReg(e.target.value.toUpperCase())}
-          placeholder="AB12 CDE"
+          placeholder="Your Reg"
           maxLength={8}
           style={{ fontFamily: '"Charles Wright", sans-serif' }}
           className={`min-w-0 flex-1 bg-[#e4e8ec] px-2 text-center tracking-wide text-[#101828] outline-none placeholder:text-[#101828]/40 ${

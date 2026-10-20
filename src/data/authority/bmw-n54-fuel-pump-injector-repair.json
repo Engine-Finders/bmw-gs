@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -73,7 +73,7 @@
         },
         {
           "t": "p",
-          "html": "[Get your exact quote →](/contact)"
+          "html": "[Get your exact quote →](/get-quote)"
         }
       ]
     },
@@ -96,19 +96,21 @@
           "html": "The BMW N54 twin-turbo straight-six was used across a wide range of models. We carry out HPFP and injector repairs on all of them."
         },
         {
-          "t": "linkgrid",
-          "items": [
-            {
-              "label": "1 Series",
-              "href": "/bmw-1-series-engines"
-            },
+          "t": "modelgroup",
+          "model": {
+            "label": "1 Series",
+            "href": "/bmw-1-series-engines"
+          },
+          "chips": [
             {
               "label": "135i",
-              "href": "/bmw-m135i-engines"
+              "href": "/bmw-m135i-engines",
+              "desc": "(E82/E88)"
             },
             {
               "label": "1M",
-              "href": "/bmw-m135i-engines"
+              "href": "/bmw-m135i-engines",
+              "desc": "(E82)"
             }
           ]
         },
@@ -121,11 +123,13 @@
           "chips": [
             {
               "label": "335i",
-              "href": "/bmw-340i-engines"
+              "href": "/bmw-340i-engines",
+              "desc": "(E90/E92/E93)"
             },
             {
               "label": "335is",
-              "href": "/bmw-340i-engines"
+              "href": "/bmw-340i-engines",
+              "desc": "(E92/E93)"
             }
           ]
         },
@@ -138,7 +142,8 @@
           "chips": [
             {
               "label": "535i",
-              "href": "/bmw-530i-engines"
+              "href": "/bmw-530i-engines",
+              "desc": "(E60/E61)"
             }
           ]
         },
@@ -151,11 +156,13 @@
           "chips": [
             {
               "label": "sDrive35i",
-              "href": "/bmw-z4-sdrive35i-engines"
+              "href": "/bmw-z4-sdrive35i-engines",
+              "desc": "(E89)"
             },
             {
               "label": "sDrive35is",
-              "href": "/bmw-z4-sdrive35is-engines"
+              "href": "/bmw-z4-sdrive35is-engines",
+              "desc": "(E89)"
             }
           ]
         },
@@ -168,7 +175,8 @@
           "chips": [
             {
               "label": "xDrive35i",
-              "href": null
+              "href": "/bmw-x6-engines",
+              "desc": "(E71)"
             }
           ]
         },
@@ -181,7 +189,8 @@
           "chips": [
             {
               "label": "740i",
-              "href": null
+              "href": "/bmw-7-series-engines",
+              "desc": "(E65/E66)"
             }
           ]
         },
@@ -247,7 +256,7 @@
       "steps": [
         {
           "title": "Contact us",
-          "body": "Call [0203 488 4649](tel:02034884649), WhatsApp, or use our [online quote form](/contact)."
+          "body": "Call [0203 488 4649](tel:+441268944234), WhatsApp, or use our [online quote form](/get-quote)."
         },
         {
           "title": "Diagnostic check",

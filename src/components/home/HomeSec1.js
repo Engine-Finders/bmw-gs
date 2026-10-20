@@ -34,12 +34,15 @@ export default function HomeSec1({ hero, lookup }) {
             <div className="absolute inset-x-4 bottom-0 z-10 translate-y-1/2">
               <GlassPanel className="w-full">
                 <RegLookupForm
-                  buttonLabel={lookup.h2}
+                  buttonLabel={lookup.buttonLabel}
                   compact
+                  tight
                   left={
                     <div className="shrink-0">
-                      <h2 className="hp-h3 italic flex items-center justify-center gap-2 uppercase text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.85)]">
-                        <BMWStripe />
+                      <h2 className="hp-h3 italic flex items-start justify-center gap-2 uppercase text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.85)]">
+                        <span className="flex h-[1.1em] shrink-0 items-center">
+                          <BMWStripe size="em" />
+                        </span>
                         {lookup.h2}
                       </h2>
                       <p className="mx-auto mt-1.5 max-w-xs text-sm text-white drop-shadow-[0_1px_3px_rgba(0,0,0,0.85)]">{lookup.description}</p>
@@ -77,12 +80,15 @@ export default function HomeSec1({ hero, lookup }) {
             <div className="absolute inset-x-0 bottom-0 z-10 mx-auto w-full max-w-275 translate-y-1/2">
               <GlassPanel className="w-full">
                 <RegLookupForm
-                  buttonLabel={lookup.h2}
+                  buttonLabel={lookup.buttonLabel}
                   large
+                  tight
                   left={
                     <div className="shrink-0 sm:max-w-xs">
-                      <h2 className="hp-h3 italic flex items-center justify-center gap-2 uppercase text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.85)] sm:justify-start">
-                        <BMWStripe />
+                      <h2 className="hp-h3 italic flex items-start justify-center gap-2 uppercase text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.85)] sm:justify-start">
+                        <span className="flex h-[1.1em] shrink-0 items-center">
+                          <BMWStripe size="em" />
+                        </span>
                         {lookup.h2}
                       </h2>
                       <p className="mx-auto mt-2 max-w-xs text-sm text-white drop-shadow-[0_1px_3px_rgba(0,0,0,0.85)] sm:mx-0">{lookup.description}</p>

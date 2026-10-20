@@ -1,5 +1,5 @@
 {
-  "slug": "bmw-failed-rebuild-remediation",
+  "slug": "bmw-failed-rebuild-repair",
   "metaTitle": "BMW Failed Previous Rebuild Remediation | BMW Garage",
   "metaDescription": "If a previous BMW engine rebuild was done incorrectly, we can inspect, diagnose, and correct the work to BMW specification. Get a quote today.",
   "h1": "BMW Failed Previous Rebuild Remediation",
@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -75,12 +75,12 @@
           "html": "We provide this service for any BMW engine that has been rebuilt incorrectly. Below are the most common models and engine families we see in our workshop."
         },
         {
-          "t": "linkgrid",
-          "items": [
-            {
-              "label": "BMW 3 Series",
-              "href": "/bmw-3-series-engines"
-            },
+          "t": "modelgroup",
+          "model": {
+            "label": "BMW 3 Series",
+            "href": "/bmw-3-series-engines"
+          },
+          "chips": [
             {
               "label": "320d (N47/B47)",
               "href": "/bmw-320d-engines"
@@ -177,23 +177,23 @@
       "heading": "Our Process",
       "steps": [
         {
-          "title": "",
+          "title": "Initial Assessment",
           "body": "We assess the engine and the vehicle to understand what work was previously done and what has gone wrong."
         },
         {
-          "title": "",
+          "title": "Strip-down Inspection",
           "body": "The engine is disassembled to examine the quality of the previous rebuild work, component by component."
         },
         {
-          "title": "",
+          "title": "Verification & Quoting",
           "body": "All critical dimensions are checked against BMW factory tolerances, and we create a plan to correct all issues found."
         },
         {
-          "title": "",
+          "title": "Correction & Reassembly",
           "body": "We correct specific faults – re-machining, replacing incorrectly fitted components, or re-doing assemblies – and reassemble correctly to BMW specification."
         },
         {
-          "title": "",
+          "title": "Testing & Sign-off",
           "body": "After reassembly, we perform compression and leak-down tests, road-test the vehicle, and provide a full report."
         }
       ]
@@ -225,19 +225,19 @@
       "heading": "How It Works",
       "steps": [
         {
-          "title": "",
-          "body": "Call us on 0203 488 4649, WhatsApp us on 07975 827396, or fill in our [online quote form](/contact)."
+          "title": "1. Contact Us",
+          "body": "Call us on 0203 488 4649, WhatsApp us on 07975 827396, or fill in our [online quote form](/get-quote)."
         },
         {
-          "title": "",
+          "title": "2. Assessment & Quote",
           "body": "We inspect your engine and provide a fixed-price quote for the remediation work."
         },
         {
-          "title": "",
+          "title": "3. Work Begins",
           "body": "Once you approve the quote, we strip down the engine, inspect everything, and begin corrective work."
         },
         {
-          "title": "",
+          "title": "4. Test & Collect",
           "body": "After reassembly, we test the engine thoroughly and road-test your BMW. You collect your car with a 12-month warranty."
         }
       ]

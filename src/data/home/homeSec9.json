@@ -2,15 +2,50 @@
   "h2": "Recently Completed BMW Rebuilds",
   "bgImage": "/home/sec9_bg.webp",
   "images": [
-    { "src": "/home/sec9_car.webp", "alt": "Completed BMW rebuild" },
-    { "src": "/home/sec9_car.webp", "alt": "Completed BMW rebuild" },
-    { "src": "/home/sec9_car.webp", "alt": "Completed BMW rebuild" },
-    { "src": "/home/sec9_car.webp", "alt": "BMW interior" },
-    { "src": "/home/sec9_car.webp", "alt": "Completed BMW rebuild" },
-    { "src": "/home/sec9_car.webp", "alt": "Completed BMW rebuild" },
-    { "src": "/home/sec9_car.webp", "alt": "Rebuilt engine bay" },
-    { "src": "/home/sec9_car.webp", "alt": "Completed BMW rebuild" },
-    { "src": "/home/sec9_car.webp", "alt": "Rebuilt engine bay" },
-    { "src": "/home/sec9_car.webp", "alt": "Completed BMW rebuild" }
-  ]
+    {
+      "src": "/home/sec9_car.webp",
+      "alt": "Completed BMW rebuild"
+    },
+    {
+      "src": "/home/sec9_car.webp",
+      "alt": "Completed BMW rebuild"
+    },
+    {
+      "src": "/home/sec9_car.webp",
+      "alt": "Completed BMW rebuild"
+    },
+    {
+      "src": "/home/sec9_car.webp",
+      "alt": "BMW interior"
+    },
+    {
+      "src": "/home/sec9_car.webp",
+      "alt": "Completed BMW rebuild"
+    },
+    {
+      "src": "/home/sec9_car.webp",
+      "alt": "Completed BMW rebuild"
+    },
+    {
+      "src": "/home/sec9_car.webp",
+      "alt": "Rebuilt engine bay"
+    },
+    {
+      "src": "/home/sec9_car.webp",
+      "alt": "Completed BMW rebuild"
+    },
+    {
+      "src": "/home/sec9_car.webp",
+      "alt": "Rebuilt engine bay"
+    },
+    {
+      "src": "/home/sec9_car.webp",
+      "alt": "Completed BMW rebuild"
+    }
+  ],
+  "footerTagline": "Excellence. Engineered.",
+  "cta": {
+    "label": "See All Rebuilds",
+    "href": "/engines"
+  }
 }

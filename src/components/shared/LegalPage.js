@@ -1,4 +1,5 @@
 import Link from "next/link";
+import QuoteForm from "@/components/shared/QuoteForm";
 
 /**
  * Renders a Core / Authoritative content page from a parsed block list.
@@ -68,6 +69,15 @@ export default function LegalPage({ data }) {
           </p>
         ) : null}
 
+        {data.form ? (
+          <div
+            id="enquiry-form"
+            className="mt-8 rounded-2xl border border-black/5 bg-white p-5 shadow-[0_10px_40px_-12px_rgba(16,24,40,0.18)] sm:p-7"
+          >
+            <QuoteForm source="contact-page" />
+          </div>
+        ) : null}
+
         <div className="mt-8 space-y-4">
           {blocks.map((b, i) => {
             if (b.type === "h2") {
@@ -107,7 +117,7 @@ export default function LegalPage({ data }) {
                         className={
                           j === 0
                             ? "rounded-md bg-hero-blue px-5 py-2.5 text-sm font-bold text-white transition-transform hover:scale-[1.02]"
-                            : "rounded-md border border-hero-blue px-5 py-2.5 text-sm font-bold text-hero-blue transition-colors hover:bg-hero-blue hover:text-white"
+                          : "rounded-md border border-hero-blue px-5 py-2.5 text-sm font-bold text-hero-blue transition-colors hover:border-hero-blue hover:bg-hero-blue hover:text-white"
                         }
                       >
                         {it.label}

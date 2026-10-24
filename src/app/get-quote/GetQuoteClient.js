@@ -1,7 +1,10 @@
 "use client";
 
 import { useState } from "react";
+import Image from "next/image";
 import { useSearchParams, useRouter } from "next/navigation";
+import { vehiclePhoto } from "@/lib/vehiclePhoto";
+import RegPlate from "@/components/reusable/RegPlate";
 
 export default function GetQuoteClient() {
   const params = useSearchParams();
@@ -13,7 +16,9 @@ export default function GetQuoteClient() {
   const year = params.get("year") || "";
   const engineCapacity = params.get("engineCapacity") || "";
   const fuelType = params.get("fuelType") || "";
+  const from = params.get("from") || "";
 
+  const photo = vehiclePhoto(make, series, year);
   const summary = [make, series, year].filter(Boolean).join(" – ");
 
   const [form, setForm] = useState({
@@ -43,6 +48,9 @@ export default function GetQuoteClient() {
       engine_capacity: engineCapacity,
       fuel_type: fuelType,
       ...form,
+      // the page the visitor started on (carried through the redirect), else this page
+      page_url: `${window.location.origin}${from.startsWith("/") && !from.startsWith("//") ? from : window.location.pathname}`,
+      lead_source: "get-quote",
     };
 
     try {
@@ -69,13 +77,13 @@ export default function GetQuoteClient() {
         {(summary || vrm) && (
           <div className="mt-6 flex flex-col items-center gap-2">
             {summary && <p className="border-b border-gray-300 pb-2 text-lg font-semibold">{summary}</p>}
-            {vrm && (
-              <div
-                className="inline-block rounded-md border-4 border-hero-blue bg-hero-blue px-6 py-2 text-2xl font-black uppercase tracking-widest text-white"
-                style={{ fontFamily: '"Charles Wright", sans-serif' }}
-              >
-                {vrm}
+            {photo && (
+              <div className="relative h-32 w-48 sm:h-40 sm:w-60">
+                <Image src={photo} alt={summary || "Your vehicle"} fill sizes="240px" className="object-contain mix-blend-multiply" />
               </div>
+            )}
+            {vrm && (
+              <RegPlate value={vrm} onChange={() => {}} readOnly yellowPlate heightClass="[--ph:56px] sm:[--ph:64px]" ariaLabel="Your registration" />
             )}
           </div>
         )}

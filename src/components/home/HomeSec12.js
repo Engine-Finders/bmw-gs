@@ -1,5 +1,4 @@
 import Image from "next/image";
-import BMWStripe from "@/components/reusable/BMWStripe";
 import RegLookupForm from "@/components/reusable/RegLookupForm";
 
 export default function HomeSec12({ data }) {
@@ -17,7 +16,7 @@ export default function HomeSec12({ data }) {
           <p className="text-[10px] font-semibold uppercase tracking-widest text-white">{kicker}</p>
 
           <h2 className="hp-h2 mt-1 uppercase">
-            <span className="block text-white">{hl1}</span>
+            <span className="block text-white">{hl1}</span>{" "}
             <span className="block text-hero-blue">{hl2}</span>
           </h2>
 
@@ -28,7 +27,7 @@ export default function HomeSec12({ data }) {
           </p>
 
           <div className="mt-3">
-            <RegLookupForm buttonLabel={data.ctaButton} stacked compact />
+            <RegLookupForm buttonLabel={data.ctaButton} stacked whiteBorder matchHeight />
           </div>
 
           <p className="mt-2.5 flex items-center gap-1.5 text-[10px] uppercase tracking-wide text-white">
@@ -54,13 +53,12 @@ export default function HomeSec12({ data }) {
           <div className="absolute inset-0 bg-linear-to-r from-hero-dark via-hero-dark/70 to-transparent" />
         </div>
 
-        <BMWStripe size="lg" className="absolute bottom-6 right-6 z-10" />
 
         <div className="relative mx-auto max-w-6xl px-4 py-9 sm:px-6 lg:px-8">
-          <h2 className="hp-h2 max-w-lg uppercase">
-            <span className="block text-white">{kicker}</span>
+          <div role="heading" aria-level="2" className="hp-h2 max-w-lg uppercase">
+            <span className="block text-white">{kicker}</span>{" "}
             <span className="block text-hero-blue">{headline}</span>
-          </h2>
+          </div>
 
           <p className="mt-3 max-w-md text-sm text-gray-300">
             {data.descriptionPre}
@@ -69,7 +67,7 @@ export default function HomeSec12({ data }) {
           </p>
 
           <div className="mt-6 max-w-md">
-            <RegLookupForm buttonLabel={data.ctaButton} compact />
+            <RegLookupForm buttonLabel={data.ctaButton} compact whiteBorder matchHeight />
           </div>
 
           <p className="mt-4 flex items-center gap-1.5 text-[11px] uppercase tracking-wide text-white">

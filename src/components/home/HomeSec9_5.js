@@ -1,21 +1,23 @@
 import Image from "next/image";
 import { floatingParts } from "@/lib/partImage";
 import Icon from "@/components/reusable/Icon";
-import BMWStripe from "@/components/reusable/BMWStripe";
 
-const FLOATERS = [
-  { top: "8%", left: "10%", size: 76, rotate: -10, opacity: 0.9, delay: "0s" },
-  { top: "0%", left: "30%", size: 88, rotate: -18, opacity: 0.95, delay: "0.4s" },
-  { top: "0%", right: "30%", size: 74, rotate: 8, opacity: 0.85, delay: "0.8s" },
-  { top: "8%", right: "10%", size: 82, rotate: 20, opacity: 0.9, delay: "1.2s" },
-  { top: "30%", left: "2%", size: 78, rotate: 15, opacity: 0.85, delay: "1.6s" },
-  { top: "48%", left: "0%", size: 82, rotate: 10, opacity: 0.85, delay: "0.2s" },
-  { top: "30%", right: "2%", size: 80, rotate: -8, opacity: 0.9, delay: "0.6s" },
-  { top: "48%", right: "0%", size: 88, rotate: -12, opacity: 0.95, delay: "1.0s" },
-  { bottom: "6%", left: "12%", size: 84, rotate: 30, opacity: 0.9, delay: "1.4s" },
-  { bottom: "0%", left: "40%", size: 68, rotate: -22, opacity: 0.85, delay: "1.8s" },
-  { bottom: "6%", right: "14%", size: 78, rotate: -25, opacity: 0.85, delay: "0.5s" },
-];
+// The floating parts sit on one ring around the engine at equal angular steps and a single radius,
+// so every part is the same distance from the engine and from its neighbours. Values are % of the
+// square stage; `rotate` just varies how each part is tilted.
+const RING = { count: 11, radius: 41, size: 13 };
+const ROTATIONS = [-10, -18, 8, 20, 15, 10, -8, -12, 30, -22, -25];
+const FLOATERS = Array.from({ length: RING.count }, (_, i) => {
+  const angle = (-90 + (i * 360) / RING.count) * (Math.PI / 180);
+  return {
+    left: `${(50 + RING.radius * Math.cos(angle) - RING.size / 2).toFixed(2)}%`,
+    top: `${(50 + RING.radius * Math.sin(angle) - RING.size / 2).toFixed(2)}%`,
+    size: `${RING.size}%`,
+    rotate: ROTATIONS[i],
+    opacity: 0.92,
+    delay: `${((i * 0.4) % 2).toFixed(1)}s`,
+  };
+});
 
 export default function HomeSec9_5({ data }) {
   // each floating part is a different component: the ones listed on this section first, then the main engine parts
@@ -30,7 +32,7 @@ export default function HomeSec9_5({ data }) {
         <div className="[grid-area:title]">
           <p className="text-xs font-semibold uppercase tracking-widest text-hero-blue">{data.eyebrow}</p>
           <h2 className="hp-h2 mt-2 uppercase text-[#101828]">
-            <span className="block">Built With</span>
+            <span className="block">Built With</span>{" "}
             <span className="block">Better Parts</span>
           </h2>
         </div>
@@ -46,8 +48,6 @@ export default function HomeSec9_5({ data }) {
               style={{
                 top: f.top,
                 left: f.left,
-                right: f.right,
-                bottom: f.bottom,
                 width: f.size,
                 height: f.size,
                 opacity: f.opacity,
@@ -60,13 +60,13 @@ export default function HomeSec9_5({ data }) {
             </div>
           ))}
 
-          <div className="animate-float-core absolute inset-[14%] z-10">
+          <div className="animate-float-core absolute inset-[19%] z-10">
             <Image src={data.engineImage} alt="BMW engine core" fill className="object-contain" sizes="600px" priority={false} />
           </div>
         </div>
 
         <div className="[grid-area:text]">
-          <p className="max-w-md text-sm text-[#101828]">{data.description}</p>
+          <p className="body-text max-w-md text-[#101828]">{data.description}</p>
 
           <ul className="mt-5 divide-y divide-black/5">
             {data.parts.map((p) => (
@@ -101,11 +101,6 @@ export default function HomeSec9_5({ data }) {
         <span className="h-px w-16 bg-black/15" />
         <p className="text-center text-sm font-semibold uppercase tracking-widest text-[#101828]">{data.footer}</p>
         <span className="h-px w-16 bg-black/15" />
-      </div>
-      <div className="mt-4 flex items-center justify-center gap-3">
-        <span className="h-px w-8 bg-black/15" />
-        <BMWStripe size="lg" />
-        <span className="h-px w-8 bg-black/15" />
       </div>
     </section>
   );

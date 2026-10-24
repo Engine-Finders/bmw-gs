@@ -13,7 +13,7 @@
     { "label": "Faster Turnaround", "icon": "speed" },
     { "label": "The Same BMW DNA", "icon": "road" }
   ],
-  "cta": { "label": "Get Your Free Engine Quote", "href": "#find-my-bmw" },
+  "cta": { "label": "Get Your Free Engine Quote" },
   "footer": "Because Every Drive Matters",
   "bgImage": "/home/sec4_5_bg.png",
   "mobileImage": "/home/sec4_5_mobile.webp",

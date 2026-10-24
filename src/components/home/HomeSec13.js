@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
-import BMWStripe from "@/components/reusable/BMWStripe";
 import EngineExplorerForm from "./EngineExplorerForm";
 import explorer from "@/data/shared/engineExplorer.json";
 
@@ -14,7 +13,7 @@ export default function HomeSec13({ data }) {
         <div className="flex items-start justify-between gap-3">
           <div className="min-w-0 flex-1">
             <h2 className="hp-h2 uppercase">
-              <span className="block text-[#101828]">{line1}</span>
+              <span className="block text-[#101828]">{line1}</span>{" "}
               <span className="block text-hero-blue">{line2}</span>
             </h2>
 
@@ -25,7 +24,6 @@ export default function HomeSec13({ data }) {
           </div>
 
           <div className="relative h-30 w-30 shrink-0">
-            <BMWStripe size="lg" className="absolute -right-1 -top-1 -rotate-12" />
             <Image src={data.image} alt="BMW engine" fill className="object-contain" sizes="100px" />
           </div>
         </div>
@@ -50,16 +48,14 @@ export default function HomeSec13({ data }) {
 
       {/* ===== desktop ===== */}
       <div className="relative hidden overflow-hidden px-4 py-6 sm:px-6 md:block lg:px-8">
-      <BMWStripe size="lg" className="absolute right-6 top-6" />
-      <BMWStripe size="lg" className="absolute bottom-6 right-6" />
 
       <div className="relative mx-auto max-w-6xl">
         <div className="grid grid-cols-1 items-start gap-6 lg:grid-cols-2 lg:gap-8">
           <div>
-            <h2 className="hp-h2 uppercase">
-              <span className="block text-[#101828]">{line1}</span>
+            <div role="heading" aria-level="2" className="hp-h2 uppercase">
+              <span className="block text-[#101828]">{line1}</span>{" "}
               <span className="block text-hero-blue">{line2}</span>
-            </h2>
+            </div>
             <p className="mt-2 max-w-lg text-sm text-[#101828]">{data.description}</p>
 
             <EngineExplorerForm fields={data.fields} explorer={explorer} ctaButton={data.ctaButton} />

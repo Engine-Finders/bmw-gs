@@ -4,8 +4,10 @@ import { useState } from "react";
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
+import { useQuoteModal } from "@/components/shared/QuoteModal";
 
 export default function HomeSec5({ data }) {
+  const { open: openQuote } = useQuoteModal();
   const [line1, line2a, line2b] = data.h2.split("|");
   const [activeIndex, setActiveIndex] = useState(data.engines.length - 1);
   const n = data.engines.length;
@@ -20,12 +22,12 @@ export default function HomeSec5({ data }) {
         <div className="text-center">
           <BMWStripe size="wide" className="mx-auto mb-4" />
           <h2 className="hp-h2 text-[#101828]">
-            <span className="block">{line1}</span>
+            <span className="block">{line1}</span>{" "}
             <span className="block">
               {line2a} <span className="text-hero-blue">{line2b}</span>
             </span>
           </h2>
-          <p className="mx-auto mt-2 max-w-xl text-sm text-[#101828]">{data.description}</p>
+          <p className="body-text mx-auto mt-2 max-w-xl text-[#101828]">{data.description}</p>
         </div>
 
         {/* ===== mobile: cascading stacked card deck, click any card to expand it ===== */}
@@ -57,9 +59,14 @@ export default function HomeSec5({ data }) {
                     <BMWStripe size="default" className="absolute right-4 top-4" />
 
                     <div className="flex gap-4">
-                      <div className="relative h-24 w-24 shrink-0 overflow-hidden rounded-lg bg-[#eef1f5]">
+                      <a
+                        href={e.href}
+                        onClick={(ev) => ev.stopPropagation()}
+                        aria-label={`${e.code} engine rebuild`}
+                        className="relative block h-24 w-24 shrink-0 overflow-hidden rounded-lg bg-[#eef1f5]"
+                      >
                         <Image src={e.image} alt={`${e.code} engine`} fill className="object-contain p-1.5" sizes="110px" />
-                      </div>
+                      </a>
                       <div className="min-w-0 pr-8">
                         <h3 className="text-2xl font-extrabold text-[#101828]">{e.code}</h3>
                         <p className="text-xs font-semibold text-[#101828]">{e.spec}</p>
@@ -91,13 +98,16 @@ export default function HomeSec5({ data }) {
                           <Icon name="clock" className="h-4 w-4 text-[#101828]" />
                           {e.turnaround}
                         </p>
-                        <a
-                          href={e.href}
-                          onClick={(ev) => ev.stopPropagation()}
-                          className="mt-2 block whitespace-nowrap rounded-sm border-2 border-hero-blue bg-hero-blue px-2 py-2.5 text-center text-[10px] font-bold text-white transition-colors hover:bg-transparent hover:text-hero-blue"
+                        <button
+                          type="button"
+                          onClick={(ev) => {
+                            ev.stopPropagation();
+                            openQuote();
+                          }}
+                          className="mt-2 block w-full whitespace-nowrap rounded-sm border-2 border-hero-blue bg-hero-blue px-2 py-2.5 text-center text-[10px] font-bold text-white transition-colors hover:bg-transparent hover:text-hero-blue"
                         >
                           Get a Fixed Price Quote →
-                        </a>
+                        </button>
                       </div>
                     </div>
                   </div>
@@ -128,28 +138,28 @@ export default function HomeSec5({ data }) {
         </div>
 
         {/* ===== desktop: grid of full cards ===== */}
-        <div className="mt-6 hidden md:grid md:grid-cols-2 md:gap-4 lg:grid-cols-3">
+        <div className="mt-6 hidden items-stretch md:grid md:grid-cols-2 md:gap-4 lg:grid-cols-3">
           {data.engines.map((e) => (
-            <div key={e.code} className="glass-card overflow-hidden rounded-xl">
+            <div key={e.code} className="glass-card flex h-full flex-col overflow-hidden rounded-xl">
               <BMWStripe size="full" className="block rounded-t-xl" />
 
-              <div className="relative h-56 w-full overflow-hidden bg-[#eef1f5]">
+              <a href={e.href} aria-label={`${e.code} engine rebuild`} className="relative block h-56 w-full shrink-0 overflow-hidden bg-[#eef1f5]">
                 <Image src={e.image} alt={`${e.code} engine`} fill className="object-contain p-1" sizes="360px" />
                 <div className="absolute inset-x-0 bottom-0 h-10 bg-linear-to-t from-white to-transparent" />
-              </div>
+              </a>
 
-              <div className="p-4">
-                <h3 className="text-xl font-extrabold text-[#101828]">{e.code}</h3>
+              <div className="flex flex-1 flex-col p-4">
+                <div role="heading" aria-level="3" className="text-xl font-extrabold text-[#101828]">{e.code}</div>
                 <p className="text-xs font-semibold text-[#101828]">{e.spec}</p>
-                <p className="mt-0.5 text-xs text-[#101828]">
+                <p className="mt-0.5 min-h-8 text-xs text-[#101828]">
                   {e.models} | {e.years}
                 </p>
 
-                <p className="mt-3 text-sm text-[#101828]">
+                <p className="mt-3 min-h-10 text-sm text-[#101828]">
                   <span className="font-semibold">Common symptom:</span> {e.symptom}
                 </p>
 
-                <div className="mt-4 flex items-center justify-between border-t border-black/5 pt-3">
+                <div className="mt-auto flex items-center justify-between border-t border-black/5 pt-3">
                   <div>
                     <p className="text-[11px] uppercase text-[#101828]">Typical rebuild cost</p>
                     <p className="text-sm font-extrabold text-hero-blue">{e.cost}</p>

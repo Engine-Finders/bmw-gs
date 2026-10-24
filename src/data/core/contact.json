@@ -7,7 +7,7 @@
   "blocks": [
     {
       "type": "h2",
-      "text": "Call Us"
+      "text": "Call or WhatsApp Us"
     },
     {
       "type": "p",
@@ -273,5 +273,6 @@
       "type": "p",
       "text": "**Family-run since 2009. 12-month warranty on all work.**"
     }
-  ]
+  ],
+  "form": true
 }

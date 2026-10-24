@@ -1,8 +1,96 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import Icon from "@/components/reusable/Icon";
+
+// Custom dropdown instead of a native <select>: the browser's own popup can't be styled, runs wider than
+// the field on phones and runs off the card. The list is `fixed` to the field's rect so no ancestor clips it.
+function Dropdown({ value, onChange, options, placeholder, disabled, className = "", children }) {
+  const [open, setOpen] = useState(false);
+  const [rect, setRect] = useState(null);
+  const btn = useRef(null);
+  const wrap = useRef(null);
+  const close = useCallback(() => setOpen(false), []);
+
+  useEffect(() => {
+    if (!open) return;
+    // only this dropdown's own field + list count as "inside", so opening another one closes this one
+    const onDown = (e) => !wrap.current?.contains(e.target) && close();
+    const onKey = (e) => e.key === "Escape" && close();
+    // the page scrolling moves the field, so follow it; scrolling the list itself is left alone
+    const follow = (e) => {
+      if (wrap.current?.contains(e.target)) return;
+      if (btn.current) setRect(btn.current.getBoundingClientRect());
+    };
+    document.addEventListener("pointerdown", onDown);
+    document.addEventListener("keydown", onKey);
+    window.addEventListener("scroll", follow, true);
+    window.addEventListener("resize", close);
+    return () => {
+      document.removeEventListener("pointerdown", onDown);
+      document.removeEventListener("keydown", onKey);
+      window.removeEventListener("scroll", follow, true);
+      window.removeEventListener("resize", close);
+    };
+  }, [open, close]);
+
+  function toggle() {
+    if (disabled) return;
+    if (!open) setRect(btn.current.getBoundingClientRect());
+    setOpen(!open);
+  }
+
+  const pick = (v) => {
+    onChange(v);
+    close();
+  };
+  const row = "block w-full px-3 py-2.5 text-left text-sm leading-snug text-[#1a1a1a] hover:bg-hero-blue/10";
+
+  return (
+    <div ref={wrap} className="relative">
+      <button
+        ref={btn}
+        type="button"
+        disabled={disabled}
+        aria-haspopup="listbox"
+        aria-expanded={open}
+        onClick={toggle}
+        className={`flex w-full items-center justify-between gap-2 text-left text-sm text-[#1a1a1a] outline-none disabled:text-black/40 ${className}`}
+      >
+        <span className={`min-w-0 flex-1 truncate ${value ? "" : "text-black/60"}`}>{value || placeholder}</span>
+        <svg viewBox="0 0 24 24" className={`h-3.5 w-3.5 shrink-0 transition-transform ${open ? "rotate-180" : ""}`} fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <path d="M6 9l6 6 6-6" />
+        </svg>
+      </button>
+      {children}
+      {open && rect && (
+        <ul
+          role="listbox"
+          className="fixed z-[90] max-h-60 overflow-y-auto rounded-lg border border-black/10 bg-white py-1 shadow-xl"
+          style={{
+            left: rect.left,
+            width: rect.width,
+            ...(window.innerHeight - rect.bottom < 260 && rect.top > 260 ? { bottom: window.innerHeight - rect.top + 4 } : { top: rect.bottom + 4 }),
+          }}
+        >
+          <li role="option" aria-selected={!value}>
+            <button type="button" className={`${row} text-black/55`} onClick={() => pick("")}>
+              {placeholder}
+            </button>
+          </li>
+          {options.map((o) => (
+            <li key={o} role="option" aria-selected={o === value}>
+              <button type="button" className={`${row} ${o === value ? "bg-hero-blue/10 font-semibold" : ""}`} onClick={() => pick(o)}>
+                {o}
+              </button>
+            </li>
+          ))}
+        </ul>
+      )}
+    </div>
+  );
+}
 
 function Select({ label, icon, value, onChange, options, placeholder, disabled, mobile }) {
   if (mobile) {
@@ -12,48 +100,26 @@ function Select({ label, icon, value, onChange, options, placeholder, disabled, 
           <Icon name={icon} className="h-4 w-4 text-hero-blue" />
         </span>
         <div className="min-w-0 flex-1">
-          <p className="text-xs font-bold uppercase tracking-wide text-[#101828]">{label}</p>
-          <select
-            className="w-full truncate bg-transparent text-sm text-[#101828] outline-none disabled:text-black/40"
-            value={value}
-            disabled={disabled}
-            onChange={(e) => onChange(e.target.value)}
-          >
-            <option value="">{placeholder}</option>
-            {options.map((o) => (
-              <option key={o} value={o}>
-                {o}
-              </option>
-            ))}
-          </select>
+          <p className="label-text uppercase tracking-wide text-[#1a1a1a]">{label}</p>
+          <Dropdown value={value} onChange={onChange} options={options} placeholder={placeholder} disabled={disabled} />
         </div>
       </div>
     );
   }
   return (
     <div>
-      <label className="mb-1.5 flex items-center gap-1.5 text-xs font-semibold text-[#101828]">
+      <label className="mb-1.5 flex items-center gap-1.5 text-xs font-semibold text-[#1a1a1a]">
         <Icon name={icon} className="h-4 w-4" />
         {label.toUpperCase()}
       </label>
-      <div className="relative">
-        <select
-          className="w-full appearance-none rounded-md border border-black/10 bg-white px-3 py-2.5 pr-9 text-sm text-[#101828] disabled:bg-black/5 disabled:text-black/40"
-          value={value}
-          disabled={disabled}
-          onChange={(e) => onChange(e.target.value)}
-        >
-          <option value="">{placeholder}</option>
-          {options.map((o) => (
-            <option key={o} value={o}>
-              {o}
-            </option>
-          ))}
-        </select>
-        <svg viewBox="0 0 24 24" className="pointer-events-none absolute right-3 top-1/2 h-3.5 w-3.5 -translate-y-1/2 text-[#101828]" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-          <path d="M6 9l6 6 6-6" />
-        </svg>
-      </div>
+      <Dropdown
+        value={value}
+        onChange={onChange}
+        options={options}
+        placeholder={placeholder}
+        disabled={disabled}
+        className="rounded-md border border-black/10 bg-white px-3 py-2.5 disabled:bg-black/5"
+      />
     </div>
   );
 }
@@ -64,6 +130,7 @@ export default function EngineExplorerForm({ fields, explorer, ctaButton, mobile
   const [engineCode, setEngineCode] = useState("");
   const [fuel, setFuel] = useState("");
   const [generation, setGeneration] = useState("");
+  const [issue, setIssue] = useState("");
 
   const filteredByModel = useMemo(() => (model ? explorer.entries.filter((e) => e.model === model) : explorer.entries), [model, explorer]);
   const filteredByEngine = useMemo(() => (engineCode ? filteredByModel.filter((e) => e.engineCode === engineCode) : filteredByModel), [engineCode, filteredByModel]);
@@ -78,7 +145,7 @@ export default function EngineExplorerForm({ fields, explorer, ctaButton, mobile
   function handleFindEngine() {
     if (match?.engineHref) router.push(match.engineHref);
     else if (match?.modelHref) router.push(match.modelHref);
-    else router.push("/get-quote");
+    else router.push(`/get-quote?${issue ? `issue=${encodeURIComponent(issue)}&` : ""}from=${encodeURIComponent(window.location.pathname)}`);
   }
 
   const selects = [
@@ -86,13 +153,13 @@ export default function EngineExplorerForm({ fields, explorer, ctaButton, mobile
     { ...fields[1], value: engineCode, onChange: (v) => { setEngineCode(v); setFuel(""); setGeneration(""); }, options: engineOptions },
     { ...fields[2], value: fuel, onChange: (v) => { setFuel(v); setGeneration(""); }, options: fuelOptions },
     { ...fields[3], value: generation, onChange: setGeneration, options: generationOptions },
-    { ...fields[4], value: "", onChange: () => {}, options: [], disabled: true, placeholder: engineCode ? "Confirmed once we match your reg" : "Select an engine first" },
+    { ...fields[4], value: issue, onChange: setIssue, options: explorer.knownIssues ?? [], disabled: !explorer.knownIssues?.length, placeholder: "Select a known issue" },
   ];
 
   if (mobile) {
     return (
       <>
-        <div className="mt-3 space-y-1.5">
+        <div className="space-y-1.5">
           {selects.map((s) => (
             <Select key={s.label} {...s} mobile />
           ))}
@@ -100,7 +167,7 @@ export default function EngineExplorerForm({ fields, explorer, ctaButton, mobile
         <button
           type="button"
           onClick={handleFindEngine}
-          className="mt-5 w-full rounded-md border-2 border-hero-blue bg-hero-blue py-3 text-sm font-bold uppercase text-white shadow-[0_0_20px_rgba(0,127,248,0.4)] transition-colors hover:bg-transparent hover:text-hero-blue"
+          className="btn-text mt-5 w-full rounded-md border-2 border-hero-blue py-3 uppercase text-hero-blue transition-colors hover:border-hero-blue hover:bg-hero-blue hover:text-white"
         >
           {ctaButton} →
         </button>
@@ -118,7 +185,7 @@ export default function EngineExplorerForm({ fields, explorer, ctaButton, mobile
       <button
         type="button"
         onClick={handleFindEngine}
-        className="mt-4 w-full rounded-md border-2 border-hero-blue bg-hero-blue py-3 text-sm font-bold uppercase text-white shadow-[0_0_20px_rgba(0,127,248,0.4)] transition-colors hover:bg-transparent hover:text-hero-blue sm:w-auto sm:px-8"
+        className="btn-text mt-4 w-full rounded-md border-2 border-hero-blue py-3 uppercase text-hero-blue transition-colors hover:border-hero-blue hover:bg-hero-blue hover:text-white sm:w-auto sm:px-8"
       >
         {ctaButton} →
       </button>

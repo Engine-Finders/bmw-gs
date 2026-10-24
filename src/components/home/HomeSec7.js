@@ -41,6 +41,7 @@ export default function HomeSec7({ data }) {
                   <Image src={m.image} alt={m.name} fill className="object-contain" sizes="200px" />
                 </div>
                 <p className="text-xs font-extrabold uppercase text-[#101828]">{m.name}</p>
+                <span className="mt-1 block text-[10px] font-semibold text-hero-blue">Rebuild From £{m.price} →</span>
               </a>
             ))}
           </ExpandGrid>
@@ -71,11 +72,11 @@ export default function HomeSec7({ data }) {
             <BMWStripe size="lg" className="md:h-6 md:w-14" />
             <span className="h-px w-20 bg-hero-blue/40" />
           </div>
-          <h2 className="hp-h2 mb-6 text-center uppercase text-[#101828]">
+          <div role="heading" aria-level="2" className="hp-h2 mb-6 text-center uppercase text-[#101828]">
             {w1} <span className="text-bmw-blue">B</span>
             <span className="text-bmw-blue">M</span>
             <span className="bg-linear-to-r from-bmw-blue to-bmw-red bg-clip-text text-transparent">W</span> {w2}
-          </h2>
+          </div>
 
           <ExpandGrid
             className="grid grid-cols-3 gap-4 sm:grid-cols-4 lg:grid-cols-6"
@@ -95,6 +96,7 @@ export default function HomeSec7({ data }) {
                   <Image src={m.image} alt={m.name} fill className="object-contain" sizes="120px" />
                 </div>
                 <p className="text-xs font-bold text-hero-blue">{m.name}</p>
+                <span className="mt-1 block text-[11px] font-semibold text-[#101828]">Rebuild From £{m.price} →</span>
               </a>
             ))}
           </ExpandGrid>

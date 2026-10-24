@@ -1,9 +1,13 @@
+"use client";
+
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import WheelSpinFrames from "@/components/home/WheelSpinFrames";
+import { useQuoteModal } from "@/components/shared/QuoteModal";
 
 export default function HomeSec4_5({ data }) {
   const [line1, line2] = data.h2.split("|");
+  const { open: openQuote } = useQuoteModal();
 
   return (
     <section
@@ -21,7 +25,7 @@ export default function HomeSec4_5({ data }) {
           <p className="text-center text-[10px] italic uppercase tracking-wide text-white">{data.kicker}</p>
 
           <h2 className="hp-h2 mt-2 text-center uppercase">
-            <span className="block text-white">{line1}</span>
+            <span className="block text-white">{line1}</span>{" "}
             <span className="block text-hero-blue">{line2}</span>
           </h2>
           <p className="-skew-x-6 mt-1 text-center text-lg font-bold uppercase text-white">{data.subhead1}</p>
@@ -29,7 +33,7 @@ export default function HomeSec4_5({ data }) {
             {data.subhead2}
           </p>
 
-          <div className="mt-2 space-y-0.5 text-xs text-gray-300">
+          <div className="body-text mt-2 space-y-0.5 text-xs text-gray-300">
             {data.body.map((line, i) => (
               <p key={i} className={i === 2 ? "font-bold text-white" : ""}>
                 {line}
@@ -51,12 +55,13 @@ export default function HomeSec4_5({ data }) {
             ))}
           </div>
 
-          <a
-            href={data.cta.href}
-            className="mx-auto mt-3 block w-fit whitespace-nowrap rounded-sm border-2 border-hero-blue bg-hero-blue px-6 py-2.5 text-center text-sm font-bold uppercase text-white shadow-[0_0_20px_rgba(0,127,248,0.4)] transition-colors hover:bg-transparent hover:text-hero-blue"
+          <button
+            type="button"
+            onClick={openQuote}
+            className="mx-auto mt-3 block w-fit whitespace-nowrap rounded-sm border-2 border-hero-blue bg-hero-blue px-6 py-2.5 text-center text-sm font-bold uppercase text-white shadow-[0_0_20px_rgba(0,127,248,0.4)] transition-colors hover:border-hero-blue hover:bg-[#1a1a1a] hover:text-white"
           >
             {data.cta.label} →
-          </a>
+          </button>
 
           {/* spacer pushes the footer down to sit over the bottom of the car photo */}
           <div className="flex-1" />
@@ -97,14 +102,14 @@ export default function HomeSec4_5({ data }) {
           </div>
 
           <div className="relative pb-8 lg:pb-12">
-            <h2 className="hp-h2 uppercase">
-              <span className="block text-white">{line1}</span>
+            <div role="heading" aria-level="2" className="hp-h2 uppercase">
+              <span className="block text-white">{line1}</span>{" "}
               <span className="block text-hero-blue">{line2}</span>
-            </h2>
+            </div>
             <p className="mt-3 text-xl font-bold uppercase text-white sm:text-2xl">{data.subhead1}</p>
             <p className="text-xs font-normal italic uppercase tracking-wide text-white">{data.subhead2}</p>
 
-            <div className="mt-4 max-w-xs space-y-1 text-sm text-white">
+            <div className="body-text mt-4 max-w-xs space-y-1 text-white">
               {data.body.map((line, i) => (
                 <p key={i} className={i === 2 ? "font-semibold text-white" : ""}>
                   {line}
@@ -124,12 +129,13 @@ export default function HomeSec4_5({ data }) {
               ))}
             </div>
 
-            <a
-              href={data.cta.href}
-              className="mt-6 inline-block rounded-sm border-2 border-hero-blue bg-hero-blue px-7 py-3 text-sm font-bold text-white transition-colors hover:bg-transparent hover:text-hero-blue"
+            <button
+              type="button"
+              onClick={openQuote}
+              className="mt-6 inline-block rounded-sm border-2 border-hero-blue bg-hero-blue px-7 py-3 text-sm font-bold text-white transition-colors hover:border-hero-blue hover:bg-[#1a1a1a] hover:text-white"
             >
               {data.cta.label} →
-            </a>
+            </button>
           </div>
         </div>
 

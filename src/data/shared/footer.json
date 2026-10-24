@@ -124,51 +124,6 @@
           "href": "/bmw-m3-engines"
         }
       ]
-    },
-    {
-      "title": "Guides",
-      "links": [
-        {
-          "label": "BMW Cylinder Head Repair & Rebuild",
-          "href": "/bmw-cylinder-head-repair"
-        },
-        {
-          "label": "BMW Diesel Timing Chain Repair (N47/B47)",
-          "href": "/bmw-diesel-timing-chain-repair"
-        },
-        {
-          "label": "BMW Engine Bearing Replacement",
-          "href": "/bmw-engine-bearing-replacement"
-        },
-        {
-          "label": "BMW Engine Breakdown Recovery & Nationwide Collection",
-          "href": "/bmw-engine-recovery"
-        },
-        {
-          "label": "BMW Engine Compatibility & Application Matching",
-          "href": "/bmw-engine-compatibility"
-        },
-        {
-          "label": "BMW Engine Components We Replace",
-          "href": "/bmw-engine-components-replaced"
-        },
-        {
-          "label": "BMW Engine Failure Repair",
-          "href": "/bmw-engine-failure-repair"
-        },
-        {
-          "label": "BMW Engine Inspection & Assessment",
-          "href": "/bmw-engine-inspection-assessment"
-        },
-        {
-          "label": "BMW Engine Machining & Rebuild Preparation",
-          "href": "/bmw-engine-machining"
-        },
-        {
-          "label": "BMW Engine Matching by Registration & VIN",
-          "href": "/bmw-engine-matching"
-        }
-      ]
     }
   ],
   "contact": {
@@ -178,19 +133,5 @@
     "email": "info@bmwgarage.uk",
     "hours": "Mon–Fri 9am–6pm · Sat 11am–2pm"
   },
-  "social": [
-    {
-      "label": "Facebook",
-      "href": "https://facebook.com/JLREngineSpecialists"
-    },
-    {
-      "label": "Instagram",
-      "href": "https://instagram.com/jlr_engine_specialists_ltd"
-    },
-    {
-      "label": "TikTok",
-      "href": "https://tiktok.com/@land.rover.engine"
-    }
-  ],
   "copyright": "© 2026 BMW Garage — a trading name of JLR Engine Specialists Ltd (Company No. 16500838). Independent BMW specialist, not affiliated with BMW AG."
 }

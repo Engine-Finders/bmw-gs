@@ -1,8 +1,13 @@
+"use client";
+
+import { useState } from "react";
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
+import ImageLightbox from "@/components/shared/ImageLightbox";
 
 export default function HomeSec11({ data }) {
+  const [open, setOpen] = useState(null);
   return (
     <section>
       {/* ===== mobile ===== */}
@@ -17,7 +22,7 @@ export default function HomeSec11({ data }) {
           <div className="relative px-4 pb-2 pt-1">
             <div className="max-w-[46%] text-[#101828]">
               <h2 className="hp-h2 uppercase">
-                <span className="block whitespace-nowrap">Meet The</span>
+                <span className="block whitespace-nowrap">Meet The</span>{" "}
                 <span className="block">
                   Work<span className="text-hero-blue">Shop</span>
                 </span>
@@ -45,7 +50,13 @@ export default function HomeSec11({ data }) {
         <div className="bg-white px-4 py-7">
           <div className="grid grid-cols-3 gap-2">
             {data.strip.map((s) => (
-              <div key={s.label} className="glow-card glow-card--sm relative h-32 overflow-hidden">
+              <button
+                key={s.label}
+                type="button"
+                onClick={() => setOpen({ src: data.cardImage, alt: s.label })}
+                aria-label={`View larger: ${s.label}`}
+                className="gallery-tile glow-card glow-card--sm relative h-32 cursor-pointer overflow-hidden text-left"
+              >
                 <Image src={data.cardImage} alt={s.label} fill className="object-cover" sizes="140px" />
 
                 <div className="absolute inset-x-0 bottom-0 flex flex-col justify-center gap-1 border-t border-white/15 bg-white/10 px-1.5 py-1.5 backdrop-blur-lg">
@@ -57,7 +68,7 @@ export default function HomeSec11({ data }) {
                   </div>
                   <BMWStripe size="full" />
                 </div>
-              </div>
+              </button>
             ))}
           </div>
         </div>
@@ -89,14 +100,14 @@ export default function HomeSec11({ data }) {
 
           <div className="relative mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
             <div className="max-w-[26%] text-[#101828]">
-              <h2 className="hp-h2 uppercase">
-                <span className="block">Meet The</span>
+              <div role="heading" aria-level="2" className="hp-h2 uppercase">
+                <span className="block">Meet The</span>{" "}
                 <span className="block">
                   Work<span className="text-hero-blue">Shop</span>
                 </span>
-              </h2>
+              </div>
 
-              <div className="mt-4 space-y-3 text-sm text-[#101828]">
+              <div className="body-text mt-4 space-y-3 text-[#101828]">
                 {data.paragraphs.map((p, i) => (
                   <p key={i}>{p}</p>
                 ))}
@@ -110,7 +121,7 @@ export default function HomeSec11({ data }) {
         <div className="bg-white">
           <div className="mx-auto grid max-w-6xl grid-cols-2 gap-3 px-4 py-8 sm:grid-cols-3 sm:px-6 lg:grid-cols-6 lg:px-8">
             {data.strip.map((s) => (
-              <div key={s.label} className="glow-card relative h-72 sm:h-80">
+              <div key={s.label} className="gallery-tile glow-card relative h-72 sm:h-80">
                 <Image src={data.cardImage} alt={s.label} fill className="object-cover" sizes="200px" />
 
                 <div className="absolute inset-x-0 bottom-0 flex min-h-20 flex-col justify-center gap-2 border-t border-white/15 bg-white/10 px-3 py-4 backdrop-blur-lg">
@@ -127,6 +138,8 @@ export default function HomeSec11({ data }) {
           </div>
         </div>
       </div>
+
+      {open && <ImageLightbox img={open} onClose={() => setOpen(null)} />}
     </section>
   );
 }

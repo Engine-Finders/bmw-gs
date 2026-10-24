@@ -57,10 +57,10 @@ export default function HomeSec10({ data }) {
 
           <div className="relative mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8 lg:py-10">
             <div className="max-w-[44%]">
-              <h2 className="hp-h2 uppercase">
+              <div role="heading" aria-level="2" className="hp-h2 uppercase">
                 Why <span className="text-bmw-blue">BM</span>
                 <span className="text-bmw-red">W</span> Owners Travel Across The UK To Us
-              </h2>
+              </div>
               <p className="mt-2 text-sm text-white">{data.description}</p>
             </div>
 

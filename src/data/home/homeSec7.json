@@ -109,14 +109,14 @@
     {
       "name": "Z4",
       "slug": "z4",
-      "image": "/model/vehicles/_fallback.webp",
+      "image": "/vehicle-photos/bmw-20.webp",
       "href": "/bmw-z4-engines",
       "price": "3,195"
     },
     {
       "name": "M2",
       "slug": "m2",
-      "image": "/model/vehicles/_fallback.webp",
+      "image": "/vehicle-photos/bmw-06.webp",
       "href": "/bmw-m2-engines",
       "price": "1,695"
     },

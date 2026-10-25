@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/model/sec2.webp",
-    "/variant/sec10_engine.webp",
-    "/engine_family/sec3.webp"
+    "/guides/bmw-engine-components-replaced/1-9be67574.webp",
+    "/guides/bmw-engine-components-replaced/2-7ad08f12.webp",
+    "/guides/bmw-engine-components-replaced/3-680729c2.webp"
   ],
   "stats": [
     {
@@ -396,5 +396,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 71,
+    "3": 81
+  }
 }

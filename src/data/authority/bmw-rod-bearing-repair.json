@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/variant/sec1.webp",
-    "/engine_family/sec2_bottom.webp",
-    "/model/sec2.webp"
+    "/guides/bmw-rod-bearing-repair/1-721f82e8.webp",
+    "/guides/bmw-rod-bearing-repair/2-e23d221e.webp",
+    "/guides/bmw-rod-bearing-repair/3-194ef38f.webp"
   ],
   "stats": [
     {
@@ -252,5 +252,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 72,
+    "3": 78
+  }
 }

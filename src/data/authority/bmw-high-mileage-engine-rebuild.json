@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine_family/sec9_top.webp",
-    "/model/sec7.webp",
-    "/variant/sec12.webp"
+    "/guides/bmw-high-mileage-engine-rebuild/1-03993ed6.webp",
+    "/guides/bmw-high-mileage-engine-rebuild/2-7a983001.webp",
+    "/guides/bmw-high-mileage-engine-rebuild/3-6c40c921.webp"
   ],
   "stats": [
     {
@@ -344,5 +344,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 67,
+    "3": 77
+  }
 }

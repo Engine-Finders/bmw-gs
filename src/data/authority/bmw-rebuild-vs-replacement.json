@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/model/sec2.webp",
-    "/variant/sec10_engine.webp",
-    "/engine_family/sec3.webp"
+    "/guides/bmw-rebuild-vs-replacement/1-2c550500.webp",
+    "/guides/bmw-rebuild-vs-replacement/2-3b737b23.webp",
+    "/guides/bmw-rebuild-vs-replacement/3-633cc1c0.webp"
   ],
   "stats": [
     {
@@ -262,5 +262,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 74,
+    "3": 58
+  }
 }

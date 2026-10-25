@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine_family/sec1.webp",
-    "/engine_family/sec9_bottom.webp",
-    "/model/sec12.webp"
+    "/guides/bmw-failed-rebuild-repair/1-81c1d02d.webp",
+    "/guides/bmw-failed-rebuild-repair/2-c57ff932.webp",
+    "/guides/bmw-failed-rebuild-repair/3-9902bd99.webp"
   ],
   "stats": [
     {
@@ -284,5 +284,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 67,
+    "3": 79
+  }
 }

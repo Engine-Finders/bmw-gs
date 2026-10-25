@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/variant/sec10_car.webp",
-    "/engine_family/sec4.webp",
-    "/model/sec5.webp"
+    "/guides/bmw-turbo-ancillary-repair/1-86f3f25d.webp",
+    "/guides/bmw-turbo-ancillary-repair/2-2b7ab0b3.webp",
+    "/guides/bmw-turbo-ancillary-repair/3-5de053e3.webp"
   ],
   "stats": [
     {
@@ -755,5 +755,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 75,
+    "3": 63
+  }
 }

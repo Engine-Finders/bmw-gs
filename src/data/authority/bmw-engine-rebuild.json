@@ -11,9 +11,9 @@
     }
   ],
   "images": [
-    "/engine_family/sec2_top.webp",
-    "/engine_family/sec11.webp",
-    "/variant/sec1.webp"
+    "/guides/bmw-engine-rebuild/1-bb4d4718.webp",
+    "/guides/bmw-engine-rebuild/2-b0e3c605.webp",
+    "/guides/bmw-engine-rebuild/3-6485f03d.webp"
   ],
   "stats": [
     {
@@ -314,5 +314,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 76,
+    "3": 75
+  }
 }

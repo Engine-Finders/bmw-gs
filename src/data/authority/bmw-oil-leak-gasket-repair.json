@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/model/sec5.webp",
-    "/variant/sec11.webp",
-    "/engine_family/sec9_top.webp"
+    "/guides/bmw-oil-leak-gasket-repair/1-a3f3265c.webp",
+    "/guides/bmw-oil-leak-gasket-repair/2-888319f9.webp",
+    "/guides/bmw-oil-leak-gasket-repair/3-e37023eb.webp"
   ],
   "stats": [
     {
@@ -347,5 +347,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 68,
+    "3": 69
+  }
 }

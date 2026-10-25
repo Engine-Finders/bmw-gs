@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/model/sec2.webp",
-    "/variant/sec10_engine.webp",
-    "/engine_family/sec3.webp"
+    "/guides/bmw-engine-bearing-replacement/1-f04634b2.webp",
+    "/guides/bmw-engine-bearing-replacement/2-8f6e74e0.webp",
+    "/guides/bmw-engine-bearing-replacement/3-d2b29043.webp"
   ],
   "stats": [
     {
@@ -355,5 +355,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 74,
+    "3": 74
+  }
 }

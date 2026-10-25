@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/variant/sec10_car.webp",
-    "/engine_family/sec4.webp",
-    "/model/sec5.webp"
+    "/guides/bmw-engine-inspection-assessment/1-1cdebff3.webp",
+    "/guides/bmw-engine-inspection-assessment/2-e88781c1.webp",
+    "/guides/bmw-engine-inspection-assessment/3-dad31070.webp"
   ],
   "stats": [
     {
@@ -284,5 +284,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 67,
+    "3": 67
+  }
 }

@@ -11,9 +11,9 @@
     }
   ],
   "images": [
-    "/variant/sec11.webp",
-    "/engine_family/sec9_top.webp",
-    "/model/sec7.webp"
+    "/guides/bmw-engine-failure-repair/1-191f956f.webp",
+    "/guides/bmw-engine-failure-repair/2-aed8c362.webp",
+    "/guides/bmw-engine-failure-repair/3-f4948f9a.webp"
   ],
   "stats": [
     {
@@ -398,5 +398,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 65,
+    "3": 61
+  }
 }

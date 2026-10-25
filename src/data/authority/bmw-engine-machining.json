@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/model/sec3.webp",
-    "/variant/sec10_car.webp",
-    "/engine_family/sec4.webp"
+    "/guides/bmw-engine-machining/1-54a010a9.webp",
+    "/guides/bmw-engine-machining/2-bb4d3920.webp",
+    "/guides/bmw-engine-machining/3-d7085831.webp"
   ],
   "stats": [
     {
@@ -366,5 +366,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 68,
+    "3": 65
+  }
 }

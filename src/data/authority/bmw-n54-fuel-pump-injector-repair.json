@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine_family/sec9_bottom.webp",
-    "/model/sec12.webp",
-    "/engine_family/sec2_top.webp"
+    "/guides/bmw-n54-fuel-pump-injector-repair/1-a738b576.webp",
+    "/guides/bmw-n54-fuel-pump-injector-repair/2-fb889db8.webp",
+    "/guides/bmw-n54-fuel-pump-injector-repair/3-37c4deb9.webp"
   ],
   "stats": [
     {
@@ -319,5 +319,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 66,
+    "3": 80
+  }
 }

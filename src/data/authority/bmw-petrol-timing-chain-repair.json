@@ -11,9 +11,9 @@
     }
   ],
   "images": [
-    "/engine_family/sec1.webp",
-    "/engine_family/sec9_bottom.webp",
-    "/model/sec12.webp"
+    "/guides/bmw-petrol-timing-chain-repair/1-f0aebc50.webp",
+    "/guides/bmw-petrol-timing-chain-repair/2-436cea19.webp",
+    "/guides/bmw-petrol-timing-chain-repair/3-e23a8134.webp"
   ],
   "stats": [
     {
@@ -262,5 +262,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 75,
+    "3": 82
+  }
 }

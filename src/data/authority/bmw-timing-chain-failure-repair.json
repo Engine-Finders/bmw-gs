@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine_family/sec2_bottom.webp",
-    "/model/sec2.webp",
-    "/variant/sec10_engine.webp"
+    "/guides/bmw-timing-chain-failure-repair/1-84502841.webp",
+    "/guides/bmw-timing-chain-failure-repair/2-f7518bda.webp",
+    "/guides/bmw-timing-chain-failure-repair/3-65457cee.webp"
   ],
   "stats": [
     {
@@ -417,5 +417,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 75,
+    "3": 69
+  }
 }

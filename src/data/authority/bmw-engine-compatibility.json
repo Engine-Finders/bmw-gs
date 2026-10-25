@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/variant/sec11.webp",
-    "/engine_family/sec9_top.webp",
-    "/model/sec7.webp"
+    "/guides/bmw-engine-compatibility/1-cbd70a88.webp",
+    "/guides/bmw-engine-compatibility/2-f8ef76c7.webp",
+    "/guides/bmw-engine-compatibility/3-62a10145.webp"
   ],
   "stats": [
     {
@@ -399,5 +399,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 74,
+    "3": 44
+  }
 }

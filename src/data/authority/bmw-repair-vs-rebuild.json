@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/model/sec12.webp",
-    "/engine_family/sec2_top.webp",
-    "/engine_family/sec11.webp"
+    "/guides/bmw-repair-vs-rebuild/1-6eb1373c.webp",
+    "/guides/bmw-repair-vs-rebuild/2-b6a778b0.webp",
+    "/guides/bmw-repair-vs-rebuild/3-30c6ba62.webp"
   ],
   "stats": [
     {
@@ -255,5 +255,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 69,
+    "3": 71
+  }
 }

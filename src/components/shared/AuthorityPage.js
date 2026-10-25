@@ -75,36 +75,48 @@ function FramedImage({ src, alt, className = "", contain = false, backdrop }) {
   );
 }
 
-function ImageBand({ src, alt, kicker, title, cta }) {
+function ImageBand({ src, alt, kicker, title, cta, focus = 100 }) {
   return (
     <section className="relative overflow-hidden">
-      <div className="relative h-[220px] w-full sm:h-[260px]">
-        <Image src={src} alt={alt} fill className="object-cover" sizes="100vw" />
+      {/* phone: the photo is a full-bleed background; the left 65% is the dark text area and the
+          right 35% shows the photo's main subject; the band grows with its text.
+          sm and up keeps the fixed-height band. */}
+      <div className="absolute inset-0 sm:relative sm:h-[260px] sm:w-full">
+        <Image src={src} alt={alt} fill className="object-cover sm:object-center!" style={{ objectPosition: `${focus}% 50%` }} sizes="100vw" />
         <div
-          className="absolute inset-0"
+          className="absolute inset-0 sm:hidden"
+          style={{
+            background:
+              "linear-gradient(90deg, rgba(7,11,20,0.96) 0%, rgba(7,11,20,0.92) 52%, rgba(7,11,20,0.3) 62%, rgba(7,11,20,0) 74%)",
+          }}
+        />
+        <div
+          className="absolute inset-0 hidden sm:block"
           style={{
             background:
               "linear-gradient(90deg, rgba(7,11,20,0.92) 0%, rgba(7,11,20,0.6) 45%, rgba(0,127,248,0.25) 100%)",
           }}
         />
       </div>
-      <div className="absolute inset-0 flex items-center">
+      <div className="relative flex min-h-[220px] items-center py-9 sm:absolute sm:inset-0 sm:min-h-0 sm:py-0">
         <div className="mx-auto w-full max-w-6xl px-4 sm:px-6 lg:px-8">
-          {kicker ? (
-            <p className="text-xs font-bold uppercase tracking-[0.25em] text-hero-blue">{kicker}</p>
-          ) : null}
-          <p className="mt-3 max-w-xl text-2xl font-extrabold uppercase italic leading-tight tracking-tighter text-white sm:text-3xl">
-            {title}
-          </p>
-          <span className="mt-4 block h-0.5 w-24 bg-hero-blue" />
-          {cta ? (
-            <Link
-              href={cta.href}
-              className="mt-5 inline-block rounded-md bg-hero-blue px-6 py-3 text-sm font-bold uppercase tracking-wide text-white transition-transform hover:scale-[1.03]"
-            >
-              {cta.label}
-            </Link>
-          ) : null}
+          <div className="w-[65%] pr-2 sm:w-auto sm:pr-0">
+            {kicker ? (
+              <p className="text-[11px] font-bold uppercase tracking-[0.2em] text-hero-blue sm:text-xs sm:tracking-[0.25em]">{kicker}</p>
+            ) : null}
+            <p className="mt-2 max-w-xl text-xl font-extrabold uppercase italic leading-tight tracking-tighter text-white sm:mt-3 sm:text-3xl">
+              {title}
+            </p>
+            <span className="mt-4 block h-0.5 w-24 bg-hero-blue" />
+            {cta ? (
+              <Link
+                href={cta.href}
+                className="mt-4 inline-block rounded-md bg-hero-blue px-5 py-2.5 text-xs font-bold uppercase tracking-wide text-white transition-transform hover:scale-[1.03] sm:mt-5 sm:px-6 sm:py-3 sm:text-sm"
+              >
+                {cta.label}
+              </Link>
+            ) : null}
+          </div>
         </div>
       </div>
     </section>
@@ -381,6 +393,11 @@ export default function AuthorityPage({ data }) {
                 </Link>
               ))}
             </div>
+            {imgs[0] ? (
+              <div className="mx-auto mt-10 w-[88%] max-w-md lg:hidden">
+                <FramedImage src={heroPart || imgs[0]} alt={`${data.h1} — BMW Garage workshop`} contain={!!heroPart} backdrop={imgs[0]} />
+              </div>
+            ) : null}
             {data.stats?.length ? (
               <div className="mt-10 flex flex-wrap gap-x-8 gap-y-4 border-t border-white/10 pt-6">
                 {data.stats.map((st, i) => (
@@ -407,6 +424,7 @@ export default function AuthorityPage({ data }) {
             <ImageBand
               key={`band-${i}`}
               src={imgs[1]}
+              focus={data.bandFocus?.["2"]}
               alt={`${data.h1} in progress at our workshop`}
               kicker="Inside our workshop"
               title={data.h1}
@@ -418,6 +436,7 @@ export default function AuthorityPage({ data }) {
             <ImageBand
               key={`cta-${i}`}
               src={imgs[2]}
+              focus={data.bandFocus?.["3"]}
               alt="BMW engine rebuild at BMW Garage"
               kicker="Fixed-price, fully warranted"
               title="Get your quote in under 30 minutes"

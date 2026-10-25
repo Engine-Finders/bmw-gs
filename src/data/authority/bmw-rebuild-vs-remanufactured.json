@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/variant/sec12.webp",
-    "/engine_family/sec9_middle.webp",
-    "/model/sec10.webp"
+    "/guides/bmw-rebuild-vs-remanufactured/1-4097e204.webp",
+    "/guides/bmw-rebuild-vs-remanufactured/2-33352e65.webp",
+    "/guides/bmw-rebuild-vs-remanufactured/3-126c35d5.webp"
   ],
   "stats": [
     {
@@ -248,5 +248,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 76,
+    "3": 75
+  }
 }

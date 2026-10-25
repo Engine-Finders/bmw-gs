@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine_family/sec2_top.webp",
-    "/engine_family/sec11.webp",
-    "/variant/sec1.webp"
+    "/guides/bmw-engine-supply-fit/1-625a9b1c.webp",
+    "/guides/bmw-engine-supply-fit/2-8de1f5aa.webp",
+    "/guides/bmw-engine-supply-fit/3-65226412.webp"
   ],
   "stats": [
     {
@@ -379,5 +379,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 70,
+    "3": 70
+  }
 }

@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine_family/sec4.webp",
-    "/model/sec5.webp",
-    "/variant/sec11.webp"
+    "/guides/bmw-hot-vee-v8-repair/1-b89f889e.webp",
+    "/guides/bmw-hot-vee-v8-repair/2-23bebe67.webp",
+    "/guides/bmw-hot-vee-v8-repair/3-576f8df6.webp"
   ],
   "stats": [
     {
@@ -305,5 +305,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 72,
+    "3": 59
+  }
 }

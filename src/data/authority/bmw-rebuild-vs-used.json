@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/model/sec12.webp",
-    "/engine_family/sec2_top.webp",
-    "/engine_family/sec11.webp"
+    "/guides/bmw-rebuild-vs-used/1-33e655b4.webp",
+    "/guides/bmw-rebuild-vs-used/2-83d4d440.webp",
+    "/guides/bmw-rebuild-vs-used/3-c4f7da95.webp"
   ],
   "stats": [
     {
@@ -310,5 +310,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 72,
+    "3": 63
+  }
 }

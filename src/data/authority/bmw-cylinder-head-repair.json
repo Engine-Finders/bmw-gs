@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/model/sec7.webp",
-    "/variant/sec12.webp",
-    "/engine_family/sec9_middle.webp"
+    "/guides/bmw-cylinder-head-repair/1-2fe1d447.webp",
+    "/guides/bmw-cylinder-head-repair/2-7cdff4e3.webp",
+    "/guides/bmw-cylinder-head-repair/3-e49eb6be.webp"
   ],
   "stats": [
     {
@@ -589,5 +589,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 57,
+    "3": 71
+  }
 }

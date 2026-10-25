@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/model/sec7.webp",
-    "/variant/sec12.webp",
-    "/engine_family/sec9_middle.webp"
+    "/guides/bmw-trade-fleet-engine-services/1-1bb7ce60.webp",
+    "/guides/bmw-trade-fleet-engine-services/2-0525a97b.webp",
+    "/guides/bmw-trade-fleet-engine-services/3-af27a6ac.webp"
   ],
   "stats": [
     {
@@ -205,5 +205,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 67,
+    "3": 78
+  }
 }

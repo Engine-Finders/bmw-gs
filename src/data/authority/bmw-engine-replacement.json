@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/model/sec7.webp",
-    "/variant/sec12.webp",
-    "/engine_family/sec9_middle.webp"
+    "/guides/bmw-engine-replacement/1-69c0df23.webp",
+    "/guides/bmw-engine-replacement/2-e564f4f4.webp",
+    "/guides/bmw-engine-replacement/3-4b7fb3ac.webp"
   ],
   "stats": [
     {
@@ -452,5 +452,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 60,
+    "3": 59
+  }
 }

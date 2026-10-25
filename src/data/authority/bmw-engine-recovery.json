@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/model/sec5.webp",
-    "/variant/sec11.webp",
-    "/engine_family/sec9_top.webp"
+    "/guides/bmw-engine-recovery/1-70362202.webp",
+    "/guides/bmw-engine-recovery/2-020567e5.webp",
+    "/guides/bmw-engine-recovery/3-fe89ba7f.webp"
   ],
   "stats": [
     {
@@ -259,5 +259,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 77,
+    "3": 62
+  }
 }

@@ -11,9 +11,9 @@
     }
   ],
   "images": [
-    "/variant/sec11.webp",
-    "/engine_family/sec9_top.webp",
-    "/model/sec7.webp"
+    "/guides/bmw-diesel-timing-chain-repair/1-640996ba.webp",
+    "/guides/bmw-diesel-timing-chain-repair/2-7986b9a2.webp",
+    "/guides/bmw-diesel-timing-chain-repair/3-7d92e2a7.webp"
   ],
   "stats": [
     {
@@ -303,5 +303,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 72,
+    "3": 72
+  }
 }

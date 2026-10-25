@@ -11,9 +11,9 @@
     }
   ],
   "images": [
-    "/engine_family/sec3.webp",
-    "/model/sec3.webp",
-    "/variant/sec10_car.webp"
+    "/guides/bmw-engine-matching/1-40fbb38b.webp",
+    "/guides/bmw-engine-matching/2-7d86b3d6.webp",
+    "/guides/bmw-engine-matching/3-07661e07.webp"
   ],
   "stats": [
     {
@@ -364,5 +364,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 70,
+    "3": 60
+  }
 }

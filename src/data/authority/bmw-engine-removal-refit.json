@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine_family/sec9_bottom.webp",
-    "/model/sec12.webp",
-    "/engine_family/sec2_top.webp"
+    "/guides/bmw-engine-removal-refit/1-4e6a679c.webp",
+    "/guides/bmw-engine-removal-refit/2-2aa97644.webp",
+    "/guides/bmw-engine-removal-refit/3-001f73d9.webp"
   ],
   "stats": [
     {
@@ -336,5 +336,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 70,
+    "3": 71
+  }
 }

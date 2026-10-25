@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/model/sec2.webp",
-    "/variant/sec10_engine.webp",
-    "/engine_family/sec3.webp"
+    "/guides/bmw-m-power-engine-rebuild/1-f578dda6.webp",
+    "/guides/bmw-m-power-engine-rebuild/2-af359b19.webp",
+    "/guides/bmw-m-power-engine-rebuild/3-1a0f9e30.webp"
   ],
   "stats": [
     {
@@ -228,5 +228,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 75,
+    "3": 70
+  }
 }

@@ -1,4 +1,5 @@
 import Image from "next/image";
+import PhotoStripes from "@/components/reusable/PhotoStripes";
 import Link from "next/link";
 import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
@@ -11,13 +12,14 @@ export default function ModelSec3({ data }) {
       {/* ===== mobile ===== */}
       <div className="relative bg-hero-dark md:hidden">
         <div className="relative h-56 w-full overflow-hidden">
-          <Image src={data.imageMobile} alt="BMW 3 Series in a dark BMW service workshop" fill priority className="object-cover object-top" sizes="100vw" />
+          <Image src={data.imageMobile} alt="BMW in a dark BMW service workshop" fill priority className="object-cover object-top" sizes="100vw" />
+          <PhotoStripes preset="service-mobile" />
           <div className="absolute inset-0 bg-linear-to-b from-hero-dark/50 via-transparent to-hero-dark" />
 
           <div className="relative px-4 pt-6">
             <div className="flex items-center gap-2">
               <BMWStripe className="h-3 w-6" />
-              <p className="text-[10px] font-semibold uppercase leading-none tracking-widest text-white">{data.kicker}</p>
+              <p className="text-xs font-semibold uppercase leading-none tracking-widest text-white">{data.kicker}</p>
             </div>
 
             <h2 className="hp-h2 mt-2 uppercase">
@@ -54,20 +56,20 @@ export default function ModelSec3({ data }) {
                   </div>
 
                   <div className="min-w-0 flex-1">
-                    <p className={`truncate text-[10px] font-extrabold uppercase leading-tight ${c.featured ? "text-[#101828]" : "text-white"}`}>
+                    <p className={`text-xs font-extrabold uppercase leading-tight ${c.featured ? "text-[#101828]" : "text-white"}`}>
                       {c.titlePre}
                     </p>
-                    <p className="truncate text-[10px] font-extrabold uppercase leading-tight text-hero-blue">{c.titleHighlight}</p>
+                    <p className="text-xs font-extrabold uppercase leading-tight text-hero-blue">{c.titleHighlight}</p>
                     {c.code && (
                       c.codeHref ? (
-                        <Link href={c.codeHref} className={`block truncate text-[9px] uppercase ${c.featured ? "text-[#101828]" : "text-white"}`}>{c.code}</Link>
+                        <Link href={c.codeHref} className={`block text-xs uppercase ${c.featured ? "text-[#101828]" : "text-white"}`}>{c.code}</Link>
                       ) : (
-                        <p className={`truncate text-[9px] uppercase ${c.featured ? "text-[#101828]" : "text-white"}`}>{c.code}</p>
+                        <p className={`text-xs uppercase ${c.featured ? "text-[#101828]" : "text-white"}`}>{c.code}</p>
                       )
                     )}
 
                     <div className="mt-1.5">
-                      <p className={`text-[9px] font-semibold uppercase tracking-widest ${c.featured ? "text-[#101828]" : "text-white"}`}>
+                      <p className={`text-xs font-semibold uppercase tracking-widest ${c.featured ? "text-[#101828]" : "text-white"}`}>
                         From
                       </p>
                       <p className={`text-lg font-extrabold ${c.featured ? "text-[#101828]" : "text-white"}`}>{c.price}</p>
@@ -94,7 +96,7 @@ export default function ModelSec3({ data }) {
 
             <a
               href={data.cta.href}
-              className="mt-4 flex items-center justify-center gap-2 rounded-lg px-6 py-3.5 text-sm font-bold uppercase tracking-wide text-white"
+              className="mt-4 flex items-center justify-center gap-2 rounded-lg px-6 py-3.5 text-sm font-bold uppercase tracking-wide text-white transition duration-200 hover:-translate-y-0.5 hover:brightness-110"
               style={{
                 background: "linear-gradient(135deg, #0052cc 0%, #0037a5 100%)",
                 border: "1px solid rgba(255,255,255,0.25)",
@@ -109,7 +111,7 @@ export default function ModelSec3({ data }) {
       {/* ===== desktop ===== */}
       <div className="relative hidden overflow-hidden px-4 py-10 sm:px-6 md:block lg:px-8">
       <div className="absolute inset-0">
-        <Image src={data.image} alt="BMW 3 Series in a dark BMW service workshop" fill className="object-cover object-[65%_30%]" sizes="100vw" />
+        <Image src={data.image} alt="BMW in a dark BMW service workshop" fill className="object-cover object-[65%_30%]" sizes="100vw" />
         <div className="absolute inset-0 bg-linear-to-r from-hero-dark via-hero-dark/75 to-transparent" />
       </div>
 
@@ -119,16 +121,16 @@ export default function ModelSec3({ data }) {
           <p className="text-xs font-semibold uppercase leading-none tracking-widest text-white">{data.kicker}</p>
         </div>
 
-        <h2 className="hp-h2 mt-3 uppercase">
+        <div role="heading" aria-level="2" className="hp-h2 mt-3 uppercase">
           <span className="block text-white">{line1}</span>
           <span className="block text-hero-blue">{line2}</span>
-        </h2>
+        </div>
 
-        <p className="mt-4 inline-block border-b border-white/20 pb-2 text-xs font-bold uppercase tracking-widest text-white">
+        <p className="mt-4 inline-block border-b border-white/20 pb-2 text-sm font-bold uppercase tracking-widest text-white">
           {data.startingFromLabel}
         </p>
 
-        <div className="mt-5 grid max-w-3xl grid-cols-4 gap-4">
+        <div className="mt-5 grid max-w-4xl grid-cols-4 gap-4">
           {data.cards.map((c) => (
             <div
               key={c.titlePre}
@@ -138,47 +140,49 @@ export default function ModelSec3({ data }) {
                   : "card-corner-glare relative rounded-xl border border-hero-blue/50 bg-[#0a0f1c] pb-4 pt-3"
               }
             >
-              {c.featured ? (
-                <div className="mb-1 flex items-center justify-center gap-0.5">
-                  <BMWStripe className="h-4 w-8" />
-                  <span className="text-lg font-black italic text-[#101828]">M</span>
-                </div>
-              ) : null}
+              <div className="mb-1 flex h-6 items-center justify-center gap-0.5">
+                {c.featured ? (
+                  <>
+                    <BMWStripe className="h-4 w-8" />
+                    <span className="text-lg font-black italic text-[#101828]">M</span>
+                  </>
+                ) : null}
+              </div>
 
               <div className="relative mx-auto h-28 w-full overflow-hidden">
                 <Image src={c.image ?? data.cardImage} alt={`${c.titlePre} ${c.titleHighlight}`} fill className="object-contain" sizes="160px" />
               </div>
 
-              <p className={`mt-2 px-3 text-center text-sm font-extrabold uppercase leading-tight ${c.featured ? "text-[#101828]" : "text-white"}`}>
+              <p className={`mt-2 px-3 text-center text-base font-extrabold uppercase leading-tight ${c.featured ? "text-[#101828]" : "text-white"}`}>
                 {c.titlePre} <span className="text-hero-blue">{c.titleHighlight}</span>
               </p>
               {c.code && (
                 c.codeHref ? (
-                  <Link href={c.codeHref} className={`block px-3 text-center text-xs uppercase ${c.featured ? "text-[#101828]" : "text-white"}`}>{c.code}</Link>
+                  <Link href={c.codeHref} className={`block px-3 text-center text-sm uppercase ${c.featured ? "text-[#101828]" : "text-white"} hover:underline`}>{c.code}</Link>
                 ) : (
-                  <p className={`px-3 text-center text-xs uppercase ${c.featured ? "text-[#101828]" : "text-white"}`}>{c.code}</p>
+                  <p className={`px-3 text-center text-sm uppercase ${c.featured ? "text-[#101828]" : "text-white"}`}>{c.code}</p>
                 )
               )}
 
               <div className="mx-3 mt-3 text-center">
-                <p className={`text-[10px] font-semibold uppercase tracking-widest ${c.featured ? "text-[#101828]" : "text-white"}`}>
+                <p className={`text-xs font-semibold uppercase tracking-widest ${c.featured ? "text-[#101828]" : "text-white"}`}>
                   From
                 </p>
-                <p className={`text-2xl font-extrabold ${c.featured ? "text-[#101828]" : "text-white"}`}>{c.price}</p>
+                <p className={`text-3xl font-extrabold ${c.featured ? "text-[#101828]" : "text-white"}`}>{c.price}</p>
               </div>
             </div>
           ))}
         </div>
 
-        <p className="mt-4 flex max-w-3xl items-center gap-2 text-xs text-white">
+        <p className="mt-4 flex max-w-4xl items-center gap-2 text-sm text-white">
           <Icon name="info" className="h-4 w-4 shrink-0 text-hero-blue" />
           {data.disclaimer}
         </p>
 
-        <div className="glass-card-dark card-corner-glare relative mt-6 flex max-w-3xl items-center justify-between gap-6 rounded-xl border border-hero-blue/50 px-6 py-4">
+        <div className="glass-card-dark card-corner-glare relative mt-6 flex max-w-4xl items-center justify-between gap-6 rounded-xl border border-hero-blue/50 px-6 py-4">
           <div className="flex items-center gap-3">
             <Icon name="clock" className="h-9 w-9 shrink-0 text-hero-blue" />
-            <p className="text-sm font-extrabold uppercase leading-tight text-white">
+            <p className="text-base font-extrabold uppercase leading-tight text-white">
               <span className="block">{data.cta.line1}</span>
               <span className="block">{data.cta.line2}</span>
             </p>
@@ -186,7 +190,7 @@ export default function ModelSec3({ data }) {
 
           <a
             href={data.cta.href}
-            className="inline-flex shrink-0 items-center gap-2 rounded-sm border-2 border-hero-blue bg-hero-blue px-6 py-3 text-sm font-bold text-white transition-colors hover:bg-transparent hover:text-hero-blue"
+            className="inline-flex shrink-0 items-center gap-2 rounded-sm border-2 border-hero-blue bg-hero-blue px-8 py-3.5 text-base font-bold text-white transition-colors hover:bg-transparent hover:text-hero-blue"
           >
             {data.cta.buttonLabel} →
           </a>

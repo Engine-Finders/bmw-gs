@@ -19,7 +19,7 @@ function Stars({ count = 5 }) {
   return (
     <div className="flex gap-0.5">
       {Array.from({ length: count }).map((_, i) => (
-        <Icon key={i} name="star" className="h-3.5 w-3.5 fill-[#f5c518] text-[#f5c518]" />
+        <Icon key={i} name="star" className="h-4 w-4 fill-[#f5c518] text-[#f5c518]" />
       ))}
     </div>
   );
@@ -83,7 +83,7 @@ export default function ModelSec8({ data }) {
                 </div>
                 <p className="mt-4 text-base font-bold text-white">{r.name}</p>
                 <p className="mt-2 text-sm leading-relaxed text-white">&ldquo;{r.text}&rdquo;</p>
-                <p className="mt-auto pt-4 text-xs font-bold uppercase tracking-wide text-hero-blue">{r.tag}</p>
+                <p className="mt-auto pt-4 text-sm font-semibold text-hero-blue">{r.tag}</p>
               </div>
             ))}
           </div>
@@ -98,11 +98,11 @@ export default function ModelSec8({ data }) {
           </div>
 
           <div className="mt-6 space-y-3">
-            <button className="card-glare-light relative flex w-full items-center justify-center gap-2 rounded-lg border border-black/10 bg-white px-6 py-3.5 text-xs font-bold uppercase tracking-wide text-hero-blue">
+            <button className="card-glare-light relative flex w-full items-center justify-center gap-2 rounded-lg border border-black/10 bg-white px-6 py-3.5 text-sm font-bold uppercase tracking-wide text-hero-blue transition duration-200 hover:-translate-y-0.5 hover:bg-white hover:shadow-lg">
               <GoogleG className="h-5 w-5" />
               {data.googleCta} <span aria-hidden>→</span>
             </button>
-            <button className="card-corner-glare relative flex w-full items-center justify-center gap-2 rounded-lg border border-hero-blue/50 bg-[#0a0f1c] px-6 py-3.5 text-xs font-bold uppercase tracking-wide text-white">
+            <button className="card-corner-glare relative flex w-full items-center justify-center gap-2 rounded-lg border border-hero-blue/50 bg-[#0a0f1c] px-6 py-3.5 text-sm font-bold uppercase tracking-wide text-white transition duration-200 hover:-translate-y-0.5 hover:brightness-110">
               <Icon name="star" className="h-5 w-5 fill-[#00b67a] text-[#00b67a]" />
               {data.trustpilotCta} <span aria-hidden>→</span>
             </button>
@@ -115,10 +115,10 @@ export default function ModelSec8({ data }) {
       <BMWStripe size="wide" className="absolute -right-2 -top-2 rotate-6 opacity-90" />
 
       <div className="relative mx-auto max-w-6xl">
-        <h2 className="hp-h2 pt-8 uppercase">
+        <div role="heading" aria-level="2" className="hp-h2 pt-8 uppercase">
           <span className="text-white">{line1} </span>
           <span className="text-hero-blue">{line2}</span>
-        </h2>
+        </div>
 
         <div className="mt-6 grid grid-cols-6 gap-3">
           {data.reviews.map((r) => (
@@ -149,7 +149,7 @@ export default function ModelSec8({ data }) {
               </div>
               <p className="mt-4 text-base font-bold text-white">{r.name}</p>
               <p className="mt-2 text-sm leading-relaxed text-white">&ldquo;{r.text}&rdquo;</p>
-              <p className="mt-auto pt-4 text-xs font-bold uppercase tracking-wide text-hero-blue">{r.tag}</p>
+              <p className="mt-auto pt-4 text-sm font-semibold text-hero-blue">{r.tag}</p>
             </div>
           ))}
         </div>

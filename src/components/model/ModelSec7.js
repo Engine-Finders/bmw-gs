@@ -1,10 +1,17 @@
+"use client";
+
+import { useState } from "react";
 import Image from "next/image";
+import ImageLightbox from "@/components/shared/ImageLightbox";
 import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
 
 export default function ModelSec7({ data }) {
+  const [open, setOpen] = useState(null);
+
   return (
     <section className="relative overflow-hidden bg-[#f3f6fb]">
+      {open && <ImageLightbox img={open} onClose={() => setOpen(null)} />}
       {/* ===== mobile ===== */}
       <div className="relative px-4 py-10 md:hidden">
         <div className="flex items-center gap-3">
@@ -17,15 +24,15 @@ export default function ModelSec7({ data }) {
 
         <div className="mt-5 grid grid-cols-2 gap-3">
           {data.cards.map((c) => (
-            <div key={c.number} className="overflow-hidden rounded-md bg-white shadow-sm">
-              <div className="relative aspect-[4/3]">
+            <div key={c.number} className="group flex flex-col overflow-hidden rounded-md bg-white shadow-sm">
+              <div className="relative aspect-[4/3] shrink-0 cursor-pointer overflow-hidden" onClick={() => setOpen({ src: c.image, alt: c.title })}>
                 <Image src={c.image} alt={c.title} fill className="object-cover" sizes="50vw" />
-                <span className="absolute left-2 top-2 rounded-md bg-hero-blue px-2 py-1 text-[10px] font-extrabold text-white">
+                <span className="absolute left-2 top-2 rounded-md bg-hero-blue px-2 py-1 text-xs font-extrabold text-white">
                   {c.number}
                 </span>
               </div>
-              <div className="flex min-h-14 items-center justify-center px-2 py-2" style={{ background: "rgba(5,12,28,0.9)" }}>
-                <p className="text-center text-[9px] font-extrabold uppercase leading-tight tracking-wide text-white">{c.title}</p>
+              <div className="flex min-h-14 flex-1 items-center justify-center px-2 py-2" style={{ background: "rgba(5,12,28,0.9)" }}>
+                <p className="text-center text-xs font-extrabold uppercase leading-tight tracking-wide text-white">{c.title}</p>
               </div>
             </div>
           ))}
@@ -60,23 +67,23 @@ export default function ModelSec7({ data }) {
       <div className="relative mx-auto max-w-6xl">
         <div className="flex items-center gap-4">
           <BMWStripe className="h-6 w-11" />
-          <h2 className="hp-h2 uppercase">
+          <div role="heading" aria-level="2" className="hp-h2 uppercase">
             <span className="text-[#101828]">Our </span>
             <span className="text-hero-blue">Workshop</span>
-          </h2>
+          </div>
         </div>
 
         <div className="mt-6 grid grid-cols-5 gap-4">
           {data.cards.map((c) => (
-            <div key={c.number} className="overflow-hidden rounded-xl bg-white shadow-sm">
-              <div className="relative aspect-square">
-                <Image src={c.image} alt={c.title} fill className="object-cover" sizes="20vw" />
-                <span className="absolute bottom-0 left-0 rounded-tr-md bg-hero-blue px-2.5 py-1 text-xs font-extrabold text-white">
+            <div key={c.number} className="group flex flex-col overflow-hidden rounded-xl bg-white shadow-sm transition-transform duration-300 hover:-translate-y-1">
+              <div className="relative aspect-square shrink-0 overflow-hidden">
+                <Image src={c.image} alt={c.title} fill className="object-cover transition-transform duration-500 ease-out group-hover:scale-110" sizes="20vw" />
+                <span className="absolute bottom-0 left-0 rounded-tr-md bg-hero-blue px-3 py-1.5 text-sm font-extrabold text-white">
                   {c.number}
                 </span>
               </div>
-              <div className="bg-[#101828] px-2 py-2">
-                <p className="text-center text-[10px] font-extrabold uppercase leading-tight tracking-wide text-white">
+              <div className="flex flex-1 items-center justify-center bg-[#101828] px-2 py-3">
+                <p className="text-center text-xs font-extrabold uppercase leading-tight tracking-wide text-white">
                   {c.title}
                 </p>
               </div>
@@ -85,7 +92,7 @@ export default function ModelSec7({ data }) {
         </div>
 
         <div className="mt-6 flex justify-center">
-          <button className="flex items-center gap-2 rounded-md border-2 border-hero-blue bg-white/70 px-6 py-2.5 text-xs font-bold uppercase tracking-wide text-hero-blue backdrop-blur-md transition hover:bg-hero-blue hover:text-white">
+          <button className="flex items-center gap-2 rounded-md border-2 border-hero-blue bg-white/70 px-6 py-3 text-sm font-bold uppercase tracking-wide text-hero-blue backdrop-blur-md transition hover:bg-hero-blue hover:text-white">
             {data.viewMoreLabel} <span aria-hidden>→</span>
           </button>
         </div>
@@ -93,7 +100,7 @@ export default function ModelSec7({ data }) {
         <div className="relative mt-6 flex items-center justify-between overflow-hidden border-t border-black/10 pt-5">
           <div className="flex items-center gap-2">
             <Icon name="camera" className="h-5 w-5 shrink-0 text-[#101828]" />
-            <p className="text-xs text-[#101828]">{data.footerNote}</p>
+            <p className="text-sm text-[#101828]">{data.footerNote}</p>
           </div>
           <div
             className="pointer-events-none absolute bottom-0 right-0 z-10 flex gap-1.5"

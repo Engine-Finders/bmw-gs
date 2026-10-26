@@ -20,7 +20,7 @@ export default function ModelHeroSec1({ data }) {
           <div className="max-w-[72%]">
             <div className="flex items-center gap-2">
               <BMWStripe className="h-3 w-6" />
-              <p className="text-[10px] font-semibold uppercase leading-none tracking-widest text-white">{data.kicker}</p>
+              <p className="text-xs font-semibold uppercase leading-none tracking-widest text-white">{data.kicker}</p>
             </div>
 
             <h1 className="hp-h1 mt-2 uppercase">
@@ -29,7 +29,7 @@ export default function ModelHeroSec1({ data }) {
               <span className="block text-white">{line3}</span>
             </h1>
 
-            <p className="mt-1.5 text-xs leading-snug text-white">{data.subhead}</p>
+            <p className="body-text mt-2 text-white">{data.subhead}</p>
 
             <div className="glass-card-dark mt-2 flex items-center gap-2 rounded-lg px-3 py-1.5">
               <div className="flex shrink-0 gap-0.5 text-[#ffcc00]">
@@ -37,7 +37,7 @@ export default function ModelHeroSec1({ data }) {
                   <Icon key={i} name="star" className="h-3 w-3 fill-current" />
                 ))}
               </div>
-              <p className="text-[9px] font-semibold uppercase leading-tight text-white">{data.rating.label}</p>
+              <p className="text-xs font-semibold uppercase leading-tight text-white">{data.rating.label}</p>
             </div>
           </div>
 
@@ -47,9 +47,9 @@ export default function ModelHeroSec1({ data }) {
             style={{ background: "linear-gradient(135deg, rgba(8,16,34,0.92) 0%, rgba(4,8,18,0.96) 100%)", backdropFilter: "blur(16px)" }}
           >
             {data.trustBar.map((t) => (
-              <div key={t.label} className="flex flex-col items-center gap-1 px-1 text-center">
+              <div key={t.label} className="flex flex-col items-center gap-1.5 px-0.5 text-center">
                 <Icon name={t.icon} className="h-5 w-5 shrink-0 text-hero-blue" />
-                <p className="text-[8px] font-medium leading-tight text-white">{t.label}</p>
+                <p className="min-w-0 text-xs font-medium leading-tight text-white [overflow-wrap:anywhere]">{t.label}</p>
               </div>
             ))}
           </div>
@@ -57,17 +57,17 @@ export default function ModelHeroSec1({ data }) {
           {/* pricing callout banner */}
           <a
             href={data.priceCta.href}
-            className="glass-luminous card-glare relative mt-2.5 flex items-center divide-x divide-white/15 rounded-xl px-3 py-3"
+            className="glass-luminous card-glare relative mt-2.5 flex items-center divide-x divide-white/15 rounded-xl px-3 py-3 transition duration-200 hover:-translate-y-0.5 hover:brightness-110"
             style={{ border: "1px solid rgba(90,170,255,0.45)" }}
           >
             <div className="flex items-center gap-2 pr-3">
               <Icon name={data.priceCta.icon} className="h-6 w-6 shrink-0 text-hero-blue" />
               <div>
-                <p className="whitespace-nowrap text-[9px] font-semibold uppercase tracking-wide text-white">{data.priceCta.kicker}</p>
+                <p className="whitespace-nowrap text-xs font-semibold uppercase tracking-wide text-white">{data.priceCta.kicker}</p>
                 <p className="whitespace-nowrap text-lg font-extrabold text-white">{data.priceCta.price}</p>
               </div>
             </div>
-            <p className="whitespace-nowrap pl-3 text-[10px] font-bold uppercase leading-tight text-hero-blue">{data.priceCta.label}</p>
+            <p className="whitespace-nowrap pl-3 text-xs font-bold uppercase leading-tight text-hero-blue">{data.priceCta.label}</p>
           </a>
 
           {/* registration lookup */}
@@ -84,14 +84,14 @@ export default function ModelHeroSec1({ data }) {
 
             <div className="mt-2 flex items-center gap-1.5">
               <Icon name="lock" className="h-3.5 w-3.5 shrink-0 text-white" />
-              <p className="text-[10px] text-white">{data.quickQuote.securityNote}</p>
+              <p className="text-xs text-white">{data.quickQuote.securityNote}</p>
             </div>
           </div>
 
           {/* direct contact CTA */}
           <a
             href={data.phoneCta.href}
-            className="glass-luminous card-glare relative mt-2.5 flex items-center gap-3 rounded-xl p-3"
+            className="glass-luminous card-glare relative mt-2.5 flex items-center gap-3 rounded-xl p-3 transition duration-200 hover:-translate-y-0.5 hover:brightness-110"
             style={{ border: "1px solid rgba(90,170,255,0.45)" }}
           >
             <div
@@ -105,7 +105,7 @@ export default function ModelHeroSec1({ data }) {
             />
             <Icon name={data.phoneCta.icon} className="relative h-7 w-7 shrink-0 text-hero-blue" />
             <div className="relative">
-              <p className="text-[10px] font-semibold uppercase tracking-wide text-white">{data.phoneCta.label}</p>
+              <p className="text-xs font-semibold uppercase tracking-wide text-white">{data.phoneCta.label}</p>
               <p className="text-lg font-extrabold text-white">{data.phoneCta.phone}</p>
             </div>
           </a>
@@ -116,7 +116,7 @@ export default function ModelHeroSec1({ data }) {
             style={{ border: "1px solid rgba(90,170,255,0.45)" }}
           >
             <Icon name="shield-check" className="h-4 w-4 shrink-0 text-hero-blue" />
-            <p className="text-[11px] font-medium text-white">{data.trustFooter}</p>
+            <p className="text-xs font-medium text-white">{data.trustFooter}</p>
           </div>
         </div>
       </div>
@@ -136,13 +136,13 @@ export default function ModelHeroSec1({ data }) {
               <p className="text-xs font-semibold uppercase leading-none tracking-widest text-white">{data.kicker}</p>
             </div>
 
-            <h1 className="hp-h1 mt-3 uppercase">
+            <div role="heading" aria-level="1" className="hp-h1 mt-3 uppercase">
               <span className="block whitespace-nowrap text-white">{line1}</span>
               <span className="block whitespace-nowrap text-hero-blue">{line2}</span>
               <span className="block text-white">{line3}</span>
-            </h1>
+            </div>
 
-            <p className="mt-3 max-w-lg text-sm text-white">{data.subhead}</p>
+            <p className="body-text mt-4 max-w-xl text-white">{data.subhead}</p>
 
             <div className="glass-luminous card-glare relative mt-3 inline-flex items-center gap-2.5 rounded-lg px-4 py-2.5">
               <div className="flex shrink-0 gap-0.5 text-[#ffcc00]">
@@ -162,7 +162,7 @@ export default function ModelHeroSec1({ data }) {
               {data.trustBar.map((t) => (
                 <div key={t.label} className="flex flex-1 items-center gap-2 px-2">
                   <Icon name={t.icon} className="h-7 w-7 shrink-0 text-hero-blue" />
-                  <p className="text-[11px] leading-tight font-medium text-white">{t.label}</p>
+                  <p className="text-xs leading-tight font-medium text-white">{t.label}</p>
                 </div>
               ))}
             </div>
@@ -170,21 +170,21 @@ export default function ModelHeroSec1({ data }) {
             <div className="mt-3 flex flex-wrap items-stretch gap-4">
               <a
                 href={data.priceCta.href}
-                className="card-glare relative flex w-60 shrink-0 flex-col justify-between rounded-xl border-hero-blue/60 bg-linear-to-br from-hero-blue to-hero-blue-dark px-5 py-4 transition-transform hover:scale-[1.02]"
+                className="card-glare relative flex w-72 shrink-0 flex-col justify-between rounded-xl border-hero-blue/60 bg-linear-to-br from-hero-blue to-hero-blue-dark px-5 py-4 transition-transform hover:scale-[1.02]"
               >
                 <div className="flex items-center gap-3">
-                  <Icon name={data.priceCta.icon} className="h-8 w-8 shrink-0 text-white" />
+                  <Icon name={data.priceCta.icon} className="h-10 w-10 shrink-0 text-white" />
                   <div>
-                    <p className="text-[10px] font-semibold uppercase tracking-wide text-white">{data.priceCta.kicker}</p>
-                    <p className="text-xl font-extrabold text-white">{data.priceCta.price}</p>
+                    <p className="text-xs font-semibold uppercase tracking-wide text-white">{data.priceCta.kicker}</p>
+                    <p className="text-3xl font-extrabold leading-tight text-white">{data.priceCta.price}</p>
                   </div>
                 </div>
-                <p className="mt-2 text-[10px] font-bold uppercase leading-tight text-white">{data.priceCta.label}</p>
+                <p className="mt-3 text-xs font-bold uppercase leading-tight tracking-wide text-white">{data.priceCta.label}</p>
               </a>
 
               <a
                 href={data.phoneCta.href}
-                className="glass-luminous card-glare relative flex w-60 shrink-0 flex-col justify-center rounded-xl px-5 py-4 transition-colors hover:bg-white/5"
+                className="glass-luminous card-glare relative flex w-72 shrink-0 flex-col justify-center rounded-xl px-5 py-4 transition-colors hover:bg-white/5"
               >
                 <div
                   className="pointer-events-none absolute bottom-0 right-0 h-full"
@@ -196,10 +196,10 @@ export default function ModelHeroSec1({ data }) {
                   aria-hidden="true"
                 />
                 <div className="relative flex items-center gap-3">
-                  <Icon name={data.phoneCta.icon} className="h-9 w-9 shrink-0 text-hero-blue" />
+                  <Icon name={data.phoneCta.icon} className="h-10 w-10 shrink-0 text-hero-blue" />
                   <div>
-                    <p className="text-[10px] font-semibold uppercase tracking-wide text-white">{data.phoneCta.label}</p>
-                    <p className="whitespace-nowrap text-base font-extrabold text-white">{data.phoneCta.phone}</p>
+                    <p className="text-xs font-semibold uppercase tracking-wide text-white">{data.phoneCta.label}</p>
+                    <p className="whitespace-nowrap text-xl font-extrabold leading-tight text-white">{data.phoneCta.phone}</p>
                   </div>
                 </div>
               </a>

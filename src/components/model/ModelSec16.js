@@ -30,7 +30,7 @@ export default function ModelSec16({ data }) {
                   <div className="flex items-center gap-2.5 py-3 pr-3">
                     <Icon name="engine" className="h-7 w-7 shrink-0 text-hero-blue" />
                     <p className="text-xs leading-tight">
-                      <span className="block text-white">BMW 3 Series</span>
+                      <span className="block text-white">{data.series}</span>
                       <span className="block font-bold text-white">{left} Litre Engine</span>
                     </p>
                   </div>
@@ -39,7 +39,7 @@ export default function ModelSec16({ data }) {
                       <span className="absolute left-0 top-1/2 h-1/2 w-px -translate-y-1/2 bg-white/15" aria-hidden="true" />
                       <Icon name="engine" className="h-7 w-7 shrink-0 text-hero-blue" />
                       <p className="text-xs leading-tight">
-                        <span className="block text-white">BMW 3 Series</span>
+                        <span className="block text-white">{data.series}</span>
                         <span className="block font-bold text-white">{right} Litre Engine</span>
                       </p>
                     </div>
@@ -58,7 +58,7 @@ export default function ModelSec16({ data }) {
                 <div key={f.label} className="neon-card neon-card--soft relative flex items-center gap-3 rounded-xl px-4 py-4">
                   <Icon name={f.icon} className="h-8 w-8 shrink-0 text-hero-blue" />
                   <p className="flex-1 text-sm leading-tight">
-                    <span className="block text-white">BMW 3 Series</span>
+                    <span className="block text-white">{data.series}</span>
                     <span className="block font-bold text-white">{f.label}</span>
                   </p>
                   <span className="shrink-0 text-lg text-hero-blue" aria-hidden>
@@ -78,19 +78,9 @@ export default function ModelSec16({ data }) {
             {data.services.items.map((s) => (
               <div key={s.label} className="flex flex-col items-center gap-1.5 px-1 text-center">
                 <Icon name={s.icon} className="h-8 w-8 shrink-0 text-hero-blue" />
-                <p className="text-[9px] font-semibold leading-tight text-[#101828]">{s.label}</p>
+                <p className="text-xs font-semibold leading-tight text-[#101828]">{s.label}</p>
               </div>
             ))}
-          </div>
-
-          <div
-            className="pointer-events-none absolute bottom-0 right-0 flex h-14 gap-1.5"
-            style={{ transform: "skewX(-25deg)", transformOrigin: "bottom right" }}
-            aria-hidden="true"
-          >
-            <span className="h-full w-6" style={{ background: "var(--color-bmw-blue)" }} />
-            <span className="h-full w-6" style={{ background: "var(--color-bmw-violet)" }} />
-            <span className="h-full w-6" style={{ background: "var(--color-bmw-red)" }} />
           </div>
         </div>
       </div>
@@ -125,8 +115,8 @@ export default function ModelSec16({ data }) {
               style={i === 8 ? { gridColumn: "2 / 3" } : undefined}
             >
               <Icon name="engine" className="h-8 w-8 shrink-0 text-hero-blue" />
-              <p className="text-sm leading-tight">
-                <span className="block text-white">BMW 3 Series</span>
+              <p className="text-base leading-tight">
+                <span className="block text-white">{data.series}</span>
                 <span className="block font-bold text-white">{size} Litre Engine</span>
               </p>
             </div>
@@ -150,16 +140,16 @@ export default function ModelSec16({ data }) {
                   }}
                 >
                   <Icon name={f.icon} className="h-10 w-10 shrink-0 text-red-500" />
-                  <p className="text-sm leading-tight">
-                    <span className="block text-white">BMW 3 Series</span>
+                  <p className="text-base leading-tight">
+                    <span className="block text-white">{data.series}</span>
                     <span className="block font-bold text-white">{f.label}</span>
                   </p>
                 </div>
               ) : (
                 <div key={f.label} className="neon-card neon-card--soft relative flex items-center gap-4 rounded-xl px-5 py-6">
                   <Icon name={f.icon} className="h-10 w-10 shrink-0 text-hero-blue" />
-                  <p className="text-sm leading-tight">
-                    <span className="block text-white">BMW 3 Series</span>
+                  <p className="text-base leading-tight">
+                    <span className="block text-white">{data.series}</span>
                     <span className="block font-bold text-white">{f.label}</span>
                   </p>
                 </div>
@@ -177,7 +167,7 @@ export default function ModelSec16({ data }) {
               <div key={s.label} className="relative flex flex-col items-center gap-2 px-4 text-center">
                 {i > 0 && <span className="absolute left-0 top-1/2 h-1/2 w-px -translate-y-1/2 bg-black/10" />}
                 <Icon name={s.icon} className="h-14 w-14 shrink-0 text-hero-blue" />
-                <p className="text-sm font-semibold text-[#101828]">{s.label}</p>
+                <p className="text-base font-semibold text-[#101828]">{s.label}</p>
               </div>
             ))}
           </div>

@@ -4,175 +4,175 @@
     {
       "name": "1 Series",
       "slug": "1-series",
-      "image": "/model-cards/1-series.webp",
+      "image": "/model-cards/1-series-v2.webp",
       "href": "/bmw-1-series-engines",
       "price": "1,695"
     },
     {
       "name": "2 Series",
       "slug": "2-series",
-      "image": "/model-cards/2-series.webp",
+      "image": "/model-cards/2-series-v2.webp",
       "href": "/bmw-2-series-engines",
       "price": "1,795"
     },
     {
       "name": "3 Series",
       "slug": "3-series",
-      "image": "/model-cards/3-series.webp",
+      "image": "/model-cards/3-series-v2.webp",
       "href": "/bmw-3-series-engines",
       "price": "1,895"
     },
     {
       "name": "4 Series",
       "slug": "4-series",
-      "image": "/model-cards/4-series.webp",
+      "image": "/model-cards/4-series-v2.webp",
       "href": "/bmw-4-series-engines",
       "price": "1,995"
     },
     {
       "name": "5 Series",
       "slug": "5-series",
-      "image": "/model-cards/5-series.webp",
+      "image": "/model-cards/5-series-v2.webp",
       "href": "/bmw-5-series-engines",
       "price": "2,095"
     },
     {
       "name": "6 Series",
       "slug": "6-series",
-      "image": "/model-cards/6-series.webp",
+      "image": "/model-cards/6-series-v2.webp",
       "href": "/bmw-6-series-engines",
       "price": "2,195"
     },
     {
       "name": "7 Series",
       "slug": "7-series",
-      "image": "/model-cards/7-series.webp",
+      "image": "/model-cards/7-series-v2.webp",
       "href": "/bmw-7-series-engines",
       "price": "2,295"
     },
     {
       "name": "8 Series",
       "slug": "8-series",
-      "image": "/model-cards/8-series.webp",
+      "image": "/model-cards/8-series-v2.webp",
       "href": "/bmw-8-series-engines",
       "price": "2,395"
     },
     {
       "name": "X1",
       "slug": "x1",
-      "image": "/model-cards/x1.webp",
+      "image": "/model-cards/x1-v2.webp",
       "href": "/bmw-x1-engines",
       "price": "2,495"
     },
     {
       "name": "X2",
       "slug": "x2",
-      "image": "/model-cards/x2.webp",
+      "image": "/model-cards/x2-v2.webp",
       "href": "/bmw-x2-engines",
       "price": "2,595"
     },
     {
       "name": "X3",
       "slug": "x3",
-      "image": "/model-cards/x3.webp",
+      "image": "/model-cards/x3-v2.webp",
       "href": "/bmw-x3-engines",
       "price": "2,695"
     },
     {
       "name": "X4",
       "slug": "x4",
-      "image": "/model-cards/x4.webp",
+      "image": "/model-cards/x4-v2.webp",
       "href": "/bmw-x4-engines",
       "price": "2,795"
     },
     {
       "name": "X5",
       "slug": "x5",
-      "image": "/model-cards/x5.webp",
+      "image": "/model-cards/x5-v2.webp",
       "href": "/bmw-x5-engines",
       "price": "2,895"
     },
     {
       "name": "X6",
       "slug": "x6",
-      "image": "/model-cards/x6.webp",
+      "image": "/model-cards/x6-v2.webp",
       "href": "/bmw-x6-engines",
       "price": "2,995"
     },
     {
       "name": "X7",
       "slug": "x7",
-      "image": "/model-cards/x7.webp",
+      "image": "/model-cards/x7-v2.webp",
       "href": "/bmw-x7-engines",
       "price": "3,095"
     },
     {
       "name": "Z4",
       "slug": "z4",
-      "image": "/model-cards/z4.webp",
+      "image": "/model-cards/z4-v2.webp",
       "href": "/bmw-z4-engines",
       "price": "3,195"
     },
     {
       "name": "M2",
       "slug": "m2",
-      "image": "/model-cards/m2.webp",
+      "image": "/model-cards/m2-v2.webp",
       "href": "/bmw-m2-engines",
       "price": "1,695"
     },
     {
       "name": "M3",
       "slug": "m3",
-      "image": "/model-cards/m3.webp",
+      "image": "/model-cards/m3-v2.webp",
       "href": "/bmw-m3-engines",
       "price": "1,795"
     },
     {
       "name": "M4",
       "slug": "m4",
-      "image": "/model-cards/m4.webp",
+      "image": "/model-cards/m4-v2.webp",
       "href": "/bmw-m4-engines",
       "price": "1,895"
     },
     {
       "name": "M5",
       "slug": "m5",
-      "image": "/model-cards/m5.webp",
+      "image": "/model-cards/m5-v2.webp",
       "href": "/bmw-m5-engines",
       "price": "1,995"
     },
     {
       "name": "M8",
       "slug": "m8",
-      "image": "/model-cards/m8.webp",
+      "image": "/model-cards/m8-v2.webp",
       "href": "/bmw-m8-engines",
       "price": "2,095"
     },
     {
       "name": "X3 M",
       "slug": "x3-m",
-      "image": "/model-cards/x3-m.webp",
+      "image": "/model-cards/x3-m-v2.webp",
       "href": "/bmw-x3-m-engines",
       "price": "2,195"
     },
     {
       "name": "X4 M",
       "slug": "x4-m",
-      "image": "/model-cards/x4-m.webp",
+      "image": "/model-cards/x4-m-v2.webp",
       "href": "/bmw-x4-m-engines",
       "price": "2,295"
     },
     {
       "name": "X5 M",
       "slug": "x5-m",
-      "image": "/model-cards/x5-m.webp",
+      "image": "/model-cards/x5-m-v2.webp",
       "href": "/bmw-x5-m-engines",
       "price": "2,395"
     },
     {
       "name": "X6 M",
       "slug": "x6-m",
-      "image": "/model-cards/x6-m.webp",
+      "image": "/model-cards/x6-m-v2.webp",
       "href": "/bmw-x6-m-engines",
       "price": "2,495"
     }

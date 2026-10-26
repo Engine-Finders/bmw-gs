@@ -12,14 +12,14 @@ export default function ModelSec10({ data }) {
           <span className="block text-[#101828]">{data.headlinePre}</span>
           <span className="block text-hero-blue">{data.headlineHighlight}</span>
         </h2>
-        <p className="mt-2 text-sm text-[#101828]">{data.subhead}</p>
+        <p className="body-text mt-3 text-[#101828]">{data.subhead}</p>
 
         <ExpandGrid
           className="mt-5 grid grid-cols-2 gap-3"
           limit={6}
           label={data.viewMoreLabel}
           wrapClass="mt-5 flex justify-center"
-          buttonClass="flex items-center gap-2 rounded-lg border-2 border-hero-blue bg-white/70 px-5 py-2.5 text-xs font-bold uppercase tracking-wide text-hero-blue backdrop-blur-md transition hover:bg-hero-blue hover:text-white"
+          buttonClass="flex items-center gap-2 rounded-lg border-2 border-hero-blue bg-white/70 px-5 py-3 text-sm font-bold uppercase tracking-wide text-hero-blue backdrop-blur-md transition hover:bg-hero-blue hover:text-white"
         >
           {data.cards.map((c) => {
             const Wrapper = c.href ? Link : "div";
@@ -75,11 +75,11 @@ export default function ModelSec10({ data }) {
 
       <div className="relative mx-auto max-w-6xl">
         <div className="pt-8">
-          <h2 className="hp-h2 uppercase">
+          <div role="heading" aria-level="2" className="hp-h2 uppercase">
             <span className="text-[#101828]">{data.headlinePre} </span>
             <span className="text-hero-blue">{data.headlineHighlight}</span>
-          </h2>
-          <p className="mt-2 max-w-2xl text-sm text-[#101828]">{data.subhead}</p>
+          </div>
+          <p className="body-text mt-3 max-w-3xl text-[#101828]">{data.subhead}</p>
         </div>
 
         <ExpandGrid
@@ -87,7 +87,7 @@ export default function ModelSec10({ data }) {
           limit={8}
           label={data.viewMoreLabel}
           wrapClass="mt-6 flex justify-center"
-          buttonClass="flex items-center gap-2 rounded-md border-2 border-hero-blue bg-white/70 px-6 py-2.5 text-xs font-bold uppercase tracking-wide text-hero-blue backdrop-blur-md transition hover:bg-hero-blue hover:text-white"
+          buttonClass="flex items-center gap-2 rounded-md border-2 border-hero-blue bg-white/70 px-6 py-3 text-sm font-bold uppercase tracking-wide text-hero-blue backdrop-blur-md transition hover:bg-hero-blue hover:text-white"
         >
           {data.cards.map((c) => {
             const Wrapper = c.href ? Link : "div";
@@ -119,7 +119,7 @@ export default function ModelSec10({ data }) {
         <div className="relative mt-6 flex items-center justify-between overflow-hidden border-t border-black/10 pt-5">
           <div className="flex items-center gap-2">
             <Icon name="camera" className="h-5 w-5 shrink-0 text-[#101828]" />
-            <p className="text-xs text-[#101828]">{data.footerNote}</p>
+            <p className="text-sm text-[#101828]">{data.footerNote}</p>
           </div>
           <div
             className="pointer-events-none absolute bottom-0 right-0 z-10 flex gap-1.5"

@@ -26,13 +26,13 @@ function FaqCard({ item, isOpen, onToggle }) {
 function Field({ name, label, placeholder, type = "text" }) {
   return (
     <label className="block">
-      <span className="text-xs font-bold uppercase tracking-wide text-white">
+      <span className="text-xs font-bold uppercase tracking-wide text-white md:text-sm">
         {label} <span className="text-bmw-red">*</span>
       </span>
       <input name={name} required
         type={type}
         placeholder={placeholder}
-        className="mt-2 h-13 w-full rounded-lg border border-white/15 bg-white/5 px-4 text-sm text-white placeholder:text-white/40 outline-none focus:border-hero-blue"
+        className="mt-2 h-13 w-full rounded-lg border border-white/15 bg-white/5 px-4 text-sm text-white md:text-base placeholder:text-white/40 outline-none focus:border-hero-blue"
       />
     </label>
   );
@@ -136,7 +136,7 @@ export default function ModelSec18({ data }) {
 
           <button
             type="submit" disabled={lead.status === "loading"}
-            className="mt-6 flex w-full items-center justify-center gap-2 rounded-lg py-4 text-sm font-extrabold uppercase tracking-wide text-white transition hover:brightness-110"
+            className="mt-6 flex w-full items-center justify-center gap-2 rounded-lg py-4 text-sm font-extrabold uppercase tracking-wide text-white transition duration-200 hover:-translate-y-0.5 hover:brightness-110"
             style={{
               background: "linear-gradient(135deg, #0052cc 0%, #0037a5 100%)",
               boxShadow: "0 8px 20px rgba(0,82,204,0.4)",
@@ -158,10 +158,10 @@ export default function ModelSec18({ data }) {
       <div className="relative mx-auto max-w-6xl">
         <div className="flex items-center gap-4">
           <BMWStripe className="h-3.5 w-7" />
-          <h2 className="hp-h2 uppercase">
+          <div role="heading" aria-level="2" className="hp-h2 uppercase">
             <span className="text-[#101828]">{data.kicker} </span>
             <span className="text-hero-blue">{data.kickerHighlight}</span>
-          </h2>
+          </div>
         </div>
 
         <div className="mt-5 grid grid-cols-2 gap-4">
@@ -189,24 +189,24 @@ export default function ModelSec18({ data }) {
         >
           <BMWStripe className="absolute right-6 top-6 h-8 w-16" />
 
-          <h3 className="hp-h3 whitespace-nowrap uppercase text-white">
+          <div role="heading" aria-level="3" className="hp-h3 whitespace-nowrap uppercase text-white">
             {data.form.headlinePre} <span className="text-hero-blue">{data.form.headlineHighlight}</span>{" "}
             {data.form.headlinePost}
-          </h3>
+          </div>
 
           <div className="mt-6 grid grid-cols-3 gap-4">
             <label className="block">
-              <span className="text-xs font-bold uppercase tracking-wide text-white">
+              <span className="text-sm font-bold uppercase tracking-wide text-white">
                 {data.form.fields.reg.label} <span className="text-bmw-red">*</span>
               </span>
               <div className="mt-2 flex h-13 overflow-hidden rounded-lg border border-white/15 bg-white/5">
-                <span className="flex w-14 shrink-0 items-center justify-center bg-hero-blue text-sm font-extrabold text-white">
+                <span className="flex w-14 shrink-0 items-center justify-center bg-hero-blue text-base font-extrabold text-white">
                   GB
                 </span>
                 <input
                   name="vehicle_vrm" required maxLength={8} type="text"
                   placeholder={data.form.fields.reg.placeholder}
-                  className="min-w-0 flex-1 bg-transparent px-3 text-sm text-white placeholder:text-white/40 outline-none"
+                  className="min-w-0 flex-1 bg-transparent px-3 text-base text-white placeholder:text-white/40 outline-none"
                 />
               </div>
             </label>
@@ -217,11 +217,11 @@ export default function ModelSec18({ data }) {
             <Field name="email" label={data.form.fields.email.label} placeholder={data.form.fields.email.placeholder} type="email" />
 
             <label className="block">
-              <span className="text-xs font-bold uppercase tracking-wide text-white">
+              <span className="text-sm font-bold uppercase tracking-wide text-white">
                 {data.form.fields.enquiry.label} <span className="text-bmw-red">*</span>
               </span>
               <div className="relative mt-2">
-                <select name="description" required className="h-13 w-full appearance-none rounded-lg border border-white/15 bg-white/5 px-4 pr-10 text-sm text-white outline-none">
+                <select name="description" required className="h-13 w-full appearance-none rounded-lg border border-white/15 bg-white/5 px-4 pr-10 text-base text-white outline-none">
                   <option value="">{data.form.fields.enquiry.placeholder}</option>
                   {["Engine Failure", "Replacement Needed", "General Enquiry"].map((o) => (
                     <option key={o} value={o}>{o}</option>
@@ -237,7 +237,7 @@ export default function ModelSec18({ data }) {
 
           <button
             type="submit" disabled={lead.status === "loading"}
-            className="mt-6 flex w-full items-center justify-center gap-2 rounded-lg py-4 text-sm font-extrabold uppercase tracking-wide text-white transition hover:brightness-110"
+            className="mt-6 flex w-full items-center justify-center gap-2 rounded-lg py-4 text-base font-extrabold uppercase tracking-wide text-white transition duration-200 hover:-translate-y-0.5 hover:brightness-110"
             style={{
               background: "linear-gradient(135deg, #0052cc 0%, #0037a5 100%)",
               boxShadow: "0 8px 20px rgba(0,82,204,0.4)",
@@ -247,7 +247,7 @@ export default function ModelSec18({ data }) {
           </button>
 <LeadStatus lead={lead} />
 
-          <p className="mt-4 flex items-center justify-center gap-2 text-xs text-white">
+          <p className="mt-4 flex items-center justify-center gap-2 text-sm text-white">
             <Icon name="shield-check" className="h-4 w-4 shrink-0 text-hero-blue" />
             {data.form.guarantee}
           </p>

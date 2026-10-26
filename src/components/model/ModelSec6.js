@@ -15,14 +15,14 @@ export default function ModelSec6({ data }) {
           />
         </div>
 
-        <div className="grid grid-cols-4 divide-x divide-white/15">
+        <div className="grid grid-cols-2 gap-y-5 divide-x divide-white/15">
           {data.metrics.map((m) => (
             <div key={m.label} className="flex flex-col items-center gap-1.5 px-1 text-center">
               <Icon name={m.icon} className="h-7 w-7 text-white" />
               <p className="text-sm font-extrabold leading-tight text-white">
                 {m.value} {m.suffix && <span className="text-hero-blue">{m.suffix}</span>}
               </p>
-              <p className="text-[8px] font-semibold uppercase leading-tight tracking-wide text-hero-blue/90">{m.label}</p>
+              <p className="text-xs font-semibold uppercase leading-tight tracking-wide text-hero-blue/90">{m.label}</p>
             </div>
           ))}
         </div>

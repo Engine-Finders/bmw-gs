@@ -73,48 +73,52 @@ export default function ModelSec5({ data }) {
             <span className="flex h-12 w-12 shrink-0 items-center justify-center rounded-full border-2 border-hero-blue text-base font-black text-white shadow-[0_0_20px_rgba(0,127,248,0.7)]">
               VS
             </span>
-            <p className="text-sm font-extrabold uppercase leading-tight text-white">Used Engine Swap</p>
+            <p className="text-base font-extrabold uppercase leading-tight text-white">Used Engine Swap</p>
           </div>
 
-          {/* comparison matrix */}
+          {/* comparison matrix (scrolls sideways on narrow phones instead of shrinking the text) */}
           <div className="glass-luminous card-glare relative mt-5 overflow-hidden rounded-2xl">
-            <div className="grid grid-cols-[minmax(0,1.25fr)_minmax(0,1fr)_minmax(0,1fr)] divide-x divide-white/10 border-b border-white/10">
-              <div />
-              <div className="flex items-center gap-1.5 px-2 py-3">
-                <Icon name="shield-check" className="h-5 w-5 shrink-0 text-hero-blue" />
-                <p className="text-[10px] font-extrabold uppercase leading-tight tracking-wide text-hero-blue">{data.comparison.ourLabel}</p>
-              </div>
-              <div className="flex items-center gap-1.5 px-2 py-3">
-                <Icon name="shield" className="h-5 w-5 shrink-0 text-white" />
-                <p className="text-[10px] font-extrabold uppercase leading-tight tracking-wide text-white">{data.comparison.usedLabel}</p>
+            <div className="overflow-x-auto">
+              <div className="min-w-[540px]">
+                <div className="grid grid-cols-[minmax(0,1fr)_minmax(0,1.1fr)_minmax(0,1.1fr)] divide-x divide-white/10 border-b border-white/10">
+                  <div />
+                  <div className="flex items-center gap-2 px-3 py-3">
+                    <Icon name="shield-check" className="h-6 w-6 shrink-0 text-hero-blue" />
+                    <p className="text-xs font-extrabold uppercase leading-tight tracking-wide text-hero-blue">{data.comparison.ourLabel}</p>
+                  </div>
+                  <div className="flex items-center gap-2 px-3 py-3">
+                    <Icon name="shield" className="h-6 w-6 shrink-0 text-white" />
+                    <p className="text-xs font-extrabold uppercase leading-tight tracking-wide text-white">{data.comparison.usedLabel}</p>
+                  </div>
+                </div>
+
+                {data.comparison.rows.map((r, i) => (
+                  <div
+                    key={r.feature}
+                    className={`grid grid-cols-[minmax(0,1fr)_minmax(0,1.1fr)_minmax(0,1.1fr)] divide-x divide-white/10 ${i > 0 ? "border-t border-white/10" : ""}`}
+                  >
+                    <div className="flex min-w-0 items-start gap-2 px-3 py-3">
+                      <Icon name={r.icon} className="h-5 w-5 shrink-0 text-white" />
+                      <p className="min-w-0 text-xs font-bold uppercase leading-snug text-white">{r.feature}</p>
+                    </div>
+                    <p className="min-w-0 break-words px-3 py-3 text-sm leading-snug text-white">{withCompEmphasis(r.ours)}</p>
+                    <p className="min-w-0 break-words px-3 py-3 text-sm leading-snug text-white">{r.used}</p>
+                  </div>
+                ))}
               </div>
             </div>
-
-            {data.comparison.rows.map((r, i) => (
-              <div
-                key={r.feature}
-                className={`grid grid-cols-[minmax(0,1.25fr)_minmax(0,1fr)_minmax(0,1fr)] divide-x divide-white/10 ${i > 0 ? "border-t border-white/10" : ""}`}
-              >
-                <div className="flex min-w-0 items-start gap-1.5 px-2 py-3">
-                  <Icon name={r.icon} className="h-4 w-4 shrink-0 text-white" />
-                  <p className="min-w-0 text-[10px] font-bold uppercase leading-tight text-white">{r.feature}</p>
-                </div>
-                <p className="min-w-0 break-words px-2 py-3 text-[11px] leading-snug text-white">{withCompEmphasis(r.ours)}</p>
-                <p className="min-w-0 break-words px-2 py-3 text-[11px] leading-snug text-white">{r.used}</p>
-              </div>
-            ))}
           </div>
 
           {/* bottom action bar */}
-          <div className="glass-card-dark card-corner-glare relative mt-5 flex items-center justify-between gap-3 rounded-xl border border-hero-blue/50 px-4 py-3.5">
-            <div className="flex min-w-0 items-center gap-2.5">
-              <Icon name="clock" className="h-7 w-7 shrink-0 text-hero-blue" />
-              <p className="text-[10px] font-extrabold uppercase leading-tight text-white">{data.cta.text}</p>
+          <div className="glass-card-dark card-corner-glare relative mt-5 rounded-xl border border-hero-blue/50 p-4">
+            <div className="flex items-center gap-3">
+              <Icon name="clock" className="h-8 w-8 shrink-0 text-hero-blue" />
+              <p className="text-sm font-extrabold uppercase leading-tight text-white">{data.cta.text}</p>
             </div>
 
             <a
               href={data.cta.href}
-              className="shrink-0 rounded-lg px-4 py-2.5 text-[11px] font-bold uppercase tracking-wide text-white"
+              className="mt-4 flex items-center justify-center rounded-lg px-4 py-3 text-sm font-bold uppercase tracking-wide text-white transition duration-200 hover:-translate-y-0.5 hover:brightness-110"
               style={{ background: "linear-gradient(135deg, #0052cc 0%, #0037a5 100%)" }}
             >
               {data.cta.buttonLabel} →
@@ -136,13 +140,13 @@ export default function ModelSec5({ data }) {
             <p className="text-xs font-semibold uppercase leading-none tracking-widest text-white">{data.kicker}</p>
           </div>
 
-          <h2 className="hp-h2 mt-3 uppercase">
+          <div role="heading" aria-level="2" className="hp-h2 mt-3 uppercase">
             <span className="block text-white">{line1}</span>
             <span className="block text-hero-blue">{line2}</span>
-          </h2>
+          </div>
           <span className="mt-3 block h-px w-16 bg-hero-blue/50" />
 
-          <div className="mt-5 space-y-4 text-sm text-white">
+          <div className="body-text mt-5 space-y-4 text-white">
             <p>{data.paragraphs[0]}</p>
             <p>
               {warrantyPre}
@@ -160,11 +164,11 @@ export default function ModelSec5({ data }) {
             <div className="grid grid-cols-[1fr_1.4fr_1.4fr]">
               <div className="col-span-2 flex items-center gap-2 px-6 py-4">
                 <Icon name="shield-check" className="h-7 w-7 shrink-0 text-hero-blue" />
-                <p className="text-sm font-extrabold uppercase tracking-wide text-hero-blue">{data.comparison.ourLabel}</p>
+                <p className="text-base font-extrabold uppercase tracking-wide text-hero-blue">{data.comparison.ourLabel}</p>
               </div>
               <div className="flex items-center gap-2 px-6 py-4">
                 <Icon name="warning" className="h-7 w-7 shrink-0 text-[#101828]" />
-                <p className="text-sm font-extrabold uppercase tracking-wide text-[#101828]">{data.comparison.usedLabel}</p>
+                <p className="text-base font-extrabold uppercase tracking-wide text-[#101828]">{data.comparison.usedLabel}</p>
               </div>
             </div>
 
@@ -175,10 +179,10 @@ export default function ModelSec5({ data }) {
               >
                 <div className="flex items-center gap-2 px-6 py-4">
                   <Icon name={r.icon} className="h-6 w-6 shrink-0 text-hero-blue" />
-                  <p className="text-sm font-bold text-[#101828]">{r.feature}</p>
+                  <p className="text-base font-bold text-[#101828]">{r.feature}</p>
                 </div>
-                <p className="px-6 py-4 text-sm text-[#101828]">{r.ours}</p>
-                <p className="px-6 py-4 text-sm text-[#101828]">{r.used}</p>
+                <p className="px-6 py-4 text-base text-[#101828]">{r.ours}</p>
+                <p className="px-6 py-4 text-base text-[#101828]">{r.used}</p>
               </div>
             ))}
           </div>

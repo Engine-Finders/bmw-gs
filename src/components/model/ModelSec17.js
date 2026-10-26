@@ -21,7 +21,7 @@ export default function ModelSec17({ data }) {
       <div className="relative px-4 py-10 md:hidden">
         <div className="flex items-center gap-1.5">
           <BMWStripe className="h-3 w-6 shrink-0" />
-          <p className="whitespace-nowrap text-[9px] font-semibold uppercase leading-none tracking-wide text-[#101828]">{data.kicker}</p>
+          <p className="whitespace-nowrap text-xs font-semibold uppercase leading-none tracking-wide text-[#101828]">{data.kicker}</p>
         </div>
 
         <h2 className="hp-h2 mt-2 uppercase">
@@ -45,7 +45,7 @@ export default function ModelSec17({ data }) {
                 }}
               >
                 <Icon name="car" className="h-5 w-5 shrink-0 text-hero-blue" />
-                <span className="text-[9px] font-bold leading-tight text-white">{tab}</span>
+                <span className="text-xs font-bold leading-tight text-white">{tab}</span>
               </button>
             ) : (
               <button
@@ -55,7 +55,7 @@ export default function ModelSec17({ data }) {
                 className="flex flex-col items-center gap-1 rounded-md border border-black/10 bg-white/70 px-1 py-2.5 text-center transition hover:bg-white"
               >
                 <Icon name="car" className="h-5 w-5 shrink-0 text-[#101828]" />
-                <span className="text-[9px] font-semibold leading-tight text-[#101828]">{tab}</span>
+                <span className="text-xs font-semibold leading-tight text-[#101828]">{tab}</span>
               </button>
             )
           )}
@@ -69,20 +69,20 @@ export default function ModelSec17({ data }) {
             boxShadow: "0 0 0 1px rgba(90,170,255,0.35), 0 25px 60px -25px rgba(0,127,248,0.4)",
           }}
         >
-          <div className="grid grid-cols-4 gap-2">
+          <div className="grid grid-cols-3 gap-2">
             {activeVariants.map((v) =>
               href(v) ? (
                 <Link
                   key={label(v)}
                   href={href(v)}
-                  className="flex items-center justify-center rounded-md border border-white/15 bg-white/5 px-1 py-3 text-center text-[10px] font-bold leading-tight text-white transition-colors hover:border-hero-blue/60 hover:bg-hero-blue/15"
+                  className="flex items-center justify-center rounded-md border border-white/15 bg-white/5 px-1 py-3 text-center text-xs font-bold leading-tight text-white transition-colors hover:border-hero-blue/60 hover:bg-hero-blue/15"
                 >
                   {label(v)}
                 </Link>
               ) : (
                 <span
                   key={label(v)}
-                  className="flex items-center justify-center rounded-md border border-white/15 bg-white/5 px-1 py-3 text-center text-[10px] font-bold leading-tight text-white"
+                  className="flex items-center justify-center rounded-md border border-white/15 bg-white/5 px-1 py-3 text-center text-xs font-bold leading-tight text-white"
                 >
                   {label(v)}
                 </span>
@@ -109,7 +109,7 @@ export default function ModelSec17({ data }) {
 
           <a
             href={data.priceCta.href}
-            className="relative flex items-center gap-4 rounded-lg p-5"
+            className="relative flex items-center gap-4 rounded-lg p-5 transition duration-200 hover:-translate-y-0.5 hover:brightness-110"
             style={{
               background: "linear-gradient(135deg, #0a1330 0%, #050a1c 100%)",
               border: "1px solid rgba(90,170,255,0.4)",
@@ -137,12 +137,12 @@ export default function ModelSec17({ data }) {
       <div className="relative mx-auto max-w-6xl">
         <div className="flex items-center gap-2">
           <BMWStripe className="h-3.5 w-7" />
-          <p className="text-xs font-semibold uppercase leading-none tracking-widest text-[#101828]">{data.kicker}</p>
+          <p className="text-sm font-semibold uppercase leading-none tracking-widest text-[#101828]">{data.kicker}</p>
         </div>
 
-        <h2 className="hp-h2 mt-2 uppercase text-[#101828]">
+        <div role="heading" aria-level="2" className="hp-h2 mt-2 uppercase text-[#101828]">
           {data.headline}
-        </h2>
+        </div>
 
         {/* body style tabs */}
         <div className="relative mt-6 flex">
@@ -170,7 +170,7 @@ export default function ModelSec17({ data }) {
                 key={tab}
                 type="button"
                 onClick={() => setActiveTab(i)}
-                className={`flex items-center gap-2 rounded-t-xl border border-black/10 bg-white/70 px-5 py-4 text-sm font-semibold text-[#101828] transition hover:bg-white ${
+                className={`flex items-center gap-2 rounded-t-xl border border-black/10 bg-white/70 px-5 py-4 text-base font-semibold text-[#101828] transition hover:bg-white ${
                   i === activeTab + 1 ? "-ml-2" : "ml-2"
                 }`}
               >
@@ -195,14 +195,14 @@ export default function ModelSec17({ data }) {
                 <Link
                   key={label(v)}
                   href={href(v)}
-                  className="rounded-lg border border-white/15 bg-white/5 px-5 py-3 text-sm font-bold text-white transition-colors hover:border-hero-blue/60 hover:bg-hero-blue/15"
+                  className="rounded-lg border border-white/15 bg-white/5 px-5 py-3 text-base font-bold text-white transition-colors hover:border-hero-blue/60 hover:bg-hero-blue/15"
                 >
                   {label(v)}
                 </Link>
               ) : (
                 <span
                   key={label(v)}
-                  className="rounded-lg border border-white/15 bg-white/5 px-5 py-3 text-sm font-bold text-white"
+                  className="rounded-lg border border-white/15 bg-white/5 px-5 py-3 text-base font-bold text-white"
                 >
                   {label(v)}
                 </span>
@@ -215,8 +215,8 @@ export default function ModelSec17({ data }) {
         <div className="mt-5 grid grid-cols-2 gap-5">
           <div className="flex items-center gap-4 rounded-2xl border border-black/10 bg-white/70 p-6">
             <Icon name="info" className="h-10 w-10 shrink-0 text-hero-blue" />
-            <p className="text-sm text-[#101828]">
-              <span className="block text-base font-extrabold text-[#101828]">{data.notice.title}</span>
+            <p className="text-base text-[#101828]">
+              <span className="block text-lg font-extrabold text-[#101828]">{data.notice.title}</span>
               <span className="mt-1 block">
                 <a href="#quote" className="inline-flex items-center gap-1 font-semibold text-hero-blue">
                   {data.notice.linkText}
@@ -229,7 +229,7 @@ export default function ModelSec17({ data }) {
 
           <a
             href={data.priceCta.href}
-            className="relative flex items-center gap-4 rounded-2xl p-6"
+            className="relative flex items-center gap-4 rounded-2xl p-6 transition duration-200 hover:-translate-y-0.5 hover:brightness-110"
             style={{
               background: "linear-gradient(135deg, #0a1330 0%, #050a1c 100%)",
               border: "1px solid rgba(90,170,255,0.4)",

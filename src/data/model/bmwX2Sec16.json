@@ -1,18 +1,10 @@
 {
+  "series": "BMW X2",
   "engineSizes": {
     "title": "Engine Sizes",
     "icon": "engine",
     "items": [
-      "1.6",
-      "1.8",
-      "2.0",
-      "2.2",
-      "2.5",
-      "2.9",
-      "3.0",
-      "3.2",
-      "4.0",
-      "4.4"
+      "2.0"
     ]
   },
   "fuelTypes": {
@@ -27,11 +19,6 @@
       {
         "label": "Petrol Engine Rebuilds",
         "color": "red",
-        "icon": "fuel"
-      },
-      {
-        "label": "Petrol/Electric Rebuilds (330e Hybrid)",
-        "color": "blue",
         "icon": "fuel"
       }
     ]

@@ -1,4 +1,5 @@
 import Image from "next/image";
+import PhotoStripes from "@/components/reusable/PhotoStripes";
 import Link from "next/link";
 import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
@@ -9,13 +10,14 @@ export default function ModelSec15({ data }) {
   const mobileLine2 = `${headlineWords[headlineWords.length - 1]} ${data.headlineHighlight}`;
 
   return (
-    <section className="relative mt-10 overflow-hidden bg-[#eef2f7]">
+    <section className="relative overflow-hidden bg-[#eef2f7]">
       {/* ===== mobile ===== */}
       <div className="relative md:hidden">
         {/* div 1: split hero */}
         <div className="relative h-[270px]">
           <div className="absolute inset-0">
-            <Image src={data.imageMobile} alt="BMW 3 Series in a bright BMW specialist workshop" fill className="object-cover object-left" sizes="100vw" />
+            <Image src={data.imageMobile} alt="BMW in a bright BMW specialist workshop" fill className="object-cover object-left" sizes="100vw" />
+            <PhotoStripes preset="coverage-mobile" />
             <div className="absolute inset-0 bg-linear-to-r from-white/90 via-white/45 to-transparent" />
           </div>
 
@@ -39,7 +41,7 @@ export default function ModelSec15({ data }) {
                 <Icon name="car" className="mt-0.5 h-9 w-9 shrink-0 text-hero-blue" />
                 <p className="border-r border-black/10 pr-3">
                   <span className="block text-sm font-extrabold leading-tight text-hero-blue">{g.years}</span>
-                  <span className="block text-[9px] leading-tight text-[#101828]">({g.code})</span>
+                  <span className="block text-xs leading-tight text-[#101828]">({g.code})</span>
                 </p>
                 <p className="text-xs leading-relaxed text-[#101828]">{g.list}</p>
               </div>
@@ -76,12 +78,12 @@ export default function ModelSec15({ data }) {
                         <Icon name="check" className="h-2.5 w-2.5" />
                       </span>
                       {data.checklistHref ? (
-                        <Link href={data.checklistHref} className="text-[11px] leading-tight text-[#101828]">
+                        <Link href={data.checklistHref} className="text-xs leading-tight text-[#101828]">
                           <span className="font-bold">{item.replace(" Engine Rebuild", "")}</span>
                           <span className="text-[#101828]"> Engine Rebuild</span>
                         </Link>
                       ) : (
-                        <p className="text-[11px] leading-tight text-[#101828]">
+                        <p className="text-xs leading-tight text-[#101828]">
                           <span className="font-bold">{item.replace(" Engine Rebuild", "")}</span>
                           <span className="text-[#101828]"> Engine Rebuild</span>
                         </p>
@@ -120,22 +122,23 @@ export default function ModelSec15({ data }) {
       <div className="relative hidden px-4 pb-10 pt-16 sm:px-6 md:block lg:px-8">
       {/* full-bleed background across the whole section */}
       <div className="absolute inset-0">
-        <Image src={data.image} alt="BMW 3 Series in a bright BMW specialist workshop" fill className="object-cover object-right-top" sizes="100vw" />
+        <Image src={data.image} alt="BMW in a bright BMW specialist workshop" fill className="object-cover object-right-top" sizes="100vw" />
+        <PhotoStripes preset="coverage" />
       </div>
 
       <div className="relative mx-auto max-w-6xl">
         {/* header */}
         <div className="max-w-md pt-2">
-          <h2 className="hp-h2 uppercase">
+          <div role="heading" aria-level="2" className="hp-h2 uppercase">
             <span className="block text-[#101828]">{data.headlinePre}</span>
             <span className="flex items-center gap-2 text-hero-blue">
               {data.headlineHighlight}
               <BMWStripe className="h-7 w-16 lg:h-8 lg:w-[4.5rem]" />
             </span>
-          </h2>
+          </div>
 
-          <p className="mt-4 text-sm font-extrabold text-[#101828]">{data.kicker}</p>
-          <p className="mt-1.5 text-sm text-[#101828]">{data.description}</p>
+          <p className="mt-4 text-base font-extrabold text-[#101828]">{data.kicker}</p>
+          <p className="body-text mt-2 text-[#101828]">{data.description}</p>
         </div>
 
         <div className="mt-6 grid grid-cols-2 items-end gap-6">
@@ -144,13 +147,13 @@ export default function ModelSec15({ data }) {
             <div className="divide-y divide-black/10 rounded-2xl border border-black/5 bg-white shadow-[0_20px_50px_-25px_rgba(16,24,40,0.3)]">
               {data.generations.map((g) => (
                 <div key={g.years} className="grid grid-cols-[auto_1fr] items-center gap-4 px-5 py-4">
-                  <Icon name="car" className="h-8 w-8 shrink-0 text-hero-blue" />
+                  <Icon name="car" className="h-10 w-10 shrink-0 text-hero-blue" />
                   <div className="grid grid-cols-2 items-center gap-3">
                     <p className="border-r border-black/10 pr-3">
                       <span className="block text-base font-extrabold text-hero-blue">{g.years}</span>
-                      <span className="block text-xs text-[#101828]">({g.code})</span>
+                      <span className="block text-sm text-[#101828]">({g.code})</span>
                     </p>
-                    <p className="text-xs leading-relaxed text-[#101828]">{g.list}</p>
+                    <p className="text-sm leading-relaxed text-[#101828]">{g.list}</p>
                   </div>
                 </div>
               ))}
@@ -168,7 +171,7 @@ export default function ModelSec15({ data }) {
                 <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-hero-blue text-white">
                   <Icon name="info" className="h-5 w-5" />
                 </span>
-                <p className="text-sm leading-relaxed text-[#101828]">{data.notice}</p>
+                <p className="text-base leading-relaxed text-[#101828]">{data.notice}</p>
               </div>
               <div
                 className="relative w-2/5 shrink-0"
@@ -191,7 +194,7 @@ export default function ModelSec15({ data }) {
 
               <div className="relative flex items-center gap-3">
                 <Icon name="engine" className="h-9 w-9 shrink-0 text-hero-blue" />
-                <h3 className="hp-h3 uppercase">
+                <div role="heading" aria-level="3" className="hp-h3 uppercase">
                   <span className="block text-[#101828]">{data.checklistTitlePre}</span>
                   {data.checklistHref ? (
                     <Link href={data.checklistHref} className="block text-hero-blue">
@@ -200,7 +203,7 @@ export default function ModelSec15({ data }) {
                   ) : (
                     <span className="block text-hero-blue">{data.checklistTitleHighlight}</span>
                   )}
-                </h3>
+                </div>
               </div>
               <span className="relative mt-3 block h-0.5 w-full bg-linear-to-r from-bmw-red via-bmw-red/40 to-transparent" />
 
@@ -213,12 +216,12 @@ export default function ModelSec15({ data }) {
                           <Icon name="check" className="h-3 w-3" />
                         </span>
                         {data.checklistHref ? (
-                          <Link href={data.checklistHref} className="text-sm text-[#101828]">
+                          <Link href={data.checklistHref} className="text-base text-[#101828]">
                             <span className="font-bold">{item.replace(" Engine Rebuild", "")}</span>
                             <span className="text-[#101828]"> Engine Rebuild</span>
                           </Link>
                         ) : (
-                          <p className="text-sm text-[#101828]">
+                          <p className="text-base text-[#101828]">
                             <span className="font-bold">{item.replace(" Engine Rebuild", "")}</span>
                             <span className="text-[#101828]"> Engine Rebuild</span>
                           </p>

@@ -1,6 +1,6 @@
 {
   "image": "/engine_family/sec3.webp",
-  "titlePre": "BMW B37 Applications — ",
+  "titlePre": "BMW B37 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -26,7 +26,7 @@
       "variant": "116d",
       "generation": "F20/F21",
       "chassis": "F20/F21",
-      "years": "2015–2019",
+      "years": "2015-2019",
       "modelHref": "/bmw-1-series-engines",
       "variantHref": "/bmw-116d-engines"
     },
@@ -35,7 +35,7 @@
       "variant": "sDrive16d, xDrive18d",
       "generation": "F48",
       "chassis": "F48",
-      "years": "2015–2022",
+      "years": "2015-2022",
       "modelHref": "/bmw-x1-engines"
     },
     {
@@ -43,7 +43,7 @@
       "variant": "sDrive16d, xDrive18d",
       "generation": "F39",
       "chassis": "F39",
-      "years": "2017–2023",
+      "years": "2017-2023",
       "modelHref": "/bmw-x2-engines"
     }
   ],

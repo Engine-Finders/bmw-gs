@@ -4,7 +4,7 @@
   "faqLeft": [
     {
       "q": "Do you rebuild engines for all BMW M2 models?",
-      "a": "Yes — we rebuild and replace engines across every M2 generation and variant, from the original N55-powered F87 up to the current S58-powered G87."
+      "a": "Yes - we rebuild and replace engines across every M2 generation and variant, from the original N55-powered F87 up to the current S58-powered G87."
     },
     {
       "q": "Do I keep my original engine, or do you send me a different one?",
@@ -30,11 +30,11 @@
     },
     {
       "q": "How much does a BMW M2 engine rebuild cost?",
-      "a": "The standard N55-powered M2 starts from £2,800; S55/S58-powered Competition, CS and G87 models start from £5,500. Exact price depends on engine code and condition — submit your reg for a fixed-price quote."
+      "a": "The standard N55-powered M2 starts from £2,800; S55/S58-powered Competition, CS and G87 models start from £5,500. Exact price depends on engine code and condition - submit your reg for a fixed-price quote."
     },
     {
       "q": "Is the crank hub issue really that serious?",
-      "a": "Yes — it's the most talked-about S55 issue for good reason. The crank hub is press-fit and can slip under hard use, throwing off engine timing. We fit an upgraded crank hub preventatively on every S55 rebuild."
+      "a": "Yes - it's the most talked-about S55 issue for good reason. The crank hub is press-fit and can slip under hard use, throwing off engine timing. We fit an upgraded crank hub preventatively on every S55 rebuild."
     }
   ],
   "form": {

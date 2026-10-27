@@ -1,6 +1,6 @@
 {
   "image": "/engine_family/sec3.webp",
-  "titlePre": "BMW B48 Applications — ",
+  "titlePre": "BMW B48 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -26,7 +26,7 @@
       "variant": "118i, 120i, 125i",
       "generation": "F20/F21",
       "chassis": "F20/F21",
-      "years": "2015–2019",
+      "years": "2015-2019",
       "modelHref": "/bmw-1-series-engines"
     },
     {
@@ -34,7 +34,7 @@
       "variant": "218i, 220i, 225i",
       "generation": "F22/F23",
       "chassis": "F22/F23",
-      "years": "2014–present",
+      "years": "2014-present",
       "modelHref": "/bmw-2-series-engines"
     },
     {
@@ -42,7 +42,7 @@
       "variant": "318i, 320i, 330i",
       "generation": "F30/F31",
       "chassis": "F30/F31",
-      "years": "2015–2019",
+      "years": "2015-2019",
       "modelHref": "/bmw-3-series-engines"
     },
     {
@@ -50,7 +50,7 @@
       "variant": "420i, 430i",
       "generation": "F32/F33/F36",
       "chassis": "F32/F33/F36",
-      "years": "2015–2020",
+      "years": "2015-2020",
       "modelHref": "/bmw-4-series-engines"
     },
     {
@@ -58,7 +58,7 @@
       "variant": "520i, 530i",
       "generation": "G30/G31",
       "chassis": "G30/G31",
-      "years": "2016–2023",
+      "years": "2016-2023",
       "modelHref": "/bmw-5-series-engines"
     },
     {
@@ -66,7 +66,7 @@
       "variant": "sDrive18i, xDrive20i, xDrive25i",
       "generation": "F48",
       "chassis": "F48",
-      "years": "2015–2022",
+      "years": "2015-2022",
       "modelHref": "/bmw-x1-engines"
     },
     {
@@ -74,7 +74,7 @@
       "variant": "sDrive18i, xDrive20i, xDrive25i",
       "generation": "F39",
       "chassis": "F39",
-      "years": "2017–2023",
+      "years": "2017-2023",
       "modelHref": "/bmw-x2-engines"
     },
     {
@@ -82,7 +82,7 @@
       "variant": "xDrive20i, xDrive30i",
       "generation": "G01",
       "chassis": "G01",
-      "years": "2017–2024",
+      "years": "2017-2024",
       "modelHref": "/bmw-x3-engines"
     },
     {
@@ -90,7 +90,7 @@
       "variant": "xDrive20i, xDrive30i",
       "generation": "G02",
       "chassis": "G02",
-      "years": "2018–present",
+      "years": "2018-present",
       "modelHref": "/bmw-x4-engines"
     },
     {
@@ -98,7 +98,7 @@
       "variant": "xDrive40i (early)",
       "generation": "G05",
       "chassis": "G05",
-      "years": "2018–present",
+      "years": "2018-present",
       "modelHref": "/bmw-x5-engines"
     },
     {
@@ -106,7 +106,7 @@
       "variant": "sDrive20i, sDrive30i",
       "generation": "G29",
       "chassis": "G29",
-      "years": "2018–present",
+      "years": "2018-present",
       "modelHref": "/bmw-z4-engines"
     }
   ],

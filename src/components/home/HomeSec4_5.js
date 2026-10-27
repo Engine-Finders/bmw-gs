@@ -16,7 +16,7 @@ export default function HomeSec4_5({ data }) {
     >
       {/* ===== mobile ===== */}
       <div className="relative w-full aspect-900/1613 md:hidden">
-        {/* full uncropped photo — aspect matches the source exactly, so object-cover crops nothing */}
+        {/* full uncropped photo - aspect matches the source exactly, so object-cover crops nothing */}
         <Image src={data.mobileImage} alt="BMW M3 driving past Big Ben at night" fill className="object-cover" sizes="100vw" />
         <div className="absolute inset-x-0 bottom-0 h-28 bg-linear-to-t from-hero-dark to-transparent" />
 
@@ -94,7 +94,7 @@ export default function HomeSec4_5({ data }) {
         {/* car (left, grounded) + headline stack (right) */}
         <div className="relative mx-auto grid max-w-6xl grid-cols-1 items-end gap-3 px-4 pt-6 sm:px-6 lg:grid-cols-2 lg:items-center lg:gap-6 lg:px-8">
           <div className="relative -mb-4 h-56 sm:h-72 lg:mb-0 lg:h-105">
-            {/* looping drift footage as a ping-pong WebP frame sequence — background removed,
+            {/* looping drift footage as a ping-pong WebP frame sequence - background removed,
                 replacing the static cutout so the wheels spin and smoke billows continuously.
                 WebP alpha (not video-codec alpha) is used since WebM/VP9 transparency proved
                 unreliable across browsers; per-pixel PNG/WebP alpha is universally supported. */}

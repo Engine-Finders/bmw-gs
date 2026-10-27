@@ -118,7 +118,7 @@ export default function ModelSec2({ data }) {
             </div>
           </div>
 
-          {/* feature bar — same card, same bg as the image panel above */}
+          {/* feature bar - same card, same bg as the image panel above */}
           <div className="card-glare-light relative z-10 mt-0 flex items-stretch justify-between rounded-2xl border-t border-black/5 bg-white px-6 py-5">
             {data.features.map((f, i) => (
               <div key={f.title} className="relative flex flex-1 items-center gap-3 px-4">

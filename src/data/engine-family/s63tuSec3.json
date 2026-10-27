@@ -1,6 +1,6 @@
 {
   "image": "/engine_family/sec3.webp",
-  "titlePre": "BMW S63TU Applications — ",
+  "titlePre": "BMW S63TU Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -26,7 +26,7 @@
       "variant": "X5 M, X5 M Competition",
       "generation": "F85/F95",
       "chassis": "F85/F95",
-      "years": "2015–present",
+      "years": "2015-present",
       "modelHref": "/bmw-x5-m-engines"
     },
     {
@@ -34,7 +34,7 @@
       "variant": "X6 M, X6 M Competition",
       "generation": "F86/F96",
       "chassis": "F86/F96",
-      "years": "2015–present",
+      "years": "2015-present",
       "modelHref": "/bmw-x6-m-engines"
     }
   ],

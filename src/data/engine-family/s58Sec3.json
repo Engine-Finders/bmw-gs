@@ -1,6 +1,6 @@
 {
   "image": "/engine_family/sec3.webp",
-  "titlePre": "BMW S58 Applications — ",
+  "titlePre": "BMW S58 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -26,7 +26,7 @@
       "variant": "M2",
       "generation": "G87",
       "chassis": "G87",
-      "years": "2022–present",
+      "years": "2022-present",
       "modelHref": "/bmw-m2-engines",
       "variantHref": "/bmw-m2-engines"
     },
@@ -35,7 +35,7 @@
       "variant": "M3, M3 Competition",
       "generation": "G80",
       "chassis": "G80",
-      "years": "2020–present",
+      "years": "2020-present",
       "modelHref": "/bmw-m3-engines"
     },
     {
@@ -43,7 +43,7 @@
       "variant": "M4, M4 Competition",
       "generation": "G82/G83",
       "chassis": "G82/G83",
-      "years": "2020–present",
+      "years": "2020-present",
       "modelHref": "/bmw-m4-engines"
     },
     {
@@ -51,7 +51,7 @@
       "variant": "X3 M, X3 M Competition",
       "generation": "G01",
       "chassis": "G01",
-      "years": "2019–present",
+      "years": "2019-present",
       "modelHref": "/bmw-x3-m-engines"
     },
     {
@@ -59,7 +59,7 @@
       "variant": "X4 M, X4 M Competition",
       "generation": "G02",
       "chassis": "G02",
-      "years": "2019–present",
+      "years": "2019-present",
       "modelHref": "/bmw-x4-m-engines"
     }
   ],

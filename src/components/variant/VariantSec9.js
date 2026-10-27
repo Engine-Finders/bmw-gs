@@ -1,4 +1,5 @@
 import Image from "next/image";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 export default function VariantSec9({ data }) {
   return (
@@ -22,13 +23,13 @@ export default function VariantSec9({ data }) {
             <p className="mt-1.5 text-xs font-semibold text-white">{data.prompt}</p>
           </div>
 
-          <a
+          <QuoteLink
             href={data.cta.href}
             className="mt-3.5 flex w-fit items-center gap-2 rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark px-5 py-3 text-xs font-bold uppercase text-white shadow-lg transition-transform hover:scale-[1.02]"
             style={{ border: "1px solid rgba(90,170,255,0.45)" }}
           >
             {data.cta.label} <span aria-hidden>→</span>
-          </a>
+          </QuoteLink>
         </div>
       </div>
 
@@ -60,13 +61,13 @@ export default function VariantSec9({ data }) {
             <p className="mt-4 w-full text-sm text-white lg:text-base">{data.body}</p>
             <p className="mt-2 text-sm font-semibold text-white">{data.prompt}</p>
 
-            <a
+            <QuoteLink
               href={data.cta.href}
               className="mt-5 inline-flex items-center gap-2 rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark px-7 py-3.5 text-sm font-bold uppercase text-white shadow-lg transition-transform hover:scale-[1.02]"
               style={{ border: "1px solid rgba(90,170,255,0.45)" }}
             >
               {data.cta.label} <span aria-hidden>→</span>
-            </a>
+            </QuoteLink>
           </div>
         </div>
       </div>

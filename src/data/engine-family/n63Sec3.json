@@ -1,6 +1,6 @@
 {
   "image": "/engine_family/sec3.webp",
-  "titlePre": "BMW N63 Applications — ",
+  "titlePre": "BMW N63 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -26,7 +26,7 @@
       "variant": "650i",
       "generation": "F06/F12/F13",
       "chassis": "F06/F12/F13",
-      "years": "2011–2018",
+      "years": "2011-2018",
       "modelHref": "/bmw-6-series-engines",
       "variantHref": "/bmw-650i-engines"
     },
@@ -35,7 +35,7 @@
       "variant": "850i",
       "generation": "G14/G15/G16",
       "chassis": "G14/G15/G16",
-      "years": "2018–present",
+      "years": "2018-present",
       "modelHref": "/bmw-8-series-engines"
     },
     {
@@ -43,7 +43,7 @@
       "variant": "xDrive50i",
       "generation": "E70/F15",
       "chassis": "E70/F15",
-      "years": "2009–2018",
+      "years": "2009-2018",
       "modelHref": "/bmw-x5-engines"
     },
     {
@@ -51,7 +51,7 @@
       "variant": "xDrive50i",
       "generation": "E71/F16",
       "chassis": "E71/F16",
-      "years": "2009–2019",
+      "years": "2009-2019",
       "modelHref": "/bmw-x6-engines"
     }
   ],

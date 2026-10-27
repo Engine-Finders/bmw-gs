@@ -5,6 +5,7 @@ import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
 import ImageLightbox from "@/components/shared/ImageLightbox";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 export default function HomeSec11({ data }) {
   const [open, setOpen] = useState(null);
@@ -37,12 +38,12 @@ export default function HomeSec11({ data }) {
               <p>{data.note}</p>
             </div>
 
-            <a
+            <QuoteLink
               href={data.cta.href}
               className="mt-3 inline-flex items-center gap-1.5 rounded-sm border-2 border-hero-blue bg-hero-blue px-4 py-2 text-[11px] font-bold uppercase text-white transition-colors hover:bg-transparent hover:text-hero-blue"
             >
               {data.cta.label} →
-            </a>
+            </QuoteLink>
           </div>
         </div>
 

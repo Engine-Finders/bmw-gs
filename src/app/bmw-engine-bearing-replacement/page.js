@@ -8,7 +8,7 @@ const FAQ = (data.sections || []).filter((s) => s.kind === "faq").flatMap((s) =>
 
 export const metadata = {
   title: "BMW Engine Bearing Replacement | BMW Garage",
-  description: "Professional BMW engine bearing replacement – main and rod bearings replaced as part of our full engine rebuild service. Precision measurement and factory tolerances guaranteed.",
+  description: "Professional BMW engine bearing replacement - main and rod bearings replaced as part of our full engine rebuild service. Precision measurement and factory tolerances guaranteed.",
   alternates: { canonical: PATH },
 };
 

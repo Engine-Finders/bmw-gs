@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 export default function VariantSec4({ data }) {
   return (
@@ -40,9 +41,9 @@ export default function VariantSec4({ data }) {
                 </div>
                 <p className="mt-2 text-xs font-extrabold uppercase leading-tight text-[#101828]">{c.title}</p>
                 <p className="mt-1.5 line-clamp-4 text-[11px] leading-snug text-[#4a5568]">{c.body}</p>
-                <a href="#quote-form" className="mt-2 inline-flex w-fit items-center gap-1 text-[11px] font-bold text-hero-blue">
+                <QuoteLink href="#quote-form" className="mt-2 inline-flex w-fit items-center gap-1 text-[11px] font-bold text-hero-blue">
                   {c.link} <span aria-hidden>→</span>
-                </a>
+                </QuoteLink>
               </div>
             ))}
           </div>
@@ -65,12 +66,12 @@ export default function VariantSec4({ data }) {
             <div className="relative z-10 pl-20">
               <p className="text-sm font-extrabold uppercase leading-tight text-[#101828]">{data.banner.title}</p>
               <p className="mt-1.5 text-xs leading-snug text-[#101828]">{data.banner.body}</p>
-              <a
+              <QuoteLink
                 href={data.banner.cta.href}
                 className="mt-3 flex items-center justify-center gap-2 rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark px-4 py-2.5 text-xs font-bold uppercase text-white shadow-lg transition-transform hover:scale-[1.02]"
               >
                 {data.banner.cta.label} <span aria-hidden>→</span>
-              </a>
+              </QuoteLink>
             </div>
           </div>
         </div>
@@ -117,9 +118,9 @@ export default function VariantSec4({ data }) {
                     </div>
                     <p className="mt-4 text-sm leading-relaxed text-[#4a5568]">{c.body}</p>
                   </div>
-                  <a href="#quote-form" className="mt-4 inline-flex w-fit items-center gap-1.5 text-sm font-bold text-hero-blue">
+                  <QuoteLink href="#quote-form" className="mt-4 inline-flex w-fit items-center gap-1.5 text-sm font-bold text-hero-blue">
                     {c.link} <span aria-hidden>→</span>
-                  </a>
+                  </QuoteLink>
                 </div>
               ))}
             </div>
@@ -150,12 +151,12 @@ export default function VariantSec4({ data }) {
                 <Image src={data.banner.image} alt="" fill className="object-cover" sizes="240px" />
               </div>
 
-              <a
+              <QuoteLink
                 href={data.banner.cta.href}
                 className="relative z-10 flex h-14 shrink-0 items-center justify-center self-center whitespace-nowrap rounded-xl bg-linear-to-br from-hero-blue to-hero-blue-dark px-8 text-sm font-bold uppercase text-white shadow-lg transition-transform hover:scale-[1.02]"
               >
                 {data.banner.cta.label} <span className="ml-2" aria-hidden>→</span>
-              </a>
+              </QuoteLink>
             </div>
           </div>
         </div>

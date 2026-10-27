@@ -9,7 +9,7 @@
       { "icon": "gear", "label": "Configuration", "value": "Inline-6 (I6)" },
       { "icon": "engine", "label": "Capacity", "value": "3.0L" },
       { "icon": "oil", "label": "Fuel", "value": "Petrol, Petrol Mild-Hybrid (MHEV), Petrol Plug-in Hybrid (PHEV)" },
-      { "icon": "calendar", "label": "Production Years", "value": "2015–present" },
+      { "icon": "calendar", "label": "Production Years", "value": "2015-present" },
       { "icon": "car", "label": "Used In", "value": "14 BMW models" }
     ],
     "prompt": {
@@ -26,7 +26,7 @@
     "image": "/engine_family/sec2_bottom.webp",
     "startingFromLabel": "Starting From",
     "startingFromPrice": "£2,800",
-    "body": "Every B58 application — petrol, mild-hybrid, or plug-in hybrid — sits on the same 6-cylinder rebuild tier. Exact price depends on condition and parts required — submit your reg for a fixed-price quote.",
+    "body": "Every B58 application - petrol, mild-hybrid, or plug-in hybrid - sits on the same 6-cylinder rebuild tier. Exact price depends on condition and parts required - submit your reg for a fixed-price quote.",
     "cta": { "label": "Get Your Fixed-Price Quote →", "href": "#quote-form" }
   }
 }

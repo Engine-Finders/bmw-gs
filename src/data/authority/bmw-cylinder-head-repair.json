@@ -45,13 +45,13 @@
         {
           "t": "ul",
           "items": [
-            "**Head removal** – the cylinder head is carefully lifted from the engine block.",
-            "**Full strip-down** – all components (valves, springs, retainers, camshafts) are disassembled.",
-            "**Inspection and measurement** – the head is checked for warpage, cracks, and wear; valve guides and seats are measured with precision tools.",
-            "**Machining (skimming)** – the head is resurfaced to ensure a perfectly flat sealing surface.",
-            "**Valve work** – valves are ground or replaced, new stem seals fitted, and seats recut or replaced.",
-            "**Reassembly with new gaskets and seals** – including head gasket, camshaft seals, and all necessary O-rings.",
-            "**VANOS service** – on engines equipped with BMW's variable valve timing, the VANOS unit is serviced during head work to maintain optimal performance."
+            "**Head removal** - the cylinder head is carefully lifted from the engine block.",
+            "**Full strip-down** - all components (valves, springs, retainers, camshafts) are disassembled.",
+            "**Inspection and measurement** - the head is checked for warpage, cracks, and wear; valve guides and seats are measured with precision tools.",
+            "**Machining (skimming)** - the head is resurfaced to ensure a perfectly flat sealing surface.",
+            "**Valve work** - valves are ground or replaced, new stem seals fitted, and seats recut or replaced.",
+            "**Reassembly with new gaskets and seals** - including head gasket, camshaft seals, and all necessary O-rings.",
+            "**VANOS service** - on engines equipped with BMW's variable valve timing, the VANOS unit is serviced during head work to maintain optimal performance."
           ]
         },
         {
@@ -68,7 +68,7 @@
           "t": "callout",
           "heading": "",
           "paras": [
-            "**Starting from** — 4-cylinder engines: £1,900 6-cylinder engines: £2,800 V8 engines: £4,500",
+            "**Starting from** - 4-cylinder engines: £1,900 6-cylinder engines: £2,800 V8 engines: £4,500",
             "Prices are for a full cylinder head rebuild including parts and labour. Final cost depends on engine type, condition, and any additional machining required. [See pricing disclaimer](/pricing-legal-disclaimer)."
           ]
         },
@@ -84,7 +84,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "Cylinder head repair and rebuild is available across the full BMW range – from 1 Series to X7, and all M-performance variants. Below are the key model families and engine groups we cover."
+          "html": "Cylinder head repair and rebuild is available across the full BMW range - from 1 Series to X7, and all M-performance variants. Below are the key model families and engine groups we cover."
         },
         {
           "t": "modelgroup",
@@ -460,7 +460,7 @@
       "steps": [
         {
           "title": "Removal & Strip-down",
-          "body": "The head is removed from the engine and fully disassembled – valves, springs, retainers, and camshafts are taken out."
+          "body": "The head is removed from the engine and fully disassembled - valves, springs, retainers, and camshafts are taken out."
         },
         {
           "title": "Inspection & Measurement",
@@ -494,7 +494,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "Or [contact us directly](/contact) – we'll discuss your BMW's cylinder head repair requirements in detail."
+          "html": "Or [contact us directly](/contact) - we'll discuss your BMW's cylinder head repair requirements in detail."
         }
       ]
     },
@@ -506,11 +506,11 @@
           "t": "ul",
           "items": [
             "Specialist BMW workshop with over a decade of experience",
-            "All work carried out in-house – no subcontracting",
+            "All work carried out in-house - no subcontracting",
             "Precision machining using professional equipment",
             "VANOS servicing integrated into every applicable rebuild",
             "12-month unlimited-mileage warranty on all work",
-            "Transparent fixed-price quotes – no hidden extras",
+            "Transparent fixed-price quotes - no hidden extras",
             "Nationwide engine recovery available if your car is off the road"
           ]
         },
@@ -573,7 +573,7 @@
         },
         {
           "q": "How long does cylinder head repair take?",
-          "a": "Typical turnaround is 3–5 working days, depending on the extent of machining required and parts availability. We will give you a clear timeline when you bring your vehicle in."
+          "a": "Typical turnaround is 3-5 working days, depending on the extent of machining required and parts availability. We will give you a clear timeline when you bring your vehicle in."
         },
         {
           "q": "Do you service VANOS during the head rebuild?",

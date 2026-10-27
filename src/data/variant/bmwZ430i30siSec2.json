@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "E85/E86 (2002–2008)"
+      "value": "E85/E86 (2002-2008)"
     },
     {
       "icon": "price",
@@ -48,7 +48,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The Z4 3.0i  3.0si used two different engines across its production run — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The Z4 3.0i  3.0si used two different engines across its production run - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

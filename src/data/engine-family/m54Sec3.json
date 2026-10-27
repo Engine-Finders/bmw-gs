@@ -1,6 +1,6 @@
 {
   "image": "/engine_family/sec3.webp",
-  "titlePre": "BMW M54 Applications — ",
+  "titlePre": "BMW M54 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -26,7 +26,7 @@
       "variant": "2.2i, 2.5i, 3.0i",
       "generation": "First",
       "chassis": "E85/E86",
-      "years": "2002–2006",
+      "years": "2002-2006",
       "modelHref": "/bmw-z4-engines"
     }
   ],

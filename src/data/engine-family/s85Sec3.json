@@ -1,6 +1,6 @@
 {
   "image": "/engine_family/sec3.webp",
-  "titlePre": "BMW S85 Applications — ",
+  "titlePre": "BMW S85 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -26,7 +26,7 @@
       "variant": "M5",
       "generation": "E60/E61",
       "chassis": "E60/E61",
-      "years": "2005–2010",
+      "years": "2005-2010",
       "modelHref": "/bmw-m5-engines",
       "variantHref": "/bmw-m5-engines"
     },
@@ -35,7 +35,7 @@
       "variant": "M6",
       "generation": "E63/E64",
       "chassis": "E63/E64",
-      "years": "2006–2010",
+      "years": "2006-2010",
       "modelHref": "/bmw-m6-engines",
       "variantHref": "/bmw-m6-engines"
     }

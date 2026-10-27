@@ -1,6 +1,6 @@
 {
   "image": "/engine_family/sec3.webp",
-  "titlePre": "BMW N13 Applications — ",
+  "titlePre": "BMW N13 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -26,7 +26,7 @@
       "variant": "116i, 118i",
       "generation": "F20/F21",
       "chassis": "F20/F21",
-      "years": "2011–2016",
+      "years": "2011-2016",
       "modelHref": "/bmw-1-series-engines"
     }
   ],

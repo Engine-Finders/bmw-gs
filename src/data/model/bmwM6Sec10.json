@@ -2,34 +2,34 @@
   "badge": "10",
   "headlinePre": "Most Popular",
   "headlineHighlight": "BMW M6 Rebuilds",
-  "subhead": "Full variant list below covers every BMW M6 engine we work on — these 12 are simply our most requested.",
+  "subhead": "Full variant list below covers every BMW M6 engine we work on - these 12 are simply our most requested.",
   "image": "/model/sec10.webp",
   "viewMoreLabel": "View More",
-  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "footerNote": "Real photos from our workshop - not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
       "model": "BMW M6 (E63/E64, S85)",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/bmw-m6-e64-m6-convertible-convertible-20062010-new-indianapo-5cdf.webp"
+      "image": "/cars/card/bmw-m6-e64-m6-convertible-convertible-20062010-new-indianapo-5cdf.webp"
     },
     {
       "number": "02",
       "model": "BMW M6 (F13, S63)",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/m6-f13-m6-coupe-2012-2018.webp"
+      "image": "/cars/card/m6-f13-m6-coupe-2012-2018.webp"
     },
     {
       "number": "03",
       "model": "BMW M6 Convertible (F12, S63)",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/m6-f12-m6-convertible-2012-2018.webp"
+      "image": "/cars/card/m6-f12-m6-convertible-2012-2018.webp"
     },
     {
       "number": "04",
       "model": "BMW M6 Gran Coupe (F06, S63)",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/m6-f06-m6-gran-coupe-door-coupe.webp"
+      "image": "/cars/card/m6-f06-m6-gran-coupe-door-coupe.webp"
     }
   ]
 }

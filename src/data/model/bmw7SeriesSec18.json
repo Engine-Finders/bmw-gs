@@ -4,7 +4,7 @@
   "faqLeft": [
     {
       "q": "Do you rebuild engines for all BMW 7 Series models?",
-      "a": "Yes — we rebuild and replace engines across every 7 Series generation, from the E65 up to the current G70."
+      "a": "Yes - we rebuild and replace engines across every 7 Series generation, from the E65 up to the current G70."
     },
     {
       "q": "Do I keep my original engine, or do you send me a different one?",
@@ -30,11 +30,11 @@
     },
     {
       "q": "How much does a BMW 7 Series engine rebuild cost?",
-      "a": "6-cylinder rebuilds start from £2,800, V8 (N63) from £4,500, and V12 (N73) from £8,000. Exact price depends on engine code and condition — submit your reg for a fixed-price quote."
+      "a": "6-cylinder rebuilds start from £2,800, V8 (N63) from £4,500, and V12 (N73) from £8,000. Exact price depends on engine code and condition - submit your reg for a fixed-price quote."
     },
     {
       "q": "Is it worth rebuilding a V12 engine?",
-      "a": "It depends on your car's condition and value — V12 rebuilds are genuinely complex and priced accordingly. We'll give you an honest comparison of rebuild vs. full replacement cost once we've seen your registration and situation."
+      "a": "It depends on your car's condition and value - V12 rebuilds are genuinely complex and priced accordingly. We'll give you an honest comparison of rebuild vs. full replacement cost once we've seen your registration and situation."
     }
   ],
   "form": {

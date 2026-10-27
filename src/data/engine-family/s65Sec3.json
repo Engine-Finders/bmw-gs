@@ -1,6 +1,6 @@
 {
   "image": "/engine_family/sec3.webp",
-  "titlePre": "BMW S65 Applications — ",
+  "titlePre": "BMW S65 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -26,7 +26,7 @@
       "variant": "M3",
       "generation": "E90/E91/E92/E93",
       "chassis": "E90/E91/E92/E93",
-      "years": "2007–2013",
+      "years": "2007-2013",
       "modelHref": "/bmw-m3-engines",
       "variantHref": "/bmw-m3-engines"
     }

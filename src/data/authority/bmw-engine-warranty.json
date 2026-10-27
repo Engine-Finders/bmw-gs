@@ -40,7 +40,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "An engine rebuild warranty is a workshop's guarantee covering the quality of workmanship and the components used during the rebuild. It is not an insurance product or a third-party extended warranty — it's our own commitment to the work we carry out."
+          "html": "An engine rebuild warranty is a workshop's guarantee covering the quality of workmanship and the components used during the rebuild. It is not an insurance product or a third-party extended warranty - it's our own commitment to the work we carry out."
         },
         {
           "t": "p",
@@ -50,7 +50,7 @@
           "t": "callout",
           "heading": "",
           "paras": [
-            "**Every rebuild includes our 12-month unlimited-mileage warranty** — included in the following starting prices:",
+            "**Every rebuild includes our 12-month unlimited-mileage warranty** - included in the following starting prices:",
             {
               "ul": [
                 "4-Cyl Diesel from £1,900",
@@ -412,12 +412,12 @@
         {
           "t": "ul",
           "items": [
-            "**12-month unlimited-mileage warranty** — included on every rebuild",
-            "**Full in-house machining** — we don't outsource critical work",
-            "**All brands, one workshop** — we specialise in BMW, but also handle all marques (within our Garage network)",
-            "**Transparent pricing** — fixed-price rebuilds with no hidden charges",
-            "**Nationwide recovery** — from £70, we can collect your vehicle (where covered)",
-            "**3-5 day turnaround** — for most rebuilds (subject to inspection)"
+            "**12-month unlimited-mileage warranty** - included on every rebuild",
+            "**Full in-house machining** - we don't outsource critical work",
+            "**All brands, one workshop** - we specialise in BMW, but also handle all marques (within our Garage network)",
+            "**Transparent pricing** - fixed-price rebuilds with no hidden charges",
+            "**Nationwide recovery** - from £70, we can collect your vehicle (where covered)",
+            "**3-5 day turnaround** - for most rebuilds (subject to inspection)"
           ]
         },
         {
@@ -432,19 +432,19 @@
       "steps": [
         {
           "title": "",
-          "body": "**Book an inspection** — we assess your engine and provide a fixed-price quote."
+          "body": "**Book an inspection** - we assess your engine and provide a fixed-price quote."
         },
         {
           "title": "",
-          "body": "**Rebuild carried out** — our technicians rebuild your engine to exacting standards."
+          "body": "**Rebuild carried out** - our technicians rebuild your engine to exacting standards."
         },
         {
           "title": "",
-          "body": "**Warranty issued** — you receive written confirmation of your 12-month unlimited-mileage warranty."
+          "body": "**Warranty issued** - you receive written confirmation of your 12-month unlimited-mileage warranty."
         },
         {
           "title": "",
-          "body": "**Peace of mind** — any covered issue within 12 months is remedied at our workshop."
+          "body": "**Peace of mind** - any covered issue within 12 months is remedied at our workshop."
         }
       ]
     },
@@ -455,12 +455,12 @@
         {
           "t": "ul",
           "items": [
-            "[BMW Engine Rebuild](/bmw-engine-rebuild) — full rebuild service",
-            "[BMW Diesel Timing Chain Repair](/bmw-diesel-timing-chain-repair) — N47/B47 specific",
-            "[BMW Petrol Timing Chain Repair](/bmw-petrol-timing-chain-repair) — N20 specific",
-            "[BMW Engine Replacement](/bmw-engine-replacement) — replacement option",
-            "[BMW Engine Inspection & Assessment](/bmw-engine-inspection-assessment) — pre-rebuild evaluation",
-            "[BMW Rebuild vs Replacement](/bmw-rebuild-vs-replacement) — decision guide"
+            "[BMW Engine Rebuild](/bmw-engine-rebuild) - full rebuild service",
+            "[BMW Diesel Timing Chain Repair](/bmw-diesel-timing-chain-repair) - N47/B47 specific",
+            "[BMW Petrol Timing Chain Repair](/bmw-petrol-timing-chain-repair) - N20 specific",
+            "[BMW Engine Replacement](/bmw-engine-replacement) - replacement option",
+            "[BMW Engine Inspection & Assessment](/bmw-engine-inspection-assessment) - pre-rebuild evaluation",
+            "[BMW Rebuild vs Replacement](/bmw-rebuild-vs-replacement) - decision guide"
           ]
         }
       ]
@@ -475,7 +475,7 @@
         },
         {
           "q": "Is there a mileage limit?",
-          "a": "No — the warranty is unlimited mileage for the full 12-month term."
+          "a": "No - the warranty is unlimited mileage for the full 12-month term."
         },
         {
           "q": "What does the warranty not cover?",
@@ -483,23 +483,23 @@
         },
         {
           "q": "Do I need to follow a running-in procedure?",
-          "a": "Yes — proper running-in is essential for BMW engines, particularly those with tight tolerances (VANOS, timing systems, M-division engines). We provide full written guidance at collection."
+          "a": "Yes - proper running-in is essential for BMW engines, particularly those with tight tolerances (VANOS, timing systems, M-division engines). We provide full written guidance at collection."
         },
         {
           "q": "Are oil changes required during the warranty period?",
-          "a": "Yes — the warranty requires the first oil change at 400–600 miles, and a second at 900–1,100 miles, then servicing at BMW intervals. This ensures the rebuild beds in correctly."
+          "a": "Yes - the warranty requires the first oil change at 400-600 miles, and a second at 900-1,100 miles, then servicing at BMW intervals. This ensures the rebuild beds in correctly."
         },
         {
           "q": "Does the warranty transfer to a new owner if I sell the car?",
-          "a": "The warranty is non-transferable — it applies to the original vehicle and the customer who commissioned the rebuild."
+          "a": "The warranty is non-transferable - it applies to the original vehicle and the customer who commissioned the rebuild."
         },
         {
           "q": "How long does a rebuild take?",
-          "a": "Typically 3-5 working days after inspection. Complex M-division or V-engine rebuilds may take longer — we will confirm the timeline when you book."
+          "a": "Typically 3-5 working days after inspection. Complex M-division or V-engine rebuilds may take longer - we will confirm the timeline when you book."
         },
         {
           "q": "Do you offer a warranty on replacement engines too?",
-          "a": "Yes — our replacement engines also carry a 12-month unlimited-mileage warranty, subject to the same terms (running-in, service schedule, exclusions)."
+          "a": "Yes - our replacement engines also carry a 12-month unlimited-mileage warranty, subject to the same terms (running-in, service schedule, exclusions)."
         }
       ]
     }

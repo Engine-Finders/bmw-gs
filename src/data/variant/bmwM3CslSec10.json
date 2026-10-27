@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW M3 CSL ENGINE",
     "paragraphs": [
-      "The M3 CSL has been a mainstay of the M3 diesel range since 2012, spanning two generations under one badge. Early E46 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the E46 and later the E46, the M3 CSL switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ — which is exactly why we confirm your exact engine by registration before quoting."
+      "The M3 CSL has been a mainstay of the M3 diesel range since 2012, spanning two generations under one badge. Early E46 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the E46 and later the E46, the M3 CSL switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ - which is exactly why we confirm your exact engine by registration before quoting."
     ],
     "boldParagraph": "The M3 CSL is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -16,14 +16,14 @@
     "cards": [
       {
         "codeHighlight": "N47",
-        "codeRest": "(E46, 2012–2015)",
-        "body": "A 2.0-litre diesel fitted to the early E46 M3 CSL. Known for timing chain failure due to chain guide wear — see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
+        "codeRest": "(E46, 2012-2015)",
+        "body": "A 2.0-litre diesel fitted to the early E46 M3 CSL. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
         "cta": "Check Your N47 M3 CSL",
         "codeHref": "/bmw-n47-engine"
       },
       {
         "codeHighlight": "B47",
-        "codeRest": "(E46, 2015–2019 / E46, 2019–2024)",
+        "codeRest": "(E46, 2015-2019 / E46, 2019-2024)",
         "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
         "cta": "Check Your B47 M3 CSL",
         "codeHref": "/bmw-b47-engine"
@@ -33,7 +33,7 @@
   "compatibility": {
     "titlePre": "BMW M3 CSL ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the M3 CSL spans two distinct engines across two generations, fitting the wrong replacement — or assuming an N47 part will work on a B47 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the M3 CSL spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
@@ -59,7 +59,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic M3 CSL quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic M3 CSL quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "BMW M3 CSL ",
@@ -75,9 +75,9 @@
     "rows": [
       {
         "generation": "E46",
-        "image": "/cars/m3-e46-m3-csl-2003.webp",
+        "image": "/cars/card/m3-e46-m3-csl-2003.webp",
         "chassis": "E46",
-        "years": "2000–2006",
+        "years": "2000-2006",
         "engineCode": "S54",
         "fuel": "Petrol",
         "codeHref": "/bmw-s54-engine"

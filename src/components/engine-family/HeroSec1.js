@@ -2,6 +2,7 @@ import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
 import RegLookupForm from "@/components/reusable/RegLookupForm";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 export default function HeroSec1({ data }) {
   return (
@@ -58,12 +59,12 @@ export default function HeroSec1({ data }) {
             <p className="text-2xl font-extrabold italic text-hero-blue">{data.priceCta.label}</p>
           </div>
 
-          <a
+          <QuoteLink
             href={data.priceCta.href}
             className="mt-3 flex items-center justify-center gap-2 rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark px-5 py-3.5 text-sm font-bold uppercase text-white shadow-lg transition-transform hover:scale-[1.02]"
           >
             {data.priceCta.buttonLabel}
-          </a>
+          </QuoteLink>
 
           {/* registration lookup */}
           <div className="glass-card-dark mt-2.5 rounded-xl p-3">
@@ -77,7 +78,7 @@ export default function HeroSec1({ data }) {
             </div>
           </div>
 
-          <a
+          <QuoteLink
             href={data.phoneCta.href}
             className="glass-luminous card-glare relative mt-2.5 flex items-center gap-3 rounded-xl p-3.5 transition-transform hover:scale-[1.02]"
             style={{ border: "1px solid rgba(90,170,255,0.45)" }}
@@ -89,7 +90,7 @@ export default function HeroSec1({ data }) {
               <p className="truncate text-[11px] font-medium text-white">{data.phoneCta.label}</p>
               <p className="truncate text-lg font-extrabold text-white">{data.phoneCta.phone}</p>
             </div>
-          </a>
+          </QuoteLink>
         </div>
       </div>
 
@@ -151,21 +152,21 @@ export default function HeroSec1({ data }) {
               </div>
               <span className="w-px shrink-0 bg-white/15" aria-hidden="true" />
               <div className="flex flex-col justify-center gap-2.5">
-                <a
+                <QuoteLink
                   href={data.priceCta.href}
                   className="flex items-center justify-center gap-2 whitespace-nowrap rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark px-6 py-3 text-sm font-bold text-white shadow-lg transition-transform hover:scale-[1.02]"
                   style={{ boxShadow: "0 15px 35px -15px rgba(0,127,248,0.6)" }}
                 >
                   {data.priceCta.buttonLabel}
-                </a>
-                <a
+                </QuoteLink>
+                <QuoteLink
                   href={data.phoneCta.href}
                   className="glass-luminous flex items-center gap-2.5 whitespace-nowrap rounded-lg px-6 py-3 text-sm font-semibold text-white transition-transform hover:scale-[1.02]"
                   style={{ border: "1px solid rgba(90,170,255,0.45)" }}
                 >
                   <Icon name={data.phoneCta.icon} className="h-4 w-4 shrink-0 text-white" />
                   {data.phoneCta.label} {data.phoneCta.phone}
-                </a>
+                </QuoteLink>
               </div>
             </div>
           </div>

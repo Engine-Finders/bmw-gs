@@ -2,42 +2,42 @@
   "badge": "10",
   "headlinePre": "Most Popular",
   "headlineHighlight": "BMW X7 Rebuilds",
-  "subhead": "Full variant list below covers every BMW X7 engine we work on — these 12 are simply our most requested.",
+  "subhead": "Full variant list below covers every BMW X7 engine we work on - these 12 are simply our most requested.",
   "image": "/model/sec10.webp",
   "viewMoreLabel": "View More",
-  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "footerNote": "Real photos from our workshop - not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
       "model": "BMW X7 xDrive30d",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/bmw-x7-g07-lci-xdrive40i-m-sport-suv-2022-new-tanzanite-blue-1309.webp"
+      "image": "/cars/card/bmw-x7-g07-lci-xdrive40i-m-sport-suv-2022-new-tanzanite-blue-1309.webp"
     },
     {
       "number": "02",
       "model": "BMW X7 xDrive40d",
       "spec": "3.0L I6 Diesel (B57)",
-      "image": "/cars/bmw-x7-g07-xdrive30d-m-sport-suv-20192022-new-carbon-black-g-554c.webp",
+      "image": "/cars/card/bmw-x7-g07-xdrive30d-m-sport-suv-20192022-new-carbon-black-g-554c.webp",
       "href": "/bmw-x7-xdrive40d-engines"
     },
     {
       "number": "03",
       "model": "BMW X7 xDrive40i",
       "spec": "3.0L I6 Petrol MHEV (B58)",
-      "image": "/cars/bmw-x7-g07-m50i-suv-20192022-new-manhattan-green-g07-m50i-1a40.webp",
+      "image": "/cars/card/bmw-x7-g07-m50i-suv-20192022-new-manhattan-green-g07-m50i-1a40.webp",
       "href": "/bmw-x7-xdrive40i-engines"
     },
     {
       "number": "04",
       "model": "BMW X7 xDrive50i",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/x7-g07-lci-xdrive40d-m-sport-2022.webp"
+      "image": "/cars/card/x7-g07-lci-xdrive40d-m-sport-2022.webp"
     },
     {
       "number": "05",
       "model": "BMW Alpina XB7",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/x7-g07-lci-xdrive40d-m-sport-2022.webp"
+      "image": "/cars/card/x7-g07-lci-xdrive40d-m-sport-2022.webp"
     }
   ]
 }

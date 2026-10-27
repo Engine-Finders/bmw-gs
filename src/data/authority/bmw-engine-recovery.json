@@ -45,7 +45,7 @@
         {
           "t": "ul",
           "items": [
-            "Initial contact and incident assessment — we collect all relevant details about your vehicle and its location",
+            "Initial contact and incident assessment - we collect all relevant details about your vehicle and its location",
             "Same-day dispatch of a recovery vehicle to your location, subject to availability",
             "Safe loading and securing of your BMW on a flatbed recovery truck",
             "Direct transport to our specialist [engine workshop](/bmw-engine-rebuild) in Billericay, Essex",
@@ -136,13 +136,13 @@
         },
         {
           "t": "p",
-          "html": "We also cover [7 Series](/bmw-7-series-engines), [X6](/bmw-x6-engines), [X7](/bmw-x7-engines), [Z4](/bmw-z4-engines) and other BMW models — if you own it, we can recover it. For specific chassis codes and variant details, see our [BMW garage homepage](/) or [contact us](/contact)."
+          "html": "We also cover [7 Series](/bmw-7-series-engines), [X6](/bmw-x6-engines), [X7](/bmw-x7-engines), [Z4](/bmw-z4-engines) and other BMW models - if you own it, we can recover it. For specific chassis codes and variant details, see our [BMW garage homepage](/) or [contact us](/contact)."
         }
       ]
     },
     {
       "kind": "steps",
-      "heading": "Our Recovery Process — Step by Step",
+      "heading": "Our Recovery Process - Step by Step",
       "steps": [
         {
           "title": "Call or Request Online",
@@ -154,7 +154,7 @@
         },
         {
           "title": "Recovery Dispatch",
-          "body": "We dispatch a suitable recovery vehicle to your location — typically same-day."
+          "body": "We dispatch a suitable recovery vehicle to your location - typically same-day."
         },
         {
           "title": "Safe Loading & Securing",
@@ -177,11 +177,11 @@
         {
           "t": "ul",
           "items": [
-            "We are **BMW specialists** — our workshop focuses exclusively on BMW engines and vehicles",
-            "Nationwide coverage — we collect from anywhere in the UK",
+            "We are **BMW specialists** - our workshop focuses exclusively on BMW engines and vehicles",
+            "Nationwide coverage - we collect from anywhere in the UK",
             "Same-day dispatch where possible, with transparent communication",
             "Specialist handling for **low-clearance, M-badged, and performance BMWs**",
-            "Direct transport to our workshop — no third-party handoffs",
+            "Direct transport to our workshop - no third-party handoffs",
             "Full workshop assessment on arrival, with diagnostic equipment ready"
           ]
         },
@@ -197,19 +197,19 @@
       "steps": [
         {
           "title": "",
-          "body": "**Contact us** — by phone, WhatsApp, or our online form"
+          "body": "**Contact us** - by phone, WhatsApp, or our online form"
         },
         {
           "title": "",
-          "body": "**Vehicle details** — we confirm your BMW model, location, and any specific handling requirements"
+          "body": "**Vehicle details** - we confirm your BMW model, location, and any specific handling requirements"
         },
         {
           "title": "",
-          "body": "**Recovery dispatch** — we arrange a recovery vehicle to your location, typically same-day"
+          "body": "**Recovery dispatch** - we arrange a recovery vehicle to your location, typically same-day"
         },
         {
           "title": "",
-          "body": "**Transport & intake** — your BMW arrives at our workshop and is logged for assessment"
+          "body": "**Transport & intake** - your BMW arrives at our workshop and is logged for assessment"
         }
       ]
     },

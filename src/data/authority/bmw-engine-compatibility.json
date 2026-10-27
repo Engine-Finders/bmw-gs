@@ -40,7 +40,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "Engine compatibility is the assessment of whether a specific engine (or engine component) can be correctly fitted to a specific vehicle. This goes beyond basic VIN matching to consider cross-model and cross-generation fitment—ensuring the replacement or rebuilt engine is the correct match for your car."
+          "html": "Engine compatibility is the assessment of whether a specific engine (or engine component) can be correctly fitted to a specific vehicle. This goes beyond basic VIN matching to consider cross-model and cross-generation fitment-ensuring the replacement or rebuilt engine is the correct match for your car."
         },
         {
           "t": "p",
@@ -91,7 +91,7 @@
           "paras": [
             "**Compatibility assessment** is included as part of our standard inspection when you book a rebuild or replacement.",
             "**Rebuild prices start from:** 4-Cyl Diesel from £1,900 • 4-Cyl Petrol from £2,200 6-Cyl Diesel from £2,800 • 6-Cyl Petrol from £3,200 V8 from £4,500 • Performance/M-Sport (S54/S55/S58/S63/S65) from £5,500",
-            "[Pricing disclaimer](/pricing-legal-disclaimer) — final price confirmed after full inspection."
+            "[Pricing disclaimer](/pricing-legal-disclaimer) - final price confirmed after full inspection."
           ]
         }
       ]
@@ -309,7 +309,7 @@
         {
           "t": "ul",
           "items": [
-            "**Workshop-led assessment:** We don't rely on catalogues alone—we physically check sumps, mounts, and ancillaries against the chassis.",
+            "**Workshop-led assessment:** We don't rely on catalogues alone-we physically check sumps, mounts, and ancillaries against the chassis.",
             "**BMW-specific knowledge:** We understand the modular B-series architecture, TU changes, and M-division differences.",
             "**Full rebuild or replacement capability:** Once the correct match is confirmed, we carry out the rebuild or replacement in-house.",
             "**12-month unlimited-mileage warranty** on every rebuild we complete.",

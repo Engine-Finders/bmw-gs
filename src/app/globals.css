@@ -23,7 +23,7 @@
   --color-hero-blue: #007ff8;
   --color-hero-blue-dark: #0062c4;
 
-  /* Hero background — kept as a token so sections can match it exactly */
+  /* Hero background - kept as a token so sections can match it exactly */
   --color-hero-dark: #070b14;
 }
 
@@ -53,7 +53,7 @@ h3,
   font-family: var(--font-barlow), Arial, Helvetica, sans-serif;
 }
 
-/* Homepage titles: same typography as the Mercedes garage (.h1/.h2/.h3 there) — Roboto Condensed,
+/* Homepage titles: same typography as the Mercedes garage (.h1/.h2/.h3 there) - Roboto Condensed,
    -0.5px tracking; mobile sizes are the base, md (768px+) swaps in the desktop sizes. */
 .hp-h1,
 .hp-h2,
@@ -100,7 +100,7 @@ h3,
 
 /* ---------------------------------------------------------------- */
 /* .thin-scrollbar = visible, on-brand scrollbar for inner-scrolling */
-/* containers (e.g. capped-height tables) — signals scrollability   */
+/* containers (e.g. capped-height tables) - signals scrollability   */
 /* without relying on a hidden native bar or a text hint.           */
 /* ---------------------------------------------------------------- */
 
@@ -146,7 +146,7 @@ h3,
 }
 
 /* ---------------------------------------------------------------- */
-/* Global glassmorphism system — reuse .glass-panel + .glass-sparkle */
+/* Global glassmorphism system - reuse .glass-panel + .glass-sparkle */
 /* on any floating frosted-glass card that needs studio-light polish */
 /* ---------------------------------------------------------------- */
 
@@ -304,7 +304,7 @@ h3,
 /* ---------------------------------------------------------------- */
 /* .glass-luminous = dark glass panel + .card-glare = studio-light   */
 /* glare modifier (top edge flare + bottom blue pool + neon bloom).  */
-/* .card-glare is background-agnostic — combine with any card class  */
+/* .card-glare is background-agnostic - combine with any card class  */
 /* (glass-card-dark, a solid gradient CTA, etc). Element needs        */
 /* position:relative + overflow:hidden, which .card-glare provides.  */
 /* ---------------------------------------------------------------- */
@@ -316,7 +316,7 @@ h3,
 }
 
 .card-glare {
-  /* requires the element to also carry `relative` or `absolute` — this
+  /* requires the element to also carry `relative` or `absolute` - this
      class intentionally does not set position, so it never fights a
      Tailwind position utility on the same element */
   overflow: hidden;
@@ -353,7 +353,7 @@ h3,
 /* .card-glare-light = same glare treatment, tuned for white/light cards  */
 /* (blue-tinted top flare instead of white-on-white, softer outer bloom). */
 .card-glare-light {
-  /* same note as .card-glare — pair with `relative`/`absolute` on the element */
+  /* same note as .card-glare - pair with `relative`/`absolute` on the element */
   overflow: hidden;
   box-shadow:
     0 20px 45px -20px rgba(16, 24, 40, 0.25),
@@ -385,7 +385,7 @@ h3,
 
 /* .card-corner-glare = glowing outer bloom + bluish-white glare pooled in    */
 /* the top-left and bottom-right corners. Pair with `relative`/`absolute` AND */
-/* your own `border` utility — this class deliberately doesn't set border    */
+/* your own `border` utility - this class deliberately doesn't set border    */
 /* color/width so it never fights a Tailwind border-color utility (same      */
 /* cascade issue as position: relative did on .card-glare). Default blue     */
 /* glow via box-shadow works with any border color placed on top of it.     */
@@ -421,7 +421,7 @@ h3,
 /* .neon-card = high-intensity neon glassmorphism: dark blue gradient glass  */
 /* panel, crisp cyan-tinted white border, layered inner+outer blue bloom,    */
 /* and a specular top-edge light-glint pseudo-element. Pair with `relative`  */
-/* AND a Tailwind `rounded-*` class on the element — this deliberately does  */
+/* AND a Tailwind `rounded-*` class on the element - this deliberately does  */
 /* not set position or border-radius, so it never fights those utilities    */
 /* (see .card-glare's note on the same cascade issue with `position`).      */
 .neon-card {
@@ -481,7 +481,7 @@ h3,
 }
 
 /* hides the native scrollbar on a horizontally-scrollable element while
-   keeping it touch/swipe/drag scrollable — no button/scrollbar/icon UI */
+   keeping it touch/swipe/drag scrollable - no button/scrollbar/icon UI */
 .no-scrollbar {
   scrollbar-width: none;
   -ms-overflow-style: none;

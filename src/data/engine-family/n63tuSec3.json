@@ -1,6 +1,6 @@
 {
   "image": "/engine_family/sec3.webp",
-  "titlePre": "BMW N63TU Applications — ",
+  "titlePre": "BMW N63TU Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -26,7 +26,7 @@
       "variant": "650i",
       "generation": "F06/F12/F13",
       "chassis": "F06/F12/F13",
-      "years": "2012–2018",
+      "years": "2012-2018",
       "modelHref": "/bmw-6-series-engines",
       "variantHref": "/bmw-650i-engines"
     },
@@ -35,7 +35,7 @@
       "variant": "750i",
       "generation": "G11/G12",
       "chassis": "G11/G12",
-      "years": "2015–2022",
+      "years": "2015-2022",
       "modelHref": "/bmw-7-series-engines",
       "variantHref": "/bmw-750i-engines"
     }

@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW X4 xDrive30d ENGINE",
     "paragraphs": [
-      "The X4 xDrive30d has been a mainstay of the X4 diesel range since 2012, spanning two generations under one badge. Early F26 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the F26 and later the G02, the X4 xDrive30d switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ — which is exactly why we confirm your exact engine by registration before quoting."
+      "The X4 xDrive30d has been a mainstay of the X4 diesel range since 2012, spanning two generations under one badge. Early F26 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the F26 and later the G02, the X4 xDrive30d switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ - which is exactly why we confirm your exact engine by registration before quoting."
     ],
     "boldParagraph": "The X4 xDrive30d is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -17,15 +17,15 @@
       {
         "codeHighlight": "N47",
         "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(F26, 2012–2015)",
-        "body": "A 2.0-litre diesel fitted to the early F26 X4 xDrive30d. Known for timing chain failure due to chain guide wear — see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
+        "codeRest": "(F26, 2012-2015)",
+        "body": "A 2.0-litre diesel fitted to the early F26 X4 xDrive30d. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
         "cta": "Check Your N47 X4 xDrive30d",
         "codeHref": "/bmw-n47-engine"
       },
       {
         "codeHighlight": "B47",
         "image": "/engines/b47-engine.webp",
-        "codeRest": "(F26, 2015–2019 / G02, 2019–2024)",
+        "codeRest": "(F26, 2015-2019 / G02, 2019-2024)",
         "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
         "cta": "Check Your B47 X4 xDrive30d",
         "codeHref": "/bmw-b47-engine"
@@ -35,7 +35,7 @@
   "compatibility": {
     "titlePre": "BMW X4 xDrive30d ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the X4 xDrive30d spans two distinct engines across two generations, fitting the wrong replacement — or assuming an N47 part will work on a B47 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the X4 xDrive30d spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
@@ -61,7 +61,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic X4 xDrive30d quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic X4 xDrive30d quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "BMW X4 xDrive30d ",
@@ -77,27 +77,27 @@
     "rows": [
       {
         "generation": "F26",
-        "image": "/cars/x4-f26-xdrive30d-m-sport-2014-2018.webp",
+        "image": "/cars/card/x4-f26-xdrive30d-m-sport-2014-2018.webp",
         "chassis": "F26",
-        "years": "2014–2018",
+        "years": "2014-2018",
         "engineCode": "N47",
         "fuel": "Diesel",
         "codeHref": "/bmw-n47-engine"
       },
       {
         "generation": "G02",
-        "image": "/cars/x4-g02-xdrive20d-m-sport-2018-2021.webp",
+        "image": "/cars/card/x4-g02-xdrive20d-m-sport-2018-2021.webp",
         "chassis": "G02",
-        "years": "2018–present",
+        "years": "2018-present",
         "engineCode": "B47",
         "fuel": "Diesel",
         "codeHref": "/bmw-b47-engine"
       },
       {
         "generation": "G02",
-        "image": "/cars/x4-g02-xdrive20d-m-sport-2018-2021.webp",
+        "image": "/cars/card/x4-g02-xdrive20d-m-sport-2018-2021.webp",
         "chassis": "G02",
-        "years": "2018–present",
+        "years": "2018-present",
         "engineCode": "B57",
         "fuel": "Diesel",
         "codeHref": "/bmw-b57-engine"

@@ -6,14 +6,14 @@
   "cards": [
     {
       "code": "N57/B57",
-      "generation": "F16 (2014–2019)",
+      "generation": "F16 (2014-2019)",
       "price": "£2,800",
       "codeHref": "/bmw-n47-engine"
     },
     {
       "code": "B57",
       "image": "/engines/b57-engine.webp",
-      "generation": "G06 (2019–present)",
+      "generation": "G06 (2019-present)",
       "price": "£2,800",
       "codeHref": "/bmw-b57-engine"
     }
@@ -25,7 +25,7 @@
     },
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -38,9 +38,9 @@
     "titlePre": "BMW X6 xDrive30d Timing Chain Failure ",
     "titleHighlight": "(F16, N47)",
     "paragraphs": [
-      "If your X6 xDrive30d is a pre-2015 model with the N47 diesel engine — that's the early F16 generation — timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
+      "If your X6 xDrive30d is a pre-2015 model with the N47 diesel engine - that's the early F16 generation - timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
       "The later F16 (2015-onwards) and G06 generations use a different engine, the B47, which is significantly more reliable and doesn't share this specific issue."
     ],
-    "source": "Source: NHTSA Recall 18V-755 — Timing Chain Guide Wear in N47 Engines (2012–2015)"
+    "source": "Source: NHTSA Recall 18V-755 - Timing Chain Guide Wear in N47 Engines (2012-2015)"
   }
 }

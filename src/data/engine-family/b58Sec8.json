@@ -2,7 +2,7 @@
   "gallery": {
     "titlePre": "OUR MOST RECENT",
     "titleHighlight": "BMW RECOVERIES & REBUILDS",
-    "description": "Real vehicles brought into our workshop. Open bonnets, stripped blocks, and cars ready for collection — this is what genuine engine work looks like.",
+    "description": "Real vehicles brought into our workshop. Open bonnets, stripped blocks, and cars ready for collection - this is what genuine engine work looks like.",
     "image": "/variant/sec12.webp",
     "items": [
       { "icon": "truck", "model": "BMW M340i", "status": "RECOVERY" },
@@ -30,7 +30,7 @@
     ],
     "summary": {
       "timeframe": { "icon": "clock", "text": "Most cars are recovered within a few hours of booking. Most rebuilds are completed within 3-5 working days." },
-      "urgency": { "icon": "calendar", "textPre": "Workshop slots fill up fast — ", "textHighlight": "book your recovery today." }
+      "urgency": { "icon": "calendar", "textPre": "Workshop slots fill up fast - ", "textHighlight": "book your recovery today." }
     }
   }
 }

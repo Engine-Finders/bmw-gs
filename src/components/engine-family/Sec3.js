@@ -3,6 +3,7 @@ import Link from "next/link";
 import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
 import MobileSplitTitle from "@/components/variant/MobileSplitTitle";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 export default function Sec3({ data }) {
   return (
@@ -63,12 +64,12 @@ export default function Sec3({ data }) {
                 <p className="text-[11px] text-white">{data.prompt.subtext}</p>
               </div>
             </div>
-            <a
+            <QuoteLink
               href={data.prompt.href}
               className="mt-3 flex items-center justify-center gap-2 rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark px-4 py-2.5 text-xs font-bold uppercase text-white shadow-lg transition-transform hover:scale-[1.02]"
             >
               {data.prompt.buttonLabel}
-            </a>
+            </QuoteLink>
           </div>
         </div>
       </div>
@@ -146,12 +147,12 @@ export default function Sec3({ data }) {
                 <p className="text-xs text-white">{data.prompt.subtext}</p>
               </div>
             </div>
-            <a
+            <QuoteLink
               href={data.prompt.href}
               className="flex shrink-0 items-center gap-2 whitespace-nowrap rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark px-5 py-2.5 text-sm font-bold text-white shadow-lg transition-transform hover:scale-[1.02]"
             >
               {data.prompt.buttonLabel}
-            </a>
+            </QuoteLink>
           </div>
         </div>
       </div>

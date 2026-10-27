@@ -3,7 +3,7 @@
   "metaTitle": "BMW Rebuild vs Reconditioned | BMW Garage",
   "metaDescription": "BMW Rebuild vs Reconditioned: What's the difference? We explain how a full rebuild differs from reconditioning for BMW engines.",
   "h1": "BMW Rebuild vs Reconditioned",
-  "lede": "Understanding what's actually included — and why the label matters less than the process.",
+  "lede": "Understanding what's actually included - and why the label matters less than the process.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -48,7 +48,7 @@
         },
         {
           "t": "p",
-          "html": "A reconditioned engine has typically been stripped down either partially or fully, cleaned, and had some damaged components replaced. The key point: a reconditioned engine may not be returned to full factory specification — it is made serviceable rather than as-new. The standard is \"operational\" rather than \"factory specification.\""
+          "html": "A reconditioned engine has typically been stripped down either partially or fully, cleaned, and had some damaged components replaced. The key point: a reconditioned engine may not be returned to full factory specification - it is made serviceable rather than as-new. The standard is \"operational\" rather than \"factory specification.\""
         },
         {
           "t": "h3",
@@ -64,7 +64,7 @@
         },
         {
           "t": "p",
-          "html": "In reality, the terms overlap significantly. A \"reconditioned\" engine from one workshop might be as comprehensive as a \"rebuilt\" engine from another. The critical factor is not the label but the **documented process** — what was replaced, what was machined, and what standards were applied."
+          "html": "In reality, the terms overlap significantly. A \"reconditioned\" engine from one workshop might be as comprehensive as a \"rebuilt\" engine from another. The critical factor is not the label but the **documented process** - what was replaced, what was machined, and what standards were applied."
         }
       ]
     },
@@ -79,12 +79,12 @@
             "**BMW engine rebuilds start from:**",
             {
               "ul": [
-                "4-Cylinder Diesel — from £1,900",
-                "4-Cylinder Petrol — from £2,200",
-                "6-Cylinder Diesel — from £2,800",
-                "6-Cylinder Petrol — from £3,200",
-                "V8 — from £4,500",
-                "M-Performance (S54/S55/S58/S63/S65) — from £5,500+"
+                "4-Cylinder Diesel - from £1,900",
+                "4-Cylinder Petrol - from £2,200",
+                "6-Cylinder Diesel - from £2,800",
+                "6-Cylinder Petrol - from £3,200",
+                "V8 - from £4,500",
+                "M-Performance (S54/S55/S58/S63/S65) - from £5,500+"
               ]
             },
             "[Pricing disclaimer →](/pricing-legal-disclaimer)"
@@ -102,7 +102,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "Our rebuild service covers the full BMW range. Every engine we work on is rebuilt to the same standard — full disassembly, all wear items replaced, machining work performed where needed."
+          "html": "Our rebuild service covers the full BMW range. Every engine we work on is rebuilt to the same standard - full disassembly, all wear items replaced, machining work performed where needed."
         },
         {
           "t": "modelgroup",
@@ -194,7 +194,7 @@
         },
         {
           "title": "Machining",
-          "body": "Block and cylinder head machining to restore tolerances — honing, boring, and surface grinding as required."
+          "body": "Block and cylinder head machining to restore tolerances - honing, boring, and surface grinding as required."
         },
         {
           "title": "Component Replacement",
@@ -213,12 +213,12 @@
         {
           "t": "ul",
           "items": [
-            "**Established 2009** — over 15 years of BMW engine specialism",
-            "**Full rebuilds only** — we don't do partial \"recon\" shortcuts unless explicitly agreed",
+            "**Established 2009** - over 15 years of BMW engine specialism",
+            "**Full rebuilds only** - we don't do partial \"recon\" shortcuts unless explicitly agreed",
             "**12-month unlimited-mileage warranty** on every rebuild",
-            "**3–5 day rebuild turnaround** — we work fast without cutting corners",
-            "**Nationwide recovery** — we can collect your BMW from anywhere in the UK (from £70)",
-            "**All work done in-house** — no outsourcing of machining or assembly"
+            "**3-5 day rebuild turnaround** - we work fast without cutting corners",
+            "**Nationwide recovery** - we can collect your BMW from anywhere in the UK (from £70)",
+            "**All work done in-house** - no outsourcing of machining or assembly"
           ]
         },
         {
@@ -283,7 +283,7 @@
         },
         {
           "q": "How long does a BMW engine rebuild take?",
-          "a": "Our standard rebuild turnaround is **3–5 days**, depending on the engine type and parts availability. This excludes inspection and diagnostic time if we need to assess a non-running engine first."
+          "a": "Our standard rebuild turnaround is **3-5 days**, depending on the engine type and parts availability. This excludes inspection and diagnostic time if we need to assess a non-running engine first."
         },
         {
           "q": "What warranty do you offer on a rebuild?",

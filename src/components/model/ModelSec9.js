@@ -111,7 +111,7 @@ export default function ModelSec9({ data }) {
         <div className="pointer-events-none absolute left-[20%] top-[38%] h-56 w-56 rounded-full bg-hero-blue/12 blur-3xl" />
         <div className="pointer-events-none absolute right-[8%] top-[55%] h-48 w-48 rounded-full bg-hero-blue/10 blur-3xl" />
 
-        {/* reg lookup card — proportions taken from the reference (846px wide card) */}
+        {/* reg lookup card - proportions taken from the reference (846px wide card) */}
         <div
           className="relative mt-10 grid items-center overflow-hidden rounded-3xl bg-white/60 backdrop-blur-2xl"
           style={{

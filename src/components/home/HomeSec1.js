@@ -10,7 +10,7 @@ export default function HomeSec1({ hero, lookup }) {
       {/* ===== mobile ===== */}
       <div className="md:hidden">
         {/* content flows normally so the hero's real height tracks whatever the text/box actually
-            need on this device — no reserved overlap padding, no scroll past fold. */}
+            need on this device - no reserved overlap padding, no scroll past fold. */}
         <div className="relative w-full">
           <div className="absolute inset-0 overflow-hidden">
             <Image src={hero.mobileImage} alt="BMW engine rebuild workshop" fill priority className="object-cover" sizes="100vw" />

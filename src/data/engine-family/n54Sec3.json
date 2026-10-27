@@ -1,6 +1,6 @@
 {
   "image": "/engine_family/sec3.webp",
-  "titlePre": "BMW N54 Applications — ",
+  "titlePre": "BMW N54 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -26,7 +26,7 @@
       "variant": "sDrive35i",
       "generation": "E89",
       "chassis": "E89",
-      "years": "2009–2016",
+      "years": "2009-2016",
       "modelHref": "/bmw-z4-engines"
     }
   ],

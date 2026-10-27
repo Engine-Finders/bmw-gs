@@ -8,17 +8,17 @@
   "partImage": "/model/sec15_part.webp",
   "generations": [
     {
-      "years": "2009–2014",
+      "years": "2009-2014",
       "code": "E71",
       "list": "2009 through 2014 BMW X6 M engines"
     },
     {
-      "years": "2015–2019",
+      "years": "2015-2019",
       "code": "F86",
       "list": "2015 through 2019 BMW X6 M engines"
     }
   ],
-  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "notice": "If your registration year isn't listed, get in touch - we'll confirm availability directly against your reg.",
   "checklistTitlePre": "We Cover Every",
   "checklistTitleHighlight": "BMW BMW X6 M Model:",
   "checklistLeft": [

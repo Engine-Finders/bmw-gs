@@ -2,23 +2,23 @@
   "badge": "10",
   "headlinePre": "Most Popular",
   "headlineHighlight": "BMW X6 M Rebuilds",
-  "subhead": "Full variant list below covers every BMW X6 M engine we work on — these 12 are simply our most requested.",
+  "subhead": "Full variant list below covers every BMW X6 M engine we work on - these 12 are simply our most requested.",
   "image": "/model/sec10.webp",
   "viewMoreLabel": "View More",
-  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "footerNote": "Real photos from our workshop - not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
       "model": "BMW X6 M",
       "spec": "4.4L V8 Petrol Twin-Turbo (S63, S63TU)",
-      "image": "/cars/bmw-x6-f16-xdrive35i-m-sport-sac-20142019-new-deep-sea-blue-ceb4.webp",
+      "image": "/cars/card/bmw-x6-f16-xdrive35i-m-sport-sac-20142019-new-deep-sea-blue-ceb4.webp",
       "href": "/bmw-x6-m-engines"
     },
     {
       "number": "02",
       "model": "BMW X6 M Competition",
       "spec": "4.4L V8 Petrol Twin-Turbo (S63 (E71) · S63TU (F86) · S63 (F96))",
-      "image": "/cars/x6-f16-xdrive30d-m-sport-2014-2019.webp",
+      "image": "/cars/card/x6-f16-xdrive30d-m-sport-2014-2019.webp",
       "href": "/bmw-x6-m-competition-engines"
     }
   ]

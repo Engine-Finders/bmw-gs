@@ -8,7 +8,7 @@ const FAQ = (data.sections || []).filter((s) => s.kind === "faq").flatMap((s) =>
 
 export const metadata = {
   title: "BMW Rebuild vs Remanufactured | BMW Garage",
-  description: "BMW Rebuild vs Remanufactured — what the terms mean, how our workshop approaches both, and what BMW owners need to know before deciding.",
+  description: "BMW Rebuild vs Remanufactured - what the terms mean, how our workshop approaches both, and what BMW owners need to know before deciding.",
   alternates: { canonical: PATH },
 };
 

@@ -32,12 +32,12 @@
     {
       "icon": "gauge",
       "label": "Capacity",
-      "value": "1.6L–2.0L"
+      "value": "1.6L-2.0L"
     },
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "F30/F31 (2012–2019) · G20/G21 (2019–present)"
+      "value": "F30/F31 (2012-2019) · G20/G21 (2019-present)"
     },
     {
       "icon": "price",
@@ -48,7 +48,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The 318i used two different engines across its production run — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The 318i used two different engines across its production run - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

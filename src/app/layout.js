@@ -23,7 +23,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-// Homepage titles use Roboto Condensed (italic, 900) — same as the Mercedes garage site.
+// Homepage titles use Roboto Condensed (italic, 900) - same as the Mercedes garage site.
 const robotoCondensed = Roboto_Condensed({
   variable: "--font-roboto-condensed",
   subsets: ["latin"],

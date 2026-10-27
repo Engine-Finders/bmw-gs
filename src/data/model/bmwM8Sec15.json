@@ -8,32 +8,32 @@
   "partImage": "/model/sec15_part.webp",
   "generations": [
     {
-      "years": "1994–2000",
+      "years": "1994-2000",
       "code": "E36",
       "list": "1994, 1995, 1996, 1997, 1998, 1999, 2000 BMW M8 engines"
     },
     {
-      "years": "2000–2006",
+      "years": "2000-2006",
       "code": "E46",
       "list": "2001, 2002, 2003, 2004, 2005, 2006 BMW M8 engines"
     },
     {
-      "years": "2005–2013",
+      "years": "2005-2013",
       "code": "E90/E91/E92/E93",
       "list": "2007, 2008, 2009, 2010, 2011, 2012, 2013 BMW M8 engines"
     },
     {
-      "years": "2012–2019",
+      "years": "2012-2019",
       "code": "F30/F31/F34",
       "list": "2014, 2015, 2016, 2017, 2018, 2019 BMW M8 engines"
     },
     {
-      "years": "2018–2026",
+      "years": "2018-2026",
       "code": "G20/G21",
       "list": "2020, 2021, 2022, 2023, 2024, 2025, 2026 BMW M8 engines"
     }
   ],
-  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "notice": "If your registration year isn't listed, get in touch - we'll confirm availability directly against your reg.",
   "checklistTitlePre": "We Cover Every",
   "checklistTitleHighlight": "BMW BMW M8 Model:",
   "checklistLeft": [

@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW 530i ENGINE",
     "paragraphs": [
-      "The 530i has been a mainstay of the 5 Series diesel range since 2012, spanning two generations under one badge. Early G30/G31 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the G30/G31 and later the G30/G31, the 530i switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ — which is exactly why we confirm your exact engine by registration before quoting."
+      "The 530i has been a mainstay of the 5 Series diesel range since 2012, spanning two generations under one badge. Early G30/G31 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the G30/G31 and later the G30/G31, the 530i switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ - which is exactly why we confirm your exact engine by registration before quoting."
     ],
     "boldParagraph": "The 530i is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -17,15 +17,15 @@
       {
         "codeHighlight": "N47",
         "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(G30/G31, 2012–2015)",
-        "body": "A 2.0-litre diesel fitted to the early G30/G31 530i. Known for timing chain failure due to chain guide wear — see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
+        "codeRest": "(G30/G31, 2012-2015)",
+        "body": "A 2.0-litre diesel fitted to the early G30/G31 530i. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
         "cta": "Check Your N47 530i",
         "codeHref": "/bmw-n47-engine"
       },
       {
         "codeHighlight": "B47",
         "image": "/engines/b47-engine.webp",
-        "codeRest": "(G30/G31, 2015–2019 / G30/G31, 2019–2024)",
+        "codeRest": "(G30/G31, 2015-2019 / G30/G31, 2019-2024)",
         "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
         "cta": "Check Your B47 530i",
         "codeHref": "/bmw-b47-engine"
@@ -35,7 +35,7 @@
   "compatibility": {
     "titlePre": "BMW 530i ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the 530i spans two distinct engines across two generations, fitting the wrong replacement — or assuming an N47 part will work on a B47 car — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the 530i spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
@@ -61,7 +61,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic 530i quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic 530i quote - it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "BMW 530i ",
@@ -77,9 +77,9 @@
     "rows": [
       {
         "generation": "G30/G31",
-        "image": "/cars/5-series-g30-530d-m-sport-2017-2020.webp",
+        "image": "/cars/card/5-series-g30-530d-m-sport-2017-2020.webp",
         "chassis": "G30/G31",
-        "years": "2017–2023",
+        "years": "2017-2023",
         "engineCode": "B48",
         "fuel": "Petrol",
         "codeHref": "/bmw-b48-engine"

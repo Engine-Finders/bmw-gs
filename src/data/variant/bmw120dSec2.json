@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "F20/F21 (2011–2019) · F40 (2019–2024)"
+      "value": "F20/F21 (2011-2019) · F40 (2019-2024)"
     },
     {
       "icon": "price",
@@ -48,7 +48,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The 120d used two different engines across its production run — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The 120d used two different engines across its production run - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

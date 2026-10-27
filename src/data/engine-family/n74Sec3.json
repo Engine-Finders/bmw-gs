@@ -1,6 +1,6 @@
 {
   "image": "/engine_family/sec3.webp",
-  "titlePre": "BMW N74 Applications — ",
+  "titlePre": "BMW N74 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -25,7 +25,7 @@
       "model": "2 Series",
       "variant": "M240i",
       "generation": "F22/F23",
-      "years": "2016–2021",
+      "years": "2016-2021",
       "modelHref": "/bmw-2-series-engines",
       "variantHref": "/bmw-m240i-engines"
     },
@@ -33,7 +33,7 @@
       "model": "2 Series",
       "variant": "M240i xDrive",
       "generation": "G42",
-      "years": "2021–present",
+      "years": "2021-present",
       "modelHref": "/bmw-2-series-engines",
       "variantHref": "/bmw-m240i-xdrive-engines"
     },
@@ -41,7 +41,7 @@
       "model": "3 Series",
       "variant": "340i",
       "generation": "F30/F31",
-      "years": "2015–2019",
+      "years": "2015-2019",
       "modelHref": "/bmw-3-series-engines",
       "variantHref": "/bmw-340i-engines"
     },
@@ -49,7 +49,7 @@
       "model": "3 Series",
       "variant": "M340i xDrive",
       "generation": "G20/G21",
-      "years": "2019–present",
+      "years": "2019-present",
       "modelHref": "/bmw-3-series-engines",
       "variantHref": "/bmw-m340i-xdrive-engines"
     },
@@ -57,7 +57,7 @@
       "model": "4 Series",
       "variant": "440i",
       "generation": "F32/F33/F36",
-      "years": "2016–2020",
+      "years": "2016-2020",
       "modelHref": "/bmw-4-series-engines",
       "variantHref": "/bmw-440i-engines"
     },
@@ -65,7 +65,7 @@
       "model": "4 Series",
       "variant": "M440i xDrive",
       "generation": "G22/G23/G26",
-      "years": "2020–present",
+      "years": "2020-present",
       "modelHref": "/bmw-4-series-engines",
       "variantHref": "/bmw-m440i-xdrive-engines"
     },
@@ -73,7 +73,7 @@
       "model": "5 Series",
       "variant": "540i",
       "generation": "G30/G31",
-      "years": "2017–2023",
+      "years": "2017-2023",
       "modelHref": "/bmw-5-series-engines",
       "variantHref": "/bmw-540i-engines"
     },
@@ -81,7 +81,7 @@
       "model": "5 Series",
       "variant": "540i xDrive",
       "generation": "G60",
-      "years": "2023–present",
+      "years": "2023-present",
       "modelHref": "/bmw-5-series-engines",
       "variantHref": "/bmw-540i-xdrive-engines"
     },
@@ -89,14 +89,14 @@
       "model": "5 Series",
       "variant": "550e xDrive (PHEV)",
       "generation": "G60",
-      "years": "2023–present",
+      "years": "2023-present",
       "modelHref": "/bmw-5-series-engines"
     },
     {
       "model": "6 Series",
       "variant": "640i",
       "generation": "F06/F12/F13",
-      "years": "2015–2018",
+      "years": "2015-2018",
       "modelHref": "/bmw-6-series-engines",
       "variantHref": "/bmw-640i-engines"
     },
@@ -104,14 +104,14 @@
       "model": "7 Series",
       "variant": "730i/740i",
       "generation": "G11/G12",
-      "years": "2015–2022",
+      "years": "2015-2022",
       "modelHref": "/bmw-7-series-engines"
     },
     {
       "model": "7 Series",
       "variant": "740i",
       "generation": "G70",
-      "years": "2022–present",
+      "years": "2022-present",
       "modelHref": "/bmw-7-series-engines",
       "variantHref": "/bmw-740i-engines"
     },
@@ -119,7 +119,7 @@
       "model": "8 Series",
       "variant": "840i",
       "generation": "G14/G15/G16",
-      "years": "2018–present",
+      "years": "2018-present",
       "modelHref": "/bmw-8-series-engines",
       "variantHref": "/bmw-840i-engines"
     },
@@ -127,91 +127,91 @@
       "model": "X3",
       "variant": "M40i",
       "generation": "G01",
-      "years": "2017–2024",
+      "years": "2017-2024",
       "modelHref": "/bmw-x3-engines"
     },
     {
       "model": "X3",
       "variant": "M50 xDrive",
       "generation": "G45",
-      "years": "2024–present",
+      "years": "2024-present",
       "modelHref": "/bmw-x3-engines"
     },
     {
       "model": "X4",
       "variant": "M40i",
       "generation": "G02",
-      "years": "2018–present",
+      "years": "2018-present",
       "modelHref": "/bmw-x4-engines"
     },
     {
       "model": "X5",
       "variant": "xDrive40i",
       "generation": "F15",
-      "years": "2016–2018",
+      "years": "2016-2018",
       "modelHref": "/bmw-x5-engines"
     },
     {
       "model": "X5",
       "variant": "xDrive40i",
       "generation": "G05",
-      "years": "2018–present",
+      "years": "2018-present",
       "modelHref": "/bmw-x5-engines"
     },
     {
       "model": "X5",
       "variant": "xDrive50e (PHEV)",
       "generation": "G05",
-      "years": "2018–present",
+      "years": "2018-present",
       "modelHref": "/bmw-x5-engines"
     },
     {
       "model": "X6",
       "variant": "xDrive40i",
       "generation": "F16",
-      "years": "2016–2019",
+      "years": "2016-2019",
       "modelHref": "/bmw-x6-engines"
     },
     {
       "model": "X6",
       "variant": "xDrive40i",
       "generation": "G06",
-      "years": "2019–present",
+      "years": "2019-present",
       "modelHref": "/bmw-x6-engines"
     },
     {
       "model": "X6",
       "variant": "xDrive50e (PHEV)",
       "generation": "G06",
-      "years": "2019–present",
+      "years": "2019-present",
       "modelHref": "/bmw-x6-engines"
     },
     {
       "model": "X7",
       "variant": "xDrive40i",
       "generation": "G07",
-      "years": "2018–present",
+      "years": "2018-present",
       "modelHref": "/bmw-x7-engines"
     },
     {
       "model": "X7",
       "variant": "xDrive50e (PHEV)",
       "generation": "G07",
-      "years": "2023–present",
+      "years": "2023-present",
       "modelHref": "/bmw-x7-engines"
     },
     {
       "model": "XM",
       "variant": "XM 50e",
       "generation": "G09",
-      "years": "2023–present",
+      "years": "2023-present",
       "variantHref": "/bmw-xm-50e-engines"
     },
     {
       "model": "Z4",
       "variant": "M40i",
       "generation": "G29",
-      "years": "2018–present",
+      "years": "2018-present",
       "modelHref": "/bmw-z4-engines"
     }
   ],

@@ -2,7 +2,7 @@
   "kicker": "Full Breakdown",
   "headlinePre": "BMW X3 M",
   "headlineHighlight": "Engine Rebuild Price Guide",
-  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide — request a free quote for an exact fixed price on your specific engine.",
+  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide - request a free quote for an exact fixed price on your specific engine.",
   "columns": [
     "Engine Family",
     "Fuel",
@@ -14,7 +14,7 @@
       "family": "S58",
       "fuel": "Petrol",
       "size": "3.0L Twin-Turbo",
-      "range": "£5,500 – £8,500",
+      "range": "£5,500 - £8,500",
       "familyHref": "/bmw-s58-engine"
     }
   ],

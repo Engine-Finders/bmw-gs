@@ -2,23 +2,23 @@
   "badge": "10",
   "headlinePre": "Most Popular",
   "headlineHighlight": "BMW X3 M Rebuilds",
-  "subhead": "Full variant list below covers every BMW X3 M engine we work on — these 12 are simply our most requested.",
+  "subhead": "Full variant list below covers every BMW X3 M engine we work on - these 12 are simply our most requested.",
   "image": "/model/sec10.webp",
   "viewMoreLabel": "View More",
-  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "footerNote": "Real photos from our workshop - not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
       "model": "BMW X3 M",
       "spec": "3.0L Petrol Twin-Turbo (S58)",
-      "image": "/cars/bmw-x3-f25-lci-xdrive30d-m-sport-suv-20142017-new-glacier-si-6ec7.webp",
+      "image": "/cars/card/bmw-x3-f25-lci-xdrive30d-m-sport-suv-20142017-new-glacier-si-6ec7.webp",
       "href": "/bmw-x3-m-engines"
     },
     {
       "number": "02",
       "model": "BMW X3 M Competition",
       "spec": "3.0L Petrol Twin-Turbo (S58)",
-      "image": "/cars/x3-f25-lci-xdrive20d-m-sport-2014-2017.webp",
+      "image": "/cars/card/x3-f25-lci-xdrive20d-m-sport-2014-2017.webp",
       "href": "/bmw-x3-m-competition-engines"
     }
   ]

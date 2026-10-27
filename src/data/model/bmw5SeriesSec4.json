@@ -2,7 +2,7 @@
   "kicker": "Full Breakdown",
   "headlinePre": "BMW 5 Series",
   "headlineHighlight": "Engine Rebuild Price Guide",
-  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide — request a free quote for an exact fixed price on your specific engine.",
+  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide - request a free quote for an exact fixed price on your specific engine.",
   "columns": [
     "Engine Family",
     "Fuel",
@@ -14,49 +14,49 @@
       "family": "N20 / B48",
       "fuel": "Petrol",
       "size": "2.0L",
-      "range": "£2,600 – £3,400",
+      "range": "£2,600 - £3,400",
       "familyHref": "/bmw-b48-engine"
     },
     {
       "family": "N47",
       "fuel": "Diesel",
       "size": "2.0L",
-      "range": "£1,900 – £2,800",
+      "range": "£1,900 - £2,800",
       "familyHref": "/bmw-n47-engine"
     },
     {
       "family": "B47",
       "fuel": "Diesel",
       "size": "2.0L",
-      "range": "£2,100 – £2,900",
+      "range": "£2,100 - £2,900",
       "familyHref": "/bmw-b47-engine"
     },
     {
       "family": "M54 / N52 / N53",
       "fuel": "Petrol",
-      "size": "2.5–3.0L",
-      "range": "£2,400 – £3,600",
+      "size": "2.5-3.0L",
+      "range": "£2,400 - £3,600",
       "familyHref": "/bmw-m54-engine"
     },
     {
       "family": "M57 / N57",
       "fuel": "Diesel",
       "size": "3.0L",
-      "range": "£2,800 – £4,200",
+      "range": "£2,800 - £4,200",
       "familyHref": "/bmw-n57-engine"
     },
     {
       "family": "N54 / N55 / B58",
       "fuel": "Petrol",
       "size": "3.0L",
-      "range": "£3,200 – £4,200",
+      "range": "£3,200 - £4,200",
       "familyHref": "/bmw-b58-engine"
     },
     {
       "family": "N63 (V8)",
       "fuel": "Petrol",
       "size": "4.4L",
-      "range": "£4,500 – £6,000",
+      "range": "£4,500 - £6,000",
       "familyHref": "/bmw-n63-engine"
     }
   ],

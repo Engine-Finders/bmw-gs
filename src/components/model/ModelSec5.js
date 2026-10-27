@@ -1,4 +1,5 @@
 import Image from "next/image";
+import QuoteLink from "@/components/shared/QuoteLink";
 import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
 
@@ -116,13 +117,13 @@ export default function ModelSec5({ data }) {
               <p className="text-sm font-extrabold uppercase leading-tight text-white">{data.cta.text}</p>
             </div>
 
-            <a
+            <QuoteLink
               href={data.cta.href}
               className="mt-4 flex items-center justify-center rounded-lg px-4 py-3 text-sm font-bold uppercase tracking-wide text-white transition duration-200 hover:-translate-y-0.5 hover:brightness-110"
               style={{ background: "linear-gradient(135deg, #0052cc 0%, #0037a5 100%)" }}
             >
               {data.cta.buttonLabel} →
-            </a>
+            </QuoteLink>
           </div>
         </div>
       </div>
@@ -160,7 +161,7 @@ export default function ModelSec5({ data }) {
         {/* comparison matrix */}
         <div className="relative mt-10 rounded-2xl border border-hero-blue/30 bg-white shadow-[0_30px_70px_-20px_rgba(0,0,0,0.6),0_0_30px_-10px_rgba(0,127,248,0.45)]">
           <div className="overflow-hidden rounded-2xl">
-            {/* header row — no vertical separators here */}
+            {/* header row - no vertical separators here */}
             <div className="grid grid-cols-[1fr_1.4fr_1.4fr]">
               <div className="col-span-2 flex items-center gap-2 px-6 py-4">
                 <Icon name="shield-check" className="h-7 w-7 shrink-0 text-hero-blue" />

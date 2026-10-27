@@ -7,7 +7,7 @@
     {
       "code": "B38",
       "image": "/engines/b38-engine.webp",
-      "generation": "U11 (2022–present)",
+      "generation": "U11 (2022-present)",
       "price": "£2,200",
       "codeHref": "/bmw-b38-engine"
     }
@@ -19,7 +19,7 @@
     },
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -32,9 +32,9 @@
     "titlePre": "BMW X1 xDrive30e Timing Chain Failure ",
     "titleHighlight": "(U11, N47)",
     "paragraphs": [
-      "If your X1 xDrive30e is a pre-2015 model with the N47 diesel engine — that's the early U11 generation — timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
+      "If your X1 xDrive30e is a pre-2015 model with the N47 diesel engine - that's the early U11 generation - timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
       "The later U11 (2015-onwards) and U11 generations use a different engine, the B47, which is significantly more reliable and doesn't share this specific issue."
     ],
-    "source": "Source: NHTSA Recall 18V-755 — Timing Chain Guide Wear in N47 Engines (2012–2015)"
+    "source": "Source: NHTSA Recall 18V-755 - Timing Chain Guide Wear in N47 Engines (2012-2015)"
   }
 }

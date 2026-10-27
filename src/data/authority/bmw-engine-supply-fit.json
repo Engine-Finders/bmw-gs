@@ -3,7 +3,7 @@
   "metaTitle": "BMW Engine Supply & Fit | BMW Garage",
   "metaDescription": "Professional BMW engine supply and fit service. We source the correct engine for your BMW and install it in our Essex workshop. VIN-matching, full testing and warranty included.",
   "h1": "BMW Engine Supply & Fit",
-  "lede": "A bundled service where we handle everything from engine sourcing to final installation and testing. You don't need to find a used engine, verify its condition, or arrange delivery — we manage the entire process in one straightforward package.",
+  "lede": "A bundled service where we handle everything from engine sourcing to final installation and testing. You don't need to find a used engine, verify its condition, or arrange delivery - we manage the entire process in one straightforward package.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -40,13 +40,13 @@
       "blocks": [
         {
           "t": "p",
-          "html": "A bundled service where we handle everything from engine sourcing to final installation and testing. You don't need to find a used engine, verify its condition, or arrange delivery — we manage the entire process in one straightforward package."
+          "html": "A bundled service where we handle everything from engine sourcing to final installation and testing. You don't need to find a used engine, verify its condition, or arrange delivery - we manage the entire process in one straightforward package."
         },
         {
           "t": "ul",
           "items": [
             "**VIN-based engine matching:** We identify the correct engine specification for your BMW using the registration and VIN, referencing BMW parts data to confirm engine type, size, and official code.",
-            "**Engine sourcing from established suppliers:** We procure a quality replacement unit — rebuilt, remanufactured, or a carefully inspected used engine with verifiable history.",
+            "**Engine sourcing from established suppliers:** We procure a quality replacement unit - rebuilt, remanufactured, or a carefully inspected used engine with verifiable history.",
             "**Pre-installation preparation:** Before fitting, we replace service items such as gaskets, seals, timing components, and the water pump on the replacement engine, ensuring it is ready for long-term service.",
             "**Removal of your existing engine:** We carefully remove the failed unit, following BMW-specific procedures to disconnect all systems without damaging surrounding components.",
             "**Installation and full testing:** The replacement engine is fitted, all systems reconnected, fluids filled, and the vehicle undergoes a comprehensive road test and diagnostic check before handover."
@@ -56,7 +56,7 @@
     },
     {
       "kind": "prose",
-      "heading": "BMW Engine Supply & Fit — Starting Prices",
+      "heading": "BMW Engine Supply & Fit - Starting Prices",
       "blocks": [
         {
           "t": "p",
@@ -75,7 +75,7 @@
         },
         {
           "t": "p",
-          "html": "Prices vary by engine type, availability, and condition of the sourced unit. We quote after inspecting your vehicle and confirming the exact engine specification required — contact us for a precise estimate."
+          "html": "Prices vary by engine type, availability, and condition of the sourced unit. We quote after inspecting your vehicle and confirming the exact engine specification required - contact us for a precise estimate."
         },
         {
           "t": "p",
@@ -89,7 +89,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "We supply and fit replacement engines for most BMW models and engine families. The service is tailored to your vehicle's exact specification — we never assume compatibility."
+          "html": "We supply and fit replacement engines for most BMW models and engine families. The service is tailored to your vehicle's exact specification - we never assume compatibility."
         },
         {
           "t": "modelgroup",
@@ -202,12 +202,12 @@
             {
               "label": "N47",
               "href": "/bmw-n47-engine",
-              "desc": "(4-cyl diesel, 2007–2015)"
+              "desc": "(4-cyl diesel, 2007-2015)"
             },
             {
               "label": "B47",
               "href": "/bmw-b47-engine",
-              "desc": "(4-cyl diesel, 2015–present)"
+              "desc": "(4-cyl diesel, 2015-present)"
             },
             {
               "label": "N57",
@@ -275,7 +275,7 @@
         },
         {
           "title": "Engine sourcing",
-          "body": "We identify a suitable replacement unit from our established supplier network — rebuilt, remanufactured, or carefully inspected used with verifiable history."
+          "body": "We identify a suitable replacement unit from our established supplier network - rebuilt, remanufactured, or carefully inspected used with verifiable history."
         },
         {
           "title": "Inspection and preparation",
@@ -302,7 +302,7 @@
         {
           "t": "ul",
           "items": [
-            "**VIN-accurate matching:** We don't guess — we use BMW-specific parts lookup tools to confirm the exact engine for your vehicle.",
+            "**VIN-accurate matching:** We don't guess - we use BMW-specific parts lookup tools to confirm the exact engine for your vehicle.",
             "**No supply-only transactions:** We only supply engines we fit ourselves. Every unit is installed, tested, and warranted in-house.",
             "**12-month unlimited-mileage warranty:** Included on every supply-and-fit job, covering parts and labour.",
             "**Established workshop since 2009:** Based in Billericay, Essex, with BMW-specific experience and equipment.",
@@ -321,7 +321,7 @@
       "steps": [
         {
           "title": "Call or enquire online",
-          "body": "Tell us your BMW model, registration, and the issue — we'll schedule an initial assessment."
+          "body": "Tell us your BMW model, registration, and the issue - we'll schedule an initial assessment."
         },
         {
           "title": "VIN check and quote",

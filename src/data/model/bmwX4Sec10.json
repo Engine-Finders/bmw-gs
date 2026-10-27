@@ -2,50 +2,50 @@
   "badge": "10",
   "headlinePre": "Most Popular",
   "headlineHighlight": "BMW X4 Rebuilds",
-  "subhead": "Full variant list below covers every BMW X4 engine we work on — these 12 are simply our most requested.",
+  "subhead": "Full variant list below covers every BMW X4 engine we work on - these 12 are simply our most requested.",
   "image": "/model/sec10.webp",
   "viewMoreLabel": "View More",
-  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "footerNote": "Real photos from our workshop - not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
       "model": "BMW X4 xDrive20d",
-      "spec": "2.0L–3.0L Diesel (N47, B47 or B57)",
-      "image": "/cars/bmw-x4-g02-xdrive30d-m-sport-sac-20182021-new-sophisto-grey-9776.webp",
+      "spec": "2.0L-3.0L Diesel (N47, B47 or B57)",
+      "image": "/cars/card/bmw-x4-g02-xdrive30d-m-sport-sac-20182021-new-sophisto-grey-9776.webp",
       "href": "/bmw-x4-xdrive20d-engines"
     },
     {
       "number": "02",
       "model": "BMW X4 xDrive20i",
       "spec": "2.0L I4 Petrol (B48)",
-      "image": "/cars/x4-f26-xdrive30d-m-sport-2014-2018.webp",
+      "image": "/cars/card/x4-f26-xdrive30d-m-sport-2014-2018.webp",
       "href": "/bmw-x4-xdrive20i-engines"
     },
     {
       "number": "03",
       "model": "BMW X4 xDrive30d",
-      "spec": "2.0L–3.0L Diesel (N47, B47 or B57)",
-      "image": "/cars/bmw-x4-g02-m40d-sac-20192021-new-carbon-black-g02-m40d-beeb.webp",
+      "spec": "2.0L-3.0L Diesel (N47, B47 or B57)",
+      "image": "/cars/card/bmw-x4-g02-m40d-sac-20192021-new-carbon-black-g02-m40d-beeb.webp",
       "href": "/bmw-x4-xdrive30d-engines"
     },
     {
       "number": "04",
       "model": "BMW X4 xDrive30i",
       "spec": "2.0L I4 Petrol (B48)",
-      "image": "/cars/x4-g02-xdrive20d-m-sport-2018-2021.webp",
+      "image": "/cars/card/x4-g02-xdrive20d-m-sport-2018-2021.webp",
       "href": "/bmw-x4-xdrive30i-engines"
     },
     {
       "number": "05",
       "model": "BMW X4 M40d",
       "spec": "Rebuild & Replacement Available",
-      "image": "/cars/x4-f26-xdrive30d-m-sport-2014-2018.webp"
+      "image": "/cars/card/x4-f26-xdrive30d-m-sport-2014-2018.webp"
     },
     {
       "number": "06",
       "model": "BMW X4 M40i",
       "spec": "3.0L I6 Petrol (B58)",
-      "image": "/cars/x4-g02-x4-m-competition-2019-2021.webp",
+      "image": "/cars/card/x4-g02-x4-m-competition-2019-2021.webp",
       "href": "/bmw-x4-m40i-engines"
     }
   ]

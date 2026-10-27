@@ -8,22 +8,22 @@
   "partImage": "/model/sec15_part.webp",
   "generations": [
     {
-      "years": "2001–2008",
+      "years": "2001-2008",
       "code": "E65/E66",
       "list": "2001 through 2008 BMW 7 Series engines"
     },
     {
-      "years": "2008–2015",
+      "years": "2008-2015",
       "code": "F01/F02",
       "list": "2008 through 2015 BMW 7 Series engines"
     },
     {
-      "years": "2015–2022",
+      "years": "2015-2022",
       "code": "G11/G12",
       "list": "2015 through 2022 BMW 7 Series engines"
     }
   ],
-  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "notice": "If your registration year isn't listed, get in touch - we'll confirm availability directly against your reg.",
   "checklistTitlePre": "We Cover Every",
   "checklistTitleHighlight": "BMW 730d Model:",
   "checklistLeft": [

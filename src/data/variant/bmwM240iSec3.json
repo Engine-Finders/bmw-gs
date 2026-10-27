@@ -7,21 +7,21 @@
     {
       "code": "N55",
       "image": "/engines/n54-n55-n20-family-engine-hero.webp",
-      "generation": "F22/F23 (2014–2016)",
+      "generation": "F22/F23 (2014-2016)",
       "price": "£2,800",
       "codeHref": "/bmw-n55-engine"
     },
     {
       "code": "B58",
       "image": "/engines/b58-engine.webp",
-      "generation": "F22/F23 (2016–2021)",
+      "generation": "F22/F23 (2016-2021)",
       "price": "£2,800",
       "codeHref": "/bmw-b58-engine"
     },
     {
       "code": "B58",
       "image": "/engines/b58-engine.webp",
-      "generation": "G42 (2021–present)",
+      "generation": "G42 (2021-present)",
       "price": "£2,800",
       "codeHref": "/bmw-b58-engine"
     }
@@ -33,7 +33,7 @@
     },
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -46,9 +46,9 @@
     "titlePre": "BMW M240i Timing Chain Failure ",
     "titleHighlight": "(F22/F23, N47)",
     "paragraphs": [
-      "If your M240i is a pre-2015 model with the N47 diesel engine — that's the early F22/F23 generation — timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
+      "If your M240i is a pre-2015 model with the N47 diesel engine - that's the early F22/F23 generation - timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
       "The later F22/F23 (2015-onwards) and G42 generations use a different engine, the B47, which is significantly more reliable and doesn't share this specific issue."
     ],
-    "source": "Source: NHTSA Recall 18V-755 — Timing Chain Guide Wear in N47 Engines (2012–2015)"
+    "source": "Source: NHTSA Recall 18V-755 - Timing Chain Guide Wear in N47 Engines (2012-2015)"
   }
 }

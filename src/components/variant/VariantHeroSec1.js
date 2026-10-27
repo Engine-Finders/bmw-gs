@@ -2,11 +2,12 @@ import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
 import RegLookupForm from "@/components/reusable/RegLookupForm";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 export default function VariantHeroSec1({ data }) {
   const [line1, line2, line3] = data.h1.split("|");
-  const line2Mobile = line2.replace(/\s*—\s*$/, "");
-  const line3Mobile = `— ${line3}`;
+  const line2Mobile = line2.replace(/\s*-\s*$/, "");
+  const line3Mobile = `- ${line3}`;
 
   return (
     <section className="relative overflow-hidden bg-hero-dark text-white">
@@ -43,8 +44,8 @@ export default function VariantHeroSec1({ data }) {
                 ))}
               </div>
               <p className="text-[10px] font-semibold uppercase leading-tight text-white">
-                {data.rating.label.split("—")[0]}—{" "}
-                <span className="text-hero-blue">{data.rating.label.split("—")[1]}</span>
+                {data.rating.label.split("-")[0]}-{" "}
+                <span className="text-hero-blue">{data.rating.label.split("-")[1]}</span>
               </p>
             </div>
           </div>
@@ -63,14 +64,14 @@ export default function VariantHeroSec1({ data }) {
           </div>
 
           {/* pricing callout banner */}
-          <a
+          <QuoteLink
             href={data.priceCta.href}
             className="glass-luminous card-glare relative mt-2.5 flex items-center justify-between rounded-xl px-4 py-3.5 transition-transform hover:scale-[1.02]"
             style={{ border: "1px solid rgba(90,170,255,0.45)" }}
           >
             <p className="text-xs font-medium text-white">{data.priceCta.kicker}</p>
             <p className="whitespace-nowrap text-sm font-extrabold text-hero-blue">{data.priceCta.label}</p>
-          </a>
+          </QuoteLink>
 
           {/* registration lookup */}
           <div className="glass-card-dark mt-2.5 rounded-xl p-3">
@@ -85,7 +86,7 @@ export default function VariantHeroSec1({ data }) {
           </div>
 
           {/* direct contact CTA */}
-          <a
+          <QuoteLink
             href={data.phoneCta.href}
             className="glass-luminous card-glare relative mt-2.5 flex items-center gap-3 rounded-xl p-3.5 transition-transform hover:scale-[1.02]"
             style={{ border: "1px solid rgba(90,170,255,0.45)" }}
@@ -106,7 +107,7 @@ export default function VariantHeroSec1({ data }) {
               <p className="truncate text-[11px] font-medium text-white">{data.phoneCta.label}</p>
               <p className="truncate text-lg font-extrabold text-white">{data.phoneCta.phone}</p>
             </div>
-          </a>
+          </QuoteLink>
         </div>
       </div>
 
@@ -147,8 +148,8 @@ export default function VariantHeroSec1({ data }) {
                 ))}
               </div>
               <p className="whitespace-nowrap text-sm font-medium text-white">
-                {data.rating.label.split("—")[0]}—{" "}
-                <span className="text-hero-blue">{data.rating.label.split("—")[1]}</span>
+                {data.rating.label.split("-")[0]}-{" "}
+                <span className="text-hero-blue">{data.rating.label.split("-")[1]}</span>
               </p>
             </div>
 
@@ -158,15 +159,15 @@ export default function VariantHeroSec1({ data }) {
             </div>
 
             <div className="mt-3 flex flex-wrap items-stretch gap-4">
-              <a
+              <QuoteLink
                 href={data.priceCta.href}
                 className="flex w-60 shrink-0 flex-col justify-center whitespace-nowrap rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark px-5 py-4 shadow-lg transition-transform hover:scale-[1.02]"
               >
                 <p className="text-[11px] font-medium text-white">{data.priceCta.kicker}</p>
                 <p className="text-sm font-extrabold text-white">{data.priceCta.label}</p>
-              </a>
+              </QuoteLink>
 
-              <a
+              <QuoteLink
                 href={data.phoneCta.href}
                 className="glass-luminous card-glare relative flex w-60 shrink-0 items-center gap-3 rounded-lg px-5 py-4 transition-transform hover:scale-[1.02]"
                 style={{ border: "1px solid rgba(90,170,255,0.45)" }}
@@ -178,7 +179,7 @@ export default function VariantHeroSec1({ data }) {
                   <p className="whitespace-nowrap text-[11px] font-medium text-white">{data.phoneCta.label}</p>
                   <p className="whitespace-nowrap text-base font-extrabold text-white">{data.phoneCta.phone}</p>
                 </div>
-              </a>
+              </QuoteLink>
             </div>
           </div>
 

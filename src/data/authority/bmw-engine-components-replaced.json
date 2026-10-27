@@ -3,7 +3,7 @@
   "metaTitle": "BMW Engine Components We Replace | BMW Garage",
   "metaDescription": "Detailed overview of components replaced during BMW engine rebuilds. Bottom end, top end, timing chains, bearings, gaskets, and BMW-specific considerations.",
   "h1": "BMW Engine Components We Replace",
-  "lede": "We replace every critical component in your BMW engine, from the bottom end to the top end. This is our full scope of work — no shortcuts, no reused seals, no guesswork.",
+  "lede": "We replace every critical component in your BMW engine, from the bottom end to the top end. This is our full scope of work - no shortcuts, no reused seals, no guesswork.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -40,7 +40,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "This page gives you a complete picture of the components we replace during a full BMW engine rebuild. We don't just repair the immediate problem — we refresh every part that commonly wears out, ensuring the engine delivers its original performance and reliability."
+          "html": "This page gives you a complete picture of the components we replace during a full BMW engine rebuild. We don't just repair the immediate problem - we refresh every part that commonly wears out, ensuring the engine delivers its original performance and reliability."
         },
         {
           "t": "p",
@@ -71,7 +71,7 @@
         },
         {
           "t": "p",
-          "html": "[Pricing disclaimer](/pricing-legal-disclaimer) — all rebuilds include fitting, no supply-only service."
+          "html": "[Pricing disclaimer](/pricing-legal-disclaimer) - all rebuilds include fitting, no supply-only service."
         }
       ]
     },

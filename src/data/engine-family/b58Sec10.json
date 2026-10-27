@@ -8,7 +8,7 @@
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The B58 is one of the broadest-application engines we work on — the same base engine across 14 model lines, spanning saloons, SUVs, a roadster and now a hybrid SUV flagship."
+      "body": "The B58 is one of the broadest-application engines we work on - the same base engine across 14 model lines, spanning saloons, SUVs, a roadster and now a hybrid SUV flagship."
     },
     {
       "icon": "wrench",
@@ -18,11 +18,11 @@
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported pattern is confirmed for the B58 across any of its 14 applications. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented — for the B58, we don't have one to report, and we won't invent one to sound more thorough."
+      "body": "No widely-reported pattern is confirmed for the B58 across any of its 14 applications. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented - for the B58, we don't have one to report, and we won't invent one to sound more thorough."
     }
   ],
   "notice": {
     "highlight": "Note:",
-    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed B58 rebuilds is available to draw from, rather than filled with placeholder examples now."
+    "rest": " engine-specific case studies with real job details are not yet included on this page - they'll be added once a documented set of completed B58 rebuilds is available to draw from, rather than filled with placeholder examples now."
   }
 }

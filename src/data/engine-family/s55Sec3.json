@@ -1,6 +1,6 @@
 {
   "image": "/engine_family/sec3.webp",
-  "titlePre": "BMW S55 Applications — ",
+  "titlePre": "BMW S55 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -26,7 +26,7 @@
       "variant": "M2 Competition",
       "generation": "F87",
       "chassis": "F87",
-      "years": "2018–2021",
+      "years": "2018-2021",
       "modelHref": "/bmw-m2-engines",
       "variantHref": "/bmw-m2-competition-engines"
     },
@@ -35,7 +35,7 @@
       "variant": "M3, M3 Competition",
       "generation": "F80",
       "chassis": "F80",
-      "years": "2014–2020",
+      "years": "2014-2020",
       "modelHref": "/bmw-m3-engines"
     },
     {
@@ -43,7 +43,7 @@
       "variant": "M4, M4 Competition",
       "generation": "F82/F83",
       "chassis": "F82/F83",
-      "years": "2014–2020",
+      "years": "2014-2020",
       "modelHref": "/bmw-m4-engines"
     }
   ],

@@ -41,7 +41,7 @@ export default function HomeSec12({ data }) {
           <Image src="/home/sec12_mobile_car.webp" alt="BMW M4 driving through London at night" fill className="object-cover" sizes="48vw" />
           {/* soft dark tint so the photo's brighter tones sit closer to the panel's dark palette */}
           <div className="absolute inset-0 bg-hero-dark/25" />
-          {/* wide graduated fade into the left text panel — no hard seam */}
+          {/* wide graduated fade into the left text panel - no hard seam */}
           <div className="absolute inset-y-0 left-0 w-2/5 bg-linear-to-r from-hero-dark via-hero-dark/70 to-transparent" />
         </div>
       </div>

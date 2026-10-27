@@ -4,7 +4,7 @@
   "faqLeft": [
     {
       "q": "Do you rebuild engines for all BMW M4 models?",
-      "a": "Yes — we rebuild and replace engines across every M4 generation, from the F82's S55 up to the current G82's S58."
+      "a": "Yes - we rebuild and replace engines across every M4 generation, from the F82's S55 up to the current G82's S58."
     },
     {
       "q": "Do I keep my original engine, or do you send me a different one?",
@@ -30,11 +30,11 @@
     },
     {
       "q": "How much does a BMW M4 engine rebuild cost?",
-      "a": "Rebuilds start from £5,500 across both generations. Exact price depends on engine code and condition — submit your reg for a fixed-price quote."
+      "a": "Rebuilds start from £5,500 across both generations. Exact price depends on engine code and condition - submit your reg for a fixed-price quote."
     },
     {
       "q": "Is the crank hub issue really that serious?",
-      "a": "Yes — it's the most talked-about S55 issue for good reason. The crank hub is press-fit and can slip under hard use, throwing off engine timing. We fit an upgraded crank hub preventatively on every S55 rebuild."
+      "a": "Yes - it's the most talked-about S55 issue for good reason. The crank hub is press-fit and can slip under hard use, throwing off engine timing. We fit an upgraded crank hub preventatively on every S55 rebuild."
     }
   ],
   "form": {

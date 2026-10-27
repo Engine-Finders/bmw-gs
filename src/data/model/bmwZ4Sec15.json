@@ -8,17 +8,17 @@
   "partImage": "/model/sec15_part.webp",
   "generations": [
     {
-      "years": "2002–2008",
+      "years": "2002-2008",
       "code": "E85/E86",
       "list": "2002 through 2008 BMW Z4 engines"
     },
     {
-      "years": "2009–2016",
+      "years": "2009-2016",
       "code": "E89",
       "list": "2009 through 2016 BMW Z4 engines"
     }
   ],
-  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "notice": "If your registration year isn't listed, get in touch - we'll confirm availability directly against your reg.",
   "checklistTitlePre": "We Cover Every",
   "checklistTitleHighlight": "BMW Z4 sDrive35i Model:",
   "checklistLeft": [

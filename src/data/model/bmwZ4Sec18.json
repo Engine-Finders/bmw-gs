@@ -4,7 +4,7 @@
   "faqLeft": [
     {
       "q": "Do you rebuild engines for all BMW Z4 models?",
-      "a": "Yes — we rebuild and replace engines across every Z4 generation, from the E85/E86 up to the current G29."
+      "a": "Yes - we rebuild and replace engines across every Z4 generation, from the E85/E86 up to the current G29."
     },
     {
       "q": "Do I keep my original engine, or do you send me a different one?",
@@ -30,11 +30,11 @@
     },
     {
       "q": "How much does a BMW Z4 engine rebuild cost?",
-      "a": "4-cylinder rebuilds start from £2,200, 6-cylinder from £2,800. Exact price depends on engine code and condition — submit your reg for a fixed-price quote."
+      "a": "4-cylinder rebuilds start from £2,200, 6-cylinder from £2,800. Exact price depends on engine code and condition - submit your reg for a fixed-price quote."
     },
     {
       "q": "Is the N54's fuel pump issue serious?",
-      "a": "It's a well-known pattern on the E89 sDrive35i/35is — the high-pressure fuel pump and injectors are prone to failure. We replace both as standard on every N54 rebuild where worn or damaged."
+      "a": "It's a well-known pattern on the E89 sDrive35i/35is - the high-pressure fuel pump and injectors are prone to failure. We replace both as standard on every N54 rebuild where worn or damaged."
     }
   ],
   "form": {

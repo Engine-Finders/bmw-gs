@@ -3,7 +3,7 @@
   "metaTitle": "BMW Engine Matching by Registration & VIN | BMW Garage",
   "metaDescription": "We identify the correct engine specification for your BMW using registration and VIN. Accurate engine matching before any rebuild or replacement work.",
   "h1": "BMW Engine Matching by Registration & VIN",
-  "lede": "We identify the correct engine specification for your BMW before any rebuild or replacement work begins — using your registration number and VIN.",
+  "lede": "We identify the correct engine specification for your BMW before any rebuild or replacement work begins - using your registration number and VIN.",
   "ctas": [
     {
       "label": "Check your engine",
@@ -41,11 +41,11 @@
         {
           "t": "ul",
           "items": [
-            "**VIN decoding** — The 17-character VIN contains production date, model or chassis code, engine type, drivetrain information, and optional equipment.",
-            "**Registration lookup** — The V5C registration document records engine capacity and fuel type, which combined with the model and year usually confirms the engine family.",
-            "**Parts catalogue cross-reference** — The VIN is used to query manufacturer parts catalogues to identify the exact engine variant fitted to that specific vehicle.",
-            "**Component verification** — For absolute certainty, the physical engine number on the block is compared against the VIN record.",
-            "**Compatibility assessment** — If a replacement engine is being sourced, we confirm that the donor engine matches the recipient vehicle's specifications — same engine code, appropriate ancillaries, correct mounting points."
+            "**VIN decoding** - The 17-character VIN contains production date, model or chassis code, engine type, drivetrain information, and optional equipment.",
+            "**Registration lookup** - The V5C registration document records engine capacity and fuel type, which combined with the model and year usually confirms the engine family.",
+            "**Parts catalogue cross-reference** - The VIN is used to query manufacturer parts catalogues to identify the exact engine variant fitted to that specific vehicle.",
+            "**Component verification** - For absolute certainty, the physical engine number on the block is compared against the VIN record.",
+            "**Compatibility assessment** - If a replacement engine is being sourced, we confirm that the donor engine matches the recipient vehicle's specifications - same engine code, appropriate ancillaries, correct mounting points."
           ]
         }
       ]
@@ -70,7 +70,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "Our engine matching service covers the full BMW range — from 1 Series to X7, and every M model in between. We work with every engine family listed below."
+          "html": "Our engine matching service covers the full BMW range - from 1 Series to X7, and every M model in between. We work with every engine family listed below."
         },
         {
           "t": "linkgrid",
@@ -266,7 +266,7 @@
         },
         {
           "title": "Compatibility assessment",
-          "body": "We confirm that any replacement engine matches your vehicle's specifications — same engine code, correct ancillaries and mounting points."
+          "body": "We confirm that any replacement engine matches your vehicle's specifications - same engine code, correct ancillaries and mounting points."
         }
       ]
     },
@@ -277,11 +277,11 @@
         {
           "t": "ul",
           "items": [
-            "**BMW specialist experience** — We've been rebuilding BMW engines since 2009 and know every engine family inside out.",
-            "**VIN-first matching** — We always match by VIN, not by assumption. Every engine is confirmed before any work begins.",
-            "**Full parts catalogue access** — We use BMW ETK and other manufacturer catalogues to ensure exact component compatibility.",
-            "**Physical verification** — We check the engine number on the block against the VIN record for absolute certainty.",
-            "**Compatibility guarantee** — If we match an engine for a replacement, we guarantee it fits your vehicle's specifications."
+            "**BMW specialist experience** - We've been rebuilding BMW engines since 2009 and know every engine family inside out.",
+            "**VIN-first matching** - We always match by VIN, not by assumption. Every engine is confirmed before any work begins.",
+            "**Full parts catalogue access** - We use BMW ETK and other manufacturer catalogues to ensure exact component compatibility.",
+            "**Physical verification** - We check the engine number on the block against the VIN record for absolute certainty.",
+            "**Compatibility guarantee** - If we match an engine for a replacement, we guarantee it fits your vehicle's specifications."
           ]
         },
         {
@@ -344,7 +344,7 @@
       "items": [
         {
           "q": "Why is VIN matching important for a BMW engine rebuild?",
-          "a": "VIN matching ensures we use the correct engine specification for your exact vehicle. BMW engines vary by model, year, and optional equipment — even the same engine code can have different ancillaries, sumps, and mounting points between chassis. Matching by VIN guarantees compatibility."
+          "a": "VIN matching ensures we use the correct engine specification for your exact vehicle. BMW engines vary by model, year, and optional equipment - even the same engine code can have different ancillaries, sumps, and mounting points between chassis. Matching by VIN guarantees compatibility."
         },
         {
           "q": "Can you match an engine for a BMW that's had a previous replacement?",

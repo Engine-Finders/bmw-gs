@@ -1,6 +1,6 @@
 {
   "image": "/engine_family/sec3.webp",
-  "titlePre": "BMW S63 Applications — ",
+  "titlePre": "BMW S63 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -26,7 +26,7 @@
       "variant": "M5, M5 Competition",
       "generation": "F10",
       "chassis": "F10",
-      "years": "2011–2016",
+      "years": "2011-2016",
       "modelHref": "/bmw-m5-engines"
     },
     {
@@ -34,7 +34,7 @@
       "variant": "M5, M5 Competition",
       "generation": "F90",
       "chassis": "F90",
-      "years": "2017–2023",
+      "years": "2017-2023",
       "modelHref": "/bmw-m5-engines"
     },
     {
@@ -42,7 +42,7 @@
       "variant": "M6, M6 Competition",
       "generation": "F06/F12/F13",
       "chassis": "F06/F12/F13",
-      "years": "2012–2018",
+      "years": "2012-2018",
       "modelHref": "/bmw-m6-engines"
     },
     {
@@ -50,7 +50,7 @@
       "variant": "M8, M8 Competition",
       "generation": "F91/F92/F93",
       "chassis": "F91/F92/F93",
-      "years": "2019–present",
+      "years": "2019-present",
       "modelHref": "/bmw-m8-engines"
     },
     {
@@ -58,7 +58,7 @@
       "variant": "X5 M, X5 M Competition",
       "generation": "F85/F95",
       "chassis": "F85/F95",
-      "years": "2015–present",
+      "years": "2015-present",
       "modelHref": "/bmw-x5-m-engines"
     },
     {
@@ -66,7 +66,7 @@
       "variant": "X6 M, X6 M Competition",
       "generation": "F86/F96",
       "chassis": "F86/F96",
-      "years": "2015–present",
+      "years": "2015-present",
       "modelHref": "/bmw-x6-m-engines"
     }
   ],

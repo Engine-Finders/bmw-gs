@@ -1,7 +1,7 @@
 {
   "slug": "bmw-trade-fleet-engine-services",
   "metaTitle": "BMW Trade & Fleet Engine Services | BMW Garage",
-  "metaDescription": "Trade and fleet engine services for BMW vehicles – consistent quality, transparent quoting, technical support and fast turnaround. Rebuilds with full warranty for commercial customers.",
+  "metaDescription": "Trade and fleet engine services for BMW vehicles - consistent quality, transparent quoting, technical support and fast turnaround. Rebuilds with full warranty for commercial customers.",
   "h1": "BMW Trade & Fleet Engine Services",
   "lede": "",
   "ctas": [
@@ -40,17 +40,17 @@
       "blocks": [
         {
           "t": "p",
-          "html": "We provide BMW engine rebuild and replacement services designed specifically for commercial customers. Whether you run a garage, manage a fleet, or trade vehicles, you need consistent quality, clear communication, and minimum downtime. Every rebuild we carry out for trade or fleet customers follows the same workshop standards as our private work — full strip-down, machining, reassembly, and road testing — backed by a 12-month unlimited-mileage warranty that transfers to your end customer where applicable."
+          "html": "We provide BMW engine rebuild and replacement services designed specifically for commercial customers. Whether you run a garage, manage a fleet, or trade vehicles, you need consistent quality, clear communication, and minimum downtime. Every rebuild we carry out for trade or fleet customers follows the same workshop standards as our private work - full strip-down, machining, reassembly, and road testing - backed by a 12-month unlimited-mileage warranty that transfers to your end customer where applicable."
         },
         {
           "t": "ul",
           "items": [
-            "Fixed-price rebuilds with no hidden extras — you get a clear, itemised quote before work starts",
+            "Fixed-price rebuilds with no hidden extras - you get a clear, itemised quote before work starts",
             "Technical support for diagnosis, parts identification, and engine matching",
             "Warranty that transfers to the final owner (subject to our standard terms)",
-            "Fast turnaround — we prioritise fleet vehicles to keep your revenue-generating assets on the road",
+            "Fast turnaround - we prioritise fleet vehicles to keep your revenue-generating assets on the road",
             "Consistent, repeatable quality across multiple vehicles, using the same proven process every time",
-            "We work on all BMW models — from 1 Series to X7, including M-performance and M-cars"
+            "We work on all BMW models - from 1 Series to X7, including M-performance and M-cars"
           ]
         }
       ]
@@ -143,13 +143,13 @@
         {
           "t": "ul",
           "items": [
-            "**We are a real workshop** — based in Billericay, Essex, with on-site machining and testing facilities.",
-            "**Consistent quality** — every rebuild follows the same proven process, whether it's your first engine or your hundredth.",
-            "**Transparent pricing** — we provide a fixed-price quote before work starts; no hidden extras.",
-            "**12-month unlimited-mileage warranty** — fully transferable to your end customer.",
-            "**Fast turnaround** — we understand fleet vehicles need to be back on the road. We prioritise commercial work to minimise downtime.",
-            "**Technical support** — we help you with diagnosis, parts identification, and compatibility queries.",
-            "**Experienced with BMW** — we work on all BMW models, from everyday diesels to M-performance and M-cars."
+            "**We are a real workshop** - based in Billericay, Essex, with on-site machining and testing facilities.",
+            "**Consistent quality** - every rebuild follows the same proven process, whether it's your first engine or your hundredth.",
+            "**Transparent pricing** - we provide a fixed-price quote before work starts; no hidden extras.",
+            "**12-month unlimited-mileage warranty** - fully transferable to your end customer.",
+            "**Fast turnaround** - we understand fleet vehicles need to be back on the road. We prioritise commercial work to minimise downtime.",
+            "**Technical support** - we help you with diagnosis, parts identification, and compatibility queries.",
+            "**Experienced with BMW** - we work on all BMW models, from everyday diesels to M-performance and M-cars."
           ]
         },
         {
@@ -165,12 +165,12 @@
         {
           "t": "ul",
           "items": [
-            "[BMW Engine Rebuild](/bmw-engine-rebuild) – core rebuild service",
-            "[BMW Engine Replacement](/bmw-engine-replacement) – replacement service",
-            "[BMW Diesel Timing Chain Repair](/bmw-diesel-timing-chain-repair) – N47/B47 specialist",
-            "[BMW Engine Matching by Registration & VIN](/bmw-engine-matching) – for correct engine identification",
-            "[BMW Engine Removal, Refit & Final Testing](/bmw-engine-removal-refit) – full installation service",
-            "[BMW High-Mileage Engine Rebuild](/bmw-high-mileage-engine-rebuild) – for higher-mileage fleet vehicles"
+            "[BMW Engine Rebuild](/bmw-engine-rebuild) - core rebuild service",
+            "[BMW Engine Replacement](/bmw-engine-replacement) - replacement service",
+            "[BMW Diesel Timing Chain Repair](/bmw-diesel-timing-chain-repair) - N47/B47 specialist",
+            "[BMW Engine Matching by Registration & VIN](/bmw-engine-matching) - for correct engine identification",
+            "[BMW Engine Removal, Refit & Final Testing](/bmw-engine-removal-refit) - full installation service",
+            "[BMW High-Mileage Engine Rebuild](/bmw-high-mileage-engine-rebuild) - for higher-mileage fleet vehicles"
           ]
         }
       ]
@@ -185,7 +185,7 @@
         },
         {
           "q": "Does your warranty transfer if I sell the vehicle on?",
-          "a": "Yes — our 12-month unlimited-mileage warranty is transferable to the new owner, subject to our standard terms. We'll provide the documentation to accompany the sale."
+          "a": "Yes - our 12-month unlimited-mileage warranty is transferable to the new owner, subject to our standard terms. We'll provide the documentation to accompany the sale."
         },
         {
           "q": "What is your typical turnaround time for a fleet vehicle?",
@@ -193,7 +193,7 @@
         },
         {
           "q": "Can you work on multiple vehicles at once?",
-          "a": "Yes — we can handle multiple jobs in parallel. We have the workshop capacity and staffing to manage fleet-scale work. Get in touch to discuss your requirements."
+          "a": "Yes - we can handle multiple jobs in parallel. We have the workshop capacity and staffing to manage fleet-scale work. Get in touch to discuss your requirements."
         },
         {
           "q": "Do you offer a discount for multiple engines?",
@@ -201,7 +201,7 @@
         },
         {
           "q": "Do you recover vehicles or engines?",
-          "a": "Yes — we offer nationwide recovery from £70. We can collect the vehicle or the engine itself, depending on your preference."
+          "a": "Yes - we offer nationwide recovery from £70. We can collect the vehicle or the engine itself, depending on your preference."
         }
       ]
     }

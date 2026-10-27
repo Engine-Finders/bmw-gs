@@ -1,6 +1,6 @@
 {
   "image": "/engine_family/sec3.webp",
-  "titlePre": "BMW B57 Applications — ",
+  "titlePre": "BMW B57 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -26,7 +26,7 @@
       "variant": "330d, 340d",
       "generation": "G20/G21",
       "chassis": "G20/G21",
-      "years": "2018–present",
+      "years": "2018-present",
       "modelHref": "/bmw-3-series-engines"
     },
     {
@@ -34,7 +34,7 @@
       "variant": "430d, 440d",
       "generation": "G22/G23/G26",
       "chassis": "G22/G23/G26",
-      "years": "2020–present",
+      "years": "2020-present",
       "modelHref": "/bmw-4-series-engines"
     },
     {
@@ -42,7 +42,7 @@
       "variant": "530d, 540d",
       "generation": "G30/G31",
       "chassis": "G30/G31",
-      "years": "2017–2023",
+      "years": "2017-2023",
       "modelHref": "/bmw-5-series-engines"
     },
     {
@@ -50,7 +50,7 @@
       "variant": "630d, 640d",
       "generation": "G32",
       "chassis": "G32",
-      "years": "2017–2023",
+      "years": "2017-2023",
       "modelHref": "/bmw-6-series-engines"
     },
     {
@@ -58,7 +58,7 @@
       "variant": "730d, 740d",
       "generation": "G11/G12",
       "chassis": "G11/G12",
-      "years": "2015–2022",
+      "years": "2015-2022",
       "modelHref": "/bmw-7-series-engines"
     },
     {
@@ -66,7 +66,7 @@
       "variant": "840d",
       "generation": "G14/G15/G16",
       "chassis": "G14/G15/G16",
-      "years": "2018–present",
+      "years": "2018-present",
       "modelHref": "/bmw-8-series-engines"
     },
     {
@@ -74,7 +74,7 @@
       "variant": "xDrive30d, xDrive40d",
       "generation": "G01",
       "chassis": "G01",
-      "years": "2017–2024",
+      "years": "2017-2024",
       "modelHref": "/bmw-x3-engines"
     },
     {
@@ -82,7 +82,7 @@
       "variant": "xDrive30d, xDrive40d",
       "generation": "G02",
       "chassis": "G02",
-      "years": "2018–present",
+      "years": "2018-present",
       "modelHref": "/bmw-x4-engines"
     },
     {
@@ -90,7 +90,7 @@
       "variant": "xDrive30d, xDrive40d",
       "generation": "G05",
       "chassis": "G05",
-      "years": "2018–present",
+      "years": "2018-present",
       "modelHref": "/bmw-x5-engines"
     },
     {
@@ -98,7 +98,7 @@
       "variant": "xDrive30d, xDrive40d",
       "generation": "G06",
       "chassis": "G06",
-      "years": "2019–present",
+      "years": "2019-present",
       "modelHref": "/bmw-x6-engines"
     },
     {
@@ -106,7 +106,7 @@
       "variant": "xDrive30d, xDrive40d",
       "generation": "G07",
       "chassis": "G07",
-      "years": "2018–present",
+      "years": "2018-present",
       "modelHref": "/bmw-x7-engines"
     }
   ],

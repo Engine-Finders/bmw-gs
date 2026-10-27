@@ -8,17 +8,17 @@
   "partImage": "/model/sec15_part.webp",
   "generations": [
     {
-      "years": "2005–2010",
+      "years": "2005-2010",
       "code": "E63/E64",
       "list": "2005 through 2010 BMW M6 engines"
     },
     {
-      "years": "2012–2018",
+      "years": "2012-2018",
       "code": "F06/F12/F13",
       "list": "2012 through 2018 BMW M6 engines"
     }
   ],
-  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "notice": "If your registration year isn't listed, get in touch - we'll confirm availability directly against your reg.",
   "checklistTitlePre": "We Cover Every",
   "checklistTitleHighlight": "BMW BMW M6 (E63/E64, S85) Model:",
   "checklistLeft": [

@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "F32/F33/F36 (2013–2020)"
+      "value": "F32/F33/F36 (2013-2020)"
     },
     {
       "icon": "price",
@@ -48,7 +48,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The 430d used two different engines across its production run — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The 430d used two different engines across its production run - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

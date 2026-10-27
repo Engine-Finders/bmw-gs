@@ -5,6 +5,7 @@ import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
 import { useQuoteModal } from "@/components/shared/QuoteModal";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 export default function HomeSec5({ data }) {
   const { open: openQuote } = useQuoteModal();
@@ -59,14 +60,14 @@ export default function HomeSec5({ data }) {
                     <BMWStripe size="default" className="absolute right-4 top-4" />
 
                     <div className="flex gap-4">
-                      <a
+                      <QuoteLink
                         href={e.href}
                         onClick={(ev) => ev.stopPropagation()}
                         aria-label={`${e.code} engine rebuild`}
                         className="relative block h-24 w-24 shrink-0 overflow-hidden rounded-lg bg-[#eef1f5]"
                       >
                         <Image src={e.image} alt={`${e.code} engine`} fill className="object-contain p-1.5" sizes="110px" />
-                      </a>
+                      </QuoteLink>
                       <div className="min-w-0 pr-8">
                         <h3 className="text-2xl font-extrabold text-[#101828]">{e.code}</h3>
                         <p className="text-xs font-semibold text-[#101828]">{e.spec}</p>
@@ -84,13 +85,13 @@ export default function HomeSec5({ data }) {
                       <div>
                         <p className="text-xs text-[#101828]">Typical rebuild cost</p>
                         <p className="text-lg font-extrabold text-emerald-600">{e.cost}</p>
-                        <a
+                        <QuoteLink
                           href={e.href}
                           onClick={(ev) => ev.stopPropagation()}
                           className="mt-1 inline-flex items-center gap-1 text-sm font-semibold text-hero-blue"
                         >
                           View Engine →
-                        </a>
+                        </QuoteLink>
                       </div>
                       <div>
                         <p className="text-xs text-[#101828]">Turnaround</p>
@@ -129,12 +130,12 @@ export default function HomeSec5({ data }) {
             );
           })}
 
-          <a
+          <QuoteLink
             href={data.cta.href}
             className="mt-5 block rounded-sm border-2 border-hero-blue px-6 py-3 text-center text-sm font-bold text-hero-blue transition-colors hover:bg-hero-blue hover:text-white"
           >
             {data.cta.label} →
-          </a>
+          </QuoteLink>
         </div>
 
         {/* ===== desktop: grid of full cards ===== */}
@@ -143,10 +144,10 @@ export default function HomeSec5({ data }) {
             <div key={e.code} className="glass-card flex h-full flex-col overflow-hidden rounded-xl">
               <BMWStripe size="full" className="block rounded-t-xl" />
 
-              <a href={e.href} aria-label={`${e.code} engine rebuild`} className="relative block h-56 w-full shrink-0 overflow-hidden bg-[#eef1f5]">
+              <QuoteLink href={e.href} aria-label={`${e.code} engine rebuild`} className="relative block h-56 w-full shrink-0 overflow-hidden bg-[#eef1f5]">
                 <Image src={e.image} alt={`${e.code} engine`} fill className="object-contain p-1" sizes="360px" />
                 <div className="absolute inset-x-0 bottom-0 h-10 bg-linear-to-t from-white to-transparent" />
-              </a>
+              </QuoteLink>
 
               <div className="flex flex-1 flex-col p-4">
                 <div role="heading" aria-level="3" className="text-xl font-extrabold text-[#101828]">{e.code}</div>
@@ -173,21 +174,21 @@ export default function HomeSec5({ data }) {
                   </div>
                 </div>
 
-                <a href={e.href} className="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-hero-blue">
+                <QuoteLink href={e.href} className="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-hero-blue">
                   View Engine →
-                </a>
+                </QuoteLink>
               </div>
             </div>
           ))}
         </div>
 
         <div className="mt-6 hidden text-center md:block">
-          <a
+          <QuoteLink
             href={data.cta.href}
             className="inline-block rounded-sm border-2 border-hero-blue px-6 py-3 text-sm font-bold text-hero-blue transition-colors hover:bg-hero-blue hover:text-white"
           >
             {data.cta.label} →
-          </a>
+          </QuoteLink>
         </div>
       </div>
     </section>

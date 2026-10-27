@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "F48 (2015–2022)"
+      "value": "F48 (2015-2022)"
     },
     {
       "icon": "price",
@@ -48,7 +48,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The X1 sDrive18i used two different engines across its production run — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The X1 sDrive18i used two different engines across its production run - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

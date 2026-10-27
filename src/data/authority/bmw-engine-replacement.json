@@ -3,7 +3,7 @@
   "metaTitle": "BMW Engine Replacement & Fitting | BMW Garage",
   "metaDescription": "Professional BMW engine replacement and fitting service. Used, rebuilt, or remanufactured engines installed by BMW specialists. 12-month unlimited mileage warranty.",
   "h1": "BMW Engine Replacement & Fitting",
-  "lede": "We remove your failed engine and fit a replacement unit — whether used, rebuilt, or remanufactured — with full inspection, preparation, and road-testing before handover.",
+  "lede": "We remove your failed engine and fit a replacement unit - whether used, rebuilt, or remanufactured - with full inspection, preparation, and road-testing before handover.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -40,7 +40,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "We remove your failed engine and fit a replacement unit — whether used, rebuilt, or remanufactured — with full inspection, preparation, and road-testing before handover."
+          "html": "We remove your failed engine and fit a replacement unit - whether used, rebuilt, or remanufactured - with full inspection, preparation, and road-testing before handover."
         },
         {
           "t": "p",
@@ -116,7 +116,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "We source and fit replacement engines for virtually every BMW model. Below are the most common models we work on — click through for model-specific information."
+          "html": "We source and fit replacement engines for virtually every BMW model. Below are the most common models we work on - click through for model-specific information."
         },
         {
           "t": "linkgrid",
@@ -338,13 +338,13 @@
         {
           "t": "ul",
           "items": [
-            "**BMW specialists** — our workshop has been dedicated to BMW engines since 2009.",
-            "**Fixed-price quotes** — no hidden charges, no surprises.",
+            "**BMW specialists** - our workshop has been dedicated to BMW engines since 2009.",
+            "**Fixed-price quotes** - no hidden charges, no surprises.",
             "**12-month unlimited mileage warranty** on every replacement engine we fit.",
-            "**Engine matching by VIN** — we source the correct engine for your specific BMW model.",
+            "**Engine matching by VIN** - we source the correct engine for your specific BMW model.",
             "**Fully equipped workshop** with BMW-specific diagnostic tools and equipment.",
             "**Nationwide engine recovery** available if your car can't be driven to us.",
-            "**Transparent process** — we photograph and document every step."
+            "**Transparent process** - we photograph and document every step."
           ]
         },
         {
@@ -434,7 +434,7 @@
         },
         {
           "q": "Do you offer engine collection or recovery?",
-          "a": "Yes. We offer nationwide engine recovery if your BMW cannot be driven to our Essex workshop. Recovery costs start from £70 — [learn more](/bmw-engine-recovery)."
+          "a": "Yes. We offer nationwide engine recovery if your BMW cannot be driven to our Essex workshop. Recovery costs start from £70 - [learn more](/bmw-engine-recovery)."
         }
       ]
     },

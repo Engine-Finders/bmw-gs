@@ -2,7 +2,7 @@
   "kicker": "Full Breakdown",
   "headlinePre": "BMW Z4",
   "headlineHighlight": "Engine Rebuild Price Guide",
-  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide — request a free quote for an exact fixed price on your specific engine.",
+  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide - request a free quote for an exact fixed price on your specific engine.",
   "columns": [
     "Engine Family",
     "Fuel",
@@ -13,14 +13,14 @@
     {
       "family": "M54",
       "fuel": "Petrol",
-      "size": "2.5–3.0L",
+      "size": "2.5-3.0L",
       "range": "E85 / E86",
       "familyHref": "/bmw-m54-engine"
     },
     {
       "family": "N52",
       "fuel": "Petrol",
-      "size": "2.5–3.0L",
+      "size": "2.5-3.0L",
       "range": "E85 / E86",
       "familyHref": "/bmw-n52-engine"
     },

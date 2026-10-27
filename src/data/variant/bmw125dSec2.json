@@ -27,7 +27,7 @@
     {
       "icon": "engine",
       "label": "Engine",
-      "value": "N47 (2011–2015) / B47 (2015–2019)"
+      "value": "N47 (2011-2015) / B47 (2015-2019)"
     },
     {
       "icon": "gauge",
@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "F20/F21 (2011–2019)"
+      "value": "F20/F21 (2011-2019)"
     },
     {
       "icon": "price",
@@ -48,7 +48,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The 125d used two different engines across its production run — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The 125d used two different engines across its production run - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

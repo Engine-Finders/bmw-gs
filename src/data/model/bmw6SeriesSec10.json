@@ -2,10 +2,10 @@
   "badge": "10",
   "headlinePre": "Most Popular",
   "headlineHighlight": "BMW 6 Series Rebuilds",
-  "subhead": "Full variant list below covers every BMW 6 Series engine we work on — these 12 are simply our most requested.",
+  "subhead": "Full variant list below covers every BMW 6 Series engine we work on - these 12 are simply our most requested.",
   "image": "/model/sec10.webp",
   "viewMoreLabel": "View More",
-  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "footerNote": "Real photos from our workshop - not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
@@ -43,7 +43,7 @@
     {
       "number": "06",
       "model": "BMW 650i",
-      "spec": "4.4L V8 Petrol Twin-Turbo (N63 (2011–2015) or N63TU (2015–2018))",
+      "spec": "4.4L V8 Petrol Twin-Turbo (N63 (2011-2015) or N63TU (2015-2018))",
       "image": "/variant/vehicles/650i.webp",
       "href": "/bmw-650i-engines"
     },

@@ -4,7 +4,7 @@
   "faqLeft": [
     {
       "q": "Do you rebuild engines for both M6 generations?",
-      "a": "Yes — we rebuild and replace both the E63/E64's S85 V10 and the F06/F12/F13's S63 twin-turbo V8."
+      "a": "Yes - we rebuild and replace both the E63/E64's S85 V10 and the F06/F12/F13's S63 twin-turbo V8."
     },
     {
       "q": "Do I keep my original engine, or do you send me a different one?",
@@ -30,11 +30,11 @@
     },
     {
       "q": "How much does a BMW M6 engine rebuild cost?",
-      "a": "Rebuilds start from £6,500 across both generations. Exact price depends on engine code and condition — submit your reg for a fixed-price quote."
+      "a": "Rebuilds start from £6,500 across both generations. Exact price depends on engine code and condition - submit your reg for a fixed-price quote."
     },
     {
       "q": "Is the S85 V10's rod bearing and throttle actuator issue serious?",
-      "a": "Both are well-documented on the E63/E64 M6 — rod bearings degrade over time, and throttle actuators can fail due to internal gear wear or electronic faults, causing limp mode. We check both closely on every S85 rebuild."
+      "a": "Both are well-documented on the E63/E64 M6 - rod bearings degrade over time, and throttle actuators can fail due to internal gear wear or electronic faults, causing limp mode. We check both closely on every S85 rebuild."
     }
   ],
   "form": {

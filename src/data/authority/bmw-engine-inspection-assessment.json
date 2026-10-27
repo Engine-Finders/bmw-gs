@@ -3,7 +3,7 @@
   "metaTitle": "BMW Engine Inspection & Assessment | BMW Garage",
   "metaDescription": "Full BMW engine inspection & assessment at BMW Garage. We strip, measure & assess your BMW engine to determine what work is required. Book today.",
   "h1": "BMW Engine Inspection & Assessment",
-  "lede": "We strip, inspect and measure your BMW engine to determine exactly what work is required — then quote you the work that actually needs doing.",
+  "lede": "We strip, inspect and measure your BMW engine to determine exactly what work is required - then quote you the work that actually needs doing.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -40,7 +40,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "An engine inspection and assessment is the process we follow to determine the condition of your BMW engine and what work is required. This is **not** a diagnostic process focused on failure symptoms — it is the physical inspection that happens after a problem has been identified."
+          "html": "An engine inspection and assessment is the process we follow to determine the condition of your BMW engine and what work is required. This is **not** a diagnostic process focused on failure symptoms - it is the physical inspection that happens after a problem has been identified."
         },
         {
           "t": "p",
@@ -48,7 +48,7 @@
         },
         {
           "t": "p",
-          "html": "Because BMW engines vary significantly across models and generations, our assessment process is adapted to each specific engine type — whether it's a 4-cylinder diesel with a rear-mounted timing chain or a high-performance S58 from an M3."
+          "html": "Because BMW engines vary significantly across models and generations, our assessment process is adapted to each specific engine type - whether it's a 4-cylinder diesel with a rear-mounted timing chain or a high-performance S58 from an M3."
         }
       ]
     },
@@ -62,7 +62,7 @@
           "paras": [
             "BMW Engine Inspection & Assessment",
             "From **£250** + VAT",
-            "Includes strip-down, component inspection and quotation. Excludes engine removal/refit — quoted separately where required.",
+            "Includes strip-down, component inspection and quotation. Excludes engine removal/refit - quoted separately where required.",
             "[Pricing disclaimer →](/pricing-legal-disclaimer)"
           ]
         }
@@ -74,7 +74,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "Our inspection and assessment process covers the full BMW range — from 1 Series to X7, including M-cars. We assess the engine in its specific vehicle application, not just by engine code alone."
+          "html": "Our inspection and assessment process covers the full BMW range - from 1 Series to X7, including M-cars. We assess the engine in its specific vehicle application, not just by engine code alone."
         },
         {
           "t": "linkgrid",
@@ -128,12 +128,12 @@
         {
           "t": "ul",
           "items": [
-            "[320d (N47/B47)](/bmw-320d-engines) — timing chain inspection",
-            "[520d (N47/B47)](/bmw-520d-engines) — timing chain & turbo actuator checks",
-            "[X5 xDrive30d (N57/B57)](/bmw-x5-xdrive30d-engines) — turbo & injector assessment",
-            "[M3 Competition (S55)](/bmw-m3-competition-engines) — crank hub & bearing inspection",
-            "[M4 Competition (S55)](/bmw-m4-competition-engines) — crank hub & bearing inspection",
-            "[M5 Competition (S63)](/bmw-m5-competition-engines) — hot-vee turbo & valve seal assessment"
+            "[320d (N47/B47)](/bmw-320d-engines) - timing chain inspection",
+            "[520d (N47/B47)](/bmw-520d-engines) - timing chain & turbo actuator checks",
+            "[X5 xDrive30d (N57/B57)](/bmw-x5-xdrive30d-engines) - turbo & injector assessment",
+            "[M3 Competition (S55)](/bmw-m3-competition-engines) - crank hub & bearing inspection",
+            "[M4 Competition (S55)](/bmw-m4-competition-engines) - crank hub & bearing inspection",
+            "[M5 Competition (S63)](/bmw-m5-competition-engines) - hot-vee turbo & valve seal assessment"
           ]
         },
         {
@@ -164,7 +164,7 @@
         },
         {
           "title": "Strip-Down",
-          "body": "The engine is systematically disassembled — cylinder head removed, sump dropped, internals exposed."
+          "body": "The engine is systematically disassembled - cylinder head removed, sump dropped, internals exposed."
         },
         {
           "title": "Component-by-Component Inspection",
@@ -187,11 +187,11 @@
         {
           "t": "ul",
           "items": [
-            "**Established 2009** — 17 years of BMW engine experience",
-            "**Full workshop & machine shop** — we do the work in-house, not subcontracted",
-            "**BMW-specific tooling** — including VANOS, timing and M-car specialist equipment",
-            "**Detailed, transparent quotations** — no guesswork, no “while we're in there” surprises",
-            "**We assess in the vehicle or on the stand** — whatever the engine needs",
+            "**Established 2009** - 17 years of BMW engine experience",
+            "**Full workshop & machine shop** - we do the work in-house, not subcontracted",
+            "**BMW-specific tooling** - including VANOS, timing and M-car specialist equipment",
+            "**Detailed, transparent quotations** - no guesswork, no “while we're in there” surprises",
+            "**We assess in the vehicle or on the stand** - whatever the engine needs",
             "**12-month unlimited-mileage warranty** on all rebuild work"
           ]
         },
@@ -217,15 +217,15 @@
       "steps": [
         {
           "title": "",
-          "body": "You contact us — by phone, email or the quote form — with your BMW's registration or engine details."
+          "body": "You contact us - by phone, email or the quote form - with your BMW's registration or engine details."
         },
         {
           "title": "",
-          "body": "We agree the scope — whether an initial bay inspection or a full engine-out strip-down assessment."
+          "body": "We agree the scope - whether an initial bay inspection or a full engine-out strip-down assessment."
         },
         {
           "title": "",
-          "body": "Your BMW arrives at our workshop (or we recover it — [nationwide recovery available](/bmw-engine-recovery))."
+          "body": "Your BMW arrives at our workshop (or we recover it - [nationwide recovery available](/bmw-engine-recovery))."
         },
         {
           "title": "",
@@ -233,7 +233,7 @@
         },
         {
           "title": "",
-          "body": "We provide a detailed quotation — with clear costs and a firm recommendation."
+          "body": "We provide a detailed quotation - with clear costs and a firm recommendation."
         },
         {
           "title": "",
@@ -248,12 +248,12 @@
         {
           "t": "ul",
           "items": [
-            "[BMW Engine Rebuild](/bmw-engine-rebuild) — full rebuild after assessment",
-            "[BMW Diesel Timing Chain Repair](/bmw-diesel-timing-chain-repair) — N47/B47-specific",
-            "[BMW Petrol Timing Chain Repair](/bmw-petrol-timing-chain-repair) — N20 and others",
-            "[BMW Engine Bearing Replacement](/bmw-engine-bearing-replacement) — S54/S85/S65 rod bearings",
-            "[BMW V8 Hot-Vee Engine Repair](/bmw-hot-vee-v8-repair) — N63/S63 services",
-            "[BMW M-Power Engine Rebuild](/bmw-m-power-engine-rebuild) — S55/S58/S63 specialist"
+            "[BMW Engine Rebuild](/bmw-engine-rebuild) - full rebuild after assessment",
+            "[BMW Diesel Timing Chain Repair](/bmw-diesel-timing-chain-repair) - N47/B47-specific",
+            "[BMW Petrol Timing Chain Repair](/bmw-petrol-timing-chain-repair) - N20 and others",
+            "[BMW Engine Bearing Replacement](/bmw-engine-bearing-replacement) - S54/S85/S65 rod bearings",
+            "[BMW V8 Hot-Vee Engine Repair](/bmw-hot-vee-v8-repair) - N63/S63 services",
+            "[BMW M-Power Engine Rebuild](/bmw-m-power-engine-rebuild) - S55/S58/S63 specialist"
           ]
         }
       ]
@@ -264,7 +264,7 @@
       "items": [
         {
           "q": "How long does a BMW engine inspection take?",
-          "a": "An initial bay inspection takes 1–2 hours. A full engine-out strip-down assessment typically takes 1–2 days, depending on engine complexity and access."
+          "a": "An initial bay inspection takes 1-2 hours. A full engine-out strip-down assessment typically takes 1-2 days, depending on engine complexity and access."
         },
         {
           "q": "How much does an engine assessment cost?",
@@ -280,7 +280,7 @@
         },
         {
           "q": "Do you assess BMW diesel engines with timing chain issues?",
-          "a": "Yes. We assess N47, B47 and N57 diesel engines — including the rear-mounted timing chain systems found in 1, 2, 3, 4, 5, X1, X3 and X5 models."
+          "a": "Yes. We assess N47, B47 and N57 diesel engines - including the rear-mounted timing chain systems found in 1, 2, 3, 4, 5, X1, X3 and X5 models."
         }
       ]
     }

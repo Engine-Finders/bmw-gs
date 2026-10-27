@@ -8,7 +8,7 @@ const FAQ = (data.sections || []).filter((s) => s.kind === "faq").flatMap((s) =>
 
 export const metadata = {
   title: "BMW Trade & Fleet Engine Services | BMW Garage",
-  description: "Trade and fleet engine services for BMW vehicles – consistent quality, transparent quoting, technical support and fast turnaround. Rebuilds with full warranty for commercial customers.",
+  description: "Trade and fleet engine services for BMW vehicles - consistent quality, transparent quoting, technical support and fast turnaround. Rebuilds with full warranty for commercial customers.",
   alternates: { canonical: PATH },
 };
 

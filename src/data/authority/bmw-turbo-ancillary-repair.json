@@ -1,9 +1,9 @@
 {
   "slug": "bmw-turbo-ancillary-repair",
   "metaTitle": "BMW Turbo & Ancillary Repair | BMW Garage",
-  "metaDescription": "Expert BMW turbocharger repair and replacement — 4-cyl, 6-cyl, V8, and M-performance engines. Wastegate actuators, oil lines, hot-vee turbo access. Book today.",
+  "metaDescription": "Expert BMW turbocharger repair and replacement - 4-cyl, 6-cyl, V8, and M-performance engines. Wastegate actuators, oil lines, hot-vee turbo access. Book today.",
   "h1": "BMW Turbo & Ancillary Repair",
-  "lede": "Professional turbocharger repair, rebuild, and replacement for all BMW models — from 4-cylinder diesels to V8 hot-vee engines. We diagnose and fix wastegate actuators, oil feed lines, and cooling systems, then road-test every car before handover.",
+  "lede": "Professional turbocharger repair, rebuild, and replacement for all BMW models - from 4-cylinder diesels to V8 hot-vee engines. We diagnose and fix wastegate actuators, oil feed lines, and cooling systems, then road-test every car before handover.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -40,16 +40,16 @@
       "blocks": [
         {
           "t": "p",
-          "html": "Turbocharger failure or degraded performance affects boost, fuel economy, and engine response. Our repair process covers the complete turbo system — we don't just swap the core, we inspect, test, and replace every ancillary component that could cause repeat failure."
+          "html": "Turbocharger failure or degraded performance affects boost, fuel economy, and engine response. Our repair process covers the complete turbo system - we don't just swap the core, we inspect, test, and replace every ancillary component that could cause repeat failure."
         },
         {
           "t": "ul",
           "items": [
-            "**Turbo access and removal** — on BMW's **N63/S63 hot-vee** engines, turbos sit between cylinder banks, requiring 12–16 hours of skilled labour; other BMW engines place turbos at the side or front, which is significantly faster to access.",
-            "**Full turbo inspection** — shaft play, blade damage, oil-seal condition, and wastegate actuator function.",
-            "**Turbo rebuild or replacement** — new bearings, seals, and balancing (or a factory-spec replacement unit if the core is beyond repair).",
-            "**Ancillary component replacement** — wastegate actuators, oil feed lines, coolant lines, gaskets, and sealing rings — these are replaced as a set to prevent future oil leaks or boost-control issues.",
-            "**Reinstallation, bleeding, and testing** — the system is refitted, cooling circuits are bled, and we test for boost leaks, correct wastegate operation, and overall performance on the road."
+            "**Turbo access and removal** - on BMW's **N63/S63 hot-vee** engines, turbos sit between cylinder banks, requiring 12-16 hours of skilled labour; other BMW engines place turbos at the side or front, which is significantly faster to access.",
+            "**Full turbo inspection** - shaft play, blade damage, oil-seal condition, and wastegate actuator function.",
+            "**Turbo rebuild or replacement** - new bearings, seals, and balancing (or a factory-spec replacement unit if the core is beyond repair).",
+            "**Ancillary component replacement** - wastegate actuators, oil feed lines, coolant lines, gaskets, and sealing rings - these are replaced as a set to prevent future oil leaks or boost-control issues.",
+            "**Reinstallation, bleeding, and testing** - the system is refitted, cooling circuits are bled, and we test for boost leaks, correct wastegate operation, and overall performance on the road."
           ]
         },
         {
@@ -81,7 +81,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "Turbocharger and ancillary repair covers the majority of modern BMW engines — diesel and petrol, 4-cylinder through to V8 and M-performance variants."
+          "html": "Turbocharger and ancillary repair covers the majority of modern BMW engines - diesel and petrol, 4-cylinder through to V8 and M-performance variants."
         },
         {
           "t": "modelgroup",
@@ -668,12 +668,12 @@
         {
           "t": "ul",
           "items": [
-            "**Specialist BMW workshop** — we work on BMWs every day, from 1 Series to M8, diesel to V8.",
-            "**Hot-vee V8 experience** — N63/S63 turbos are notoriously difficult to access; we have the tools, training, and space to do it properly.",
-            "**Complete ancillary replacement** — we replace oil lines, coolant lines, and actuators as a set, so you don't get a repeat failure.",
-            "**12-month unlimited-mileage warranty** — every turbo repair we carry is covered.",
-            "**Nationwide recovery** — if your BMW won't make it to us, we can recover it from £70.",
-            "**3–5 day rebuild turnaround** — for most engines, we complete the work quickly without compromising quality."
+            "**Specialist BMW workshop** - we work on BMWs every day, from 1 Series to M8, diesel to V8.",
+            "**Hot-vee V8 experience** - N63/S63 turbos are notoriously difficult to access; we have the tools, training, and space to do it properly.",
+            "**Complete ancillary replacement** - we replace oil lines, coolant lines, and actuators as a set, so you don't get a repeat failure.",
+            "**12-month unlimited-mileage warranty** - every turbo repair we carry is covered.",
+            "**Nationwide recovery** - if your BMW won't make it to us, we can recover it from £70.",
+            "**3-5 day rebuild turnaround** - for most engines, we complete the work quickly without compromising quality."
           ]
         },
         {
@@ -688,7 +688,7 @@
       "steps": [
         {
           "title": "Contact us",
-          "body": "Call, email, or use our [online quote form](/get-quote) — we'll ask for your registration and a brief description of the issue."
+          "body": "Call, email, or use our [online quote form](/get-quote) - we'll ask for your registration and a brief description of the issue."
         },
         {
           "title": "Inspection & quote",
@@ -696,7 +696,7 @@
         },
         {
           "title": "Authorisation",
-          "body": "We only start work once you approve the quote — no surprises, no hidden costs."
+          "body": "We only start work once you approve the quote - no surprises, no hidden costs."
         },
         {
           "title": "Repair & testing",
@@ -715,12 +715,12 @@
         {
           "t": "ul",
           "items": [
-            "[BMW Engine Rebuild](/bmw-engine-rebuild) — full engine strip and rebuild",
-            "[BMW V8 Hot-Vee Engine Repair (N63/S63)](/bmw-hot-vee-v8-repair) — comprehensive hot-vee V8 servicing",
-            "[BMW Diesel Timing Chain Repair (N47/B47)](/bmw-diesel-timing-chain-repair) — timing chain replacement for diesel models",
-            "[BMW Petrol Timing Chain Repair (N20)](/bmw-petrol-timing-chain-repair) — timing chain for petrol 4-cylinder models",
-            "[BMW Engine Failure Repair](/bmw-engine-failure-repair) — full failure diagnosis and remediation",
-            "[BMW Engine Inspection & Assessment](/bmw-engine-inspection-assessment) — pre-purchase and fault diagnosis"
+            "[BMW Engine Rebuild](/bmw-engine-rebuild) - full engine strip and rebuild",
+            "[BMW V8 Hot-Vee Engine Repair (N63/S63)](/bmw-hot-vee-v8-repair) - comprehensive hot-vee V8 servicing",
+            "[BMW Diesel Timing Chain Repair (N47/B47)](/bmw-diesel-timing-chain-repair) - timing chain replacement for diesel models",
+            "[BMW Petrol Timing Chain Repair (N20)](/bmw-petrol-timing-chain-repair) - timing chain for petrol 4-cylinder models",
+            "[BMW Engine Failure Repair](/bmw-engine-failure-repair) - full failure diagnosis and remediation",
+            "[BMW Engine Inspection & Assessment](/bmw-engine-inspection-assessment) - pre-purchase and fault diagnosis"
           ]
         }
       ]
@@ -735,7 +735,7 @@
         },
         {
           "q": "Can you repair a turbo or does it always need replacing?",
-          "a": "It depends on the condition of the core. We inspect every turbo on removal — if the shaft, bearings, and housing are within spec, we can rebuild it. If the core is damaged, we recommend a replacement unit."
+          "a": "It depends on the condition of the core. We inspect every turbo on removal - if the shaft, bearings, and housing are within spec, we can rebuild it. If the core is damaged, we recommend a replacement unit."
         },
         {
           "q": "What ancillary components do you replace as part of a turbo repair?",
@@ -743,11 +743,11 @@
         },
         {
           "q": "Why are BMW V8 turbos more expensive to repair?",
-          "a": "On BMW's N63/S63 hot-vee V8 engines, the turbos are mounted between the cylinder banks. Access requires significant disassembly — typically 12–16 hours of labour compared to 4–6 hours on a 4- or 6-cylinder engine."
+          "a": "On BMW's N63/S63 hot-vee V8 engines, the turbos are mounted between the cylinder banks. Access requires significant disassembly - typically 12-16 hours of labour compared to 4-6 hours on a 4- or 6-cylinder engine."
         },
         {
           "q": "How long does a BMW turbo repair take?",
-          "a": "Most 4- and 6-cylinder turbo repairs are completed within 2–4 working days. V8 hot-vee repairs take longer due to the access complexity — typically 5–7 days."
+          "a": "Most 4- and 6-cylinder turbo repairs are completed within 2-4 working days. V8 hot-vee repairs take longer due to the access complexity - typically 5-7 days."
         },
         {
           "q": "What warranty do you offer on turbo repairs?",

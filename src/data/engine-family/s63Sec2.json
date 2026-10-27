@@ -32,7 +32,7 @@
       {
         "icon": "calendar",
         "label": "Production Years",
-        "value": "2010–present"
+        "value": "2010-present"
       },
       {
         "icon": "car",
@@ -54,7 +54,7 @@
     "image": "/engine_family/sec2_bottom.webp",
     "startingFromLabel": "Starting From",
     "startingFromPrice": "£5,500",
-    "body": "Every S63 application — petrol, mild-hybrid, or plug-in hybrid — sits on the same 6-cylinder rebuild tier. Exact price depends on condition and parts required — submit your reg for a fixed-price quote.",
+    "body": "Every S63 application - petrol, mild-hybrid, or plug-in hybrid - sits on the same 6-cylinder rebuild tier. Exact price depends on condition and parts required - submit your reg for a fixed-price quote.",
     "cta": {
       "label": "Get Your Fixed-Price Quote →",
       "href": "#quote-form"

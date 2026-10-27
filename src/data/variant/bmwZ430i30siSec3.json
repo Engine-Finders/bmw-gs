@@ -6,13 +6,13 @@
   "cards": [
     {
       "code": "M54",
-      "generation": "E85/E86 (2002–2006)",
+      "generation": "E85/E86 (2002-2006)",
       "price": "£2,800",
       "codeHref": "/bmw-m54-engine"
     },
     {
       "code": "N52",
-      "generation": "E85/E86 (2006–2008)",
+      "generation": "E85/E86 (2006-2008)",
       "price": "£2,800",
       "codeHref": "/bmw-n52-engine"
     }
@@ -24,7 +24,7 @@
     },
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -37,9 +37,9 @@
     "titlePre": "BMW Z4 3.0i  3.0si Timing Chain Failure ",
     "titleHighlight": "(E85/E86, N47)",
     "paragraphs": [
-      "If your Z4 3.0i  3.0si is a pre-2015 model with the N47 diesel engine — that's the early E85/E86 generation — timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
+      "If your Z4 3.0i  3.0si is a pre-2015 model with the N47 diesel engine - that's the early E85/E86 generation - timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
       "The later E85/E86 (2015-onwards) and E85/E86 generations use a different engine, the B47, which is significantly more reliable and doesn't share this specific issue."
     ],
-    "source": "Source: NHTSA Recall 18V-755 — Timing Chain Guide Wear in N47 Engines (2012–2015)"
+    "source": "Source: NHTSA Recall 18V-755 - Timing Chain Guide Wear in N47 Engines (2012-2015)"
   }
 }

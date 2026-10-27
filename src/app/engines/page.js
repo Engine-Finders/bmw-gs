@@ -7,7 +7,7 @@ const PATH = "/engines";
 
 export const metadata = {
   title: "BMW Engine Rebuilds | BMW Garage",
-  description: "Every BMW engine family we rebuild and replace — click through for pricing, applications and known issues.",
+  description: "Every BMW engine family we rebuild and replace - click through for pricing, applications and known issues.",
   alternates: { canonical: PATH },
 };
 

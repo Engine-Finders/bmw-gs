@@ -3,7 +3,7 @@
   "metaTitle": "BMW Diesel Timing Chain Repair (N47/B47) | BMW Garage",
   "metaDescription": "BMW diesel timing chain repair for N47 and B47 engines. Engine-out replacement with new chain, guides, and tensioners. Fixed-price rebuilds from £1,900.",
   "h1": "BMW Diesel Timing Chain Repair (N47 / B47)",
-  "lede": "N47 and B47 diesel engines have the timing chain mounted at the rear of the engine, between the block and the gearbox. This design makes replacement a specialist, engine-out procedure — not a simple front-end job.",
+  "lede": "N47 and B47 diesel engines have the timing chain mounted at the rear of the engine, between the block and the gearbox. This design makes replacement a specialist, engine-out procedure - not a simple front-end job.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -36,7 +36,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "N47 and B47 diesel engines have the timing chain mounted at the rear of the engine, between the block and the gearbox. This design makes replacement a specialist, engine-out procedure — not a simple front-end job."
+          "html": "N47 and B47 diesel engines have the timing chain mounted at the rear of the engine, between the block and the gearbox. This design makes replacement a specialist, engine-out procedure - not a simple front-end job."
         },
         {
           "t": "p",
@@ -44,7 +44,7 @@
         },
         {
           "t": "p",
-          "html": "We do not use split-chain or in-situ methods. A proper repair requires new guides and tensioners, not just a new chain — and that requires engine removal."
+          "html": "We do not use split-chain or in-situ methods. A proper repair requires new guides and tensioners, not just a new chain - and that requires engine removal."
         }
       ]
     },
@@ -56,7 +56,7 @@
           "t": "callout",
           "heading": "",
           "paras": [
-            "**4-Cyl Diesel (N47 / B47)** — Rebuild from **£1,900**",
+            "**4-Cyl Diesel (N47 / B47)** - Rebuild from **£1,900**",
             "[Pricing Disclaimer](/pricing-legal-disclaimer)"
           ]
         }
@@ -68,7 +68,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "This repair applies to BMW models equipped with the N47 or B47 diesel engine family — pre-2015 N47 engines (rear-mounted chain) and post-2015 B47 engines (EGR cooler recall applies separately)."
+          "html": "This repair applies to BMW models equipped with the N47 or B47 diesel engine family - pre-2015 N47 engines (rear-mounted chain) and post-2015 B47 engines (EGR cooler recall applies separately)."
         },
         {
           "t": "modelgroup",
@@ -136,7 +136,7 @@
               "href": "/bmw-320d-engines"
             },
             {
-              "label": "330d (N57 – 6-cyl, see separate page)",
+              "label": "330d (N57 - 6-cyl, see separate page)",
               "href": "/bmw-330d-engines"
             }
           ]
@@ -204,7 +204,7 @@
         },
         {
           "title": "Engine Removal",
-          "body": "Complete engine-out extraction to access the rear timing chain area — transmission separated, ancillaries removed."
+          "body": "Complete engine-out extraction to access the rear timing chain area - transmission separated, ancillaries removed."
         },
         {
           "title": "Strip-Down & Timing Lock",
@@ -227,11 +227,11 @@
         {
           "t": "ul",
           "items": [
-            "Specialist BMW engine workshop — we work on these engines every week",
-            "Full BMW-specified procedure — engine-out, not in-situ shortcut methods",
+            "Specialist BMW engine workshop - we work on these engines every week",
+            "Full BMW-specified procedure - engine-out, not in-situ shortcut methods",
             "Updated parts fitted, as per BMW service bulletins",
             "12-month unlimited mileage warranty on every rebuild",
-            "Fixed-price quote — no hidden costs"
+            "Fixed-price quote - no hidden costs"
           ]
         },
         {
@@ -287,7 +287,7 @@
         },
         {
           "q": "How long does the repair take?",
-          "a": "The full engine-out procedure typically takes 3–5 working days, depending on the model and the condition of the engine when it arrives."
+          "a": "The full engine-out procedure typically takes 3-5 working days, depending on the model and the condition of the engine when it arrives."
         },
         {
           "q": "Do you fit used or aftermarket parts?",

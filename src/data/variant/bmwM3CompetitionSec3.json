@@ -7,14 +7,14 @@
     {
       "code": "S55",
       "image": "/engines/m-engine-hero.webp",
-      "generation": "F80 (2014–2018)",
+      "generation": "F80 (2014-2018)",
       "price": "£5,500",
       "codeHref": "/bmw-s55-engine"
     },
     {
       "code": "S58",
       "image": "/engines/s58-model-hero.webp",
-      "generation": "G80 (2021–present)",
+      "generation": "G80 (2021-present)",
       "price": "£5,500",
       "codeHref": "/bmw-s58-engine"
     }
@@ -26,7 +26,7 @@
     },
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -39,9 +39,9 @@
     "titlePre": "BMW M3 Competition Timing Chain Failure ",
     "titleHighlight": "(F80, N47)",
     "paragraphs": [
-      "If your M3 Competition is a pre-2015 model with the N47 diesel engine — that's the early F80 generation — timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
+      "If your M3 Competition is a pre-2015 model with the N47 diesel engine - that's the early F80 generation - timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
       "The later F80 (2015-onwards) and G80 generations use a different engine, the B47, which is significantly more reliable and doesn't share this specific issue."
     ],
-    "source": "Source: NHTSA Recall 18V-755 — Timing Chain Guide Wear in N47 Engines (2012–2015)"
+    "source": "Source: NHTSA Recall 18V-755 - Timing Chain Guide Wear in N47 Engines (2012-2015)"
   }
 }

@@ -7,7 +7,7 @@
     {
       "code": "S58",
       "image": "/engines/s58-model-hero.webp",
-      "generation": "G82 (2021–present)",
+      "generation": "G82 (2021-present)",
       "price": "£5,500",
       "codeHref": "/bmw-s58-engine"
     }
@@ -19,7 +19,7 @@
     },
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -32,9 +32,9 @@
     "titlePre": "BMW M4 CSL Timing Chain Failure ",
     "titleHighlight": "(G82, N47)",
     "paragraphs": [
-      "If your M4 CSL is a pre-2015 model with the N47 diesel engine — that's the early G82 generation — timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
+      "If your M4 CSL is a pre-2015 model with the N47 diesel engine - that's the early G82 generation - timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
       "The later G82 (2015-onwards) and G82 generations use a different engine, the B47, which is significantly more reliable and doesn't share this specific issue."
     ],
-    "source": "Source: NHTSA Recall 18V-755 — Timing Chain Guide Wear in N47 Engines (2012–2015)"
+    "source": "Source: NHTSA Recall 18V-755 - Timing Chain Guide Wear in N47 Engines (2012-2015)"
   }
 }

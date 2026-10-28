@@ -84,14 +84,14 @@ export default function ModelSec17({ data }) {
                 <Link
                   key={label(v)}
                   href={href(v)}
-                  className="flex items-center justify-center rounded-md border border-white/15 bg-white/5 px-1 py-3 text-center text-xs font-bold leading-tight text-white transition-colors hover:border-hero-blue/60 hover:bg-hero-blue/15"
+                  className="flex min-w-0 items-center justify-center rounded-md border border-white/15 bg-white/5 px-0.5 py-3 text-center text-[11px]! font-bold leading-tight tracking-tight text-white [overflow-wrap:anywhere] hyphens-auto transition-colors hover:border-hero-blue/60 hover:bg-hero-blue/15"
                 >
                   {label(v)}
                 </Link>
               ) : (
                 <span
                   key={label(v)}
-                  className="flex items-center justify-center rounded-md border border-white/15 bg-white/5 px-1 py-3 text-center text-xs font-bold leading-tight text-white"
+                  className="flex min-w-0 items-center justify-center rounded-md border border-white/15 bg-white/5 px-0.5 py-3 text-center text-[11px]! font-bold leading-tight tracking-tight text-white [overflow-wrap:anywhere] hyphens-auto"
                 >
                   {label(v)}
                 </span>

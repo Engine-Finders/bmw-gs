@@ -24,7 +24,7 @@ DATA = ROOT / "src" / "data"
 APP = ROOT / "src" / "app"
 SRC_FILE = ROOT / "GarageAuthoritativepages-BMW.txt"
 
-PHONE = "0203 488 4649"
+PHONE = "01268 944234"
 
 # title -> slug for the tabs whose JSON-LD lacks an @id
 TITLE_SLUG = {

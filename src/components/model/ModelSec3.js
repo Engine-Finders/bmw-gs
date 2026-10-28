@@ -6,6 +6,8 @@ import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
 
 export default function ModelSec3({ data }) {
+  // desktop: alternate light / dark cards across the row (matches the mobile checkerboard)
+  const desktopCards = data.cards.map((c, i) => ({ ...c, featured: i % 2 === 0 }));
   const [line1, line2] = data.h2.split("|");
 
   return (
@@ -51,8 +53,8 @@ export default function ModelSec3({ data }) {
                   </div>
                 )}
 
-                <div className="flex h-full items-center gap-2.5">
-                  <div className="relative h-16 w-16 shrink-0 overflow-hidden rounded-lg">
+                <div className="flex h-full items-center gap-2">
+                  <div className="relative h-14 w-14 shrink-0 overflow-hidden rounded-lg">
                     {c.icon ? (
                       <span className="flex h-full w-full items-center justify-center">
                         <Icon name={c.icon} className="h-11 w-11 text-hero-blue" />
@@ -63,7 +65,7 @@ export default function ModelSec3({ data }) {
                   </div>
 
                   <div className="min-w-0 flex-1">
-                    <p className={`text-xs font-extrabold uppercase leading-tight ${c.featured ? "text-[#101828]" : "text-white"}`}>
+                    <p className={`text-[11px] font-extrabold uppercase leading-tight ${c.featured ? "text-[#101828]" : "text-white"}`}>
                       {c.titlePre}
                     </p>
                     <p className="text-xs font-extrabold uppercase leading-tight text-hero-blue">{c.titleHighlight}</p>
@@ -138,7 +140,7 @@ export default function ModelSec3({ data }) {
         </p>
 
         <div className="mt-5 grid max-w-4xl grid-cols-4 gap-4">
-          {data.cards.map((c) => (
+          {desktopCards.map((c) => (
             <div
               key={c.titlePre}
               className={
@@ -192,7 +194,7 @@ export default function ModelSec3({ data }) {
           {data.disclaimer}
         </p>
 
-        <div className="glass-card-dark card-corner-glare relative mt-6 flex max-w-4xl items-center justify-between gap-6 rounded-xl border border-hero-blue/50 px-6 py-4">
+        <div className="glass-card-dark card-corner-glare relative mt-6 flex max-w-4xl items-center w-fit max-w-full gap-10 rounded-xl border border-hero-blue/50 px-6 py-4">
           <div className="flex items-center gap-3">
             <Icon name="clock" className="h-9 w-9 shrink-0 text-hero-blue" />
             <p className="text-base font-extrabold uppercase leading-tight text-white">

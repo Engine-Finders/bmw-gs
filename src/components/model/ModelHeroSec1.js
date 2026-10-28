@@ -50,7 +50,7 @@ export default function ModelHeroSec1({ data }) {
             {data.trustBar.map((t) => (
               <div key={t.label} className="flex flex-col items-center gap-1.5 px-0.5 text-center">
                 <Icon name={t.icon} className="h-5 w-5 shrink-0 text-hero-blue" />
-                <p className="min-w-0 text-xs font-medium leading-tight text-white [overflow-wrap:anywhere]">{t.label}</p>
+                <p className="min-w-0 text-[11px] font-medium leading-tight text-white [overflow-wrap:break-word]">{t.label}</p>
               </div>
             ))}
           </div>
@@ -145,14 +145,6 @@ export default function ModelHeroSec1({ data }) {
 
             <p className="body-text mt-4 max-w-xl text-white">{data.subhead}</p>
 
-            <div className="glass-luminous card-glare relative mt-3 inline-flex items-center gap-2.5 rounded-lg px-4 py-2.5">
-              <div className="flex shrink-0 gap-0.5 text-[#ffcc00]">
-                {Array.from({ length: data.rating.stars }).map((_, i) => (
-                  <Icon key={i} name="star" className="h-4 w-4 fill-current" />
-                ))}
-              </div>
-              <p className="text-xs font-semibold uppercase leading-tight text-white">{data.rating.label}</p>
-            </div>
 
             {/* reg lookup */}
             <div className="mt-3 max-w-md">
@@ -163,7 +155,7 @@ export default function ModelHeroSec1({ data }) {
               {data.trustBar.map((t) => (
                 <div key={t.label} className="flex flex-1 items-center gap-2 px-2">
                   <Icon name={t.icon} className="h-7 w-7 shrink-0 text-hero-blue" />
-                  <p className="text-xs leading-tight font-medium text-white">{t.label}</p>
+                  <p className="text-xs leading-tight font-medium text-white">{t.label.replace(/^✔\s*/, "")}</p>
                 </div>
               ))}
             </div>
@@ -204,6 +196,14 @@ export default function ModelHeroSec1({ data }) {
                   </div>
                 </div>
               </QuoteLink>
+            </div>
+            <div className="glass-luminous card-glare relative mt-3 flex w-fit items-center gap-2.5 rounded-lg px-4 py-2.5">
+              <div className="flex shrink-0 gap-0.5 text-[#ffcc00]">
+                {Array.from({ length: data.rating.stars }).map((_, i) => (
+                  <Icon key={i} name="star" className="h-4 w-4 fill-current" />
+                ))}
+              </div>
+              <p className="text-xs font-semibold uppercase leading-tight text-white">{data.rating.label}</p>
             </div>
           </div>
         </div>

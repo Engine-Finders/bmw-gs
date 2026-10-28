@@ -8,7 +8,7 @@ const FAQ = (data.sections || []).filter((s) => s.kind === "faq").flatMap((s) =>
 
 export const metadata = {
   title: "BMW N54 Fuel Pump & Injector Repair | BMW Garage",
-  description: "Specialist BMW N54 HPFP & fuel injector repair at our Essex workshop. Coding, adaptation, full system testing. 12mo warranty. Call 0203 488 4649.",
+  description: "Specialist BMW N54 HPFP & fuel injector repair at our Essex workshop. Coding, adaptation, full system testing. 12mo warranty. Call 01268 944234.",
   alternates: { canonical: PATH },
 };
 

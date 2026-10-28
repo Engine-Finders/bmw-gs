@@ -123,7 +123,7 @@ export default function QuotePopup({ onClose }) {
       setStatus("success");
     } catch {
       setStatus("error");
-      setError("Something went wrong. Please try again or call us on 0203 488 4649.");
+      setError("Something went wrong. Please try again or call us on 01268 944234.");
     }
   }
 

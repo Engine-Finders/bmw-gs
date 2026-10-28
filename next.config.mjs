@@ -5,6 +5,8 @@ const nextConfig = {
       { protocol: "https", hostname: "picsum.photos" },
       { protocol: "https", hostname: "images.unsplash.com" },
     ],
+    // allow higher re-encode quality than Next's default 75 for the process photos
+    qualities: [75, 90, 100],
   },
   async headers() {
     return [

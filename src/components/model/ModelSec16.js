@@ -74,7 +74,7 @@ export default function ModelSec16({ data }) {
         <div className="mx-3 relative mt-2 rounded-3xl bg-[#f3f6fb] px-4 pb-5 pt-6">
           <SectionHeader icon="cog" title={data.services.title} dark={false} />
 
-          <div className="mt-5 grid grid-cols-5 divide-x divide-black/10">
+          <div className="mt-5 grid grid-cols-[repeat(5,minmax(min-content,1fr))] divide-x divide-black/10">
             {data.services.items.map((s) => (
               <div key={s.label} className="flex flex-col items-center gap-1.5 px-1 text-center">
                 <Icon name={s.icon} className="h-8 w-8 shrink-0 text-hero-blue" />

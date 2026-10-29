@@ -2,11 +2,13 @@
 
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
+import { useQuoteModal } from "@/components/shared/QuoteModal";
 import BMWStripe from "@/components/reusable/BMWStripe";
 import RegLookupForm from "@/components/reusable/RegLookupForm";
 import RegLookupGlass from "@/components/reusable/RegLookupGlass";
 
 export default function ModelSec9({ data }) {
+  const { open: openQuote } = useQuoteModal();
   const [line1, line2] = data.h2.split("|");
 
   return (
@@ -66,6 +68,8 @@ export default function ModelSec9({ data }) {
           <div className="mt-5 grid grid-cols-2 gap-3">
             {data.browseCards.map((c, i) => (
               <button
+                type="button"
+                onClick={() => openQuote({ heading: "Find Out Your Car Details" })}
                 key={c.label}
                 className={`relative flex items-center justify-between gap-2 rounded-xl bg-white/70 px-4 py-4 text-left backdrop-blur-2xl ${i === 4 ? "col-span-2" : ""} transition duration-200 hover:-translate-y-0.5 hover:bg-white hover:shadow-lg`}
                 style={{
@@ -162,6 +166,8 @@ export default function ModelSec9({ data }) {
         <div className="mt-5 grid grid-cols-5 gap-4">
           {data.browseCards.map((c) => (
             <button
+              type="button"
+              onClick={() => openQuote({ heading: "Find Out Your Car Details" })}
               key={c.label}
               className="relative flex items-center justify-between gap-2 rounded-xl bg-white/55 px-4 py-6 text-left backdrop-blur-2xl transition hover:-translate-y-0.5"
               style={{

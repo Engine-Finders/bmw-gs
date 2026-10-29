@@ -151,19 +151,10 @@ export default function ModelHeroSec1({ data }) {
               <RegLookupForm buttonLabel="Look Up" row />
             </div>
 
-            <div className="glass-luminous card-glare relative mt-3 flex items-stretch justify-between divide-x divide-white/15 rounded-xl px-2 py-3">
-              {data.trustBar.map((t) => (
-                <div key={t.label} className="flex flex-1 items-center gap-2 px-2">
-                  <Icon name={t.icon} className="h-7 w-7 shrink-0 text-hero-blue" />
-                  <p className="text-xs leading-tight font-medium text-white">{t.label.replace(/^✔\s*/, "")}</p>
-                </div>
-              ))}
-            </div>
-
-            <div className="mt-3 flex flex-wrap items-stretch gap-4">
+            <div className="mt-3 flex flex-wrap items-stretch gap-3">
               <QuoteLink
                 href={data.priceCta.href}
-                className="card-glare relative flex w-72 shrink-0 flex-col justify-between rounded-xl border-hero-blue/60 bg-linear-to-br from-hero-blue to-hero-blue-dark px-5 py-4 transition-transform hover:scale-[1.02]"
+                className="card-glare relative flex w-64 shrink-0 flex-col justify-between rounded-xl border-hero-blue/60 bg-linear-to-br from-hero-blue to-hero-blue-dark px-5 py-3 transition-transform hover:scale-[1.02]"
               >
                 <div className="flex items-center gap-3">
                   <Icon name={data.priceCta.icon} className="h-10 w-10 shrink-0 text-white" />
@@ -172,12 +163,12 @@ export default function ModelHeroSec1({ data }) {
                     <p className="text-3xl font-extrabold leading-tight text-white">{data.priceCta.price}</p>
                   </div>
                 </div>
-                <p className="mt-3 text-xs font-bold uppercase leading-tight tracking-wide text-white">{data.priceCta.label}</p>
+                <p className="mt-2 text-xs font-bold uppercase leading-tight tracking-wide text-white">{data.priceCta.label}</p>
               </QuoteLink>
 
               <QuoteLink
                 href={data.phoneCta.href}
-                className="glass-luminous card-glare relative flex w-72 shrink-0 flex-col justify-center rounded-xl px-5 py-4 transition-colors hover:bg-white/5"
+                className="glass-luminous card-glare relative flex w-64 shrink-0 flex-col justify-center rounded-xl px-5 py-3 transition-colors hover:bg-white/5"
               >
                 <div
                   className="pointer-events-none absolute bottom-0 right-0 h-full"
@@ -197,6 +188,17 @@ export default function ModelHeroSec1({ data }) {
                 </div>
               </QuoteLink>
             </div>
+
+            {/* trust bar sits third, after the price and call cards */}
+            <div className="glass-luminous card-glare relative mt-3 flex items-stretch justify-between divide-x divide-white/15 rounded-xl px-2 py-3">
+              {data.trustBar.map((t) => (
+                <div key={t.label} className="flex flex-1 items-center gap-2 px-2">
+                  <Icon name={t.icon} className="h-7 w-7 shrink-0 text-hero-blue" />
+                  <p className="text-xs leading-tight font-medium text-white">{t.label.replace(/^✔\s*/, "")}</p>
+                </div>
+              ))}
+            </div>
+
             <div className="glass-luminous card-glare relative mt-3 flex w-fit items-center gap-2.5 rounded-lg px-4 py-2.5">
               <div className="flex shrink-0 gap-0.5 text-[#ffcc00]">
                 {Array.from({ length: data.rating.stars }).map((_, i) => (

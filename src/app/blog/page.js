@@ -5,10 +5,10 @@ import { RelatedGuidesWidget } from "@/components/blog/RelatedGuidesWidget";
 import "./blog.css";
 
 export const metadata = {
-  title: "BMW Advice & Engine Guides | BMW Garage UK",
-  description: "Comprehensive BMW engine diagnostic guides, common failure solutions, timing chain advice, and reconditioned engine buying tips.",
+  title: "BMW Engine Guides & Advice | BMW Engines UK",
+  description: "Comprehensive BMW engine diagnostic guides, common failure solutions, timing chain advice, and replacement engine buying tips.",
   alternates: {
-    canonical: "https://bmwgarage.uk/blog",
+    canonical: "https://bmwengines.uk/blog",
   },
 };
 
@@ -34,10 +34,10 @@ export default async function BlogPage(props) {
       {/* Header Banner */}
       <header className="mb-8">
         <h1 className="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl lg:text-5xl">
-          BMW Garage <span className="text-[#007ff8]">Knowledge Base & Guides</span>
+          BMW Engines UK <span className="text-[#075fd8]">Knowledge & Guides</span>
         </h1>
         <p className="mt-2 text-sm text-slate-600 max-w-3xl">
-          Expert BMW engine advice, failure symptoms, model-specific breakdown guides, and technical replacement walkthroughs.
+          Expert failure diagnosis, engine replacement costs, timing chain guidance, and technical specifications for all BMW series.
         </p>
       </header>
 
@@ -83,7 +83,7 @@ export default async function BlogPage(props) {
 
                     <div className="flex flex-1 flex-col justify-between p-4">
                       <div>
-                        <h3 className="text-sm sm:text-base font-bold leading-snug text-slate-900 line-clamp-3 group-hover:text-[#007ff8] transition">
+                        <h3 className="text-sm sm:text-base font-bold leading-snug text-slate-900 line-clamp-3 group-hover:text-[#075fd8] transition">
                           <Link href={`/blog/${post.slug}`}>
                             {post.title}
                           </Link>
@@ -96,7 +96,7 @@ export default async function BlogPage(props) {
                       <div className="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between">
                         <Link
                           href={`/blog/${post.slug}`}
-                          className="inline-flex items-center gap-1 text-xs font-bold text-[#007ff8] hover:underline"
+                          className="inline-flex items-center gap-1 text-xs font-bold text-[#075fd8] hover:underline"
                         >
                           <span>Read Guide</span>
                           <span className="text-sm leading-none">»</span>
@@ -134,7 +134,7 @@ export default async function BlogPage(props) {
                   href={`/blog?page=${pageNum}`}
                   className={`rounded-lg px-3 py-1.5 transition ${
                     pageNum === currentPage
-                      ? "bg-[#007ff8] font-bold text-white shadow-sm"
+                      ? "bg-[#075fd8] font-bold text-white shadow-sm"
                       : "border border-slate-200 bg-white hover:bg-slate-50 text-slate-700"
                   }`}
                 >
@@ -160,7 +160,7 @@ export default async function BlogPage(props) {
 
         {/* Sidebar (4 cols) */}
         <aside className="lg:col-span-4 space-y-6 lg:sticky lg:top-24 self-start">
-          <EngineQuoteWidget siteName="BMW Garage" />
+          <EngineQuoteWidget siteName="BMW Engines UK" />
           <RelatedGuidesWidget title="Recent Guides" limit={5} />
         </aside>
       </div>

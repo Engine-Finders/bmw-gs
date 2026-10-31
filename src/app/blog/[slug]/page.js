@@ -12,14 +12,14 @@ export async function generateMetadata(props) {
   const post = await getBlogPostBySlug(params.slug);
 
   if (!post) {
-    return { title: `${params.slug.replace(/-/g, " ")} | BMW Garage` };
+    return { title: `${params.slug.replace(/-/g, " ")} | BMW Engines UK` };
   }
 
   return {
-    title: post.seoMetadata?.metaTitle || `${post.title} | BMW Garage`,
+    title: post.seoMetadata?.metaTitle || `${post.title} | BMW Engines UK`,
     description: post.seoMetadata?.metaDescription || post.excerpt,
     alternates: {
-      canonical: post.canonicalUrl || post.seoMetadata?.canonicalUrl || `https://bmwgarage.uk/blog/${params.slug}`,
+      canonical: post.canonicalUrl || post.seoMetadata?.canonicalUrl || `https://bmwengines.uk/blog/${params.slug}`,
     },
     robots: post.seoMetadata?.noIndex
       ? { index: false, follow: false }
@@ -70,7 +70,7 @@ export default async function ArticlePage(props) {
               {post.title}
             </h1>
             <div className="flex flex-wrap items-center gap-3 text-xs text-slate-500 border-y border-slate-200 py-3">
-              <span>By <strong className="text-slate-900 font-semibold">{post.author?.name || "BMW Technical Specialists"}</strong></span>
+              <span>By <strong className="text-slate-900 font-semibold">{post.author?.name || "BMW Technical Editors"}</strong></span>
               <span>•</span>
               <span>{post.readingTimeMinutes || 4} min read</span>
               {post.publishedAt && (
@@ -107,16 +107,16 @@ export default async function ArticlePage(props) {
           />
 
           {/* Bottom Conversion CTA */}
-          <div className="mt-12 rounded-2xl bg-gradient-to-r from-[#070b14] to-[#0062c4] p-8 text-center text-white shadow-xl relative overflow-hidden">
-            <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-[#008ac9] via-[#2b115a] to-[#f11a22]" />
-            <h3 className="text-2xl font-black">Facing Engine Issues with Your BMW?</h3>
-            <p className="mt-2 text-sm text-slate-200 max-w-xl mx-auto">
-              Get an instant quote for supply, fitting, or reconditioning with our nationwide BMW warranty coverage.
+          <div className="mt-12 rounded-2xl bg-gradient-to-r from-[#071827] to-[#075fd8] p-8 text-center text-white shadow-xl relative overflow-hidden">
+            <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-[#1581ff] via-[#075fd8] to-[#ed1c24]" />
+            <h3 className="text-2xl font-black">Need a Replacement BMW Engine?</h3>
+            <p className="mt-2 text-sm text-blue-100 max-w-xl mx-auto">
+              Get an instant quote for reconditioned or tested low-mileage BMW engines with full warranty coverage.
             </p>
             <div className="mt-6">
               <a
                 href="#top"
-                className="inline-flex items-center rounded-xl bg-[#007ff8] px-6 py-3 text-sm font-bold text-white shadow-md hover:bg-[#0062c4] transition"
+                className="inline-flex items-center rounded-xl bg-[#1581ff] px-6 py-3 text-sm font-bold text-white shadow-md hover:bg-[#075fd8] transition"
               >
                 Get Free BMW Engine Quote »
               </a>
@@ -126,7 +126,7 @@ export default async function ArticlePage(props) {
 
         {/* Right Sticky Sidebar (4 cols) */}
         <aside className="lg:col-span-4 space-y-6 lg:sticky lg:top-24 self-start">
-          <EngineQuoteWidget siteName="BMW Garage" />
+          <EngineQuoteWidget siteName="BMW Engines UK" />
           <RelatedGuidesWidget currentSlug={params.slug} />
         </aside>
       </div>

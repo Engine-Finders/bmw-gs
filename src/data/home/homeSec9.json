@@ -2,46 +2,16 @@
   "h2": "Recently Completed BMW Rebuilds",
   "bgImage": "/home/sec9_bg.webp",
   "images": [
-    {
-      "src": "/home/sec9_car.webp",
-      "alt": "Completed BMW rebuild"
-    },
-    {
-      "src": "/home/sec9_car.webp",
-      "alt": "Completed BMW rebuild"
-    },
-    {
-      "src": "/home/sec9_car.webp",
-      "alt": "Completed BMW rebuild"
-    },
-    {
-      "src": "/home/sec9_car.webp",
-      "alt": "BMW interior"
-    },
-    {
-      "src": "/home/sec9_car.webp",
-      "alt": "Completed BMW rebuild"
-    },
-    {
-      "src": "/home/sec9_car.webp",
-      "alt": "Completed BMW rebuild"
-    },
-    {
-      "src": "/home/sec9_car.webp",
-      "alt": "Rebuilt engine bay"
-    },
-    {
-      "src": "/home/sec9_car.webp",
-      "alt": "Completed BMW rebuild"
-    },
-    {
-      "src": "/home/sec9_car.webp",
-      "alt": "Rebuilt engine bay"
-    },
-    {
-      "src": "/home/sec9_car.webp",
-      "alt": "Completed BMW rebuild"
-    }
+    { "src": "/home/recent-rebuilds/rebuild-01.webp", "alt": "Black BMW 1 Series outside garage after recent engine rebuild", "h4": "Recent BMW 1 Series engine rebuild at our workshop" },
+    { "src": "/home/recent-rebuilds/rebuild-02.webp", "alt": "Grey BMW 3 Series outside workshop after recent engine rebuild", "h4": "Recent BMW 3 Series engine rebuild at our workshop" },
+    { "src": "/home/recent-rebuilds/rebuild-03.webp", "alt": "Blue BMW 5 Series outside workshop after recent engine rebuild", "h4": "Recent BMW 5 Series F10 engine rebuild project" },
+    { "src": "/home/recent-rebuilds/rebuild-04.webp", "alt": "Grey BMW 5 Series outside garage after recent engine rebuild", "h4": "Recent BMW 5 Series G30 engine rebuild project" },
+    { "src": "/home/recent-rebuilds/rebuild-05.webp", "alt": "Grey BMW X5 parked outside workshop after recent engine rebuild", "h4": "Recent BMW X5 engine rebuild at our workshop" },
+    { "src": "/home/recent-rebuilds/rebuild-06.webp", "alt": "Black BMW X5 beside 5 Series after recent engine rebuild", "h4": "Recent BMW X5 engine rebuild at our workshop" },
+    { "src": "/home/recent-rebuilds/rebuild-07.webp", "alt": "Gold BMW X5 outside garage after recent engine rebuild", "h4": "Recent BMW X5 engine rebuild at our workshop" },
+    { "src": "/home/recent-rebuilds/rebuild-08.webp", "alt": "Red BMW X5 parked outside workshop after recent engine rebuild", "h4": "Recent BMW X5 engine rebuild at our workshop" },
+    { "src": "/home/recent-rebuilds/rebuild-09.webp", "alt": "Silver BMW X5 front view after recent engine rebuild", "h4": "Recent BMW X5 engine rebuild at our workshop" },
+    { "src": "/home/recent-rebuilds/rebuild-10.webp", "alt": "Silver BMW X5 rear view after recent engine rebuild", "h4": "Recent BMW X5 engine rebuild at our workshop" }
   ],
   "footerTagline": "Excellence. Engineered.",
   "cta": {

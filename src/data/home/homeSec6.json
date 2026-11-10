@@ -1,19 +1,32 @@
 {
   "h2": "Inside Our Workshop",
   "portrait": [
-    { "src": "/home/portrait.webp", "alt": "Recovery truck loading a car" },
-    { "src": "/home/portrait.webp", "alt": "Recovery truck loading a car" },
-    { "src": "/home/portrait.webp", "alt": "Recovery truck loading a car" },
-    { "src": "/home/portrait.webp", "alt": "Recovery truck loading a car" },
-    { "src": "/home/portrait.webp", "alt": "Recovery truck loading a car" },
-    { "src": "/home/portrait.webp", "alt": "Recovery truck loading a car" }
+    { "src": "/home/workshop/portrait/portrait-01.webp", "alt": "BMW 1 Series engine rebuild removed engine on hoist" },
+    { "src": "/home/workshop/portrait/portrait-02.webp", "alt": "BMW 1 Series engine rebuild workshop mechanic checks" },
+    { "src": "/home/workshop/portrait/portrait-03.webp", "alt": "BMW 4 Series engine rebuild empty engine bay" },
+    { "src": "/home/workshop/portrait/portrait-04.webp", "alt": "BMW 5 Series engine rebuild engine hoisting process" },
+    { "src": "/home/workshop/portrait/portrait-05.webp", "alt": "BMW 5 Series engine rebuild mechanic checking removed engine" },
+    { "src": "/home/workshop/portrait/portrait-06.webp", "alt": "BMW 5 Series engine rebuild removed engine below lift" },
+    { "src": "/home/workshop/portrait/portrait-07.webp", "alt": "BMW engine rebuild removal with front panels stripped" },
+    { "src": "/home/workshop/portrait/portrait-08.webp", "alt": "BMW M5 S63 engine rebuild removed engine inspection" },
+    { "src": "/home/workshop/portrait/portrait-09.webp", "alt": "BMW V8 engine rebuild cylinder block inspection" },
+    { "src": "/home/workshop/portrait/portrait-10.webp", "alt": "BMW X1 engine rebuild empty engine bay inspection" },
+    { "src": "/home/workshop/portrait/portrait-11.webp", "alt": "BMW X5 engine rebuild removed engine on bench" },
+    { "src": "/home/workshop/portrait/portrait-12.webp", "alt": "BMW X5 engine rebuild stripped block on stand" }
   ],
   "landscape": [
-    { "src": "/home/landscape.webp", "alt": "Recovery truck with car loaded" },
-    { "src": "/home/landscape.webp", "alt": "Recovery truck with car loaded" },
-    { "src": "/home/landscape.webp", "alt": "Recovery truck with car loaded" },
-    { "src": "/home/landscape.webp", "alt": "Recovery truck with car loaded" },
-    { "src": "/home/landscape.webp", "alt": "Recovery truck with car loaded" },
-    { "src": "/home/landscape.webp", "alt": "Recovery truck with car loaded" }
+    { "src": "/home/workshop/landscape/landscape-01.webp", "alt": "BMW 1 Series engine rebuild mechanic inspection" },
+    { "src": "/home/workshop/landscape/landscape-02.webp", "alt": "BMW 1 Series engine rebuild mechanic inspection" },
+    { "src": "/home/workshop/landscape/landscape-03.webp", "alt": "BMW 3 Series engine rebuild inspection on lift" },
+    { "src": "/home/workshop/landscape/landscape-04.webp", "alt": "BMW 3 Series engine rebuild workshop inspection" },
+    { "src": "/home/workshop/landscape/landscape-05.webp", "alt": "BMW 5 Series engine rebuild hoist removal" },
+    { "src": "/home/workshop/landscape/landscape-06.webp", "alt": "BMW engine rebuild assembly on workshop stand" },
+    { "src": "/home/workshop/landscape/landscape-07.webp", "alt": "BMW engine rebuild crankshaft and crankcase inspection" },
+    { "src": "/home/workshop/landscape/landscape-08.webp", "alt": "BMW engine rebuild removal with workshop hoist" },
+    { "src": "/home/workshop/landscape/landscape-09.webp", "alt": "BMW engine rebuild under bonnet inspection" },
+    { "src": "/home/workshop/landscape/landscape-10.webp", "alt": "BMW M5 engine rebuild removal with hoist" },
+    { "src": "/home/workshop/landscape/landscape-11.webp", "alt": "BMW M5 engine rebuild removed engine on bench" },
+    { "src": "/home/workshop/landscape/landscape-12.webp", "alt": "BMW M5 S63 engine rebuild turbo system inspection" },
+    { "src": "/home/workshop/landscape/landscape-13.webp", "alt": "BMW M5 S63 engine rebuild workshop inspection" }
   ]
 }

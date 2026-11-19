@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW M135i xDrive ENGINE",
     "paragraphs": [
-      "The M135i xDrive has been a mainstay of the 1 Series diesel range since 2012, spanning two generations under one badge. Early F40 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the F40 and later the F40, the M135i xDrive switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ - which is exactly why we confirm your exact engine by registration before quoting."
+      "The M135i xDrive is the performance flagship of the F40-generation 1 Series, produced from 2019 to 2024. It uses the B48 — a 2.0-litre turbocharged four-cylinder petrol engine, part of BMW's modular B-series family that replaced the earlier N-series engines. The B48 is widely regarded as a more reliable design than its predecessors, with a closed-deck block and improved thermal management. In M135i xDrive specification, it produces around 302bhp, making it one of the most powerful production four-cylinder engines BMW has offered."
     ],
     "boldParagraph": "The M135i xDrive is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -15,38 +15,29 @@
     "image": "/engines/m135i-m140i-engine.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(F40, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early F40 M135i xDrive. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 M135i xDrive",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(F40, 2015-2019 / F40, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 M135i xDrive",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "B48",
+        "codeRest": "(F40 (2019–2024))",
+        "body": "B48 engine application for BMW 1 Series M135i xDrive.",
+        "cta": "Check Your B48 BMW 1 Series M135i xDrive",
+        "codeHref": "/bmw-b48-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW M135i xDrive ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the M135i xDrive spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "The M135i xDrive uses the B48 engine exclusively across its entire F40 production run. Unlike some variants that span multiple engines across generations, this one is consistent — if you have an F40 M135i xDrive, you have a B48. However, the B48 has multiple variants with different power outputs and component specifications, so we still confirm your exact engine code by registration before quoting or supplying any parts or service.",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "B48",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact engine code (B48) via registration or VIN"
       },
       {
         "icon": "car",
@@ -77,13 +68,14 @@
     "rows": [
       {
         "generation": "F40",
-        "image": "/cars/card/1-series-f40-m135i-xdrive-2019-2024.webp",
         "chassis": "F40",
-        "years": "2019-2024",
+        "years": "2019–2024",
         "engineCode": "B48",
         "fuel": "Petrol",
+        "image": "/cars/card/1-series-f40-m135i-xdrive-2019-2024.webp",
         "codeHref": "/bmw-b48-engine"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW 1 Series M135i xDrive"
 }

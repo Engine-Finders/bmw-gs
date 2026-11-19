@@ -33,7 +33,6 @@ export const BUSINESS = {
     },
     { "@type": "OpeningHoursSpecification", dayOfWeek: "Saturday", opens: "11:00", closes: "14:00" },
   ],
-  aggregateRating: { "@type": "AggregateRating", ratingValue: "5", bestRating: "5", reviewCount: "172" },
   sameAs: [
     "https://www.facebook.com/JLREngineSpecialists",
     "https://www.instagram.com/jlr_engine_specialists_ltd",
@@ -71,7 +70,6 @@ export function businessGraph() {
         geo: BUSINESS.geo,
         areaServed: { "@type": "Country", name: "United Kingdom" },
         openingHoursSpecification: BUSINESS.openingHoursSpecification,
-        aggregateRating: BUSINESS.aggregateRating,
         sameAs: BUSINESS.sameAs,
         parentOrganization: { "@id": ORG_ID },
         brand: { "@type": "Brand", name: "BMW" },

@@ -5,25 +5,25 @@
   "engineImage": "/engines/n54-n55-n20-family-engine-hero.webp",
   "cards": [
     {
-      "code": "N47",
       "image": "/engines/n47-engine-hero.webp",
-      "generation": "F30/F31 (2012-2015)",
-      "price": "£2,200",
-      "codeHref": "/bmw-n47-engine"
+      "codeHref": "/bmw-n20-engine",
+      "code": "N20",
+      "generation": "F30/F31 (2012–2015)",
+      "price": "£2,200"
     },
     {
-      "code": "B47",
       "image": "/engines/b47-engine.webp",
-      "generation": "F30/F31 (2015-2019)",
-      "price": "£2,200",
-      "codeHref": "/bmw-b47-engine"
+      "codeHref": "/bmw-b48-engine",
+      "code": "B48",
+      "generation": "F30/F31 (2015–2019)",
+      "price": "£2,200"
     },
     {
-      "code": "B47",
       "image": "/engines/b47-engine.webp",
-      "generation": "G20/G21 (2019-2024)",
-      "price": "£2,200",
-      "codeHref": "/bmw-b47-engine"
+      "codeHref": "/bmw-b48-engine",
+      "code": "B48",
+      "generation": "G20/G21 (2019–present)",
+      "price": "£2,200"
     }
   ],
   "notes": [
@@ -41,14 +41,6 @@
     "label": "Get Your Fixed-Price Quote",
     "href": "#quote-form"
   },
-  "warning": {
-    "bgImage": "/variant/sec3_lower_div_bg.webp",
-    "titlePre": "BMW 318i Timing Chain Failure ",
-    "titleHighlight": "(F30/F31, N47)",
-    "paragraphs": [
-      "If your 318i is a pre-2015 model with the N47 diesel engine - that's the early F30/F31 generation - timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-      "The later F30/F31 (2015-onwards) and G20/G21 generations use a different engine, the B47, which is significantly more reliable and doesn't share this specific issue."
-    ],
-    "source": "Source: NHTSA Recall 18V-755 - Timing Chain Guide Wear in N47 Engines (2012-2015)"
-  }
+  "warning": null,
+  "vehicleLabel": "BMW 318i"
 }

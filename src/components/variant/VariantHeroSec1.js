@@ -5,16 +5,18 @@ import RegLookupForm from "@/components/reusable/RegLookupForm";
 import QuoteLink from "@/components/shared/QuoteLink";
 
 export default function VariantHeroSec1({ data }) {
-  const [line1, line2, line3] = data.h1.split("|");
-  const line2Mobile = line2.replace(/\s*-\s*$/, "");
-  const line3Mobile = `- ${line3}`;
+  const [line1 = "BMW vehicle", line2 = "", line3 = ""] = data.h1.split("|");
+  const line2Mobile = line2.replace(/\s*[\u2014-]\s*$/, "");
+  const line3Mobile = line3 ? `\u2014 ${line3}` : "";
+  const vehicleLabel = line1.trim();
+  const hasPrice = Boolean(data.priceCta?.price);
 
   return (
     <section className="relative overflow-hidden bg-hero-dark text-white">
       {/* ===== mobile ===== */}
       <div className="relative md:hidden">
         <div className="absolute inset-0">
-          <Image src={data.imageMobile} alt="BMW technician rebuilding a 320d engine block" fill priority className="object-cover object-[65%_18%]" sizes="100vw" />
+          <Image src={data.imageMobile} alt={`${vehicleLabel} engine rebuild in progress at our workshop`} fill priority className="object-cover object-[65%_18%]" sizes="100vw" />
           <div className="absolute inset-0 bg-linear-to-b from-transparent via-hero-dark/10 to-hero-dark" />
           <div
             className="absolute inset-0"
@@ -29,11 +31,11 @@ export default function VariantHeroSec1({ data }) {
               <p className="text-[11px] font-semibold uppercase leading-none tracking-widest text-white">{data.kicker}</p>
             </div>
 
-            <h1 className="hp-h1 mt-1.5 uppercase">
+            <div role="heading" aria-level="1" className="hp-h1 mt-1.5 uppercase">
               <span className="block text-white">{line1}</span>
-              <span className="block text-hero-blue">{line2Mobile}</span>
-              <span className="block text-white">{line3Mobile}</span>
-            </h1>
+              {line2Mobile && <span className="block text-hero-blue">{line2Mobile}</span>}
+              {line3Mobile && <span className="block text-white">{line3Mobile}</span>}
+            </div>
 
             <p className="mt-1.5 text-sm leading-snug text-white">{data.subhead}</p>
 
@@ -64,14 +66,16 @@ export default function VariantHeroSec1({ data }) {
           </div>
 
           {/* pricing callout banner */}
-          <QuoteLink
-            href={data.priceCta.href}
-            className="glass-luminous card-glare relative mt-2.5 flex items-center justify-between rounded-xl px-4 py-3.5 transition-transform hover:scale-[1.02]"
-            style={{ border: "1px solid rgba(90,170,255,0.45)" }}
-          >
-            <p className="text-xs font-medium text-white">{data.priceCta.kicker}</p>
-            <p className="whitespace-nowrap text-sm font-extrabold text-hero-blue">{data.priceCta.label}</p>
-          </QuoteLink>
+          {hasPrice && (
+            <QuoteLink
+              href={data.priceCta.href}
+              className="glass-luminous card-glare relative mt-2.5 flex items-center justify-between rounded-xl px-4 py-3.5 transition-transform hover:scale-[1.02]"
+              style={{ border: "1px solid rgba(90,170,255,0.45)" }}
+            >
+              <p className="text-xs font-medium text-white">{data.priceCta.kicker}</p>
+              <p className="whitespace-nowrap text-sm font-extrabold text-hero-blue">{data.priceCta.label}</p>
+            </QuoteLink>
+          )}
 
           {/* registration lookup */}
           <div className="glass-card-dark mt-2.5 rounded-xl p-3">
@@ -79,7 +83,7 @@ export default function VariantHeroSec1({ data }) {
               <Icon name="car" className="h-5 w-5 shrink-0 text-hero-blue" />
               <p className="text-sm font-extrabold uppercase tracking-wide text-white">Check Your Exact Engine</p>
             </div>
-            <p className="mt-1 text-xs text-white">Enter your reg and we&apos;ll confirm your exact 320d spec.</p>
+            <p className="mt-1 text-xs text-white">Enter your registration to confirm your exact engine specification.</p>
             <div className="mt-2">
               <RegLookupForm buttonLabel="Check Match" row compactButton hideArrow />
             </div>
@@ -114,7 +118,7 @@ export default function VariantHeroSec1({ data }) {
       {/* ===== desktop ===== */}
       <div className="relative hidden overflow-hidden md:block">
         <div className="absolute inset-0">
-          <Image src={data.image} alt="BMW technician rebuilding a 320d engine block" fill priority className="object-cover" sizes="100vw" />
+          <Image src={data.image} alt={`${vehicleLabel} engine rebuild in progress at our workshop`} fill priority className="object-cover" sizes="100vw" />
         </div>
 
         <div
@@ -135,8 +139,8 @@ export default function VariantHeroSec1({ data }) {
 
             <h1 className="hp-h1 mt-3 uppercase">
               <span className="block whitespace-nowrap text-white">{line1}</span>
-              <span className="block whitespace-nowrap text-hero-blue">{line2}</span>
-              <span className="block text-white">{line3}</span>
+              {line2 && <span className="block whitespace-nowrap text-hero-blue">{line2}</span>}
+              {line3 && <span className="block text-white">{line3}</span>}
             </h1>
 
             <p className="mt-3 max-w-md text-sm text-white lg:text-base">{data.subhead}</p>
@@ -159,13 +163,15 @@ export default function VariantHeroSec1({ data }) {
             </div>
 
             <div className="mt-3 flex flex-wrap items-stretch gap-4">
-              <QuoteLink
-                href={data.priceCta.href}
-                className="flex w-60 shrink-0 flex-col justify-center whitespace-nowrap rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark px-5 py-4 shadow-lg transition-transform hover:scale-[1.02]"
-              >
-                <p className="text-[11px] font-medium text-white">{data.priceCta.kicker}</p>
-                <p className="text-sm font-extrabold text-white">{data.priceCta.label}</p>
-              </QuoteLink>
+              {hasPrice && (
+                <QuoteLink
+                  href={data.priceCta.href}
+                  className="flex w-60 shrink-0 flex-col justify-center whitespace-nowrap rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark px-5 py-4 shadow-lg transition-transform hover:scale-[1.02]"
+                >
+                  <p className="text-[11px] font-medium text-white">{data.priceCta.kicker}</p>
+                  <p className="text-sm font-extrabold text-white">{data.priceCta.label}</p>
+                </QuoteLink>
+              )}
 
               <QuoteLink
                 href={data.phoneCta.href}

@@ -33,8 +33,8 @@ const NAME = variantSec1.h1?.replaceAll("|", " ");
 const FAQ = [...(variantSec13.faqLeft || []), ...(variantSec13.faqRight || [])];
 
 export const metadata = {
-  title: variantSec1.h1?.replaceAll("|", " ") || "bmw-x5-xdrive50e-engines",
-  description: variantSec1.subhead || "",
+  title: "BMW X5 xDrive50e Engine Rebuild & Replacement | From £2,800",
+  description: "BMW X5 xDrive50e engine rebuild from £2,800. B58 petrol plug-in hybrid specialists. 12-month warranty, nationwide recovery. Free quote in 30 mins.",
   alternates: { canonical: PATH },
 };
 
@@ -43,7 +43,7 @@ export default function BmwX5Xdrive50eEnginesPage() {
     <>
       <JsonLd
         data={graphDoc([
-          serviceSchema({ name: NAME, description: variantSec1.subhead, path: PATH, price: (variantSec1.priceCta?.kicker || variantSec1.h1) }),
+          serviceSchema({ name: NAME, description: variantSec1.subhead, path: PATH, price: variantSec1.priceCta?.price }),
           faqSchema(FAQ, PATH),
           breadcrumbSchema([{ name: "Home", path: "/" }, { name: "Variants", path: "/variants" }, { name: NAME, path: PATH }], PATH),
         ])}

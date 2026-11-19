@@ -2,7 +2,7 @@
   "titlePre": "BMW S55",
   "titleHighlight": "ENGINE",
   "titleLine2": "Rebuild & Replacement",
-  "subhead": "Specialist BMW S55 engine rebuilds and replacements, fitted across 3, 4, 5, 6, 7 and 8 Series, X3 through X7, XM and Z4. Nationwide recovery, registration-based engine matching, 12-month unlimited-mileage warranty.",
+  "subhead": "Specialist BMW S55 engine rebuilds and replacements, fitted across M2 Competition, M3 and M4. Nationwide recovery, registration-based engine matching, 12-month unlimited-mileage warranty.",
   "rating": {
     "stars": 5,
     "label": "Rated BMW Engine Specialists - 1,800+ Engines Rebuilt"
@@ -26,12 +26,12 @@
     },
     {
       "icon": "layers",
-      "label": "Fitted Across 14 BMW Models"
+      "label": "Fitted Across 3 BMW Models"
     }
   ],
   "priceCta": {
     "kicker": "Starting from",
-    "label": "£2,800",
+    "label": "£5,500",
     "buttonLabel": "Get a Fixed-Price Quote →",
     "href": "#quote-form"
   },
@@ -41,5 +41,8 @@
     "phone": "01268 944234",
     "href": "tel:01268944234"
   },
-  "image": "/engine_family/sec1.webp"
+  "image": "/engine_family/sec1.webp",
+  "metaTitle": "BMW S55 Engine Rebuild & Replacement",
+  "pageTitle": "BMW S55 Engine Rebuild & Replacement",
+  "metaDescription": "BMW S55 engine rebuild and replacement at BMW Garage. Contact the workshop for a quote."
 }

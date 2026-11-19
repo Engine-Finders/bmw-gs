@@ -37,18 +37,12 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "E89 (2009-2016)"
-    },
-    {
-      "icon": "price",
-      "label": "Rebuild From",
-      "value": "£3,200",
-      "highlight": true
+      "value": "E89 (2009–2016)"
     }
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The Z4 sDrive23i used two different engines across its production run - enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "Not sure which engine you have? The sDrive23i and sDrive28i are both part of the N52 engine family, with different displacements and power outputs. Enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",
@@ -64,5 +58,6 @@
       }
     ],
     "buttonLabel": "Check My Exact Engine"
-  }
+  },
+  "vehicleLabel": "BMW Z4 sDrive23i"
 }

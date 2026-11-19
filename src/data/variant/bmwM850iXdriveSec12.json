@@ -4,11 +4,15 @@
     "titleHighlight": "EVERY",
     "titlePost": " BMW M850i xDrive MODEL YEAR:",
     "years": [
-      "2013",
-      "2016",
+      "2018",
       "2019",
+      "2020",
       "2021",
-      "2023"
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
     ],
     "footer": "If your registration year or model isn't listed above, get in touch - we'll confirm availability directly against your reg.",
     "vehicleLabel": "BMW M850i xDrive"
@@ -17,8 +21,8 @@
     "titlePre": "BMW M850i xDrive ENGINE ",
     "titleHighlight": "COSTS",
     "intro": "A BMW M850i xDrive engine rebuild starts from",
-    "price": "£2,200",
-    "body": "Whether your car has the N47 or the B47. A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required - submit your registration for a fixed-price quote within 30 minutes.",
+    "price": "£6,500",
+    "body": "A BMW M850i xDrive engine rebuild starts from £6,500 for the N63 twin-turbo V8. A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
     "image": "/engines/n63-s63-engine-hero.webp",
     "warranty": {
       "line1": "12 MONTH",
@@ -29,12 +33,12 @@
       {
         "icon": "engine",
         "title": "BMW M850i xDrive ENGINE SIZES",
-        "item": "BMW M850i xDrive 2.0 Litre Engine"
+        "item": "BMW M850i xDrive 4.4 Litre Engine (N63, V8)"
       },
       {
         "icon": "fuel",
         "title": "BMW M850i xDrive FUEL TYPES",
-        "item": "BMW M850i xDrive Diesel Engine Rebuilds"
+        "item": "BMW M850i xDrive Petrol Twin-Turbo Engine Rebuilds"
       }
     ]
   },
@@ -56,5 +60,8 @@
     ],
     "viewAll": "View All BMW 8 Series Engines",
     "viewAllHref": "/bmw-8-series-engines"
-  }
+  },
+  "hidePrice": false,
+  "hideCombustion": false,
+  "vehicleLabel": "BMW M850i xDrive"
 }

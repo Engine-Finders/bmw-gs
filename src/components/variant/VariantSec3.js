@@ -9,6 +9,8 @@ export default function VariantSec3({ data }) {
   const headlineWords = data.headline.trim().split(/\s+/);
   const headlinePre = headlineWords.slice(0, -1).join(" ");
   const headlineHighlight = headlineWords.slice(-1).join(" ");
+  const hasPrice = Boolean(data.startingFromPrice);
+  const hasWarning = Boolean(data.warning);
 
   return (
     <section className="relative overflow-hidden bg-[#f3f6fb]">
@@ -16,9 +18,11 @@ export default function VariantSec3({ data }) {
       <div className="relative px-4 py-10 md:hidden">
         <MobileSplitTitle titlePre={headlinePre} titleHighlight={headlineHighlight} />
 
-        <p className="mt-2 text-sm text-[#101828]">
-          {data.startingFromLabel} <span className="font-extrabold text-hero-blue">{data.startingFromPrice}</span>
-        </p>
+        {hasPrice && (
+          <p className="mt-2 text-sm text-[#101828]">
+            {data.startingFromLabel} <span className="font-extrabold text-hero-blue">{data.startingFromPrice}</span>
+          </p>
+        )}
         <span className="mt-2 block h-0.5 w-32 bg-linear-to-r from-bmw-blue via-white to-bmw-red" />
 
         <div className={`mt-5 grid gap-3 ${data.cards.length === 1 ? "grid-cols-1" : "grid-cols-2"}`}>
@@ -67,7 +71,7 @@ export default function VariantSec3({ data }) {
           {data.cta.label} <span aria-hidden>→</span>
         </QuoteLink>
 
-        <div
+        {hasWarning && <div
           className="relative mt-5 overflow-hidden rounded-xl"
           style={{
             background: "linear-gradient(135deg, #0a1330 0%, #050a1c 100%)",
@@ -99,7 +103,7 @@ export default function VariantSec3({ data }) {
               <p className="text-[10px] italic text-white">{data.warning.source}</p>
             </div>
           </div>
-        </div>
+        </div>}
       </div>
 
       {/* ===== desktop ===== */}
@@ -119,9 +123,11 @@ export default function VariantSec3({ data }) {
             <BMWStripe className="h-6 w-11 shrink-0" />
             <h2 className="hp-h2 uppercase text-[#101828]">{data.headline}</h2>
           </div>
-          <p className="mt-2 text-lg text-[#101828]">
-            {data.startingFromLabel} <span className="font-extrabold text-hero-blue">{data.startingFromPrice}</span>
-          </p>
+          {hasPrice && (
+            <p className="mt-2 text-lg text-[#101828]">
+              {data.startingFromLabel} <span className="font-extrabold text-hero-blue">{data.startingFromPrice}</span>
+            </p>
+          )}
           <span className="mt-3 block h-0.5 w-56 bg-linear-to-r from-bmw-blue via-white to-bmw-red" />
 
           <div
@@ -174,7 +180,7 @@ export default function VariantSec3({ data }) {
             </div>
           </div>
 
-          <div
+          {hasWarning && <div
             className="relative mt-6 overflow-hidden rounded-2xl"
             style={{ boxShadow: "0 0 0 1px rgba(90,170,255,0.35), 0 25px 60px -25px rgba(0,127,248,0.5)" }}
           >
@@ -207,7 +213,7 @@ export default function VariantSec3({ data }) {
                 <p className="text-xs italic text-white">{data.warning.source}</p>
               </div>
             </div>
-          </div>
+          </div>}
         </div>
       </div>
     </section>

@@ -15,42 +15,40 @@
     "image": "/engines/n63-s63-engine-hero.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(F06/F12/F13, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early F06/F12/F13 650i. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 650i",
-        "codeHref": "/bmw-n47-engine"
+        "codeHighlight": "N63",
+        "codeRest": "(2011–2015)",
+        "body": "A 4.4‑litre V8 twin‑turbo petrol engine fitted to the 650i from launch in 2011 through to the 2015 model‑year update. This is BMW's original hot‑vee V8 design, with the turbochargers nestled in the V of the engine — a layout that generates significant heat and is known to cause accelerated wear on valve seals and coolant components over time. We replace timing chains, valve seals, coolant components and bearings as standard on every N63 rebuild.",
+        "cta": "Check Your N63 BMW 650i",
+        "codeHref": "/bmw-n63-engine"
       },
       {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(F06/F12/F13, 2015-2019 / F06/F12/F13, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 650i",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "N63TU",
+        "codeRest": "(2015–2018)",
+        "body": "The technical‑update version of the N63, introduced for the 2015 model year and fitted to the 650i until production ended in 2018. It shares the same 4.4‑litre V8 twin‑turbo layout but includes revised pistons, timing chain guides, and cooling system upgrades — a meaningful improvement, but still subject to the same hot‑vee turbo heat‑soak pattern as its predecessor. We service it to the same standard as the N63, with the same component replacements on every rebuild.",
+        "cta": "Check Your N63TU BMW 650i",
+        "codeHref": "/bmw-n63-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW 650i ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the 650i spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the 650i spans two engine revisions (N63 and N63TU) within the same chassis generations, a like‑for‑like replacement requires correct identification — you cannot simply swap an early N63 into a later TU‑spec car without accounting for ECU and ancillary differences. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "N63 / N63TU",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact engine code (N63 or N63TU) via registration or VIN"
       },
       {
         "icon": "car",
-        "text": "Your generation (F06/F12/F13 or F06/F12/F13)"
+        "text": "Your chassis generation (F06/F12/F13)"
       },
       {
         "icon": "gears",
@@ -58,10 +56,10 @@
       },
       {
         "icon": "code",
-        "text": "Any electronics or ECU considerations specific to your exact build"
+        "text": "Any electronics or ECU considerations specific to your build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic 650i quote - it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic 650i quote — it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "BMW 650i ",
@@ -78,27 +76,20 @@
       {
         "generation": "F06/F12/F13",
         "chassis": "F06/F12/F13",
-        "years": "2012-2015",
-        "engineCode": "N47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-n47-engine"
+        "years": "2011–2015",
+        "engineCode": "N63",
+        "fuel": "Petrol Twin‑Turbo",
+        "codeHref": "/bmw-n63-engine"
       },
       {
         "generation": "F06/F12/F13",
         "chassis": "F06/F12/F13",
-        "years": "2015-2019",
-        "engineCode": "B47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-b47-engine"
-      },
-      {
-        "generation": "F06/F12/F13",
-        "chassis": "F06/F12/F13",
-        "years": "2019-2024",
-        "engineCode": "B47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-b47-engine"
+        "years": "2015–2018",
+        "engineCode": "N63TU",
+        "fuel": "Petrol Twin‑Turbo",
+        "codeHref": "/bmw-n63-engine"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW 650i"
 }

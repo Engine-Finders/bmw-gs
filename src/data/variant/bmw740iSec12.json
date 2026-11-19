@@ -4,11 +4,18 @@
     "titleHighlight": "EVERY",
     "titlePost": " BMW 740i MODEL YEAR:",
     "years": [
-      "2013",
+      "2015",
       "2016",
+      "2017",
+      "2018",
       "2019",
+      "2020",
       "2021",
-      "2023"
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
     ],
     "footer": "If your registration year or model isn't listed above, get in touch - we'll confirm availability directly against your reg.",
     "vehicleLabel": "BMW 740i"
@@ -17,8 +24,8 @@
     "titlePre": "BMW 740i ENGINE ",
     "titleHighlight": "COSTS",
     "intro": "A BMW 740i engine rebuild starts from",
-    "price": "£2,200",
-    "body": "Whether your car has the N47 or the B47. A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required - submit your registration for a fixed-price quote within 30 minutes.",
+    "price": "£2,800",
+    "body": "A BMW 740i engine rebuild starts from £2,800, for both G11/G12 and G70 generations. A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
     "image": "/engines/b58-engine.webp",
     "warranty": {
       "line1": "12 MONTH",
@@ -29,12 +36,12 @@
       {
         "icon": "engine",
         "title": "BMW 740i ENGINE SIZES",
-        "item": "BMW 740i 2.0 Litre Engine"
+        "item": "BMW 740i 3.0 Litre Engine (B58, I6)"
       },
       {
         "icon": "fuel",
         "title": "BMW 740i FUEL TYPES",
-        "item": "BMW 740i Diesel Engine Rebuilds"
+        "item": "BMW 740i Petrol Engine Rebuilds"
       }
     ]
   },
@@ -68,5 +75,8 @@
     ],
     "viewAll": "View All BMW 7 Series Engines",
     "viewAllHref": "/bmw-7-series-engines"
-  }
+  },
+  "hidePrice": false,
+  "hideCombustion": false,
+  "vehicleLabel": "BMW 740i"
 }

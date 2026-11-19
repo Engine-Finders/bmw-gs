@@ -2,7 +2,7 @@
   "image": "/variant/sec11.webp",
   "titlePre": "BMW 740i ENGINES ",
   "titleHighlight": "BY YEAR",
-  "description": "From the N47 to the B47 - here's a quick guide to the engines fitted to the BMW 740i over the years. If you're unsure which one you have, we'll confirm it before you book.",
+  "description": "The B58 engine code is used across BMW 740i model years. If you're unsure which one you have, we'll confirm it before you book.",
   "columns": [
     {
       "icon": "calendar",
@@ -87,12 +87,37 @@
       "generation": "G11/G12",
       "engineCode": "B58",
       "fuel": "Petrol",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-b58-engine"
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2023",
+      "generation": "G70",
+      "engineCode": "B58",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2024",
+      "generation": "G70",
+      "engineCode": "B58",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2025",
+      "generation": "G70",
+      "engineCode": "B58",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2026",
+      "generation": "G70",
+      "engineCode": "B58",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
     }
   ],
-  "notice": {
-    "highlight": "2015 and 2019",
-    "rest": " were transition years between generations and engine codes - if your registration falls in either, we'll confirm your exact engine before quoting."
-  }
+  "notice": null,
+  "vehicleLabel": "BMW 740i"
 }

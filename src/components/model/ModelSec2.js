@@ -6,7 +6,7 @@ export default function ModelSec2({ data }) {
   const [line1, line2] = data.h2.split("|");
 
   const allCards = [
-    { icon: data.callout.icon, title: data.callout.title, body: data.callout.body },
+    ...(data.callout ? [{ icon: data.callout.icon, title: data.callout.title, body: data.callout.body }] : []),
     ...data.features,
   ];
 
@@ -105,7 +105,7 @@ export default function ModelSec2({ data }) {
             </div>
 
             {/* floating callout card */}
-            <div className="card-glare-light absolute bottom-5 right-6 max-w-xs rounded-xl border border-white/60 bg-white/90 p-5 backdrop-blur-md lg:bottom-6 lg:right-10 lg:max-w-sm lg:p-6">
+            {data.callout && <div className="card-glare-light absolute bottom-5 right-6 max-w-xs rounded-xl border border-white/60 bg-white/90 p-5 backdrop-blur-md lg:bottom-6 lg:right-10 lg:max-w-sm lg:p-6">
               <div className="flex items-start gap-4">
                 <span className="flex h-13 w-13 shrink-0 items-center justify-center rounded-full bg-hero-blue/10">
                   <Icon name={data.callout.icon} className="h-8 w-8 text-hero-blue" />
@@ -115,7 +115,7 @@ export default function ModelSec2({ data }) {
                   <p className="mt-2 text-base leading-relaxed text-[#101828]">{data.callout.body}</p>
                 </div>
               </div>
-            </div>
+            </div>}
           </div>
 
           {/* feature bar - same card, same bg as the image panel above */}

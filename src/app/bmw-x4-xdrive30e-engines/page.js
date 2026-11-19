@@ -33,8 +33,8 @@ const NAME = variantSec1.h1?.replaceAll("|", " ");
 const FAQ = [...(variantSec13.faqLeft || []), ...(variantSec13.faqRight || [])];
 
 export const metadata = {
-  title: variantSec1.h1?.replaceAll("|", " ") || "bmw-x4-xdrive30e-engines",
-  description: variantSec1.subhead || "",
+  title: "BMW X4 xDrive30e Engine Rebuild & Replacement | From £2,200",
+  description: "BMW X4 xDrive30e plug-in hybrid engine rebuild from £2,200. B48 petrol specialist, PHEV powertrain expert. 12-month warranty, nationwide recovery. Free quote in 30 mins.",
   alternates: { canonical: PATH },
 };
 
@@ -43,7 +43,7 @@ export default function BmwX4Xdrive30eEnginesPage() {
     <>
       <JsonLd
         data={graphDoc([
-          serviceSchema({ name: NAME, description: variantSec1.subhead, path: PATH, price: (variantSec1.priceCta?.kicker || variantSec1.h1) }),
+          serviceSchema({ name: NAME, description: variantSec1.subhead, path: PATH, price: variantSec1.priceCta?.price }),
           faqSchema(FAQ, PATH),
           breadcrumbSchema([{ name: "Home", path: "/" }, { name: "Variants", path: "/variants" }, { name: NAME, path: PATH }], PATH),
         ])}

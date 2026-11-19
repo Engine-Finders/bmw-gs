@@ -1,53 +1,21 @@
 {
-  "headline": "BMW X6 xDrive50i Engine Rebuild Price",
+  "headline": "BMW X6 Engine Rebuild Price",
   "startingFromLabel": "Starting From",
-  "startingFromPrice": "£2,200",
+  "startingFromPrice": "£4,500",
   "engineImage": "/engines/bmw-x6-xdrive50i-engine.webp",
   "cards": [
     {
-      "code": "N63",
       "image": "/engines/n63-s63-engine-hero.webp",
-      "generation": "F16 (2014-2019)",
+      "code": "N63",
+      "generation": "xDrive50i",
       "price": "£4,500",
       "codeHref": "/bmw-n63-engine"
-    },
-    {
-      "code": "N57",
-      "image": "/engines/n57-engine-hero.webp",
-      "generation": "F16 (2014-2019)",
-      "price": "£2,800",
-      "codeHref": "/bmw-n57-engine"
-    },
-    {
-      "code": "B58",
-      "image": "/engines/b58-engine.webp",
-      "generation": "G06 (2019-present)",
-      "price": "£3,200",
-      "codeHref": "/bmw-b58-engine"
-    },
-    {
-      "code": "B57",
-      "image": "/engines/b57-engine.webp",
-      "generation": "G06 (2019-present)",
-      "price": "£2,800",
-      "codeHref": "/bmw-b57-engine"
-    },
-    {
-      "code": "S63",
-      "image": "/engines/n63-s63-engine-hero.webp",
-      "generation": "G06 (2020-present)",
-      "price": "£6,500",
-      "codeHref": "/bmw-s63-engine"
     }
   ],
   "notes": [
     {
       "icon": "layers",
-      "text": "All engine codes sit on the same rebuild tier."
-    },
-    {
-      "icon": "price",
-      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
+      "text": "The xDrive50i sits on the V8 tier. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -55,14 +23,6 @@
     "label": "Get Your Fixed-Price Quote",
     "href": "#quote-form"
   },
-  "warning": {
-    "bgImage": "/variant/sec3_lower_div_bg.webp",
-    "titlePre": "BMW X6 xDrive50i Timing Chain Failure ",
-    "titleHighlight": "(F16, N47)",
-    "paragraphs": [
-      "If your X6 xDrive50i is a pre-2015 model with the N47 diesel engine - that's the early F16 generation - timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-      "The later F16 (2015-onwards) and F16 generations use a different engine, the B47, which is significantly more reliable and doesn't share this specific issue."
-    ],
-    "source": "Source: NHTSA Recall 18V-755 - Timing Chain Guide Wear in N47 Engines (2012-2015)"
-  }
+  "warning": null,
+  "vehicleLabel": "BMW X6 xDrive50i"
 }

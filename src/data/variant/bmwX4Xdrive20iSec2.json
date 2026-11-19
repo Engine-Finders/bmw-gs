@@ -38,17 +38,11 @@
       "icon": "calendar",
       "label": "Generations",
       "value": "F26 (2014-2018)"
-    },
-    {
-      "icon": "price",
-      "label": "Rebuild From",
-      "value": "£2,200",
-      "highlight": true
     }
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The X4 xDrive20i used two different engines across its production run - enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The X4 xDrive20i used two different engines across its production run - enter your registration below and we'll confirm your exact engine specification before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",
@@ -64,5 +58,6 @@
       }
     ],
     "buttonLabel": "Check My Exact Engine"
-  }
+  },
+  "vehicleLabel": "BMW X4 xDrive20i"
 }

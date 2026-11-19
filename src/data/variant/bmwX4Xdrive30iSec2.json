@@ -37,18 +37,12 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "G02 (2018-present)"
-    },
-    {
-      "icon": "price",
-      "label": "Rebuild From",
-      "value": "£2,200",
-      "highlight": true
+      "value": "G02 (2018–present)"
     }
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The X4 xDrive30i used two different engines across its production run - enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "Not sure which engine you have? The X4 xDrive20i and xDrive30i both use the B48 engine across the current G02 generation. Enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",
@@ -64,5 +58,6 @@
       }
     ],
     "buttonLabel": "Check My Exact Engine"
-  }
+  },
+  "vehicleLabel": "BMW X4 xDrive30i"
 }

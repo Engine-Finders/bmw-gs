@@ -1,8 +1,8 @@
 {
   "image": "/variant/sec11.webp",
-  "titlePre": "BMW 740d xDrive ENGINES ",
+  "titlePre": "BMW 7 Series 740d xDrive ENGINES ",
   "titleHighlight": "BY YEAR",
-  "description": "From the N47 to the B47 - here's a quick guide to the engines fitted to the BMW 740d xDrive over the years. If you're unsure which one you have, we'll confirm it before you book.",
+  "description": "The B57 engine code is used across BMW 7 Series 740d xDrive model years. If you're unsure which one you have, we'll confirm it before you book.",
   "columns": [
     {
       "icon": "calendar",
@@ -63,12 +63,9 @@
       "generation": "G70",
       "engineCode": "B57",
       "fuel": "Diesel",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-b57-engine"
+      "service": "Rebuild / Replacement"
     }
   ],
-  "notice": {
-    "highlight": "2015 and 2019",
-    "rest": " were transition years between generations and engine codes - if your registration falls in either, we'll confirm your exact engine before quoting."
-  }
+  "notice": null,
+  "vehicleLabel": "BMW 7 Series 740d xDrive"
 }

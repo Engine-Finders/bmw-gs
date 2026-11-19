@@ -5,23 +5,23 @@
   "titleBigPost": " B57",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on BMW engines every day.",
-    "Here's our practical view of the B57 across all 14 model applications."
+    "Here's our practical view of the B57 across all 11 model applications."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The B57 is one of the broadest-application engines we work on - the same base engine across 14 model lines, spanning saloons, SUVs, a roadster and now a hybrid SUV flagship."
+      "body": "The B57 is one of the broadest-application diesel engines we work on — the same base engine across 11 model lines, spanning saloons, coupes, estates, and SUVs."
     },
     {
       "icon": "wrench",
       "title": "WHAT WE REPLACE:",
-      "body": "Timing chain, bearings, and gaskets as standard on every rebuild, with hybrid-system ancillaries additionally accounted for on MHEV/PHEV applications."
+      "body": "Timing chain, bearings, gaskets, and oil filter housing gasket as standard on every rebuild. Additional components are inspected and measured — crankshaft, cylinder head, VANOS components, oil pump, cooling system, fuel injectors, HPFP, turbocharger, PCV system."
     },
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported pattern is confirmed for the B57 across any of its 14 applications. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented - for the B57, we don't have one to report, and we won't invent one to sound more thorough."
+      "body": "No widely-reported pattern is confirmed for the B57 across any of its 11 applications. The B57 is the successor to the N57 and features improved design throughout — for the B57, we don't have a specific failure pattern to report, and we won't invent one to sound more thorough."
     }
   ],
   "notice": {

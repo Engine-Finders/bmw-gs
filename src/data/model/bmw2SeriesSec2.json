@@ -5,11 +5,7 @@
   "descriptionEmphasis": "No hidden extras.",
   "image": "/model/sec2.webp",
   "imageMobile": "/model/sec2_mobile.jpg",
-  "callout": {
-    "icon": "shield-check",
-    "title": "A Well-Documented Issue",
-    "body": "The N47 rear-mounted timing chain stretch is widely documented across BMW forums, independent specialists and official TSBs."
-  },
+  "callout": null,
   "features": [
     {
       "icon": "link",

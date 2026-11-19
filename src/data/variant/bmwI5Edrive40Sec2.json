@@ -30,25 +30,14 @@
       "value": "Fully electric motor"
     },
     {
-      "icon": "gauge",
-      "label": "Capacity",
-      "value": "2.0L"
-    },
-    {
       "icon": "calendar",
       "label": "Generations",
       "value": "G60 (2023-present)"
-    },
-    {
-      "icon": "price",
-      "label": "Rebuild From",
-      "value": "£2,800",
-      "highlight": true
     }
   ],
   "lookup": {
-    "title": "Not sure which engine you have?",
-    "body": "The i5 eDrive40 used two different engines across its production run - enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "title": "Not sure which motor you have?",
+    "body": "Not sure which motor you have? Enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",
@@ -64,5 +53,6 @@
       }
     ],
     "buttonLabel": "Check My Exact Engine"
-  }
+  },
+  "vehicleLabel": "BMW i5 eDrive40"
 }

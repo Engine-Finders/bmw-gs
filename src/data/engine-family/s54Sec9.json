@@ -4,20 +4,20 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW S54",
     "titlePost": " ENGINE",
-    "body": "The S54 is BMW's modular turbocharged inline-six petrol engine, in production since 2015. It's one of the most widely-deployed engines in the current BMW range, fitted across every mainstream model line from the 2 Series up to the flagship 8 Series and X7, plus the new XM and the Z4 roadster. Beyond BMW itself, the same engine family (in modified form) is also used by Toyota in the GR Supra - a detail worth knowing if you're researching this engine's reputation more broadly, though our work here covers BMW-badged applications specifically."
+    "body": "The S54 is BMW M's naturally aspirated 3.2-litre inline-six petrol engine, produced from 2000 to 2008. It's the engine that powered the E46 M3 and the Z4 M, and it's regarded as one of the classic M engines from the naturally aspirated era. In the E46 M3, the S54 produced 338 bhp, while the Z4 M application delivered 330 bhp — a modest difference in output between the two applications, both of which we work on regularly."
   },
   "byModel": {
     "image": "/engine_family/sec9_middle.webp",
     "titlePre": "BMW S54",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "Across the 3 Series, the S54 has powered the 340i (F30/F31, 2015-2019) and continues in the current M340i xDrive (G20/G21). The 4 Series follows the same pattern with the 440i (F32/F33/F36) and current M440i xDrive. The 5 Series carries it in the 540i across three generations, including the current PHEV-badged 550e xDrive. The 6 Series used it in the 640i during its final F06/F12/F13 generation. Both the 7 Series and 8 Series use it as their six-cylinder petrol option, in the 730i/740i and 840i respectively. Across the SUV range, the S54 appears in the X3 M40i and current M50 xDrive, the X4 M40i, and as the six-cylinder option throughout X5, X6 and X7, including their PHEV-badged 50e variants. It's also the entry-level combustion engine in the new XM 50e, and powers the current Z4 M40i."
+    "body": "The S54 appears in two principal applications. The E46 M3 (2001–2006) is the most common S54 application we see — a car that's now well into enthusiast ownership and frequently requires engine work to maintain its original performance. The Z4 M (E85/E86, 2006–2008) uses the same engine, though in a different chassis with a different engine bay layout. Both applications share the same core S54 engine with minor output differences."
   },
   "compatibility": {
     "image": "/engine_family/sec9_bottom.webp",
     "titlePre": "BMW S54",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the S54 spans 14 different models and multiple generations - some in standard petrol form, others as mild-hybrid or plug-in hybrid applications - compatibility comes down to confirming your exact model, generation, and drivetrain spec, which we do by registration. A S54 from a 2 Series isn't a drop-in match for a S54 from an X7, even though it's the same base engine code - ancillaries, mounting, and hybrid-system integration all differ. Before we quote or supply anything, we confirm your exact vehicle."
+    "body": "Because the S54 is used across only two applications — the E46 M3 and Z4 M — the compatibility question is simpler than with some of the more broadly-deployed engines in our network. An S54 from an E46 M3 isn't automatically a drop-in match for a Z4 M, even though the base engine code is the same. Ancillaries, mounting, and engine bay packaging all differ between the two chassis. Before we quote or supply anything, we confirm your exact vehicle."
   }
 }

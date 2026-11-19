@@ -25,8 +25,8 @@
       "model": "M3",
       "variant": "M3",
       "generation": "E46",
+      "years": "2001–2006",
       "chassis": "E46",
-      "years": "2001-2006",
       "modelHref": "/bmw-m3-engines",
       "variantHref": "/bmw-m3-engines"
     },
@@ -34,8 +34,8 @@
       "model": "Z4",
       "variant": "Z4 M",
       "generation": "E85/E86",
+      "years": "2006–2008",
       "chassis": "E85/E86",
-      "years": "2006-2008",
       "modelHref": "/bmw-z4-engines"
     }
   ],

@@ -15,53 +15,44 @@
     "image": "/engines/m40d-engine.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(G20/G21, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early G20/G21 M340d xDriv. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 M340d xDriv",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(G20/G21, 2015-2019 / G20/G21, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 M340d xDriv",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "B57",
+        "codeRest": "",
+        "body": "The BMW B57 is a 3.0-litre twin-turbo diesel straight-six, fitted to the M340d xDrive from 2019 to 2024 (UK). This generation of engine is generally reliable, with no specific widespread failure pattern confirmed for this application. We replace timing chain components, injector seals, and gaskets as standard on every B57 rebuild.",
+        "cta": "Check Your B57 BMW M340d xDrive",
+        "codeHref": "/bmw-b57-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW M340d xDriv ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the M340d xDriv spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "The M340d xDrive uses the B57 engine, a version of BMW's modular engine family. When quoting or supplying a rebuild, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "B57",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact engine code (B57) via registration or VIN"
       },
       {
         "icon": "car",
-        "text": "Your generation (G20/G21 or G20/G21)"
+        "text": "Your generation (G20/G21)"
       },
       {
         "icon": "gears",
-        "text": "Drivetrain and ancillary specification"
+        "text": "Drivetrain (xDrive) and ancillary specification"
       },
       {
         "icon": "code",
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic M340d xDriv quote - it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic M340d xDrive quote — it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "BMW M340d xDriv ",
@@ -77,31 +68,14 @@
     "rows": [
       {
         "generation": "G20/G21",
+        "chassis": "G20/G21",
+        "years": "2019–2024 (UK)",
+        "engineCode": "B57",
+        "fuel": "Diesel",
         "image": "/cars/card/3-series-g20-lci-m340i-xdrive-2022.webp",
-        "chassis": "G20/G21",
-        "years": "2012-2015",
-        "engineCode": "N47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "generation": "G20/G21",
-        "image": "/cars/card/3-series-g20-m340i-xdrive-2019.webp",
-        "chassis": "G20/G21",
-        "years": "2015-2019",
-        "engineCode": "B47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-b47-engine"
-      },
-      {
-        "generation": "G20/G21",
-        "image": "/cars/card/3-series-g20-m340i-xdrive-2019.webp",
-        "chassis": "G20/G21",
-        "years": "2019-2024",
-        "engineCode": "B47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-b47-engine"
+        "codeHref": "/bmw-b57-engine"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW M340d xDrive"
 }

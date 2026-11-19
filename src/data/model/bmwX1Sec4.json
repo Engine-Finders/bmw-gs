@@ -7,6 +7,7 @@
     "Engine Family",
     "Fuel",
     "Size",
+    "Chassis / Generation",
     "Rebuild Price Range"
   ],
   "rows": [
@@ -14,22 +15,22 @@
       "family": "N47",
       "fuel": "Diesel",
       "size": "2.0L",
-      "range": "E84",
-      "familyHref": "/bmw-n47-engine"
+      "chassis": "E84",
+      "range": "£1,900 – £2,800"
     },
     {
       "family": "B47",
       "fuel": "Diesel",
       "size": "2.0L",
-      "range": "F48 / U11",
-      "familyHref": "/bmw-b47-engine"
+      "chassis": "F48 / U11",
+      "range": "£2,100 – £2,900"
     },
     {
       "family": "N20 / B48",
       "fuel": "Petrol",
       "size": "2.0L",
-      "range": "E84 / F48 / U11",
-      "familyHref": "/bmw-b48-engine"
+      "chassis": "E84 / F48 / U11",
+      "range": "£2,600 – £3,400"
     }
   ],
   "features": [

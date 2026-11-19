@@ -4,20 +4,20 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW S85",
     "titlePost": " ENGINE",
-    "body": "The S85 is BMW's modular turbocharged inline-six petrol engine, in production since 2015. It's one of the most widely-deployed engines in the current BMW range, fitted across every mainstream model line from the 2 Series up to the flagship 8 Series and X7, plus the new XM and the Z4 roadster. Beyond BMW itself, the same engine family (in modified form) is also used by Toyota in the GR Supra - a detail worth knowing if you're researching this engine's reputation more broadly, though our work here covers BMW-badged applications specifically."
+    "body": "The S85 is BMW M's naturally aspirated 5.0-litre V10 engine, produced between 2005 and 2010. It's one of the most distinctive engines BMW M has ever built — the only production V10 ever fitted to a BMW-badged car — and powers two of the brand's most celebrated performance models: the E60/E61-generation M5 and the E63/E64-generation M6. The S85's high-revving character and Formula 1-inspired architecture set it apart from the turbocharged V8s that followed, and it remains a cult favourite among BMW M enthusiasts. Our workshop experience on this engine spans both the M5 and M6 applications, and we rebuild them to factory specification."
   },
   "byModel": {
     "image": "/engine_family/sec9_middle.webp",
     "titlePre": "BMW S85",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "Across the 3 Series, the S85 has powered the 340i (F30/F31, 2015-2019) and continues in the current M340i xDrive (G20/G21). The 4 Series follows the same pattern with the 440i (F32/F33/F36) and current M440i xDrive. The 5 Series carries it in the 540i across three generations, including the current PHEV-badged 550e xDrive. The 6 Series used it in the 640i during its final F06/F12/F13 generation. Both the 7 Series and 8 Series use it as their six-cylinder petrol option, in the 730i/740i and 840i respectively. Across the SUV range, the S85 appears in the X3 M40i and current M50 xDrive, the X4 M40i, and as the six-cylinder option throughout X5, X6 and X7, including their PHEV-badged 50e variants. It's also the entry-level combustion engine in the new XM 50e, and powers the current Z4 M40i."
+    "body": "The S85 appears in exactly two BMW models. In the M5, it powered the E60 saloon and E61 Touring across the full 2005–2010 production run. In the M6, it appeared in the E63 coupe and E64 convertible across 2006–2010. Both applications use the same base engine, though specific ancillaries and mounting differ between the two models — a factor we account for during any rebuild."
   },
   "compatibility": {
     "image": "/engine_family/sec9_bottom.webp",
     "titlePre": "BMW S85",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the S85 spans 14 different models and multiple generations - some in standard petrol form, others as mild-hybrid or plug-in hybrid applications - compatibility comes down to confirming your exact model, generation, and drivetrain spec, which we do by registration. A S85 from a 2 Series isn't a drop-in match for a S85 from an X7, even though it's the same base engine code - ancillaries, mounting, and hybrid-system integration all differ. Before we quote or supply anything, we confirm your exact vehicle."
+    "body": "Because the S85 was fitted to only two models — the E60/E61 M5 and E63/E64 M6 — compatibility is simpler than with more broadly-deployed engines, but it still comes down to confirming your exact model and chassis. An S85 from an M5 isn't automatically a drop-in match for an S85 from an M6, even though it's the same base engine code — ancillaries and mounting differ. Before we quote or supply anything, we confirm your exact vehicle."
   }
 }

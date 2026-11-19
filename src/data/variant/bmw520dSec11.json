@@ -1,8 +1,8 @@
 {
   "image": "/variant/sec11.webp",
-  "titlePre": "BMW 520d ENGINES ",
+  "titlePre": "BMW 5 Series 520d ENGINES ",
   "titleHighlight": "BY YEAR",
-  "description": "From the N47 to the B47 - here's a quick guide to the engines fitted to the BMW 520d over the years. If you're unsure which one you have, we'll confirm it before you book.",
+  "description": "The N47 or B47 engine codes are used across BMW 5 Series 520d model years. If you're unsure which one you have, we'll confirm it before you book.",
   "columns": [
     {
       "icon": "calendar",
@@ -84,19 +84,11 @@
     },
     {
       "year": "2017",
-      "generation": "F10/F11",
-      "engineCode": "N47",
+      "generation": "F10/F11/G30/G31",
+      "engineCode": "N47/B47",
       "fuel": "Diesel",
       "service": "Rebuild / Replacement",
       "codeHref": "/bmw-n47-engine"
-    },
-    {
-      "year": "2017",
-      "generation": "G30/G31",
-      "engineCode": "B47",
-      "fuel": "Diesel",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-b47-engine"
     },
     {
       "year": "2018",
@@ -140,15 +132,7 @@
     },
     {
       "year": "2023",
-      "generation": "G30/G31",
-      "engineCode": "B47",
-      "fuel": "Diesel",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-b47-engine"
-    },
-    {
-      "year": "2023",
-      "generation": "G60",
+      "generation": "G30/G31/G60",
       "engineCode": "B47",
       "fuel": "Diesel",
       "service": "Rebuild / Replacement",
@@ -175,12 +159,9 @@
       "generation": "G60",
       "engineCode": "B47",
       "fuel": "Diesel",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-b47-engine"
+      "service": "Rebuild / Replacement"
     }
   ],
-  "notice": {
-    "highlight": "2015 and 2019",
-    "rest": " were transition years between generations and engine codes - if your registration falls in either, we'll confirm your exact engine before quoting."
-  }
+  "notice": null,
+  "vehicleLabel": "BMW 5 Series 520d"
 }

@@ -57,24 +57,29 @@ export default function VariantSec13({ data }) {
 
   const [formHighlightWord1, ...formHighlightRestWords] = data.form.headlineHighlight.split(" ");
   const formMobileLine2 = formHighlightRestWords.join(" ");
+  const hasFaq = Boolean(data.faqLeft?.length || data.faqRight?.length);
 
   return (
     <section id="quote-form" className="relative scroll-mt-6 overflow-hidden bg-[#eef2f7]">
       {/* ===== mobile ===== */}
       <div className="relative px-4 py-7 md:hidden">
-        <div className="flex items-center gap-2">
-          <BMWStripe className="h-4 w-8 shrink-0" />
-          <h2 className="hp-h2 uppercase">
-            <span className="text-[#101828]">{data.kicker} </span>
-            <span className="text-hero-blue">{data.kickerHighlight}</span>
-          </h2>
-        </div>
+        {hasFaq && (
+          <>
+            <div className="flex items-center gap-2">
+              <BMWStripe className="h-4 w-8 shrink-0" />
+              <h2 className="hp-h2 uppercase">
+                <span className="text-[#101828]">{data.kicker} </span>
+                <span className="text-hero-blue">{data.kickerHighlight}</span>
+              </h2>
+            </div>
 
-        <div className="mt-4 space-y-3">
-          {[...data.faqLeft, ...data.faqRight].map((item, i) => (
-            <FaqCard key={item.q} item={item} isOpen={openIndex.has(i)} onToggle={() => toggle(i)} compact />
-          ))}
-        </div>
+            <div className="mt-4 space-y-3">
+              {[...(data.faqLeft || []), ...(data.faqRight || [])].map((item, i) => (
+                <FaqCard key={item.q} item={item} isOpen={openIndex.has(i)} onToggle={() => toggle(i)} compact />
+              ))}
+            </div>
+          </>
+        )}
 
         {/* quote form */}
         <form
@@ -151,27 +156,31 @@ export default function VariantSec13({ data }) {
       {/* ===== desktop ===== */}
       <div className="relative hidden px-4 py-10 sm:px-6 md:block lg:px-8">
       <div className="relative mx-auto max-w-6xl">
-        <div className="flex items-center gap-2">
-          <BMWStripe className="h-6 w-11 shrink-0" />
-          <h2 className="hp-h2 uppercase">
-            <span className="text-[#101828]">{data.kicker} </span>
-            <span className="text-hero-blue">{data.kickerHighlight}</span>
-          </h2>
-        </div>
+        {hasFaq && (
+          <>
+            <div className="flex items-center gap-2">
+              <BMWStripe className="h-6 w-11 shrink-0" />
+              <h2 className="hp-h2 uppercase">
+                <span className="text-[#101828]">{data.kicker} </span>
+                <span className="text-hero-blue">{data.kickerHighlight}</span>
+              </h2>
+            </div>
 
-        <div className="mt-5 grid grid-cols-2 gap-4">
-          <div className="space-y-4">
-            {data.faqLeft.map((item, i) => (
-              <FaqCard key={item.q} item={item} isOpen={openIndex.has(i)} onToggle={() => toggle(i)} />
-            ))}
-          </div>
-          <div className="space-y-4">
-            {data.faqRight.map((item, i) => {
-              const idx = data.faqLeft.length + i;
-              return <FaqCard key={item.q} item={item} isOpen={openIndex.has(idx)} onToggle={() => toggle(idx)} />;
-            })}
-          </div>
-        </div>
+            <div className="mt-5 grid grid-cols-2 gap-4">
+              <div className="space-y-4">
+                {(data.faqLeft || []).map((item, i) => (
+                  <FaqCard key={item.q} item={item} isOpen={openIndex.has(i)} onToggle={() => toggle(i)} />
+                ))}
+              </div>
+              <div className="space-y-4">
+                {(data.faqRight || []).map((item, i) => {
+                  const idx = (data.faqLeft || []).length + i;
+                  return <FaqCard key={item.q} item={item} isOpen={openIndex.has(idx)} onToggle={() => toggle(idx)} />;
+                })}
+              </div>
+            </div>
+          </>
+        )}
 
         {/* quote form */}
         <form

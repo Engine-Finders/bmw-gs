@@ -5,23 +5,23 @@
   "titleBigPost": " N63",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on BMW engines every day.",
-    "Here's our practical view of the N63 across all 14 model applications."
+    "Here's our practical view of the N63 across all 4 model applications."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The N63 is one of the broadest-application engines we work on - the same base engine across 14 model lines, spanning saloons, SUVs, a roadster and now a hybrid SUV flagship."
+      "body": "The N63 is a V8 we work on across four BMW model lines — the 6 Series, 8 Series, X5 and X6 — across multiple generations spanning 2009 to the present."
     },
     {
       "icon": "wrench",
       "title": "WHAT WE REPLACE:",
-      "body": "Timing chain, bearings, and gaskets as standard on every rebuild, with hybrid-system ancillaries additionally accounted for on MHEV/PHEV applications."
+      "body": "Timing chain components, bearings, and the complete gasket and seal set as standard on every rebuild, with valve stem seals and cooling system components inspected and replaced where required."
     },
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported pattern is confirmed for the N63 across any of its 14 applications. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented - for the N63, we don't have one to report, and we won't invent one to sound more thorough."
+      "body": "The N63's hot-vee design — turbochargers mounted inside the V between the cylinder banks — is a genuine platform characteristic that can contribute to heat-related component degradation over time. Valve stem seal leaks and timing chain stretch are documented wear patterns on this engine. Diagnosis is required to establish whether an engine needs repair, rebuild or replacement."
     }
   ],
   "notice": {

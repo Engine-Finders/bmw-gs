@@ -7,6 +7,7 @@
     "Engine Family",
     "Fuel",
     "Size",
+    "Chassis / Generation",
     "Rebuild Price Range"
   ],
   "rows": [
@@ -14,29 +15,29 @@
       "family": "S62",
       "fuel": "Petrol",
       "size": "5.0L V8",
-      "range": "E39",
-      "familyHref": "/bmw-s62-engine"
+      "chassis": "E39",
+      "range": "£5,500 – £8,000"
     },
     {
       "family": "S85",
       "fuel": "Petrol",
       "size": "5.0L V10",
-      "range": "E60",
-      "familyHref": "/bmw-s85-engine"
+      "chassis": "E60",
+      "range": "£6,500 – £9,500"
     },
     {
       "family": "S63",
       "fuel": "Petrol",
       "size": "4.4L Twin-Turbo V8",
-      "range": "F10/F90",
-      "familyHref": "/bmw-s63-engine"
+      "chassis": "F10/F90",
+      "range": "£6,500 – £9,500"
     },
     {
       "family": "S68 (hybrid)",
       "fuel": "Petrol",
       "size": "4.4L Twin-Turbo V8",
-      "range": "G90",
-      "familyHref": "/bmw-s68-engine"
+      "chassis": "G90",
+      "range": "£6,500 – £10,500"
     }
   ],
   "features": [

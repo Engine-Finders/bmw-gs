@@ -5,6 +5,7 @@ import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
 
 export default function ModelSec15({ data }) {
+  const hasChecklist = Boolean(data.checklistHref && [...(data.checklistLeft || []), ...(data.checklistRight || [])].length);
   const headlineWords = data.headlinePre.split(" ");
   const mobileLine1 = headlineWords.slice(0, -1).join(" ");
   const mobileLine2 = `${headlineWords[headlineWords.length - 1]} ${data.headlineHighlight}`;
@@ -34,7 +35,7 @@ export default function ModelSec15({ data }) {
         </div>
 
         {/* div 2: model years breakdown */}
-        <div className="relative px-4 pt-5">
+        <div className={`relative px-4 pt-5 ${hasChecklist ? "" : "hidden"}`}>
           <div className="divide-y divide-black/10 rounded-2xl border border-black/5 bg-white shadow-[0_20px_50px_-25px_rgba(16,24,40,0.3)]">
             {data.generations.map((g) => (
               <div key={g.years} className="grid grid-cols-[auto_96px_1fr] items-start gap-3 px-4 py-4">
@@ -184,7 +185,7 @@ export default function ModelSec15({ data }) {
 
           {/* right column */}
           <div>
-            <div className="card-glare-light relative flex min-h-85 flex-col overflow-hidden rounded-2xl border border-hero-blue/25 bg-white/90 p-6 shadow-[0_25px_60px_-25px_rgba(0,127,248,0.35)] backdrop-blur-xl">
+            <div className={`card-glare-light relative flex min-h-85 flex-col overflow-hidden rounded-2xl border border-hero-blue/25 bg-white/90 p-6 shadow-[0_25px_60px_-25px_rgba(0,127,248,0.35)] backdrop-blur-xl ${hasChecklist ? "" : "hidden"}`}>
               <div
                 className="pointer-events-none absolute bottom-0 right-0 h-44 w-64 opacity-25"
                 style={{ clipPath: "polygon(38% 100%, 100% 100%, 100% 15%)" }}

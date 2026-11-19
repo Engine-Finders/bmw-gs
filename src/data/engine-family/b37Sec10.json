@@ -5,23 +5,23 @@
   "titleBigPost": " B37",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on BMW engines every day.",
-    "Here's our practical view of the B37 across all 14 model applications."
+    "Here's our practical view of the B37 across all 3 model applications."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The B37 is one of the broadest-application engines we work on - the same base engine across 14 model lines, spanning saloons, SUVs, a roadster and now a hybrid SUV flagship."
+      "body": "The B37 appears across three model lines — the 1 Series, X1 and X2 — in entry-level diesel form. It's not the most common engine we see, but it's a regular enough arrival in the workshop."
     },
     {
       "icon": "wrench",
       "title": "WHAT WE REPLACE:",
-      "body": "Timing chain, bearings, and gaskets as standard on every rebuild, with hybrid-system ancillaries additionally accounted for on MHEV/PHEV applications."
+      "body": "Main bearings, connecting rod bearings, complete gasket and seal set, and timing chain components where required on every rebuild."
     },
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported pattern is confirmed for the B37 across any of its 14 applications. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented - for the B37, we don't have one to report, and we won't invent one to sound more thorough."
+      "body": "No widely-reported pattern is confirmed for the B37 across any of its applications. We don't treat this engine as having one universal failure mode; diagnosis is required to establish whether an engine needs repair, rebuild or replacement."
     }
   ],
   "notice": {

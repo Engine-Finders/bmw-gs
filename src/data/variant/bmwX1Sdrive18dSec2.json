@@ -27,28 +27,28 @@
     {
       "icon": "engine",
       "label": "Engine",
-      "value": "B37 or B47"
+      "value": "B37"
     },
     {
       "icon": "gauge",
       "label": "Capacity",
-      "value": "1.5L-2.0L"
+      "value": "1.5L"
     },
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "F48 (2015-2022)"
+      "value": "U11 (2022–present)"
     },
     {
       "icon": "price",
       "label": "Rebuild From",
-      "value": "£2,200",
+      "value": "£1,900",
       "highlight": true
     }
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The X1 sDrive18d used two different engines across its production run - enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "Not sure which engine you have? Enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",
@@ -64,5 +64,6 @@
       }
     ],
     "buttonLabel": "Check My Exact Engine"
-  }
+  },
+  "vehicleLabel": "BMW X1 sDrive18d"
 }

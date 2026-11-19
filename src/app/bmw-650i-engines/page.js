@@ -33,8 +33,8 @@ const NAME = variantSec1.h1?.replaceAll("|", " ");
 const FAQ = [...(variantSec13.faqLeft || []), ...(variantSec13.faqRight || [])];
 
 export const metadata = {
-  title: variantSec1.h1?.replaceAll("|", " ") || "bmw-650i-engines",
-  description: variantSec1.subhead || "",
+  title: "BMW 650i Engine Rebuild & Replacement | From £4,500",
+  description: "BMW 650i engine rebuild from £4,500. N63 & N63TU V8 twin-turbo specialists, hot-vee valve seal & coolant experts. 12-month warranty, nationwide recovery. Free quote in 30 mins.",
   alternates: { canonical: PATH },
 };
 
@@ -43,7 +43,7 @@ export default function Bmw650iEnginesPage() {
     <>
       <JsonLd
         data={graphDoc([
-          serviceSchema({ name: NAME, description: variantSec1.subhead, path: PATH, price: (variantSec1.priceCta?.kicker || variantSec1.h1) }),
+          serviceSchema({ name: NAME, description: variantSec1.subhead, path: PATH, price: variantSec1.priceCta?.price }),
           faqSchema(FAQ, PATH),
           breadcrumbSchema([{ name: "Home", path: "/" }, { name: "Variants", path: "/variants" }, { name: NAME, path: PATH }], PATH),
         ])}

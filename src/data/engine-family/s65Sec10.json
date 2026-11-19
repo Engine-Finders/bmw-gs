@@ -5,23 +5,23 @@
   "titleBigPost": " S65",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on BMW engines every day.",
-    "Here's our practical view of the S65 across all 14 model applications."
+    "Here's our practical view of the S65 across all 1 model applications."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The S65 is one of the broadest-application engines we work on - the same base engine across 14 model lines, spanning saloons, SUVs, a roadster and now a hybrid SUV flagship."
+      "body": "The S65 is a single-application engine — the E9X M3 across all four body styles."
     },
     {
       "icon": "wrench",
       "title": "WHAT WE REPLACE:",
-      "body": "Timing chain, bearings, and gaskets as standard on every rebuild, with hybrid-system ancillaries additionally accounted for on MHEV/PHEV applications."
+      "body": "Bearings, gaskets and seals as standard on every rebuild, with timing chain components replaced where required. Throttle actuators and VANOS components are inspected and measured as part of every rebuild."
     },
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported pattern is confirmed for the S65 across any of its 14 applications. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented - for the S65, we don't have one to report, and we won't invent one to sound more thorough."
+      "body": "Rod bearing wear and throttle actuator failure are the documented patterns for the S65 — these are established in the BMW M specialist community and we inspect both as part of every rebuild. We don't treat this engine as having a universal failure mode beyond that; diagnosis is required to establish whether an individual engine needs repair, rebuild or replacement."
     }
   ],
   "notice": {

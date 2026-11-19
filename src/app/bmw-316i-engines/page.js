@@ -33,8 +33,8 @@ const NAME = variantSec1.h1?.replaceAll("|", " ");
 const FAQ = [...(variantSec13.faqLeft || []), ...(variantSec13.faqRight || [])];
 
 export const metadata = {
-  title: variantSec1.h1?.replaceAll("|", " ") || "bmw-316i-engines",
-  description: variantSec1.subhead || "",
+  title: "BMW 316i Engine Rebuild & Replacement | From £2,200",
+  description: "BMW 316i engine rebuild from £2,200. N20 & B48 petrol specialists. 12-month warranty, nationwide recovery. Free quote in 30 mins.",
   alternates: { canonical: PATH },
 };
 
@@ -43,7 +43,7 @@ export default function Bmw316iEnginesPage() {
     <>
       <JsonLd
         data={graphDoc([
-          serviceSchema({ name: NAME, description: variantSec1.subhead, path: PATH, price: (variantSec1.priceCta?.kicker || variantSec1.h1) }),
+          serviceSchema({ name: NAME, description: variantSec1.subhead, path: PATH, price: variantSec1.priceCta?.price }),
           faqSchema(FAQ, PATH),
           breadcrumbSchema([{ name: "Home", path: "/" }, { name: "Variants", path: "/variants" }, { name: NAME, path: PATH }], PATH),
         ])}

@@ -47,7 +47,7 @@
     "icon": "car",
     "titlePre": "WE COVER YOUR",
     "titleHighlight": "EXACT VEHICLE",
-    "body": "Enter your registration below and we'll confirm whether your 125d has the N47 or B47, along with an exact rebuild price.",
+    "body": "Enter your registration below and we'll confirm whether your BMW 125d has the B47 or N47, along with an exact rebuild price.",
     "image": "/variant/sec7_middle_div.webp",
     "buttonLabel": "Check Fit",
     "ticks": [
@@ -70,5 +70,6 @@
       "12 month unlimited-mileage warranty",
       "Dedicated advisor from quote to fit"
     ]
-  }
+  },
+  "vehicleLabel": "BMW 125d"
 }

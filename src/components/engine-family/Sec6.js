@@ -83,9 +83,6 @@ export default function Sec6({ data }) {
           </div>
 
           <div className="mt-6 space-y-3">
-            <Link href="/our-reviews" className="relative flex w-full items-center justify-center gap-2 rounded-lg border border-black/10 bg-white px-6 py-3.5 text-xs font-bold uppercase tracking-wide text-[#101828] shadow-sm transition hover:-translate-y-0.5">
-              Check All Our Reviews <span aria-hidden>→</span>
-            </Link>
           </div>
           </div>
         </div>
@@ -136,9 +133,6 @@ export default function Sec6({ data }) {
             </div>
 
             <div className="mt-5 flex justify-center gap-4">
-              <Link href="/our-reviews" className="relative flex items-center justify-center gap-2 rounded-md border border-black/10 bg-white px-6 py-3 text-sm font-bold text-[#101828] shadow-sm transition hover:-translate-y-0.5">
-                Check All Our Reviews <span aria-hidden>→</span>
-              </Link>
             </div>
           </div>
         </div>

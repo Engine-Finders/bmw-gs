@@ -3,14 +3,17 @@ import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
 import RegLookupForm from "@/components/reusable/RegLookupForm";
 import QuoteLink from "@/components/shared/QuoteLink";
+import { engineLabelFromText } from "@/lib/engineLabel";
 
 export default function HeroSec1({ data }) {
+  const engineLabel = engineLabelFromText(data.titlePre);
+
   return (
     <section className="relative overflow-hidden bg-hero-dark text-white">
       {/* ===== mobile ===== */}
       <div className="relative md:hidden">
         <div className="absolute inset-0">
-          <Image src={data.image} alt="BMW technician rebuilding a B58 engine block" fill priority className="object-cover object-[70%_30%]" sizes="100vw" />
+          <Image src={data.image} alt={`${engineLabel} engine rebuild in progress at our workshop`} fill priority className="object-cover object-[70%_30%]" sizes="100vw" />
           <div
             className="absolute inset-0"
             style={{ background: "linear-gradient(to right, #070b14 0%, rgba(7,11,20,0.92) 65%, rgba(7,11,20,0.55) 82%, transparent 100%)" }}
@@ -22,12 +25,12 @@ export default function HeroSec1({ data }) {
           <div className="max-w-[80%]">
             <div className="flex items-center gap-2">
               <BMWStripe className="h-6 w-11 shrink-0" />
-              <p className="hp-h1 uppercase">
+              <div role="heading" aria-level="1" className="hp-h1 uppercase">
                 <span className="text-white">{data.titlePre} </span>
                 <span className="text-hero-blue">{data.titleHighlight}</span>
-              </p>
+                <span className="block text-white">{data.titleLine2}</span>
+              </div>
             </div>
-            <p className="hp-h1 uppercase text-white">{data.titleLine2}</p>
 
             <p className="mt-1.5 text-sm leading-snug text-white">{data.subhead}</p>
 
@@ -72,7 +75,7 @@ export default function HeroSec1({ data }) {
               <Icon name="car" className="h-5 w-5 shrink-0 text-hero-blue" />
               <p className="text-sm font-extrabold uppercase tracking-wide text-white">Check Your Exact Engine</p>
             </div>
-            <p className="mt-1 text-xs text-white">Enter your reg and we&apos;ll confirm your exact B58 spec.</p>
+            <p className="mt-1 text-xs text-white">Enter your reg and we&apos;ll confirm your exact engine specification.</p>
             <div className="mt-2">
               <RegLookupForm buttonLabel="Check Match" row compactButton hideArrow />
             </div>
@@ -97,7 +100,7 @@ export default function HeroSec1({ data }) {
       {/* ===== desktop ===== */}
       <div className="relative hidden overflow-hidden md:block">
         <div className="absolute inset-0">
-          <Image src={data.image} alt="BMW technician rebuilding a B58 engine block" fill priority className="object-cover" sizes="100vw" />
+          <Image src={data.image} alt={`${engineLabel} engine rebuild in progress at our workshop`} fill priority className="object-cover" sizes="100vw" />
           <div
             className="absolute inset-0"
             style={{ background: "linear-gradient(to right, rgba(3,6,14,0.85) 0%, rgba(3,6,14,0.55) 42%, rgba(3,6,14,0.15) 60%, transparent 75%)" }}
@@ -108,12 +111,12 @@ export default function HeroSec1({ data }) {
           <div className="max-w-xl">
             <div className="flex items-center gap-3">
               <BMWStripe className="h-7 w-14 shrink-0" />
-              <p className="hp-h1 whitespace-nowrap uppercase">
+              <h1 className="hp-h1 whitespace-nowrap uppercase">
                 <span className="text-white">{data.titlePre} </span>
                 <span className="text-hero-blue">{data.titleHighlight}</span>
-              </p>
+                <span className="block text-white">{data.titleLine2}</span>
+              </h1>
             </div>
-            <p className="hp-h1 uppercase text-white">{data.titleLine2}</p>
 
             <p className="mt-3 max-w-md text-sm leading-relaxed text-white lg:text-[15px]">{data.subhead}</p>
 

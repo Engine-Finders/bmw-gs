@@ -4,11 +4,15 @@
     "titleHighlight": "EVERY",
     "titlePost": " BMW M2 Competition MODEL YEAR:",
     "years": [
-      "2013",
-      "2016",
+      "2018",
       "2019",
+      "2020",
       "2021",
-      "2023"
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
     ],
     "footer": "If your registration year or model isn't listed above, get in touch - we'll confirm availability directly against your reg.",
     "vehicleLabel": "BMW M2 Competition"
@@ -17,8 +21,8 @@
     "titlePre": "BMW M2 Competition ENGINE ",
     "titleHighlight": "COSTS",
     "intro": "A BMW M2 Competition engine rebuild starts from",
-    "price": "£2,200",
-    "body": "Whether your car has the N47 or the B47. A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required - submit your registration for a fixed-price quote within 30 minutes.",
+    "price": "£5,500",
+    "body": "A BMW M2 Competition engine rebuild starts from £5,500, whether your car has the S55 or the S58. A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
     "image": "/engines/m-engine-hero.webp",
     "warranty": {
       "line1": "12 MONTH",
@@ -29,12 +33,12 @@
       {
         "icon": "engine",
         "title": "BMW M2 Competition ENGINE SIZES",
-        "item": "BMW M2 Competition 2.0 Litre Engine"
+        "item": "BMW M2 Competition 3.0 Litre Engine (S55)   ✓ BMW M2 Competition 3.0 Litre Engine (S58)"
       },
       {
         "icon": "fuel",
         "title": "BMW M2 Competition FUEL TYPES",
-        "item": "BMW M2 Competition Diesel Engine Rebuilds"
+        "item": "BMW M2 Competition Petrol Twin-Turbo Engine Rebuilds"
       }
     ]
   },
@@ -52,5 +56,8 @@
     ],
     "viewAll": "View All BMW M2 Engines",
     "viewAllHref": "/bmw-m2-engines"
-  }
+  },
+  "hidePrice": false,
+  "hideCombustion": false,
+  "vehicleLabel": "BMW M2 Competition"
 }

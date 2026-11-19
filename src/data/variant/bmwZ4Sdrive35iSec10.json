@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW Z4 sDrive35i ENGINE",
     "paragraphs": [
-      "The Z4 sDrive35i has been a mainstay of the Z4 diesel range since 2012, spanning two generations under one badge. Early E89 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the E89 and later the E89, the Z4 sDrive35i switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ - which is exactly why we confirm your exact engine by registration before quoting."
+      "The Z4 sDrive35i uses the N54 engine — a 3.0-litre twin-turbocharged inline-six petrol, fitted throughout the E89 generation's production run from 2009 to 2016. The N54 was BMW's first production turbocharged petrol engine since the 2002 Turbo, and it represented a significant shift in the brand's engine strategy at the time, replacing the naturally aspirated N52 in the performance-oriented Z4 models. The sDrive35i sat above the sDrive30i in the Z4 range, offering considerably more power and a very different driving character — the twin-turbo setup delivers strong mid-range torque that the naturally aspirated six couldn't match. The N54 is also shared with the 135i, 335i, and 535i of the same era, which means parts availability and specialist knowledge are well-established, even though the engine itself has a distinct set of known wear points."
     ],
     "boldParagraph": "The Z4 sDrive35i is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -15,38 +15,29 @@
     "image": "/engines/n54-n55-n20-family-engine-hero.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(E89, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early E89 Z4 sDrive35i. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 Z4 sDrive35i",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(E89, 2015-2019 / E89, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 Z4 sDrive35i",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "N54",
+        "codeRest": "(Generation)",
+        "body": "N54 engine application for BMW Z4 sDrive35i.",
+        "cta": "Check Your N54 BMW Z4 sDrive35i",
+        "codeHref": "/bmw-n54-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW Z4 sDrive35i ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the Z4 sDrive35i spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "The Z4 sDrive35i uses a single engine across its entire production run — the N54 — so compatibility is relatively straightforward compared to variants that span multiple engine codes. However, there are still important details to confirm before any work starts: production-year differences in the HPFP and injector revisions, whether your car has the manual or DCT transmission (which affects certain ancillary fitments), and the ECU software version your car is running — all of which influence the parts we order and the way we approach the rebuild. This is why we always start with your registration rather than a generic Z4 sDrive35i quote — it protects you from paying for parts that don't fit your actual car.",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "N54",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact engine code (N54) via registration or VIN"
       },
       {
         "icon": "car",
@@ -76,31 +67,64 @@
     ],
     "rows": [
       {
-        "generation": "E89",
-        "image": "/cars/card/z4-e89-sdrive35is-2010-2016.webp",
+        "generation": "2009",
         "chassis": "E89",
-        "years": "2012-2015",
-        "engineCode": "N47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-n47-engine"
+        "years": "N54",
+        "engineCode": "Petrol Twin-Turbo",
+        "fuel": "Rebuild / Replacement",
+        "image": "/cars/card/z4-e89-sdrive35is-2010-2016.webp"
       },
       {
-        "generation": "E89",
-        "image": "/cars/card/z4-e89-sdrive35is-2010-2016.webp",
+        "generation": "2010",
         "chassis": "E89",
-        "years": "2015-2019",
-        "engineCode": "B47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-b47-engine"
+        "years": "N54",
+        "engineCode": "Petrol Twin-Turbo",
+        "fuel": "Rebuild / Replacement",
+        "image": "/cars/card/z4-e89-sdrive35is-2010-2016.webp"
       },
       {
-        "generation": "E89",
+        "generation": "2011",
         "chassis": "E89",
-        "years": "2019-2024",
-        "engineCode": "B47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-b47-engine"
+        "years": "N54",
+        "engineCode": "Petrol Twin-Turbo",
+        "fuel": "Rebuild / Replacement"
+      },
+      {
+        "generation": "2012",
+        "chassis": "E89",
+        "years": "N54",
+        "engineCode": "Petrol Twin-Turbo",
+        "fuel": "Rebuild / Replacement"
+      },
+      {
+        "generation": "2013",
+        "chassis": "E89",
+        "years": "N54",
+        "engineCode": "Petrol Twin-Turbo",
+        "fuel": "Rebuild / Replacement"
+      },
+      {
+        "generation": "2014",
+        "chassis": "E89",
+        "years": "N54",
+        "engineCode": "Petrol Twin-Turbo",
+        "fuel": "Rebuild / Replacement"
+      },
+      {
+        "generation": "2015",
+        "chassis": "E89",
+        "years": "N54",
+        "engineCode": "Petrol Twin-Turbo",
+        "fuel": "Rebuild / Replacement"
+      },
+      {
+        "generation": "2016",
+        "chassis": "E89",
+        "years": "N54",
+        "engineCode": "Petrol Twin-Turbo",
+        "fuel": "Rebuild / Replacement"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW Z4 sDrive35i"
 }

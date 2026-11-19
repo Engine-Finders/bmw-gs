@@ -5,23 +5,23 @@
   "titleBigPost": " N20",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on BMW engines every day.",
-    "Here's our practical view of the N20 across all 14 model applications."
+    "Here's our practical view of the N20 across all 7 model applications."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The N20 is one of the broadest-application engines we work on - the same base engine across 14 model lines, spanning saloons, SUVs, a roadster and now a hybrid SUV flagship."
+      "body": "The N20 is one of the key engines of BMW's F-generation era, fitted across seven model lines from the 1 Series to the 5 Series, plus the X4 and Z4."
     },
     {
       "icon": "wrench",
       "title": "WHAT WE REPLACE:",
-      "body": "Timing chain, bearings, and gaskets as standard on every rebuild, with hybrid-system ancillaries additionally accounted for on MHEV/PHEV applications."
+      "body": "Main bearings, connecting rod bearings, complete gasket and seal set, timing chain components where required. We inspect the crankshaft, cylinder head, VANOS components, oil pump, cooling system, fuel injectors, HPFP, turbocharger and PCV system."
     },
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported pattern is confirmed for the N20 across any of its 14 applications. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented - for the N20, we don't have one to report, and we won't invent one to sound more thorough."
+      "body": "The N20 has several documented wear patterns we account for during a rebuild. Timing chain stretch and tensioner failure is the most significant — the chain's position at the rear of the engine makes access more labour-intensive than a front-mounted design. High-pressure fuel pump (HPFP) failure and valve cover/oil filter housing gasket leaks are also confirmed issues on this engine."
     }
   ],
   "notice": {

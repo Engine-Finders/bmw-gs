@@ -7,6 +7,7 @@
     "Engine Family",
     "Fuel",
     "Size",
+    "Chassis / Generation",
     "Rebuild Price Range"
   ],
   "rows": [
@@ -14,42 +15,43 @@
       "family": "M57",
       "fuel": "Diesel",
       "size": "3.0L",
-      "range": "E83"
+      "chassis": "E83",
+      "range": "£2,800 – £3,800"
     },
     {
       "family": "N57",
       "fuel": "Diesel",
       "size": "3.0L",
-      "range": "F25",
-      "familyHref": "/bmw-n57-engine"
+      "chassis": "F25",
+      "range": "£2,800 – £4,200"
     },
     {
       "family": "B47",
       "fuel": "Diesel",
       "size": "2.0L",
-      "range": "G01",
-      "familyHref": "/bmw-b47-engine"
+      "chassis": "G01",
+      "range": "£2,100 – £2,900"
     },
     {
       "family": "B48 (xDrive30i)",
       "fuel": "Petrol",
       "size": "2.0L",
-      "range": "G01",
-      "familyHref": "/bmw-b48-engine"
+      "chassis": "G01",
+      "range": "£2,600 – £3,400"
     },
     {
       "family": "B57 (M40d)",
       "fuel": "Diesel",
       "size": "3.0L",
-      "range": "G01",
-      "familyHref": "/bmw-b57-engine"
+      "chassis": "G01",
+      "range": "£2,800 – £4,000"
     },
     {
       "family": "B58 (M40i)",
       "fuel": "Petrol",
       "size": "3.0L",
-      "range": "G01",
-      "familyHref": "/bmw-b58-engine"
+      "chassis": "G01",
+      "range": "£2,800 – £4,200"
     }
   ],
   "features": [

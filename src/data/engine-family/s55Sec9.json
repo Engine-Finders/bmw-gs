@@ -4,20 +4,20 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW S55",
     "titlePost": " ENGINE",
-    "body": "The S55 is BMW's modular turbocharged inline-six petrol engine, in production since 2015. It's one of the most widely-deployed engines in the current BMW range, fitted across every mainstream model line from the 2 Series up to the flagship 8 Series and X7, plus the new XM and the Z4 roadster. Beyond BMW itself, the same engine family (in modified form) is also used by Toyota in the GR Supra - a detail worth knowing if you're researching this engine's reputation more broadly, though our work here covers BMW-badged applications specifically."
+    "body": "The S55 is BMW M's twin-turbocharged 3.0-litre inline-six petrol engine, produced from 2013 to 2020. It was developed specifically for M-division applications, serving as the high-performance variant of the N55 engine family. The S55 is fitted across three core M models: the F80 M3, F82/F83 M4, and the F87 M2 Competition. Its production run ended in 2020, making it the defining engine of that generation of M cars. For most of these applications, the S55 is paired with a seven-speed M DCT transmission."
   },
   "byModel": {
     "image": "/engine_family/sec9_middle.webp",
     "titlePre": "BMW S55",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "Across the 3 Series, the S55 has powered the 340i (F30/F31, 2015-2019) and continues in the current M340i xDrive (G20/G21). The 4 Series follows the same pattern with the 440i (F32/F33/F36) and current M440i xDrive. The 5 Series carries it in the 540i across three generations, including the current PHEV-badged 550e xDrive. The 6 Series used it in the 640i during its final F06/F12/F13 generation. Both the 7 Series and 8 Series use it as their six-cylinder petrol option, in the 730i/740i and 840i respectively. Across the SUV range, the S55 appears in the X3 M40i and current M50 xDrive, the X4 M40i, and as the six-cylinder option throughout X5, X6 and X7, including their PHEV-badged 50e variants. It's also the entry-level combustion engine in the new XM 50e, and powers the current Z4 M40i."
+    "body": "The M2 Competition (F87, 2018–2021) received the S55 as the upgrade over the standard M2's N55 engine. The M3 (F80, 2014–2020) and M4 (F82/F83, 2014–2020) both use the S55 in standard and Competition forms, making this engine the core of BMW M's turbocharged inline-six era before the current S58 replaced it."
   },
   "compatibility": {
     "image": "/engine_family/sec9_bottom.webp",
     "titlePre": "BMW S55",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the S55 spans 14 different models and multiple generations - some in standard petrol form, others as mild-hybrid or plug-in hybrid applications - compatibility comes down to confirming your exact model, generation, and drivetrain spec, which we do by registration. A S55 from a 2 Series isn't a drop-in match for a S55 from an X7, even though it's the same base engine code - ancillaries, mounting, and hybrid-system integration all differ. Before we quote or supply anything, we confirm your exact vehicle."
+    "body": "Because the S55 spans only three model lines — M2 Competition, M3 and M4 — compatibility is more straightforward than some of the broader BMW engine families. However, a used S55 from an M3 isn't necessarily a direct fit for an M2 Competition without confirming the exact specification. Matching by registration/VIN is still required before any rebuild or replacement is confirmed."
   }
 }

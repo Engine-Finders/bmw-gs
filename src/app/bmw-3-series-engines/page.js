@@ -43,9 +43,8 @@ const NAME = modelSec1.h1?.replaceAll("|", " ");
 const FAQ = [...(modelSec18.faqLeft || []), ...(modelSec18.faqRight || [])];
 
 export const metadata = {
-  title: "BMW 3 Series Engine Rebuild & Replacement | BMW Specialists",
-  description:
-    "BMW 3 Series rebuilt engines from £1,900. Specialist N47/B47 timing chain issues, M3, 330e & all variants. Supply & fit, recovery, 12-month warranty. Free quote in 30 mins.",
+  title: modelSec1.metaTitle || modelSec1.h1?.replaceAll("|", " ") || "BMW model engines",
+  description: modelSec1.metaDescription || modelSec1.subhead || "",
   alternates: { canonical: PATH },
 };
 

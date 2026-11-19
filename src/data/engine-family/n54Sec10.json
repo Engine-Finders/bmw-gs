@@ -5,13 +5,13 @@
   "titleBigPost": " N54",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on BMW engines every day.",
-    "Here's our practical view of the N54 across all 14 model applications."
+    "Here's our practical view of the N54 across all 1 model applications."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The N54 is one of the broadest-application engines we work on - the same base engine across 14 model lines, spanning saloons, SUVs, a roadster and now a hybrid SUV flagship."
+      "body": "The N54 in BMW badging is concentrated on the Z4 sDrive35i (E89, 2009–2016)."
     },
     {
       "icon": "wrench",
@@ -21,7 +21,7 @@
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported pattern is confirmed for the N54 across any of its 14 applications. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented - for the N54, we don't have one to report, and we won't invent one to sound more thorough."
+      "body": "The N54 is well-documented for high-pressure fuel pump and injector issues, turbocharger wastegate rattle, and carbon buildup on intake valves — all of which we inspect as standard during a rebuild."
     }
   ],
   "notice": {

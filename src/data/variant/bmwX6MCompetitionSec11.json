@@ -1,8 +1,8 @@
 {
   "image": "/variant/sec11.webp",
-  "titlePre": "BMW X6 M Competition ENGINES ",
+  "titlePre": "BMW X6 M ENGINES ",
   "titleHighlight": "BY YEAR",
-  "description": "From the N47 to the B47 - here's a quick guide to the engines fitted to the BMW X6 M Competition over the years. If you're unsure which one you have, we'll confirm it before you book.",
+  "description": "The S63 or S63TU engine codes are used across BMW X6 M model years. If you're unsure which one you have, we'll confirm it before you book.",
   "columns": [
     {
       "icon": "calendar",
@@ -29,44 +29,45 @@
     {
       "year": "2009",
       "generation": "E71",
-      "engineCode": "S63 (early)",
+      "engineCode": "S63",
       "fuel": "Petrol Twin-Turbo",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2010",
       "generation": "E71",
-      "engineCode": "S63 (early)",
+      "engineCode": "S63",
       "fuel": "Petrol Twin-Turbo",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2011",
       "generation": "E71",
-      "engineCode": "S63 (early)",
+      "engineCode": "S63",
       "fuel": "Petrol Twin-Turbo",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2012",
       "generation": "E71",
-      "engineCode": "S63 (early)",
+      "engineCode": "S63",
       "fuel": "Petrol Twin-Turbo",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2013",
       "generation": "E71",
-      "engineCode": "S63 (early)",
+      "engineCode": "S63",
       "fuel": "Petrol Twin-Turbo",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2014",
       "generation": "E71",
-      "engineCode": "S63 (early)",
+      "engineCode": "S63",
       "fuel": "Petrol Twin-Turbo",
-      "service": "Rebuild / Replacement"
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-s63-engine"
     },
     {
       "year": "2015",
@@ -74,7 +75,7 @@
       "engineCode": "S63TU",
       "fuel": "Petrol Twin-Turbo",
       "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-s63tu-engine"
+      "codeHref": "/bmw-s63-engine"
     },
     {
       "year": "2016",
@@ -82,7 +83,7 @@
       "engineCode": "S63TU",
       "fuel": "Petrol Twin-Turbo",
       "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-s63tu-engine"
+      "codeHref": "/bmw-s63-engine"
     },
     {
       "year": "2017",
@@ -90,7 +91,7 @@
       "engineCode": "S63TU",
       "fuel": "Petrol Twin-Turbo",
       "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-s63tu-engine"
+      "codeHref": "/bmw-s63-engine"
     },
     {
       "year": "2018",
@@ -98,68 +99,65 @@
       "engineCode": "S63TU",
       "fuel": "Petrol Twin-Turbo",
       "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-s63tu-engine"
+      "codeHref": "/bmw-s63-engine"
     },
     {
       "year": "2019",
       "generation": "F86",
       "engineCode": "S63TU",
       "fuel": "Petrol Twin-Turbo",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-s63tu-engine"
+      "service": "Rebuild / Replacement"
     },
     {
       "year": "2020",
       "generation": "F96",
-      "engineCode": "S63 (current tune)",
+      "engineCode": "S63",
       "fuel": "Petrol Twin-Turbo",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2021",
       "generation": "F96",
-      "engineCode": "S63 (current tune)",
+      "engineCode": "S63",
       "fuel": "Petrol Twin-Turbo",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2022",
       "generation": "F96",
-      "engineCode": "S63 (current tune)",
+      "engineCode": "S63",
       "fuel": "Petrol Twin-Turbo",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2023",
       "generation": "F96",
-      "engineCode": "S63 (current tune)",
+      "engineCode": "S63",
       "fuel": "Petrol Twin-Turbo",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2024",
       "generation": "F96",
-      "engineCode": "S63 (current tune)",
+      "engineCode": "S63",
       "fuel": "Petrol Twin-Turbo",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2025",
       "generation": "F96",
-      "engineCode": "S63 (current tune)",
+      "engineCode": "S63",
       "fuel": "Petrol Twin-Turbo",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2026",
       "generation": "F96",
-      "engineCode": "S63 (current tune)",
+      "engineCode": "S63",
       "fuel": "Petrol Twin-Turbo",
       "service": "Rebuild / Replacement"
     }
   ],
-  "notice": {
-    "highlight": "2015 and 2019",
-    "rest": " were transition years between generations and engine codes - if your registration falls in either, we'll confirm your exact engine before quoting."
-  }
+  "notice": null,
+  "vehicleLabel": "BMW X6 M"
 }

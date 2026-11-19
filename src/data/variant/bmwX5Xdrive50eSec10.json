@@ -15,38 +15,29 @@
     "image": "/engines/b58-engine.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(G05, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early G05 X5 xDrive50e. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 X5 xDrive50e",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(G05, 2015-2019 / G05, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 X5 xDrive50e",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "B58",
+        "codeRest": "(G05)",
+        "body": "The B58 is a 3.0-litre inline-six petrol engine, fitted to the current-generation X5 xDrive50e as the internal combustion component of its plug-in hybrid powertrain. No widely-reported engine issue has been confirmed for this specific variant.",
+        "cta": "Check Your B58 BMW X5 xDrive50e",
+        "codeHref": "/bmw-b58-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW X5 xDrive50e ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the X5 xDrive50e spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "The X5 xDrive50e's powertrain is specific to the G05 generation, combining the B58 engine with a high-voltage electric motor and battery pack. Compatibility depends not only on the engine code but on the specific hybrid system configuration. We always confirm your exact build via registration or VIN before quoting any work, ensuring every component matches your vehicle's original specification.",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "B58",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact engine code (B58) via registration or VIN"
       },
       {
         "icon": "car",
@@ -78,29 +69,12 @@
       {
         "generation": "G05",
         "chassis": "G05",
-        "years": "2012-2015",
-        "engineCode": "N47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "generation": "G05",
-        "image": "/cars/card/x5-g05-xdrive30d-m-sport-2018-2023.webp",
-        "chassis": "G05",
-        "years": "2015-2019",
-        "engineCode": "B47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-b47-engine"
-      },
-      {
-        "generation": "G05",
-        "image": "/cars/card/x5-g05-xdrive30d-m-sport-2018-2023.webp",
-        "chassis": "G05",
-        "years": "2019-2024",
-        "engineCode": "B47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-b47-engine"
+        "years": "2018–present",
+        "engineCode": "B58 + Electric",
+        "fuel": "Petrol Plug-in Hybrid",
+        "codeHref": "/bmw-b58-engine"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW X5 xDrive50e"
 }

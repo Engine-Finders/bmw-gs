@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW 840i ENGINE",
     "paragraphs": [
-      "The 840i has been a mainstay of the 8 Series diesel range since 2012, spanning two generations under one badge. Early G14/G15/G16 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the G14/G15/G16 and later the G14/G15/G16, the 840i switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ - which is exactly why we confirm your exact engine by registration before quoting."
+      "The 840i uses the B58 — a 3.0-litre inline-six petrol engine that's one of BMW's most respected modern power units. It was introduced with the G14/G15/G16 generation of the 8 Series in 2018 and has remained in production through to the present day. The B58 is a closed-deck design with excellent tuning potential, but more importantly for our purposes, it's a generally well-regarded engine with no major widespread defect pattern — unlike some of BMW's earlier turbocharged petrol sixes."
     ],
     "boldParagraph": "The 840i is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -15,42 +15,33 @@
     "image": "/engines/b58-engine.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(G14/G15/G16, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early G14/G15/G16 840i. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 840i",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(G14/G15/G16, 2015-2019 / G14/G15/G16, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 840i",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "B58",
+        "codeRest": "(G14/G15/G16)",
+        "body": "A 3.0-litre inline-six petrol fitted to the 840i from 2018 to present, across the G14 (Convertible), G15 (Coupe) and G16 (Gran Coupe) generations. Generally well-regarded — no widespread pattern of catastrophic failure. We replace timing chain components, bearings and gaskets as standard on every rebuild.",
+        "cta": "Check Your B58 BMW 840i",
+        "codeHref": "/bmw-b58-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW 840i ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the 840i spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "The 840i uses the B58 engine consistently across all body styles and model years within the G14/G15/G16 generation. However, ECU software and ancillary specifications can vary by year and market — which is why we always confirm your exact build via registration before quoting parts or work. We verify:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "B58",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact engine code (B58)"
       },
       {
         "icon": "car",
-        "text": "Your generation (G14/G15/G16 or G14/G15/G16)"
+        "text": "Your generation (G14, G15, or G16)"
       },
       {
         "icon": "gears",
@@ -78,7 +69,7 @@
       {
         "generation": "G14 (Convertible)",
         "chassis": "G14",
-        "years": "2018-present",
+        "years": "2018–present",
         "engineCode": "B58",
         "fuel": "Petrol",
         "codeHref": "/bmw-b58-engine"
@@ -86,7 +77,7 @@
       {
         "generation": "G15 (Coupe)",
         "chassis": "G15",
-        "years": "2018-present",
+        "years": "2018–present",
         "engineCode": "B58",
         "fuel": "Petrol",
         "codeHref": "/bmw-b58-engine"
@@ -94,11 +85,12 @@
       {
         "generation": "G16 (Gran Coupe)",
         "chassis": "G16",
-        "years": "2018-present",
+        "years": "2018–present",
         "engineCode": "B58",
         "fuel": "Petrol",
         "codeHref": "/bmw-b58-engine"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW 840i"
 }

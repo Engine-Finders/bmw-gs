@@ -7,11 +7,26 @@
     "label": "Rated BMW Engine Specialists - 1,810+ Engines Rebuilt"
   },
   "trustBar": [
-    { "icon": "shield-check", "label": "12 Month Unlimited-Mileage Warranty" },
-    { "icon": "truck", "label": "Nationwide Recovery" },
-    { "icon": "tech", "label": "BMW-Trained Technicians" },
-    { "icon": "gears", "label": "Updated OEM Components" },
-    { "icon": "engine", "label": "Free Engine Matching by Registration" }
+    {
+      "icon": "shield-check",
+      "label": "12 Month Unlimited-Mileage Warranty"
+    },
+    {
+      "icon": "truck",
+      "label": "Nationwide Recovery"
+    },
+    {
+      "icon": "tech",
+      "label": "BMW-Trained Technicians"
+    },
+    {
+      "icon": "gears",
+      "label": "Updated OEM Components"
+    },
+    {
+      "icon": "engine",
+      "label": "Free Engine Matching by Registration"
+    }
   ],
   "priceCta": {
     "icon": "engine",

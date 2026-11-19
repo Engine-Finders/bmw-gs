@@ -2,7 +2,7 @@
   "image": "/variant/sec11.webp",
   "titlePre": "BMW X1 xDrive30e ENGINES ",
   "titleHighlight": "BY YEAR",
-  "description": "From the N47 to the B47 - here's a quick guide to the engines fitted to the BMW X1 xDrive30e over the years. If you're unsure which one you have, we'll confirm it before you book.",
+  "description": "The B38 engine code is used across BMW X1 xDrive30e model years. If you're unsure which one you have, we'll confirm it before you book.",
   "columns": [
     {
       "icon": "calendar",
@@ -29,7 +29,7 @@
     {
       "year": "2022",
       "generation": "U11",
-      "engineCode": "B38",
+      "engineCode": "B38 + electric",
       "fuel": "Petrol Plug-in Hybrid",
       "service": "Rebuild / Replacement",
       "codeHref": "/bmw-b38-engine"
@@ -37,7 +37,7 @@
     {
       "year": "2023",
       "generation": "U11",
-      "engineCode": "B38",
+      "engineCode": "B38 + electric",
       "fuel": "Petrol Plug-in Hybrid",
       "service": "Rebuild / Replacement",
       "codeHref": "/bmw-b38-engine"
@@ -45,7 +45,7 @@
     {
       "year": "2024",
       "generation": "U11",
-      "engineCode": "B38",
+      "engineCode": "B38 + electric",
       "fuel": "Petrol Plug-in Hybrid",
       "service": "Rebuild / Replacement",
       "codeHref": "/bmw-b38-engine"
@@ -53,7 +53,7 @@
     {
       "year": "2025",
       "generation": "U11",
-      "engineCode": "B38",
+      "engineCode": "B38 + electric",
       "fuel": "Petrol Plug-in Hybrid",
       "service": "Rebuild / Replacement",
       "codeHref": "/bmw-b38-engine"
@@ -61,14 +61,11 @@
     {
       "year": "2026",
       "generation": "U11",
-      "engineCode": "B38",
+      "engineCode": "B38 + electric",
       "fuel": "Petrol Plug-in Hybrid",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-b38-engine"
+      "service": "Rebuild / Replacement"
     }
   ],
-  "notice": {
-    "highlight": "2015 and 2019",
-    "rest": " were transition years between generations and engine codes - if your registration falls in either, we'll confirm your exact engine before quoting."
-  }
+  "notice": null,
+  "vehicleLabel": "BMW X1 xDrive30e"
 }

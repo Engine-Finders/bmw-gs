@@ -5,14 +5,29 @@
   "image": "/model/sec9.webp",
   "imageMobile": "/model/sec9_mobile.jpg",
   "lookupButton": "Look Up",
-  "apiNote": "Live DVLA/VIN API integration. Dev to wire up. Submits into quote form flow.",
+  "apiNote": "",
   "dividerLabel": "Or Browse By:",
   "browseCards": [
-    { "icon": "calendar", "label": "By Model Year" },
-    { "icon": "engine", "label": "By Engine Size" },
-    { "icon": "fuel", "label": "By Fuel Type" },
-    { "icon": "code", "label": "By Engine Code" },
-    { "icon": "car", "label": "By Popular Variant" }
+    {
+      "icon": "calendar",
+      "label": "By Model Year"
+    },
+    {
+      "icon": "engine",
+      "label": "By Engine Size"
+    },
+    {
+      "icon": "fuel",
+      "label": "By Fuel Type"
+    },
+    {
+      "icon": "code",
+      "label": "By Engine Code"
+    },
+    {
+      "icon": "car",
+      "label": "By Popular Variant"
+    }
   ],
   "footerNote": "Each option expands into the checklist sections in the coverage area below."
 }

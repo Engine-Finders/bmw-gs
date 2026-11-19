@@ -4,7 +4,6 @@ import { useRef, useState } from "react";
 import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
 import { GoogleG, TrustpilotMark } from "@/components/reusable/BrandLogos";
-import Link from "next/link";
 
 function Stars({ count = 5 }) {
   return (
@@ -89,9 +88,6 @@ export default function ModelSec8({ data }) {
           </div>
 
           <div className="mt-6 space-y-3">
-            <Link href="/our-reviews" className="card-glare-light relative flex w-full items-center justify-center gap-2 rounded-lg border border-black/10 bg-white px-6 py-3.5 text-sm font-bold uppercase tracking-wide text-hero-blue transition duration-200 hover:-translate-y-0.5 hover:bg-white hover:shadow-lg">
-              Check All Our Reviews <span aria-hidden>→</span>
-            </Link>
           </div>
         </div>
       </div>
@@ -141,9 +137,6 @@ export default function ModelSec8({ data }) {
         </div>
 
         <div className="mt-5 flex justify-center gap-4">
-          <Link href="/our-reviews" className="card-glare-light relative flex items-center justify-center gap-2 rounded-md border border-black/10 bg-white px-6 py-3 text-sm font-bold text-[#101828] transition hover:-translate-y-0.5">
-            Check All Our Reviews <span aria-hidden>→</span>
-          </Link>
         </div>
       </div>
       </div>

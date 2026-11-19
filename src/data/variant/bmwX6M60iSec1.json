@@ -1,7 +1,7 @@
 {
   "kicker": "BMW X6 M60i Specialists",
-  "h1": "BMW X6 M60i|Engine Rebuild -|From £2,200",
-  "subhead": "Specialist BMW X6 M60i engine rebuilds and replacements, with registration-based engine matching, nationwide recovery and a 12-month unlimited-mileage warranty",
+  "h1": "BMW X6 M60i|Engine Rebuild —|From £5,500",
+  "subhead": "Specialist BMW X6 M60i V8 engine rebuilds and replacements, with registration-based engine matching, nationwide recovery and a 12-month unlimited-mileage warranty",
   "rating": {
     "stars": 5,
     "label": "Rated BMW Engine Specialists - 1,800+ Engines Rebuilt"
@@ -25,12 +25,12 @@
     },
     {
       "icon": "engine",
-      "label": "N47 & B47 Specialists"
+      "label": "V8 Twin-Turbo Specialists"
     }
   ],
   "priceCta": {
-    "kicker": "Starting from £2,200 -",
-    "label": "Get a Fixed-Price Quote →",
+    "kicker": "Starting from £5,500 -",
+    "label": "Get a Fixed-Price Quote ?",
     "href": "#quote-form",
     "price": "£5,500"
   },
@@ -41,5 +41,7 @@
     "href": "tel:01268944234"
   },
   "image": "/variant/sec1.webp",
-  "imageMobile": "/variant/sec1_mobile.webp"
+  "imageMobile": "/variant/sec1_mobile.webp",
+  "vehicleLabel": "BMW X6 M60i",
+  "metaTitle": "BMW X6 M60i Engine Rebuild — From £5,500"
 }

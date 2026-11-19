@@ -2,7 +2,7 @@
   "image": "/variant/sec11.webp",
   "titlePre": "BMW Z4 sDrive20i ENGINES ",
   "titleHighlight": "BY YEAR",
-  "description": "From the N47 to the B47 - here's a quick guide to the engines fitted to the BMW Z4 sDrive20i over the years. If you're unsure which one you have, we'll confirm it before you book.",
+  "description": "The N20 or B48 or N52 engine codes are used across BMW Z4 sDrive20i model years. If you're unsure which one you have, we'll confirm it before you book.",
   "columns": [
     {
       "icon": "calendar",
@@ -26,6 +26,62 @@
     }
   ],
   "rows": [
+    {
+      "year": "2002",
+      "generation": "E85",
+      "engineCode": "N52",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n52-engine"
+    },
+    {
+      "year": "2003",
+      "generation": "E85",
+      "engineCode": "N52",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n52-engine"
+    },
+    {
+      "year": "2004",
+      "generation": "E85",
+      "engineCode": "N52",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n52-engine"
+    },
+    {
+      "year": "2005",
+      "generation": "E85",
+      "engineCode": "N52",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n52-engine"
+    },
+    {
+      "year": "2006",
+      "generation": "E85",
+      "engineCode": "N52",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n52-engine"
+    },
+    {
+      "year": "2007",
+      "generation": "E85",
+      "engineCode": "N52",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n52-engine"
+    },
+    {
+      "year": "2008",
+      "generation": "E85",
+      "engineCode": "N52",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-n52-engine"
+    },
     {
       "year": "2009",
       "generation": "E89",
@@ -159,68 +215,9 @@
       "generation": "G29",
       "engineCode": "B48",
       "fuel": "Petrol",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-b48-engine"
-    },
-    {
-      "year": "2002",
-      "generation": "E85",
-      "engineCode": "N52",
-      "fuel": "Petrol",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-n52-engine"
-    },
-    {
-      "year": "2003",
-      "generation": "E85",
-      "engineCode": "N52",
-      "fuel": "Petrol",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-n52-engine"
-    },
-    {
-      "year": "2004",
-      "generation": "E85",
-      "engineCode": "N52",
-      "fuel": "Petrol",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-n52-engine"
-    },
-    {
-      "year": "2005",
-      "generation": "E85",
-      "engineCode": "N52",
-      "fuel": "Petrol",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-n52-engine"
-    },
-    {
-      "year": "2006",
-      "generation": "E85",
-      "engineCode": "N52",
-      "fuel": "Petrol",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-n52-engine"
-    },
-    {
-      "year": "2007",
-      "generation": "E85",
-      "engineCode": "N52",
-      "fuel": "Petrol",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-n52-engine"
-    },
-    {
-      "year": "2008",
-      "generation": "E85",
-      "engineCode": "N52",
-      "fuel": "Petrol",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-n52-engine"
+      "service": "Rebuild / Replacement"
     }
   ],
-  "notice": {
-    "highlight": "2015 and 2019",
-    "rest": " were transition years between generations and engine codes - if your registration falls in either, we'll confirm your exact engine before quoting."
-  }
+  "notice": null,
+  "vehicleLabel": "BMW Z4 sDrive20i"
 }

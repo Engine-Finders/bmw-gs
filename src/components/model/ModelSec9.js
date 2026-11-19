@@ -41,10 +41,10 @@ export default function ModelSec9({ data }) {
           >
             <RegLookupForm buttonLabel={data.lookupButton} compact />
 
-            <div className="mt-3 flex items-start gap-2 border-t border-black/10 pt-3">
+            {data.apiNote && <div className="mt-3 flex items-start gap-2 border-t border-black/10 pt-3">
               <Icon name="info" className="h-4 w-4 shrink-0 text-hero-blue" />
               <p className="text-xs leading-snug text-[#101828]">{data.apiNote}</p>
-            </div>
+            </div>}
           </div>
 
           {/* divider */}
@@ -129,14 +129,14 @@ export default function ModelSec9({ data }) {
         >
           <RegLookupGlass buttonLabel={data.lookupButton} />
 
-          <div className="flex items-start gap-3 border-l border-black/15 py-3" style={{ paddingLeft: "2.4cqw" }}>
+          {data.apiNote && <div className="flex items-start gap-3 border-l border-black/15 py-3" style={{ paddingLeft: "2.4cqw" }}>
             <Icon name="info" className="h-6 w-6 shrink-0 text-hero-blue" />
             <p className="text-sm leading-relaxed text-[#101828]">
               {data.apiNote.split(/(?<=\.)\s+/).map((t, i) => (
                 <span key={i} className="block">{t}</span>
               ))}
             </p>
-          </div>
+          </div>}
         </div>
 
         {/* divider */}

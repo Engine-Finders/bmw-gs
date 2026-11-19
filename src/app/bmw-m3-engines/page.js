@@ -43,8 +43,8 @@ const NAME = modelSec1.h1?.replaceAll("|", " ");
 const FAQ = [...(modelSec18.faqLeft || []), ...(modelSec18.faqRight || [])];
 
 export const metadata = {
-  title: modelSec1.h1?.replaceAll("|", " ") || "bmw-m3-engines",
-  description: modelSec1.subhead || "",
+  title: modelSec1.metaTitle || modelSec1.h1?.replaceAll("|", " ") || "BMW model engines",
+  description: modelSec1.metaDescription || modelSec1.subhead || "",
   alternates: { canonical: PATH },
 };
 

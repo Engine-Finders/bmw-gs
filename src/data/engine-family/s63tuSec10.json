@@ -5,13 +5,13 @@
   "titleBigPost": " S63TU",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on BMW engines every day.",
-    "Here's our practical view of the S63TU across all 14 model applications."
+    "Here's our practical view of the S63TU across all 2 model applications."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The S63TU is one of the broadest-application engines we work on - the same base engine across 14 model lines, spanning saloons, SUVs, a roadster and now a hybrid SUV flagship."
+      "body": "The S63TU is a specialist engine — only fitted to the X5 M and X6 M high-performance SUVs."
     },
     {
       "icon": "wrench",
@@ -21,7 +21,7 @@
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported pattern is confirmed for the S63TU across any of its 14 applications. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented - for the S63TU, we don't have one to report, and we won't invent one to sound more thorough."
+      "body": "The S63TU shares the hot-vee design of its predecessor, with valve seal and coolant system wear reported as areas to monitor. We don't assume any pattern for any specific S63TU application — we diagnose the engine in front of us, not by a reputation."
     }
   ],
   "notice": {

@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW 125d ENGINE",
     "paragraphs": [
-      "The 125d has been a mainstay of the 1 Series diesel range since 2012, spanning two generations under one badge. Early F20/F21 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the F20/F21 and later the F20/F21, the 125d switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ - which is exactly why we confirm your exact engine by registration before quoting."
+      "The 125d is a 2.0‑litre four‑cylinder turbo diesel that was part of the 1 Series range from 2011 to 2019. It was available only in the F20/F21 hatchback generation — the later F40 generation dropped the 125d badge. Across its production run, the 125d used two different engines: the N47 from 2011 to 2015, and the B47 from 2015 onwards. The N47 is known for a timing chain wear issue, while the B47 is a significantly revised engine that addressed that problem. Knowing which engine your car has matters for the rebuild approach, which is why we always confirm by registration before quoting. The 125d is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "The 125d is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -16,17 +16,15 @@
     "cards": [
       {
         "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(F20/F21, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early F20/F21 125d. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
+        "codeRest": "(2011–2015)",
+        "body": "A 2.0‑litre four‑cylinder diesel fitted to the 125d from 2011 to 2015 (F20/F21). Known for timing chain guide wear — see the callout above. We replace the timing chain, guides, tensioners and gaskets as standard on every N47 rebuild.",
         "cta": "Check Your N47 125d",
         "codeHref": "/bmw-n47-engine"
       },
       {
         "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(F20/F21, 2015-2019 / F20/F21, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
+        "codeRest": "(2015–2019)",
+        "body": "The later 2.0‑litre four‑cylinder diesel, fitted from 2015 to the end of F20/F21 production in 2019. BMW moved the timing chain to a more reliable position and made other internal revisions. It does not share the N47's well‑documented timing chain issue, though we still inspect and replace components as needed during a rebuild.",
         "cta": "Check Your B47 125d",
         "codeHref": "/bmw-b47-engine"
       }
@@ -35,11 +33,11 @@
   "compatibility": {
     "titlePre": "BMW 125d ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the 125d spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because BMW 125d can use the N47 or B47 engine code, fitting the wrong replacement risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "N47 / B47",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
@@ -50,7 +48,7 @@
       },
       {
         "icon": "car",
-        "text": "Your generation (F20/F21 or F20/F21)"
+        "text": "Your generation (F20/F21, 2011–2019)"
       },
       {
         "icon": "gears",
@@ -61,7 +59,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic 125d quote - it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic 125d quote — it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "BMW 125d ",
@@ -77,22 +75,23 @@
     "rows": [
       {
         "generation": "F20/F21",
-        "image": "/cars/card/1-series-f20-lci-125d-m-sport-door-hatchback.webp",
         "chassis": "F20/F21",
-        "years": "2011-2015",
+        "years": "2011–2015",
         "engineCode": "N47",
         "fuel": "Diesel",
+        "image": "/cars/card/1-series-f20-lci-125d-m-sport-door-hatchback.webp",
         "codeHref": "/bmw-n47-engine"
       },
       {
         "generation": "F20/F21",
-        "image": "/cars/card/1-series-f20-lci-125d-m-sport-door-hatchback.webp",
         "chassis": "F20/F21",
-        "years": "2015-2019",
+        "years": "2015–2019",
         "engineCode": "B47",
         "fuel": "Diesel",
+        "image": "/cars/card/1-series-f20-lci-125d-m-sport-door-hatchback.webp",
         "codeHref": "/bmw-b47-engine"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW 125d"
 }

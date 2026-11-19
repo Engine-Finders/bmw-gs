@@ -7,7 +7,7 @@
     {
       "icon": "car",
       "label": "Vehicle",
-      "value": "BMW 330e"
+      "value": "BMW 3 Series 330e"
     },
     {
       "icon": "layers",
@@ -17,7 +17,7 @@
     {
       "icon": "sliders",
       "label": "Variant",
-      "value": "330e"
+      "value": "3 Series 330e"
     },
     {
       "icon": "fuel",
@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "G20/G21 (2019-present)"
+      "value": "G20/G21 (2019–present)"
     },
     {
       "icon": "price",
@@ -48,7 +48,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The 330e used two different engines across its production run - enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "Not sure which engine you have? Enter your registration below and we'll confirm your exact PHEV spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",
@@ -64,5 +64,6 @@
       }
     ],
     "buttonLabel": "Check My Exact Engine"
-  }
+  },
+  "vehicleLabel": "BMW 3 Series 330e"
 }

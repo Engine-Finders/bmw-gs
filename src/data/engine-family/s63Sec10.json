@@ -5,23 +5,23 @@
   "titleBigPost": " S63",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on BMW engines every day.",
-    "Here's our practical view of the S63 across all 14 model applications."
+    "Here's our practical view of the S63 across all 6 model applications."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The S63 is one of the broadest-application engines we work on - the same base engine across 14 model lines, spanning saloons, SUVs, a roadster and now a hybrid SUV flagship."
+      "body": "The S63 is BMW M's twin-turbo V8, fitted across the M5, M6, M8, X5 M and X6 M — a relatively contained application set compared to the B58's 14-model spread, but one that covers a broad power and weight range."
     },
     {
       "icon": "wrench",
       "title": "WHAT WE REPLACE:",
-      "body": "Timing chain, bearings, and gaskets as standard on every rebuild, with hybrid-system ancillaries additionally accounted for on MHEV/PHEV applications."
+      "body": "Timing chain components, bearings, gaskets and seals — including valve seals, given this engine's hot-vee architecture — are replaced as standard on every S63 rebuild."
     },
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported pattern is confirmed for the S63 across any of its 14 applications. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented - for the S63, we don't have one to report, and we won't invent one to sound more thorough."
+      "body": "The S63's hot-vee design — with the turbochargers positioned in the V between the cylinder banks — means heat-related component degradation is a factor we account for, particularly valve seal wear and coolant system component wear. Timing chain stretch has also been documented across some applications. None of these are universal or inevitable — they're specific wear mechanisms we inspect for during a rebuild, and we replace components where required. We don't treat this engine as having a single catastrophic failure mode; diagnosis is required to establish whether an engine needs repair, rebuild or replacement."
     }
   ],
   "notice": {

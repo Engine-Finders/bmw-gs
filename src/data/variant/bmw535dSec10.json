@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW 535d ENGINE",
     "paragraphs": [
-      "The 535d has been a mainstay of the 5 Series diesel range since 2012, spanning two generations under one badge. Early F10/F11 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the F10/F11 and later the F10/F11, the 535d switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ - which is exactly why we confirm your exact engine by registration before quoting."
+      "The 535d was the flagship six-cylinder diesel in the F10/F11 5 Series range, positioned above the 530d and below the M5. It uses the N57 — BMW's 3.0-litre inline-six diesel, producing between 300 and 313 bhp depending on the specific tune. The F10/F11 generation ran from 2010 to 2017, after which the 535d badge was retired in favour of the 540d for the G30/G31 generation. The N57 is a well-regarded engine known for strong torque delivery and genuine refinement, though — like any high-mileage diesel — it benefits from proper maintenance and component wear checks over time. The 535d is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "The 535d is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -15,53 +15,40 @@
     "image": "/engines/535d-engine.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(F10/F11, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early F10/F11 535d. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 535d",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(F10/F11, 2015-2019 / F10/F11, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 535d",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "N57",
+        "codeRest": "",
+        "body": "A 3.0-litre inline-six diesel fitted to the 535d from 2010 to 2017 (F10/F11 generation). No independently confirmed pattern of the 4-cylinder N47's timing chain issues carries over to this six-cylinder unit — it's a separate engine family with its own wear characteristics. We service it to the same rebuild standard as every other BMW engine we work on.",
+        "cta": "Check Your N57 BMW 5 Series 535d",
+        "codeHref": "/bmw-n57-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW 535d ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the 535d spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "The 535d uses the N57 engine family throughout its production run. All F10/F11-generation 535d units share the same fundamental engine architecture, though there are different power output variants across the years. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "N57",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact engine code via registration or VIN"
       },
       {
         "icon": "car",
-        "text": "Your generation (F10/F11 or F10/F11)"
+        "text": "Your specific generation (F10/F11)"
       },
       {
         "icon": "gears",
-        "text": "Drivetrain and ancillary specification"
-      },
-      {
-        "icon": "code",
-        "text": "Any electronics or ECU considerations specific to your exact build"
+        "text": "Any variant-specific ancillaries or ECU considerations"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic 535d quote - it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic 535d quote — it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "BMW 535d ",
@@ -77,13 +64,14 @@
     "rows": [
       {
         "generation": "F10/F11",
-        "image": "/cars/card/5-series-f10-lci-535d-m-sport-2013-2016.webp",
         "chassis": "F10/F11",
-        "years": "2010-2017",
+        "years": "2010–2017",
         "engineCode": "N57",
         "fuel": "Diesel",
+        "image": "/cars/card/5-series-f10-lci-535d-m-sport-2013-2016.webp",
         "codeHref": "/bmw-n57-engine"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW 5 Series 535d"
 }

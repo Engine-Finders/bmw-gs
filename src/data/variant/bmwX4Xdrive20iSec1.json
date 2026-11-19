@@ -1,6 +1,6 @@
 {
   "kicker": "BMW X4 xDrive20i Specialists",
-  "h1": "BMW X4 xDrive20i|Engine Rebuild -|From £2,200",
+  "h1": "BMW X4 xDrive20i Engine Rebuild",
   "subhead": "Specialist BMW X4 xDrive20i engine rebuilds and replacements, with registration-based engine matching, nationwide recovery and a 12-month unlimited-mileage warranty",
   "rating": {
     "stars": 5,
@@ -25,14 +25,14 @@
     },
     {
       "icon": "engine",
-      "label": "N47 & B47 Specialists"
+      "label": "N20 & B48 Specialists"
     }
   ],
   "priceCta": {
-    "kicker": "Starting from £2,200 -",
-    "label": "Get a Fixed-Price Quote →",
+    "kicker": "",
+    "label": "Get Your Free BMW X4 xDrive20i Fixed-Price Quote",
     "href": "#quote-form",
-    "price": "£2,200"
+    "price": ""
   },
   "phoneCta": {
     "icon": "phone",
@@ -41,5 +41,7 @@
     "href": "tel:01268944234"
   },
   "image": "/variant/sec1.webp",
-  "imageMobile": "/variant/sec1_mobile.webp"
+  "imageMobile": "/variant/sec1_mobile.webp",
+  "vehicleLabel": "BMW X4 xDrive20i",
+  "metaTitle": "BMW X4 xDrive20i Engine Rebuild"
 }

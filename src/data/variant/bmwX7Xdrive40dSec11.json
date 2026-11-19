@@ -2,7 +2,7 @@
   "image": "/variant/sec11.webp",
   "titlePre": "BMW X7 xDrive40d ENGINES ",
   "titleHighlight": "BY YEAR",
-  "description": "From the N47 to the B47 - here's a quick guide to the engines fitted to the BMW X7 xDrive40d over the years. If you're unsure which one you have, we'll confirm it before you book.",
+  "description": "The B57 engine code is used across BMW X7 xDrive40d model years. If you're unsure which one you have, we'll confirm it before you book.",
   "columns": [
     {
       "icon": "calendar",
@@ -60,7 +60,7 @@
     },
     {
       "year": "2022",
-      "generation": "G07",
+      "generation": "G07 (facelift)",
       "engineCode": "B57",
       "fuel": "Diesel",
       "service": "Rebuild / Replacement",
@@ -68,7 +68,7 @@
     },
     {
       "year": "2023",
-      "generation": "G07",
+      "generation": "G07 (facelift)",
       "engineCode": "B57",
       "fuel": "Diesel",
       "service": "Rebuild / Replacement",
@@ -76,7 +76,7 @@
     },
     {
       "year": "2024",
-      "generation": "G07",
+      "generation": "G07 (facelift)",
       "engineCode": "B57",
       "fuel": "Diesel",
       "service": "Rebuild / Replacement",
@@ -84,7 +84,7 @@
     },
     {
       "year": "2025",
-      "generation": "G07",
+      "generation": "G07 (facelift)",
       "engineCode": "B57",
       "fuel": "Diesel",
       "service": "Rebuild / Replacement",
@@ -92,15 +92,12 @@
     },
     {
       "year": "2026",
-      "generation": "G07",
+      "generation": "G07 (facelift)",
       "engineCode": "B57",
       "fuel": "Diesel",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-b57-engine"
+      "service": "Rebuild / Replacement"
     }
   ],
-  "notice": {
-    "highlight": "2015 and 2019",
-    "rest": " were transition years between generations and engine codes - if your registration falls in either, we'll confirm your exact engine before quoting."
-  }
+  "notice": null,
+  "vehicleLabel": "BMW X7 xDrive40d"
 }

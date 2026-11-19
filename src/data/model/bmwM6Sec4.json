@@ -7,6 +7,7 @@
     "Engine Family",
     "Fuel",
     "Size",
+    "Chassis / Generation",
     "Rebuild Price Range"
   ],
   "rows": [
@@ -14,15 +15,15 @@
       "family": "S85",
       "fuel": "Petrol",
       "size": "5.0L V10",
-      "range": "E63/E64",
-      "familyHref": "/bmw-s85-engine"
+      "chassis": "E63/E64",
+      "range": "£6,500 – £9,500"
     },
     {
       "family": "S63",
       "fuel": "Petrol",
       "size": "4.4L Twin-Turbo V8",
-      "range": "F06/F12/F13",
-      "familyHref": "/bmw-s63-engine"
+      "chassis": "F06/F12/F13",
+      "range": "£6,500 – £9,500"
     }
   ],
   "features": [

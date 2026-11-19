@@ -5,13 +5,13 @@
   "titleBigPost": " S55",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on BMW engines every day.",
-    "Here's our practical view of the S55 across all 14 model applications."
+    "Here's our practical view of the S55 across all 3 model applications."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The S55 is one of the broadest-application engines we work on - the same base engine across 14 model lines, spanning saloons, SUVs, a roadster and now a hybrid SUV flagship."
+      "body": "The S55 is a focused performance engine, appearing in only three M models: M2 Competition, M3 and M4 — all from the same 2014–2020 generation era."
     },
     {
       "icon": "wrench",
@@ -21,7 +21,7 @@
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported pattern is confirmed for the S55 across any of its 14 applications. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented - for the S55, we don't have one to report, and we won't invent one to sound more thorough."
+      "body": "The S55 has a documented crank hub concern on some models — a press-fit friction design that can slip under load, throwing off engine timing. This is a genuine M-specific characteristic we account for during inspection."
     }
   ],
   "notice": {

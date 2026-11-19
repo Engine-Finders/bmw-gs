@@ -15,38 +15,29 @@
     "image": "/engines/s58-model-hero.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(G81, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early G81 M3 Touring. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 M3 Touring",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(G81, 2015-2019 / G81, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 M3 Touring",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "S58",
+        "codeRest": "(G81 (2022–present))",
+        "body": "S58 engine application for BMW M3 Touring.",
+        "cta": "Check Your S58 BMW M3 Touring",
+        "codeHref": "/bmw-s58-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW M3 Touring ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the M3 Touring spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "The M3 Touring uses a single engine family across its production run: the S58. Because there is only one engine code, compatibility is straightforward — but we still confirm your exact VIN and registration before any work starts to ensure we match the correct ancillaries, ECU calibration, and drivetrain configuration. This is why we always begin with your registration: it protects you from ordering parts that don't fit your specific car.",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "S58",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact engine code (S58) via registration or VIN"
       },
       {
         "icon": "car",
@@ -77,31 +68,14 @@
     "rows": [
       {
         "generation": "G81",
-        "image": "/cars/card/m3-g81-m3-touring-2022.webp",
         "chassis": "G81",
-        "years": "2012-2015",
-        "engineCode": "N47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "generation": "G81",
+        "years": "2022–present",
+        "engineCode": "S58",
+        "fuel": "Petrol",
         "image": "/cars/card/m3-g81-m3-touring-2022.webp",
-        "chassis": "G81",
-        "years": "2015-2019",
-        "engineCode": "B47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-b47-engine"
-      },
-      {
-        "generation": "G81",
-        "image": "/cars/card/m3-g81-m3-touring-2022.webp",
-        "chassis": "G81",
-        "years": "2019-2024",
-        "engineCode": "B47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-b47-engine"
+        "codeHref": "/bmw-s58-engine"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW M3 Touring"
 }

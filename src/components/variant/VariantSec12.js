@@ -4,7 +4,9 @@ import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
 
 export default function VariantSec12({ data }) {
+  if (data.hideCombustion || data.hidePrice) return null;
   const { yearBanner, costs, related } = data;
+  const vehicleLabel = yearBanner.vehicleLabel || "BMW vehicle";
 
   return (
     <section className="relative overflow-hidden bg-[#f3f6fb]">
@@ -23,7 +25,7 @@ export default function VariantSec12({ data }) {
                   <Icon name="check" className="h-2.5 w-2.5 text-white" />
                 </span>
                 <p className="text-xs leading-tight text-[#101828]">
-                  {yearBanner.vehicleLabel || "BMW 320d"} <br /> {y} Engine Rebuild
+                  {vehicleLabel} <br /> {y} Engine Rebuild
                 </p>
               </div>
             ))}
@@ -49,7 +51,7 @@ export default function VariantSec12({ data }) {
 
           <div className="relative mt-3 flex items-center justify-center gap-4">
             <div className="relative h-44 w-60">
-              <Image src={costs.image} alt="BMW 320d engine" fill className="object-contain" sizes="240px" />
+              <Image src={costs.image} alt={`${vehicleLabel} engine`} fill className="object-contain" sizes="240px" />
             </div>
             <div className="flex flex-col items-center gap-1.5 text-center">
               <Icon
@@ -111,7 +113,7 @@ export default function VariantSec12({ data }) {
                     <Icon name="check" className="h-3 w-3 text-white" />
                   </span>
                   <p className="text-sm leading-tight text-[#101828]">
-                    BMW 320d <br /> {y} Engine Rebuild
+                    {vehicleLabel} <br /> {y} Engine Rebuild
                   </p>
                 </div>
               ))}
@@ -144,7 +146,7 @@ export default function VariantSec12({ data }) {
 
                 <div className="relative flex items-center justify-center gap-4">
                   <div className="relative h-56 w-64 shrink-0">
-                    <Image src={costs.image} alt="BMW 320d engine" fill className="object-contain" sizes="256px" />
+                    <Image src={costs.image} alt={`${vehicleLabel} engine`} fill className="object-contain" sizes="256px" />
                   </div>
                   <div className="flex min-w-0 flex-col items-center gap-2 text-center">
                     <Icon

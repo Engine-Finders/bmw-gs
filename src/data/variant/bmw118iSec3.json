@@ -5,27 +5,23 @@
   "engineImage": "/engines/116i-118i-engine.webp",
   "cards": [
     {
+      "codeHref": "/bmw-n13-engine",
       "code": "N13",
-      "generation": "F20/F21 (2011-2019)",
-      "price": "£2,200",
-      "codeHref": "/bmw-n13-engine"
+      "generation": "F20/F21 (2011–2019)",
+      "price": "£2,200"
     },
     {
-      "code": "B38",
       "image": "/engines/b38-engine.webp",
-      "generation": "F40 (2019-2024)",
-      "price": "£2,200",
-      "codeHref": "/bmw-b38-engine"
+      "codeHref": "/bmw-b38-engine",
+      "code": "B38",
+      "generation": "F40 (2019–2024)",
+      "price": "£2,200"
     }
   ],
   "notes": [
     {
       "icon": "layers",
-      "text": "All engine codes sit on the same rebuild tier."
-    },
-    {
-      "icon": "price",
-      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
+      "text": "Both engine codes sit on the same rebuild tier. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -33,14 +29,6 @@
     "label": "Get Your Fixed-Price Quote",
     "href": "#quote-form"
   },
-  "warning": {
-    "bgImage": "/variant/sec3_lower_div_bg.webp",
-    "titlePre": "BMW 118i Timing Chain Failure ",
-    "titleHighlight": "(F20/F21, N47)",
-    "paragraphs": [
-      "If your 118i is a pre-2015 model with the N47 diesel engine - that's the early F20/F21 generation - timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-      "The later F20/F21 (2015-onwards) and F40 generations use a different engine, the B47, which is significantly more reliable and doesn't share this specific issue."
-    ],
-    "source": "Source: NHTSA Recall 18V-755 - Timing Chain Guide Wear in N47 Engines (2012-2015)"
-  }
+  "warning": null,
+  "vehicleLabel": "BMW 118i"
 }

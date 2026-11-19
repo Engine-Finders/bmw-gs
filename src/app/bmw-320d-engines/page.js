@@ -33,9 +33,8 @@ const NAME = variantSec1.h1?.replaceAll("|", " ");
 const FAQ = [...(variantSec13.faqLeft || []), ...(variantSec13.faqRight || [])];
 
 export const metadata = {
-  title: "BMW 320d Engine Rebuild From £2,200 | N47 & B47 Specialists",
-  description:
-    "BMW 320d engine rebuild from £2,200. N47 & B47 diesel specialists. 12-month warranty, nationwide recovery. Free quote in 30 mins.",
+  title: "BMW 320d Engine Rebuild & Replacement | From £2,200",
+  description: variantSec1.subhead || "",
   alternates: { canonical: PATH },
 };
 
@@ -44,7 +43,7 @@ export default function BMW320dEnginesPage() {
     <>
       <JsonLd
         data={graphDoc([
-          serviceSchema({ name: NAME, description: variantSec1.subhead, path: PATH, price: (variantSec1.priceCta?.kicker || variantSec1.h1) }),
+          serviceSchema({ name: NAME, description: variantSec1.subhead, path: PATH, price: variantSec1.priceCta?.price }),
           faqSchema(FAQ, PATH),
           breadcrumbSchema([{ name: "Home", path: "/" }, { name: "Variants", path: "/variants" }, { name: NAME, path: PATH }], PATH),
         ])}

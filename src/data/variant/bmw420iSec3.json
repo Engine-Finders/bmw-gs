@@ -5,35 +5,31 @@
   "engineImage": "/engines/n54-n55-n20-family-engine-hero.webp",
   "cards": [
     {
-      "code": "N20",
       "image": "/engines/n54-n55-n20-family-engine-hero.webp",
-      "generation": "F32 (2013-2016)",
-      "price": "£2,200",
-      "codeHref": "/bmw-n20-engine"
+      "codeHref": "/bmw-n20-engine",
+      "code": "N20",
+      "generation": "F32",
+      "price": "£2,200"
     },
     {
-      "code": "B48",
       "image": "/engines/b48-engine.webp",
-      "generation": "F32 (2016-2020)",
-      "price": "£2,200",
-      "codeHref": "/bmw-b48-engine"
+      "codeHref": "/bmw-b48-engine",
+      "code": "B48",
+      "generation": "F32",
+      "price": "£2,200"
     },
     {
-      "code": "B48",
       "image": "/engines/b48-engine.webp",
-      "generation": "G22 (2020-present)",
-      "price": "£2,200",
-      "codeHref": "/bmw-b48-engine"
+      "codeHref": "/bmw-b48-engine",
+      "code": "B48",
+      "generation": "G22",
+      "price": "£2,200"
     }
   ],
   "notes": [
     {
       "icon": "layers",
-      "text": "All engine codes sit on the same rebuild tier."
-    },
-    {
-      "icon": "price",
-      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
+      "text": "Both engine codes sit on the same rebuild tier. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -41,14 +37,6 @@
     "label": "Get Your Fixed-Price Quote",
     "href": "#quote-form"
   },
-  "warning": {
-    "bgImage": "/variant/sec3_lower_div_bg.webp",
-    "titlePre": "BMW 420i Timing Chain Failure ",
-    "titleHighlight": "(F32, N47)",
-    "paragraphs": [
-      "If your 420i is a pre-2015 model with the N47 diesel engine - that's the early F32 generation - timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-      "The later F32 (2015-onwards) and G22 generations use a different engine, the B47, which is significantly more reliable and doesn't share this specific issue."
-    ],
-    "source": "Source: NHTSA Recall 18V-755 - Timing Chain Guide Wear in N47 Engines (2012-2015)"
-  }
+  "warning": null,
+  "vehicleLabel": "BMW 420i"
 }

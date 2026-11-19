@@ -25,8 +25,8 @@
       "model": "M5",
       "variant": "M5",
       "generation": "E60/E61",
+      "years": "2005–2010",
       "chassis": "E60/E61",
-      "years": "2005-2010",
       "modelHref": "/bmw-m5-engines",
       "variantHref": "/bmw-m5-engines"
     },
@@ -34,8 +34,8 @@
       "model": "M6",
       "variant": "M6",
       "generation": "E63/E64",
+      "years": "2006–2010",
       "chassis": "E63/E64",
-      "years": "2006-2010",
       "modelHref": "/bmw-m6-engines",
       "variantHref": "/bmw-m6-engines"
     }

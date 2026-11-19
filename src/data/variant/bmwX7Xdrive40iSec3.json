@@ -1,39 +1,21 @@
 {
   "headline": "BMW X7 xDrive40i Engine Rebuild Price",
   "startingFromLabel": "Starting From",
-  "startingFromPrice": "£2,200",
+  "startingFromPrice": "£2,800",
   "engineImage": "/engines/b58-engine.webp",
   "cards": [
     {
-      "code": "N47",
       "image": "/engines/n47-engine-hero.webp",
-      "generation": "G07 (2012-2015)",
-      "price": "£2,200",
-      "codeHref": "/bmw-n47-engine"
-    },
-    {
-      "code": "B47",
-      "image": "/engines/b47-engine.webp",
-      "generation": "G07 (2015-2019)",
-      "price": "£2,200",
-      "codeHref": "/bmw-b47-engine"
-    },
-    {
-      "code": "B47",
-      "image": "/engines/b47-engine.webp",
-      "generation": "G07 (2019-2024)",
-      "price": "£2,200",
-      "codeHref": "/bmw-b47-engine"
+      "code": "B58",
+      "generation": "Chassis",
+      "price": "£2,800",
+      "codeHref": "/bmw-b58-engine"
     }
   ],
   "notes": [
     {
       "icon": "layers",
-      "text": "All engine codes sit on the same rebuild tier."
-    },
-    {
-      "icon": "price",
-      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -41,14 +23,6 @@
     "label": "Get Your Fixed-Price Quote",
     "href": "#quote-form"
   },
-  "warning": {
-    "bgImage": "/variant/sec3_lower_div_bg.webp",
-    "titlePre": "BMW X7 xDrive40i Timing Chain Failure ",
-    "titleHighlight": "(G07, N47)",
-    "paragraphs": [
-      "If your X7 xDrive40i is a pre-2015 model with the N47 diesel engine - that's the early G07 generation - timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-      "The later G07 (2015-onwards) and G07 generations use a different engine, the B47, which is significantly more reliable and doesn't share this specific issue."
-    ],
-    "source": "Source: NHTSA Recall 18V-755 - Timing Chain Guide Wear in N47 Engines (2012-2015)"
-  }
+  "warning": null,
+  "vehicleLabel": "BMW X7 xDrive40i"
 }

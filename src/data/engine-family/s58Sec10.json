@@ -5,23 +5,23 @@
   "titleBigPost": " S58",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on BMW engines every day.",
-    "Here's our practical view of the S58 across all 14 model applications."
+    "Here's our practical view of the S58 across all 5 model applications."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The S58 is one of the broadest-application engines we work on - the same base engine across 14 model lines, spanning saloons, SUVs, a roadster and now a hybrid SUV flagship."
+      "body": "The S58 is BMW M's current-generation performance engine, fitted across five model lines — the M2, M3, M4, X3 M and X4 M."
     },
     {
       "icon": "wrench",
       "title": "WHAT WE REPLACE:",
-      "body": "Timing chain, bearings, and gaskets as standard on every rebuild, with hybrid-system ancillaries additionally accounted for on MHEV/PHEV applications."
+      "body": "Main bearings, connecting rod bearings, complete gasket and seal set, timing chain components where required, and oil filter housing gasket as standard on every rebuild."
     },
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported pattern is confirmed for the S58 across any of its 14 applications. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented - for the S58, we don't have one to report, and we won't invent one to sound more thorough."
+      "body": "No widely-reported pattern is confirmed for the S58 across any of its five applications. The S58 is generally considered a robust engine — an improvement over the previous-generation S55 — and we don't treat this engine as having one universal failure mode; diagnosis is required to establish whether an engine needs repair, rebuild or replacement."
     }
   ],
   "notice": {

@@ -30,10 +30,6 @@ export default function HomeSec12({ data }) {
             <RegLookupForm buttonLabel={data.ctaButton} stacked whiteBorder matchHeight />
           </div>
 
-          <p className="mt-2.5 flex items-center gap-1.5 text-[10px] uppercase tracking-wide text-white">
-            <span className="h-1.5 w-1.5 rounded-full bg-emerald-400" />
-            {data.note}
-          </p>
         </div>
 
         {/* right: the car, cropped to a dedicated car-only asset so it's never squeezed or mispositioned by text length */}
@@ -70,10 +66,6 @@ export default function HomeSec12({ data }) {
             <RegLookupForm buttonLabel={data.ctaButton} compact whiteBorder matchHeight />
           </div>
 
-          <p className="mt-4 flex items-center gap-1.5 text-[11px] uppercase tracking-wide text-white">
-            <span className="h-1.5 w-1.5 rounded-full bg-emerald-400" />
-            {data.note}
-          </p>
         </div>
       </div>
     </section>

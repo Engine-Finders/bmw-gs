@@ -5,23 +5,23 @@
   "titleBigPost": " S62",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on BMW engines every day.",
-    "Here's our practical view of the S62 across all 14 model applications."
+    "Here's our practical view of the S62 across all 1 model applications."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The S62 is one of the broadest-application engines we work on - the same base engine across 14 model lines, spanning saloons, SUVs, a roadster and now a hybrid SUV flagship."
+      "body": "The S62 is a single-application engine — the E39 M5, 1999–2003. It's one of the most iconic engines BMW M ever built, and we work on it regularly."
     },
     {
       "icon": "wrench",
       "title": "WHAT WE REPLACE:",
-      "body": "Timing chain, bearings, and gaskets as standard on every rebuild, with hybrid-system ancillaries additionally accounted for on MHEV/PHEV applications."
+      "body": "Timing chain, bearings, and gaskets as standard on every rebuild."
     },
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported pattern is confirmed for the S62 across any of its 14 applications. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented - for the S62, we don't have one to report, and we won't invent one to sound more thorough."
+      "body": "No widely-reported pattern is confirmed for the S62. While some owners discuss rod bearing wear in high-mileage examples, we don't treat this engine as having one universal failure mode. Diagnosis is required to establish whether an engine needs repair, rebuild or replacement."
     }
   ],
   "notice": {

@@ -22,11 +22,11 @@ export default function HomeSec1({ hero, lookup }) {
 
           <div className="relative flex flex-col px-4 pt-6 pb-40">
             <div className="max-w-[62%]">
-              <h1 className="hp-h1 uppercase">
+              <div role="heading" aria-level="1" className="hp-h1 uppercase">
                 <span className="block text-white">{line1}</span>{" "}
                 <span className="block text-hero-blue">{line2}</span>{" "}
                 <span className="block text-white">{line3}</span>
-              </h1>
+              </div>
               <p className="body-text mt-3 text-gray-300">{hero.subhead}</p>
             </div>
 
@@ -60,11 +60,11 @@ export default function HomeSec1({ hero, lookup }) {
           <div className="pointer-events-none absolute -left-32 top-10 h-96 w-96 rounded-full bg-hero-blue/25 blur-[110px]" />
 
           <div className="relative mx-auto max-w-6xl px-4 pb-32 pt-8 sm:px-6 lg:px-8 lg:pt-10">
-            <div role="heading" aria-level="1" className="hp-h1 uppercase">
+            <h1 className="hp-h1 uppercase">
               <span className="block text-white">{line1}</span>{" "}
               <span className="block text-hero-blue">{line2}</span>{" "}
               <span className="block text-white">{line3}</span>
-            </div>
+            </h1>
             <p className="body-text mt-5 max-w-lg text-gray-300">{hero.subhead}</p>
 
             <div className="absolute inset-x-0 bottom-0 z-10 mx-auto w-full max-w-275 translate-y-1/2">

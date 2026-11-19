@@ -5,23 +5,23 @@
   "titleBigPost": " N47",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on BMW engines every day.",
-    "Here's our practical view of the N47 across all 14 model applications."
+    "Here's our practical view of the N47 across all 6 model applications."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The N47 is one of the broadest-application engines we work on - the same base engine across 14 model lines, spanning saloons, SUVs, a roadster and now a hybrid SUV flagship."
+      "body": "The N47 is one of the most common diesel engines from this era that we work on — six model lines across the BMW range, with the 3 Series and 5 Series being the applications we see most frequently."
     },
     {
       "icon": "wrench",
       "title": "WHAT WE REPLACE:",
-      "body": "Timing chain, bearings, and gaskets as standard on every rebuild, with hybrid-system ancillaries additionally accounted for on MHEV/PHEV applications."
+      "body": "Timing chain components, bearings, and complete gasket set as standard on every rebuild, with the timing chain replacement being a particular focus given the rear-mounted design."
     },
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported pattern is confirmed for the N47 across any of its 14 applications. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented - for the N47, we don't have one to report, and we won't invent one to sound more thorough."
+      "body": "Timing chain failure is the most widely-reported issue for this engine, made more labour-intensive due to the chain's rear-mounted position. EGR valve and cooler failure are also documented as wear items."
     }
   ],
   "notice": {

@@ -5,23 +5,23 @@
   "titleBigPost": " S68",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on BMW engines every day.",
-    "Here's our practical view of the S68 across all 14 model applications."
+    "Here's our practical view of the S68 across all 2 model applications."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The S68 is one of the broadest-application engines we work on - the same base engine across 14 model lines, spanning saloons, SUVs, a roadster and now a hybrid SUV flagship."
+      "body": "The S68 is a new-generation V8 fitted to BMW M's flagship performance models — the XM and the G90 M5."
     },
     {
       "icon": "wrench",
       "title": "WHAT WE REPLACE:",
-      "body": "Timing chain, bearings, and gaskets as standard on every rebuild, with hybrid-system ancillaries additionally accounted for on MHEV/PHEV applications."
+      "body": "Gaskets, seals, and bearings as standard on every rebuild, with timing chain components inspected and replaced as required. 48V mild-hybrid system components and hot-vee ancillaries are accounted for as part of the rebuild."
     },
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported pattern is confirmed for the S68 across any of its 14 applications. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented - for the S68, we don't have one to report, and we won't invent one to sound more thorough."
+      "body": "The S68 is too new for a real-world pattern to have emerged. The hot-vee turbo layout presents a similar packaging challenge to the S63 it replaces, but we don't treat this as a specific failure mode — it's a design characteristic we account for in the rebuild process. Diagnosis is required to establish whether an engine needs repair, rebuild or replacement."
     }
   ],
   "notice": {

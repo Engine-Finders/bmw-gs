@@ -4,11 +4,20 @@
     "titleHighlight": "EVERY",
     "titlePost": " BMW 118i MODEL YEAR:",
     "years": [
+      "2011",
+      "2012",
       "2013",
+      "2014",
+      "2015",
       "2016",
+      "2017",
+      "2018",
       "2019",
+      "2020",
       "2021",
-      "2023"
+      "2022",
+      "2023",
+      "2024"
     ],
     "footer": "If your registration year or model isn't listed above, get in touch - we'll confirm availability directly against your reg.",
     "vehicleLabel": "BMW 118i"
@@ -18,7 +27,7 @@
     "titleHighlight": "COSTS",
     "intro": "A BMW 118i engine rebuild starts from",
     "price": "£2,200",
-    "body": "Whether your car has the N47 or the B47. A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required - submit your registration for a fixed-price quote within 30 minutes.",
+    "body": "A BMW 118i engine rebuild starts from £2,200, whether your car has the N13 or the B38. A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
     "image": "/engines/116i-118i-engine.webp",
     "warranty": {
       "line1": "12 MONTH",
@@ -29,12 +38,12 @@
       {
         "icon": "engine",
         "title": "BMW 118i ENGINE SIZES",
-        "item": "BMW 118i 2.0 Litre Engine"
+        "item": "BMW 118i 1.5 Litre Engine (B38, 3-Cyl)   ✓ BMW 118i 1.6 Litre Engine (N13, 4-Cyl)"
       },
       {
         "icon": "fuel",
         "title": "BMW 118i FUEL TYPES",
-        "item": "BMW 118i Diesel Engine Rebuilds"
+        "item": "BMW 118i Petrol Engine Rebuilds"
       }
     ]
   },
@@ -68,5 +77,8 @@
     ],
     "viewAll": "View All BMW 1 Series Engines",
     "viewAllHref": "/bmw-1-series-engines"
-  }
+  },
+  "hidePrice": false,
+  "hideCombustion": false,
+  "vehicleLabel": "BMW 118i"
 }

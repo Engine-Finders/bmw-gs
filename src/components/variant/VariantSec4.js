@@ -3,12 +3,15 @@ import Icon from "@/components/reusable/Icon";
 import QuoteLink from "@/components/shared/QuoteLink";
 
 export default function VariantSec4({ data }) {
+  if (data.hideOffers) return null;
+  const vehicleLabel = data.vehicleLabel || data.headlinePre || "BMW vehicle";
+
   return (
     <section className="relative overflow-hidden bg-[#f3f6fb]">
       {/* ===== mobile ===== */}
       <div className="relative md:hidden">
         <div className="relative h-40 w-full overflow-hidden">
-          <Image src={data.topImage} alt="BMW 320d engine block" fill className="object-cover" sizes="100vw" />
+          <Image src={data.topImage} alt={`${vehicleLabel} engine block`} fill className="object-cover" sizes="100vw" />
           <div
             className="absolute inset-0"
             style={{ background: "linear-gradient(to right, #fff 0%, #fff 62%, rgba(255,255,255,0.85) 72%, transparent 88%)" }}
@@ -41,9 +44,9 @@ export default function VariantSec4({ data }) {
                 </div>
                 <p className="mt-2 text-xs font-extrabold uppercase leading-tight text-[#101828]">{c.title}</p>
                 <p className="mt-1.5 line-clamp-4 text-[11px] leading-snug text-[#4a5568]">{c.body}</p>
-                <QuoteLink href="#quote-form" className="mt-2 inline-flex w-fit items-center gap-1 text-[11px] font-bold text-hero-blue">
+                {c.link && <QuoteLink href="#quote-form" className="mt-2 inline-flex w-fit items-center gap-1 text-[11px] font-bold text-hero-blue">
                   {c.link} <span aria-hidden>→</span>
-                </QuoteLink>
+                </QuoteLink>}
               </div>
             ))}
           </div>
@@ -80,7 +83,7 @@ export default function VariantSec4({ data }) {
       {/* ===== desktop ===== */}
       <div className="relative hidden md:block">
         <div className="relative h-64 w-full overflow-hidden lg:h-72">
-          <Image src={data.topImage} alt="BMW 320d engine block" fill className="object-cover" sizes="100vw" />
+          <Image src={data.topImage} alt={`${vehicleLabel} engine block`} fill className="object-cover" sizes="100vw" />
 
           <div className="relative z-10 mx-auto flex h-full max-w-6xl items-center px-4 sm:px-6 lg:px-8">
             <div className="max-w-lg">
@@ -118,9 +121,9 @@ export default function VariantSec4({ data }) {
                     </div>
                     <p className="mt-4 text-sm leading-relaxed text-[#4a5568]">{c.body}</p>
                   </div>
-                  <QuoteLink href="#quote-form" className="mt-4 inline-flex w-fit items-center gap-1.5 text-sm font-bold text-hero-blue">
+                  {c.link && <QuoteLink href="#quote-form" className="mt-4 inline-flex w-fit items-center gap-1.5 text-sm font-bold text-hero-blue">
                     {c.link} <span aria-hidden>→</span>
-                  </QuoteLink>
+                  </QuoteLink>}
                 </div>
               ))}
             </div>

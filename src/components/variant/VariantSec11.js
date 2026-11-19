@@ -5,6 +5,9 @@ import BMWStripe from "@/components/reusable/BMWStripe";
 import MobileSplitTitle from "@/components/variant/MobileSplitTitle";
 
 export default function VariantSec11({ data }) {
+  if (!data.rows?.length) return null;
+  const vehicleLabel = data.vehicleLabel || data.titlePre?.replace(/\s+ENGINES?\s*$/i, "") || "BMW vehicle";
+
   return (
     <section className="relative overflow-hidden bg-hero-dark">
       {/* ===== mobile ===== */}
@@ -44,7 +47,7 @@ export default function VariantSec11({ data }) {
             </div>
           </div>
 
-          <div className="glass-card-dark mt-4 flex items-start gap-3 rounded-xl px-4 py-3.5">
+          {data.notice && <div className="glass-card-dark mt-4 flex items-start gap-3 rounded-xl px-4 py-3.5">
             <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full border-2 border-hero-blue text-xs font-bold text-hero-blue">
               i
             </span>
@@ -52,14 +55,14 @@ export default function VariantSec11({ data }) {
               <span className="font-bold text-hero-blue">{data.notice.highlight}</span>
               {data.notice.rest}
             </p>
-          </div>
+          </div>}
         </div>
       </div>
 
       {/* ===== desktop ===== */}
       <div className="relative hidden overflow-hidden md:block">
         <div className="absolute inset-0">
-          <Image src={data.image} alt="BMW 320d engine and sedan" fill className="object-cover" sizes="100vw" />
+          <Image src={data.image} alt={`${vehicleLabel} engine and vehicle`} fill className="object-cover" sizes="100vw" />
         </div>
 
         <div className="relative mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
@@ -107,7 +110,7 @@ export default function VariantSec11({ data }) {
             ))}
           </div>
 
-          <div className="glass-card-dark mt-5 flex max-w-3xl items-start gap-3 rounded-xl px-6 py-4">
+          {data.notice && <div className="glass-card-dark mt-5 flex max-w-3xl items-start gap-3 rounded-xl px-6 py-4">
             <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full border-2 border-hero-blue text-sm font-bold text-hero-blue">
               i
             </span>
@@ -115,7 +118,7 @@ export default function VariantSec11({ data }) {
               <span className="font-bold text-hero-blue">{data.notice.highlight}</span>
               {data.notice.rest}
             </p>
-          </div>
+          </div>}
         </div>
       </div>
     </section>

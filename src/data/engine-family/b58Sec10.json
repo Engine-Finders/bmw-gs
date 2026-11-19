@@ -3,22 +3,25 @@
   "titleBigPre": "THE ",
   "titleBigHighlight": "BMW",
   "titleBigPost": " B58",
-  "subtext": ["Built, rebuilt and tested by engineers who work on BMW engines every day.", "Here's our practical view of the B58 across all 14 model applications."],
+  "subtext": [
+    "Built, rebuilt and tested by engineers who work on BMW engines every day.",
+    "Here's our practical view of the B58 across all 23 model applications."
+  ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The B58 is one of the broadest-application engines we work on - the same base engine across 14 model lines, spanning saloons, SUVs, a roadster and now a hybrid SUV flagship."
+      "body": "The B58 is one of the broadest-application engines we work on — the same base engine across 13 model lines, spanning saloons, SUVs, a roadster and now a hybrid SUV flagship."
     },
     {
       "icon": "wrench",
       "title": "WHAT WE REPLACE:",
-      "body": "Timing chain, bearings, and gaskets as standard on every rebuild, with hybrid-system ancillaries additionally accounted for on MHEV/PHEV applications."
+      "body": "Main bearings, connecting rod bearings, gaskets, seals, and timing chain components where required — with 48V system components and hybrid cooling lines additionally accounted for on MHEV/PHEV applications."
     },
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported pattern is confirmed for the B58 across any of its 14 applications. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented - for the B58, we don't have one to report, and we won't invent one to sound more thorough."
+      "body": "No widely-reported pattern is confirmed for the B58 across any of its 13 applications. We don't treat this engine as having one universal failure mode; diagnosis is required to establish whether an engine needs repair, rebuild or replacement."
     }
   ],
   "notice": {

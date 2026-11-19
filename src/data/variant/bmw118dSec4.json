@@ -9,7 +9,7 @@
       "icon": "piston",
       "badge": "MOST POPULAR",
       "title": "REBUILDING YOUR 118d ENGINE",
-      "body": "We rebuild your existing 118d engine - strip it down, pressure-test it, and replace all worn or damaged components with updated OEM parts (timing chains, guides & tensioners on the N47). Near-new performance with a 12-month unlimited-mileage warranty.",
+      "body": "We rebuild your existing 118d engine - strip it down, pressure-test it, and replace all worn or damaged components with updated OEM parts (updated OEM parts). Near-new performance with a 12-month unlimited-mileage warranty.",
       "link": "From £2,200"
     },
     {
@@ -30,7 +30,7 @@
       "number": "04",
       "icon": "engine",
       "title": "REMANUFACTURED 118d ENGINES",
-      "body": "Built to original specification with updated components. That's exactly what our rebuild service delivers on both the N47 and B47.",
+      "body": "Built to original specification with updated components. That's exactly what our rebuild service delivers on the correct engine specification.",
       "link": "Learn more"
     },
     {
@@ -51,10 +51,12 @@
   "banner": {
     "image": "/variant/sec3_engine.webp",
     "title": "NOT SURE WHICH OPTION IS RIGHT FOR YOU?",
-    "body": "Enter your registration below and we'll confirm your engine (N47 or B47) and talk you through the best solution for your 118d.",
+    "body": "Enter your registration below and we'll confirm your exact engine specification and talk you through the best solution for your 118d.",
     "cta": {
       "label": "Ask About Your Options",
       "href": "#quote-form"
     }
-  }
+  },
+  "vehicleLabel": "BMW 118d",
+  "hideOffers": false
 }

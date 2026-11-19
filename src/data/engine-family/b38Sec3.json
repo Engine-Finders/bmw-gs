@@ -25,8 +25,8 @@
       "model": "1 Series",
       "variant": "116i",
       "generation": "F20/F21",
+      "years": "2015–2019",
       "chassis": "F20/F21",
-      "years": "2015-2019",
       "modelHref": "/bmw-1-series-engines",
       "variantHref": "/bmw-116i-engines"
     },
@@ -34,16 +34,16 @@
       "model": "X1",
       "variant": "sDrive16i, sDrive18i",
       "generation": "F48",
+      "years": "2015–2022",
       "chassis": "F48",
-      "years": "2015-2022",
       "modelHref": "/bmw-x1-engines"
     },
     {
       "model": "X2",
       "variant": "sDrive16i, sDrive18i",
       "generation": "F39",
+      "years": "2017–2023",
       "chassis": "F39",
-      "years": "2017-2023",
       "modelHref": "/bmw-x2-engines"
     }
   ],

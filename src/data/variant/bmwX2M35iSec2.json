@@ -48,7 +48,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The X2 M35i used two different engines across its production run - enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "Not sure which engine you have? The X2 M35i uses the B48 2.0-litre turbo engine across its entire production. Enter your registration below and we'll confirm your exact spec and provide a fixed-price quote.",
     "badges": [
       {
         "icon": "shield-check",
@@ -64,5 +64,6 @@
       }
     ],
     "buttonLabel": "Check My Exact Engine"
-  }
+  },
+  "vehicleLabel": "BMW X2 M35i"
 }

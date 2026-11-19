@@ -1,7 +1,7 @@
 {
   "kicker": "BMW X1 sDrive18d Specialists",
-  "h1": "BMW X1 sDrive18d|Engine Rebuild -|From £2,200",
-  "subhead": "Specialist BMW X1 sDrive18d engine rebuilds and replacements, with registration-based engine matching, nationwide recovery and a 12-month unlimited-mileage warranty",
+  "h1": "BMW X1 sDrive18d|Engine Rebuild —|From £1,900",
+  "subhead": "title: \"BMW X1 sDrive18d Engine Rebuild From £1,900 | B37 Diesel Specialists\"",
   "rating": {
     "stars": 5,
     "label": "Rated BMW Engine Specialists - 1,800+ Engines Rebuilt"
@@ -25,14 +25,14 @@
     },
     {
       "icon": "engine",
-      "label": "N47 & B47 Specialists"
+      "label": "B37 Diesel Specialists"
     }
   ],
   "priceCta": {
-    "kicker": "Starting from £2,200 -",
-    "label": "Get a Fixed-Price Quote →",
+    "kicker": "Starting from £1,900 -",
+    "label": "Get a Fixed-Price Quote ?",
     "href": "#quote-form",
-    "price": "£2,200"
+    "price": "£1,900"
   },
   "phoneCta": {
     "icon": "phone",
@@ -41,5 +41,8 @@
     "href": "tel:01268944234"
   },
   "image": "/variant/sec1.webp",
-  "imageMobile": "/variant/sec1_mobile.webp"
+  "imageMobile": "/variant/sec1_mobile.webp",
+  "vehicleLabel": "BMW X1 sDrive18d",
+  "metaTitle": "BMW X1 sDrive18d Engine Rebuild & Replacement | From £1,900",
+  "metaDescription": "BMW X1 sDrive18d engine rebuild from £1,900. B37 1.5L diesel specialists. 12-month warranty, nationwide recovery. Free quote in 30 mins."
 }

@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW X7 M60i ENGINE",
     "paragraphs": [
-      "The X7 M60i has been a mainstay of the X7 diesel range since 2012, spanning two generations under one badge. Early G07 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the G07 and later the G07, the X7 M60i switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ - which is exactly why we confirm your exact engine by registration before quoting."
+      "The X7 M60i sits at the top of the X7 range, powered by a 4.4-litre twin-turbo V8 producing 523hp. It was introduced with the 2022 G07 facelift, replacing the previous xDrive50i as the flagship petrol V8 option. The engine is the same S68-derived unit fitted to the contemporary X5 M60i and X6 M60i — a hot-vee twin-turbo design that's a separate and later development from the earlier N63/S63 family."
     ],
     "boldParagraph": "The X7 M60i is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -13,40 +13,23 @@
     "titlePre": "BMW X7 M60i ENGINE ",
     "titleHighlight": "CODES",
     "image": "/engines/m60i-engine.webp",
-    "cards": [
-      {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(G07, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early G07 X7 M60i. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 X7 M60i",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(G07, 2015-2019 / G07, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 X7 M60i",
-        "codeHref": "/bmw-b47-engine"
-      }
-    ]
+    "cards": []
   },
   "compatibility": {
     "titlePre": "BMW X7 M60i ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the X7 M60i spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the X7 M60i uses a specific V8 engine configuration, we confirm your exact engine specification via registration or VIN before quoting or supplying anything. This protects you from paying for parts that don't fit your actual car.",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "Exact engine code",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact engine code via registration or VIN"
       },
       {
         "icon": "car",
@@ -77,12 +60,13 @@
     "rows": [
       {
         "generation": "G07",
-        "image": "/cars/card/x7-g07-lci-xdrive40d-m-sport-2022.webp",
         "chassis": "G07",
-        "years": "2022-present",
-        "engineCode": "-",
-        "fuel": "Petrol Twin-Turbo"
+        "years": "2022–present",
+        "engineCode": "—",
+        "fuel": "Petrol Twin-Turbo",
+        "image": "/cars/card/x7-g07-lci-xdrive40d-m-sport-2022.webp"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW X7 M60i"
 }

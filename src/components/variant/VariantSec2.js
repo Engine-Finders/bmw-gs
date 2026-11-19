@@ -5,6 +5,7 @@ import RegLookupForm from "@/components/reusable/RegLookupForm";
 import QuoteLink from "@/components/shared/QuoteLink";
 
 export default function VariantSec2({ data }) {
+  const vehicleLabel = data.vehicleLabel || data.h1?.split("|")[0] || "BMW vehicle";
   return (
     <section className="relative overflow-hidden bg-[#eef2f7]">
       {/* ===== mobile ===== */}
@@ -18,7 +19,7 @@ export default function VariantSec2({ data }) {
         <span className="mt-2 block h-0.5 w-32 bg-linear-to-r from-bmw-blue via-white to-bmw-red" />
 
         <div className="relative mt-5 overflow-hidden rounded-xl">
-          <Image src={data.image} alt="BMW 320d TwinPower Turbo engine" width={600} height={480} className="mx-auto h-44 w-auto object-contain" />
+          <Image src={data.image} alt={`${vehicleLabel} engine`} width={600} height={480} className="mx-auto h-44 w-auto object-contain" />
         </div>
 
         <div className="relative mt-4 grid grid-cols-2 gap-2.5">
@@ -102,7 +103,7 @@ export default function VariantSec2({ data }) {
               className="relative flex h-full items-center justify-center overflow-hidden rounded-2xl"
               style={{ background: "radial-gradient(ellipse at center, rgba(66,104,159,0.32) 0%, rgba(66,104,159,0.1) 45%, transparent 72%)" }}
             >
-              <Image src={data.image} alt="BMW 320d TwinPower Turbo engine" width={700} height={560} className="h-auto w-full max-w-md object-contain" />
+              <Image src={data.image} alt={`${vehicleLabel} engine`} width={700} height={560} className="h-auto w-full max-w-md object-contain" />
             </div>
           </div>
 

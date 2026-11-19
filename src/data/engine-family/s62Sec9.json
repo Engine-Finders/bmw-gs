@@ -4,20 +4,20 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW S62",
     "titlePost": " ENGINE",
-    "body": "The S62 is BMW's modular turbocharged inline-six petrol engine, in production since 2015. It's one of the most widely-deployed engines in the current BMW range, fitted across every mainstream model line from the 2 Series up to the flagship 8 Series and X7, plus the new XM and the Z4 roadster. Beyond BMW itself, the same engine family (in modified form) is also used by Toyota in the GR Supra - a detail worth knowing if you're researching this engine's reputation more broadly, though our work here covers BMW-badged applications specifically."
+    "body": "The S62 is BMW M's naturally aspirated 5.0-litre V8 engine, produced from 1999 to 2003. It was fitted exclusively to the E39 M5 — the only BMW model to receive this engine. The S62 represented a significant step forward for BMW M, featuring individual throttle bodies, double-VANOS variable valve timing, and a high-revving character that set it apart from the standard M62 V8 it was derived from."
   },
   "byModel": {
     "image": "/engine_family/sec9_middle.webp",
     "titlePre": "BMW S62",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "Across the 3 Series, the S62 has powered the 340i (F30/F31, 2015-2019) and continues in the current M340i xDrive (G20/G21). The 4 Series follows the same pattern with the 440i (F32/F33/F36) and current M440i xDrive. The 5 Series carries it in the 540i across three generations, including the current PHEV-badged 550e xDrive. The 6 Series used it in the 640i during its final F06/F12/F13 generation. Both the 7 Series and 8 Series use it as their six-cylinder petrol option, in the 730i/740i and 840i respectively. Across the SUV range, the S62 appears in the X3 M40i and current M50 xDrive, the X4 M40i, and as the six-cylinder option throughout X5, X6 and X7, including their PHEV-badged 50e variants. It's also the entry-level combustion engine in the new XM 50e, and powers the current Z4 M40i."
+    "body": "The S62 appears in a single application: the E39 M5 (1999–2003). This was the first M5 to use a V8 engine, replacing the S38 inline-six used in the previous generation. The E39 M5 remains one of the most highly regarded M cars ever built, and the S62 is central to its reputation — a naturally aspirated V8 with a 7,000 rpm redline and a character that modern turbocharged M engines don't replicate."
   },
   "compatibility": {
     "image": "/engine_family/sec9_bottom.webp",
     "titlePre": "BMW S62",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the S62 spans 14 different models and multiple generations - some in standard petrol form, others as mild-hybrid or plug-in hybrid applications - compatibility comes down to confirming your exact model, generation, and drivetrain spec, which we do by registration. A S62 from a 2 Series isn't a drop-in match for a S62 from an X7, even though it's the same base engine code - ancillaries, mounting, and hybrid-system integration all differ. Before we quote or supply anything, we confirm your exact vehicle."
+    "body": "Because the S62 was fitted to a single model generation (E39 M5), compatibility is more straightforward than for engines that span multiple model lines. However, the S62 shares its basic architecture with the M62 family, and some components — particularly ancillaries, engine mounts, and ECU software — are specific to the E39 M5 application. Before we quote or supply anything, we confirm your exact vehicle by registration."
   }
 }

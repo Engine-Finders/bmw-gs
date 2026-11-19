@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "G09 (2023-present)"
+      "value": "G09 (2023–present)"
     },
     {
       "icon": "price",
@@ -48,7 +48,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The XM 50e used two different engines across its production run - enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "Not sure which engine you have? The BMW XM range uses two different powertrains — the XM 50e with the B58 six-cylinder PHEV, and the V8-powered XM models with the S68. Enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",
@@ -64,5 +64,6 @@
       }
     ],
     "buttonLabel": "Check My Exact Engine"
-  }
+  },
+  "vehicleLabel": "BMW XM 50e"
 }

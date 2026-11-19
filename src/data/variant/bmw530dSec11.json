@@ -2,7 +2,7 @@
   "image": "/variant/sec11.webp",
   "titlePre": "BMW 530d ENGINES ",
   "titleHighlight": "BY YEAR",
-  "description": "From the N47 to the B47 - here's a quick guide to the engines fitted to the BMW 530d over the years. If you're unsure which one you have, we'll confirm it before you book.",
+  "description": "The N57 or B57 engine codes are used across BMW 530d model years. If you're unsure which one you have, we'll confirm it before you book.",
   "columns": [
     {
       "icon": "calendar",
@@ -85,18 +85,10 @@
     {
       "year": "2017",
       "generation": "F10/F11",
-      "engineCode": "N57",
+      "engineCode": "N57/B57",
       "fuel": "Diesel",
       "service": "Rebuild / Replacement",
       "codeHref": "/bmw-n57-engine"
-    },
-    {
-      "year": "2017",
-      "generation": "G30/G31",
-      "engineCode": "B57",
-      "fuel": "Diesel",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-b57-engine"
     },
     {
       "year": "2018",
@@ -143,12 +135,9 @@
       "generation": "G30/G31",
       "engineCode": "B57",
       "fuel": "Diesel",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-b57-engine"
+      "service": "Rebuild / Replacement"
     }
   ],
-  "notice": {
-    "highlight": "2015 and 2019",
-    "rest": " were transition years between generations and engine codes - if your registration falls in either, we'll confirm your exact engine before quoting."
-  }
+  "notice": null,
+  "vehicleLabel": "BMW 530d"
 }

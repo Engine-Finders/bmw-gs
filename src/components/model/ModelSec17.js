@@ -107,7 +107,7 @@ export default function ModelSec17({ data }) {
             <p className="text-sm text-[#101828]">
               <span className="block text-base font-extrabold text-[#101828]">{data.notice.title}</span>
               <span className="mt-1 block">
-                <QuoteLink href="#quote" className="inline-flex items-center gap-1 font-semibold text-hero-blue">
+                <QuoteLink href="#quote-form" className="inline-flex items-center gap-1 font-semibold text-hero-blue">
                   {data.notice.linkText}
                   <Icon name="link" className="h-3.5 w-3.5" />
                 </QuoteLink>
@@ -227,7 +227,7 @@ export default function ModelSec17({ data }) {
             <p className="text-base text-[#101828]">
               <span className="block text-lg font-extrabold text-[#101828]">{data.notice.title}</span>
               <span className="mt-1 block">
-                <QuoteLink href="#quote" className="inline-flex items-center gap-1 font-semibold text-hero-blue">
+                <QuoteLink href="#quote-form" className="inline-flex items-center gap-1 font-semibold text-hero-blue">
                   {data.notice.linkText}
                   <Icon name="link" className="h-3.5 w-3.5" />
                 </QuoteLink>

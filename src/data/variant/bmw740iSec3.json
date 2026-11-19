@@ -1,15 +1,20 @@
 {
   "headline": "BMW 740i Engine Rebuild Price",
   "startingFromLabel": "Starting From",
-  "startingFromPrice": "£2,200",
+  "startingFromPrice": "£2,800",
   "engineImage": "/engines/b58-engine.webp",
   "cards": [
     {
-      "code": "B58",
       "image": "/engines/b58-engine.webp",
-      "generation": "G11/G12 (2015-2022)",
-      "price": "£2,800",
-      "codeHref": "/bmw-b58-engine"
+      "codeHref": "/bmw-b58-engine",
+      "code": "B58",
+      "generation": "G11/G12 (2015–2022)",
+      "price": "£2,800"
+    },
+    {
+      "code": "B58",
+      "generation": "G70 (2022–present)",
+      "price": "£2,800"
     }
   ],
   "notes": [
@@ -27,14 +32,6 @@
     "label": "Get Your Fixed-Price Quote",
     "href": "#quote-form"
   },
-  "warning": {
-    "bgImage": "/variant/sec3_lower_div_bg.webp",
-    "titlePre": "BMW 740i Timing Chain Failure ",
-    "titleHighlight": "(G11/G12, N47)",
-    "paragraphs": [
-      "If your 740i is a pre-2015 model with the N47 diesel engine - that's the early G11/G12 generation - timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-      "The later G11/G12 (2015-onwards) and G11/G12 generations use a different engine, the B47, which is significantly more reliable and doesn't share this specific issue."
-    ],
-    "source": "Source: NHTSA Recall 18V-755 - Timing Chain Guide Wear in N47 Engines (2012-2015)"
-  }
+  "warning": null,
+  "vehicleLabel": "BMW 740i"
 }

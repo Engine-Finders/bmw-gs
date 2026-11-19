@@ -7,7 +7,7 @@
     {
       "icon": "car",
       "label": "Vehicle",
-      "value": "BMW 520i"
+      "value": "BMW 5 Series 520i"
     },
     {
       "icon": "layers",
@@ -17,7 +17,7 @@
     {
       "icon": "sliders",
       "label": "Variant",
-      "value": "520i"
+      "value": "5 Series 520i"
     },
     {
       "icon": "fuel",
@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "F10/F11 (2010-2017) · G30/G31 (2017-2023) · G60 (2023-present)"
+      "value": "F10/F11 (2010–2017) · G30/G31 (2017–2023) · G60 (2023–present)"
     },
     {
       "icon": "price",
@@ -48,7 +48,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The 520i used two different engines across its production run - enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "Not sure which engine you have? The 520i has used different engines across its production run — enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",
@@ -64,5 +64,6 @@
       }
     ],
     "buttonLabel": "Check My Exact Engine"
-  }
+  },
+  "vehicleLabel": "BMW 5 Series 520i"
 }

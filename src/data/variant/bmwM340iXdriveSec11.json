@@ -2,7 +2,7 @@
   "image": "/variant/sec11.webp",
   "titlePre": "BMW M340i xDrive ENGINES ",
   "titleHighlight": "BY YEAR",
-  "description": "From the N47 to the B47 - here's a quick guide to the engines fitted to the BMW M340i xDrive over the years. If you're unsure which one you have, we'll confirm it before you book.",
+  "description": "The B58 engine code is used across BMW M340i xDrive model years. If you're unsure which one you have, we'll confirm it before you book.",
   "columns": [
     {
       "icon": "calendar",
@@ -52,7 +52,7 @@
     },
     {
       "year": "2022",
-      "generation": "G20/G21",
+      "generation": "G20/G21 (LCI)",
       "engineCode": "B58",
       "fuel": "Petrol MHEV",
       "service": "Rebuild / Replacement",
@@ -60,7 +60,7 @@
     },
     {
       "year": "2023",
-      "generation": "G20/G21",
+      "generation": "G20/G21 (LCI)",
       "engineCode": "B58",
       "fuel": "Petrol MHEV",
       "service": "Rebuild / Replacement",
@@ -68,7 +68,7 @@
     },
     {
       "year": "2024",
-      "generation": "G20/G21",
+      "generation": "G20/G21 (LCI)",
       "engineCode": "B58",
       "fuel": "Petrol MHEV",
       "service": "Rebuild / Replacement",
@@ -76,7 +76,7 @@
     },
     {
       "year": "2025",
-      "generation": "G20/G21",
+      "generation": "G20/G21 (LCI)",
       "engineCode": "B58",
       "fuel": "Petrol MHEV",
       "service": "Rebuild / Replacement",
@@ -84,15 +84,12 @@
     },
     {
       "year": "2026",
-      "generation": "G20/G21",
+      "generation": "G20/G21 (LCI)",
       "engineCode": "B58",
       "fuel": "Petrol MHEV",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-b58-engine"
+      "service": "Rebuild / Replacement"
     }
   ],
-  "notice": {
-    "highlight": "2015 and 2019",
-    "rest": " were transition years between generations and engine codes - if your registration falls in either, we'll confirm your exact engine before quoting."
-  }
+  "notice": null,
+  "vehicleLabel": "BMW M340i xDrive"
 }

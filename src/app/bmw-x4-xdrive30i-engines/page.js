@@ -33,7 +33,7 @@ const NAME = variantSec1.h1?.replaceAll("|", " ");
 const FAQ = [...(variantSec13.faqLeft || []), ...(variantSec13.faqRight || [])];
 
 export const metadata = {
-  title: variantSec1.h1?.replaceAll("|", " ") || "bmw-x4-xdrive30i-engines",
+  title: "BMW X4 xDrive30i Engine Rebuild",
   description: variantSec1.subhead || "",
   alternates: { canonical: PATH },
 };
@@ -43,7 +43,7 @@ export default function BmwX4Xdrive30iEnginesPage() {
     <>
       <JsonLd
         data={graphDoc([
-          serviceSchema({ name: NAME, description: variantSec1.subhead, path: PATH, price: (variantSec1.priceCta?.kicker || variantSec1.h1) }),
+          serviceSchema({ name: NAME, description: variantSec1.subhead, path: PATH, price: variantSec1.priceCta?.price }),
           faqSchema(FAQ, PATH),
           breadcrumbSchema([{ name: "Home", path: "/" }, { name: "Variants", path: "/variants" }, { name: NAME, path: PATH }], PATH),
         ])}

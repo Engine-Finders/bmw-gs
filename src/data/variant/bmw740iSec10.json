@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW 740i ENGINE",
     "paragraphs": [
-      "The 740i has been a mainstay of the 7 Series diesel range since 2012, spanning two generations under one badge. Early G11/G12 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the G11/G12 and later the G11/G12, the 740i switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ - which is exactly why we confirm your exact engine by registration before quoting."
+      "The 740i has been a key petrol offering in the 7 Series range since 2015, spanning two generations under the same nameplate. Both the G11/G12 (2015–2022) and current G70 (2022–present) generations use the B58 — BMW's 3.0-litre inline-six turbocharged petrol engine. The B58 is widely regarded as one of BMW's most robust modern petrol engines, with no major systemic issues reported across its production run. It replaced the earlier N55 in the 7 Series range, bringing improved thermal management and a more durable closed-deck block design."
     ],
     "boldParagraph": "The 740i is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -15,42 +15,40 @@
     "image": "/engines/b58-engine.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(G11/G12, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early G11/G12 740i. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 740i",
-        "codeHref": "/bmw-n47-engine"
+        "codeHighlight": "B58",
+        "codeRest": "(G11/G12 (2015–2022))",
+        "body": "B58 engine application for BMW 740i.",
+        "cta": "Check Your B58 BMW 740i",
+        "codeHref": "/bmw-b58-engine"
       },
       {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(G11/G12, 2015-2019 / G11/G12, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 740i",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "B58",
+        "codeRest": "(G70 (2022–present))",
+        "body": "B58 engine application for BMW 740i.",
+        "cta": "Check Your B58 BMW 740i",
+        "codeHref": "/bmw-b58-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW 740i ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the 740i spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "The 740i uses the B58 engine across both generations, but fitment and ancillary components can differ between the G11/G12 and the newer G70. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "B58",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact generation (G11/G12 or G70)"
       },
       {
         "icon": "car",
-        "text": "Your generation (G11/G12 or G11/G12)"
+        "text": "Your model year"
       },
       {
         "icon": "gears",
@@ -61,7 +59,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic 740i quote - it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic 740i quote — it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "BMW 740i ",
@@ -78,11 +76,19 @@
       {
         "generation": "G11/G12",
         "chassis": "G11/G12",
-        "years": "2015-2022",
+        "years": "2015–2022",
         "engineCode": "B58",
         "fuel": "Petrol",
         "codeHref": "/bmw-b58-engine"
+      },
+      {
+        "generation": "G70",
+        "chassis": "G70",
+        "years": "2022–present",
+        "engineCode": "B58",
+        "fuel": "Petrol"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW 740i"
 }

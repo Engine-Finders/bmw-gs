@@ -12,7 +12,7 @@
       {
         "name": "Mark T.",
         "platform": "trustpilot",
-        "text": "They rebuilt my N47 engine with all the updated parts. No more rattling chains. Smooth process and great communication.",
+        "text": "They rebuilt my engine with all the updated parts. No more rattling chains. Smooth process and great communication.",
         "tag": "430i Engine Rebuild"
       },
       {
@@ -47,7 +47,7 @@
     "icon": "car",
     "titlePre": "WE COVER YOUR",
     "titleHighlight": "EXACT VEHICLE",
-    "body": "Enter your registration below and we'll confirm whether your 430i has the N47 or B47, along with an exact rebuild price.",
+    "body": "Enter your registration below and we'll confirm whether your BMW 430i has the B48 or N20, along with an exact rebuild price.",
     "image": "/variant/sec7_middle_div.webp",
     "buttonLabel": "Check Fit",
     "ticks": [
@@ -60,7 +60,7 @@
     "titlePre": "WHY BMW 430i ",
     "titleHighlight": "OWNERS CHOOSE US",
     "items": [
-      "Engine matched using VIN or registration number - confirms N47 vs B47 before you're quoted",
+      "Engine matched using VIN or registration number - confirms N20 vs B48 before you're quoted",
       "We don't swap your engine for an unknown used unit",
       "All engine ancillaries serviced as part of the rebuild",
       "Genuine specialist workshop - not a broker",
@@ -70,5 +70,6 @@
       "12 month unlimited-mileage warranty",
       "Dedicated advisor from quote to fit"
     ]
-  }
+  },
+  "vehicleLabel": "BMW 430i"
 }

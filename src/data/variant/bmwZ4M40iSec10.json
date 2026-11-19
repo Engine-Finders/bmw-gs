@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW Z4 M40i ENGINE",
     "paragraphs": [
-      "The Z4 M40i has been a mainstay of the Z4 diesel range since 2012, spanning two generations under one badge. Early G29 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the G29 and later the G29, the Z4 M40i switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ - which is exactly why we confirm your exact engine by registration before quoting."
+      "The Z4 M40i uses the B58 — a 3.0-litre inline-six turbo petrol engine that's become one of BMW's most respected modern powerplants. Fitted across the entire G29 generation from 2018 onwards, the B58 is a closed-deck design with excellent reliability credentials. It's the same well-documented engine used across the wider BMW range, including the M340i, M240i and Supra, and is known for its robust construction and strong performance character."
     ],
     "boldParagraph": "The Z4 M40i is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -15,42 +15,33 @@
     "image": "/engines/m40i-engine.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(G29, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early G29 Z4 M40i. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 Z4 M40i",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(G29, 2015-2019 / G29, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 Z4 M40i",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "B58",
+        "codeRest": "(G29 (2018–present))",
+        "body": "B58 engine application for BMW Z4 M40i.",
+        "cta": "Check Your B58 BMW Z4 M40i",
+        "codeHref": "/bmw-b58-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW Z4 M40i ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the Z4 M40i spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "The Z4 M40i uses a single engine across its entire production run — the B58. However, there are different revisions of the B58 across the G29 generation, and matching the correct specification matters. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "B58",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact B58 revision via registration or VIN"
       },
       {
         "icon": "car",
-        "text": "Your generation (G29 or G29)"
+        "text": "Your generation (G29)"
       },
       {
         "icon": "gears",
@@ -61,7 +52,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic Z4 M40i quote - it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic Z4 M40i quote — it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "BMW Z4 M40i ",
@@ -77,13 +68,14 @@
     "rows": [
       {
         "generation": "G29",
-        "image": "/cars/card/z4-g29-sdrive20i-m-sport-2019.webp",
         "chassis": "G29",
-        "years": "2018-present",
+        "years": "2018–present",
         "engineCode": "B58",
         "fuel": "Petrol",
+        "image": "/cars/card/z4-g29-sdrive20i-m-sport-2019.webp",
         "codeHref": "/bmw-b58-engine"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW Z4 M40i"
 }

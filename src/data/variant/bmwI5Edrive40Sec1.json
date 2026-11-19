@@ -1,7 +1,7 @@
 {
   "kicker": "BMW i5 eDrive40 Specialists",
-  "h1": "BMW i5 eDrive40|Engine Rebuild -|From £2,200",
-  "subhead": "Specialist BMW i5 eDrive40 engine rebuilds and replacements, with registration-based engine matching, nationwide recovery and a 12-month unlimited-mileage warranty",
+  "h1": "BMW i5 eDrive40",
+  "subhead": "Specialist BMW i5 eDrive40 electric motor servicing and replacement, with registration-based matching, nationwide recovery and a 12-month unlimited-mileage warranty",
   "rating": {
     "stars": 5,
     "label": "Rated BMW Engine Specialists - 1,800+ Engines Rebuilt"
@@ -25,14 +25,14 @@
     },
     {
       "icon": "engine",
-      "label": "N47 & B47 Specialists"
+      "label": "i5 eDrive40 Specialists"
     }
   ],
   "priceCta": {
-    "kicker": "Starting from £2,200 -",
-    "label": "Get a Fixed-Price Quote →",
+    "kicker": "",
+    "label": "Contact BMW Garage",
     "href": "#quote-form",
-    "price": "£2,800"
+    "price": ""
   },
   "phoneCta": {
     "icon": "phone",
@@ -41,5 +41,8 @@
     "href": "tel:01268944234"
   },
   "image": "/variant/sec1.webp",
-  "imageMobile": "/variant/sec1_mobile.webp"
+  "imageMobile": "/variant/sec1_mobile.webp",
+  "vehicleLabel": "BMW i5 eDrive40",
+  "metaTitle": "BMW i5 eDrive40 | BMW Garage",
+  "metaDescription": "Contact BMW Garage about your BMW i5 eDrive40."
 }

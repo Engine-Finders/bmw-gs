@@ -33,8 +33,8 @@ const NAME = variantSec1.h1?.replaceAll("|", " ");
 const FAQ = [...(variantSec13.faqLeft || []), ...(variantSec13.faqRight || [])];
 
 export const metadata = {
-  title: variantSec1.h1?.replaceAll("|", " ") || "bmw-x1-sdrive18d-engines",
-  description: variantSec1.subhead || "",
+  title: "BMW X1 sDrive18d Engine Rebuild & Replacement | From £1,900",
+  description: "BMW X1 sDrive18d engine rebuild from £1,900. B37 1.5L diesel specialists. 12-month warranty, nationwide recovery. Free quote in 30 mins.",
   alternates: { canonical: PATH },
 };
 
@@ -43,7 +43,7 @@ export default function BmwX1Sdrive18dEnginesPage() {
     <>
       <JsonLd
         data={graphDoc([
-          serviceSchema({ name: NAME, description: variantSec1.subhead, path: PATH, price: (variantSec1.priceCta?.kicker || variantSec1.h1) }),
+          serviceSchema({ name: NAME, description: variantSec1.subhead, path: PATH, price: variantSec1.priceCta?.price }),
           faqSchema(FAQ, PATH),
           breadcrumbSchema([{ name: "Home", path: "/" }, { name: "Variants", path: "/variants" }, { name: NAME, path: PATH }], PATH),
         ])}

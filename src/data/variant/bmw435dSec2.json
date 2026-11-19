@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "F32/F33/F36 (2013-2018)"
+      "value": "F32/F33/F36 (2013–2018)"
     },
     {
       "icon": "price",
@@ -48,7 +48,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The 435d used two different engines across its production run - enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "Not sure which engine you have? The 435d only used the N57 engine during its production run. Enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",
@@ -64,5 +64,6 @@
       }
     ],
     "buttonLabel": "Check My Exact Engine"
-  }
+  },
+  "vehicleLabel": "BMW 435d"
 }

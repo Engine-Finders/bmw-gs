@@ -1,8 +1,8 @@
 {
   "image": "/variant/sec11.webp",
-  "titlePre": "BMW 316d ENGINES ",
+  "titlePre": "BMW 3 Series 316d ENGINES ",
   "titleHighlight": "BY YEAR",
-  "description": "From the N47 to the B47 - here's a quick guide to the engines fitted to the BMW 316d over the years. If you're unsure which one you have, we'll confirm it before you book.",
+  "description": "The N47 or B47 engine codes are used across BMW 3 Series 316d model years. If you're unsure which one you have, we'll confirm it before you book.",
   "columns": [
     {
       "icon": "calendar",
@@ -28,7 +28,7 @@
   "rows": [
     {
       "year": "2012",
-      "generation": "F30/F31",
+      "generation": "F30/F31 (pre-facelift)",
       "engineCode": "N47",
       "fuel": "Diesel",
       "service": "Rebuild / Replacement",
@@ -36,7 +36,7 @@
     },
     {
       "year": "2013",
-      "generation": "F30/F31",
+      "generation": "F30/F31 (pre-facelift)",
       "engineCode": "N47",
       "fuel": "Diesel",
       "service": "Rebuild / Replacement",
@@ -44,7 +44,7 @@
     },
     {
       "year": "2014",
-      "generation": "F30/F31",
+      "generation": "F30/F31 (pre-facelift)",
       "engineCode": "N47",
       "fuel": "Diesel",
       "service": "Rebuild / Replacement",
@@ -52,15 +52,7 @@
     },
     {
       "year": "2015",
-      "generation": "F30/F31",
-      "engineCode": "N47",
-      "fuel": "Diesel",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-n47-engine"
-    },
-    {
-      "year": "2015",
-      "generation": "F30/F31",
+      "generation": "F30/F31 (LCI facelift)",
       "engineCode": "B47",
       "fuel": "Diesel",
       "service": "Rebuild / Replacement",
@@ -68,7 +60,7 @@
     },
     {
       "year": "2016",
-      "generation": "F30/F31",
+      "generation": "F30/F31 (LCI facelift)",
       "engineCode": "B47",
       "fuel": "Diesel",
       "service": "Rebuild / Replacement",
@@ -76,7 +68,7 @@
     },
     {
       "year": "2017",
-      "generation": "F30/F31",
+      "generation": "F30/F31 (LCI facelift)",
       "engineCode": "B47",
       "fuel": "Diesel",
       "service": "Rebuild / Replacement",
@@ -84,7 +76,7 @@
     },
     {
       "year": "2018",
-      "generation": "F30/F31",
+      "generation": "F30/F31 (LCI facelift)",
       "engineCode": "B47",
       "fuel": "Diesel",
       "service": "Rebuild / Replacement",
@@ -92,15 +84,12 @@
     },
     {
       "year": "2019",
-      "generation": "F30/F31",
+      "generation": "F30/F31 (LCI facelift)",
       "engineCode": "B47",
       "fuel": "Diesel",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-b47-engine"
+      "service": "Rebuild / Replacement"
     }
   ],
-  "notice": {
-    "highlight": "2015 and 2019",
-    "rest": " were transition years between generations and engine codes - if your registration falls in either, we'll confirm your exact engine before quoting."
-  }
+  "notice": null,
+  "vehicleLabel": "BMW 3 Series 316d"
 }

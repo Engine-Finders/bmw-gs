@@ -7,7 +7,7 @@
     {
       "icon": "car",
       "label": "Vehicle",
-      "value": "BMW 740d xDrive"
+      "value": "BMW 7 Series 740d xDrive"
     },
     {
       "icon": "layers",
@@ -17,7 +17,7 @@
     {
       "icon": "sliders",
       "label": "Variant",
-      "value": "740d xDrive"
+      "value": "7 Series 740d xDrive"
     },
     {
       "icon": "fuel",
@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "G70 (2022-present)"
+      "value": "G70 (2022–present)"
     },
     {
       "icon": "price",
@@ -48,7 +48,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The 740d xDrive used two different engines across its production run - enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "Not sure which engine you have? The 740d xDrive uses the B57 3.0-litre diesel across the current G70 generation — enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",
@@ -64,5 +64,6 @@
       }
     ],
     "buttonLabel": "Check My Exact Engine"
-  }
+  },
+  "vehicleLabel": "BMW 7 Series 740d xDrive"
 }

@@ -15,53 +15,36 @@
     "image": "/engines/n63-s63-engine-hero.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(G14/G15/G16, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early G14/G15/G16 Alpina B8. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 Alpina B8",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(G14/G15/G16, 2015-2019 / G14/G15/G16, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 Alpina B8",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "N63 (Alpina-tuned)",
+        "codeRest": "(G14/G15/G16 (2020–present))",
+        "body": "N63 (Alpina-tuned) engine application for BMW Alpina B8.",
+        "cta": "Check Your N63 (Alpina-tuned) BMW Alpina B8",
+        "codeHref": "/bmw-n63-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW Alpina B8 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the Alpina B8 spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "The Alpina B8 uses a specific Alpina-tuned version of the N63 V8. While it shares its foundation with the M850i's N63, the engine control unit (ECU) mapping, turbocharger calibration, and potentially some internal components are Alpina-specific. This means a standard M850i engine is not a direct substitute for an Alpina B8 unit. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "N63",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact vehicle specification via registration or VIN"
       },
       {
         "icon": "car",
-        "text": "Your generation (G14/G15/G16 or G14/G15/G16)"
-      },
-      {
-        "icon": "gears",
-        "text": "Drivetrain and ancillary specification"
-      },
-      {
-        "icon": "code",
-        "text": "Any electronics or ECU considerations specific to your exact build"
+        "text": "Any electronics or ECU considerations specific to your Alpina B8"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic Alpina B8 quote - it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic quote — it ensures we're working with the correct Alpina-spec components."
   },
   "applications": {
     "titlePre": "BMW Alpina B8 ",
@@ -78,27 +61,12 @@
       {
         "generation": "G14/G15/G16",
         "chassis": "G14/G15/G16",
-        "years": "2012-2015",
-        "engineCode": "N47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "generation": "G14/G15/G16",
-        "chassis": "G14/G15/G16",
-        "years": "2015-2019",
-        "engineCode": "B47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-b47-engine"
-      },
-      {
-        "generation": "G14/G15/G16",
-        "chassis": "G14/G15/G16",
-        "years": "2019-2024",
-        "engineCode": "B47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-b47-engine"
+        "years": "2020–present",
+        "engineCode": "N63 (Alpina-tuned)",
+        "fuel": "Petrol Twin-Turbo",
+        "codeHref": "/bmw-n63-engine"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW Alpina B8"
 }

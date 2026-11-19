@@ -26,12 +26,12 @@
     },
     {
       "icon": "layers",
-      "label": "Fitted Across 14 BMW Models"
+      "label": "Fitted Across 10 BMW Models"
     }
   ],
   "priceCta": {
     "kicker": "Starting from",
-    "label": "£2,800",
+    "label": "£1,900",
     "buttonLabel": "Get a Fixed-Price Quote →",
     "href": "#quote-form"
   },
@@ -41,5 +41,8 @@
     "phone": "01268 944234",
     "href": "tel:01268944234"
   },
-  "image": "/engine_family/sec1.webp"
+  "image": "/engine_family/sec1.webp",
+  "metaTitle": "BMW B47 Engine Rebuild & Replacement | From £1,900",
+  "pageTitle": "BMW B47 Engine Rebuild & Replacement",
+  "metaDescription": "BMW B47 engine rebuild from £1,900. Fitted across 10 BMW models including 1, 2, 3, 4, 5 Series, X1, X2, X3, X4 & X5. 12-month warranty, nationwide recovery."
 }

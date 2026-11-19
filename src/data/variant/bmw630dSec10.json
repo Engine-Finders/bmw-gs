@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW 630d ENGINE",
     "paragraphs": [
-      "The 630d has been a mainstay of the 6 Series diesel range since 2012, spanning two generations under one badge. Early F06 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the F06 and later the F06, the 630d switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ - which is exactly why we confirm your exact engine by registration before quoting."
+      "The 630d joined the 6 Series range in 2015 as a Gran Coupe-only diesel addition, running until the 6 Series was discontinued in 2018. It uses the B57 — a 3.0-litre inline-six diesel that's part of BMW's newer B-series engine family, sharing its architecture with the widely-regarded B58 petrol unit. The B57 is generally considered a reliable engine, without any major widely-reported defect patterns. The 6 Series was discontinued entirely in 2018 and succeeded by the 8 Series, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "The 630d is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -15,38 +15,29 @@
     "image": "/engines/b57-engine.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(F06, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early F06 630d. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 630d",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(F06, 2015-2019 / F06, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 630d",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "B57",
+        "codeRest": "(F06 (2015–2018))",
+        "body": "B57 engine application for BMW 630d.",
+        "cta": "Check Your B57 BMW 630d",
+        "codeHref": "/bmw-b57-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW 630d ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the 630d spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the 630d was only offered for a relatively short production window (2015–2018) and exclusively as a Gran Coupe, engine compatibility is generally straightforward — all UK-market 630d models use the B57. However, we always confirm your exact vehicle specification via registration or VIN before any work begins, to ensure every component is correctly matched to your car's specific build.",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "B57",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact engine code (B57) via registration or VIN"
       },
       {
         "icon": "car",
@@ -78,11 +69,12 @@
       {
         "generation": "F06",
         "chassis": "Gran Coupe",
-        "years": "2015-2018",
+        "years": "2015–2018",
         "engineCode": "B57",
         "fuel": "Diesel",
         "codeHref": "/bmw-b57-engine"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW 630d"
 }

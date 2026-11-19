@@ -2,7 +2,7 @@
   "image": "/variant/sec11.webp",
   "titlePre": "BMW 125i ENGINES ",
   "titleHighlight": "BY YEAR",
-  "description": "From the N47 to the B47 - here's a quick guide to the engines fitted to the BMW 125i over the years. If you're unsure which one you have, we'll confirm it before you book.",
+  "description": "The N20 engine code is used across BMW 125i model years. If you're unsure which one you have, we'll confirm it before you book.",
   "columns": [
     {
       "icon": "calendar",
@@ -87,12 +87,9 @@
       "generation": "F20/F21",
       "engineCode": "N20",
       "fuel": "Petrol",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-n20-engine"
+      "service": "Rebuild / Replacement"
     }
   ],
-  "notice": {
-    "highlight": "2015 and 2019",
-    "rest": " were transition years between generations and engine codes - if your registration falls in either, we'll confirm your exact engine before quoting."
-  }
+  "notice": null,
+  "vehicleLabel": "BMW 125i"
 }

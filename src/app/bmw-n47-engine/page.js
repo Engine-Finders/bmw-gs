@@ -29,8 +29,8 @@ const NAME = [sec1.titlePre, sec1.titleHighlight, sec1.titleLine2].filter(Boolea
 const FAQ = [...(sec11.faq?.faqLeft || []), ...(sec11.faq?.faqRight || [])];
 
 export const metadata = {
-  title: sec1.h1?.replaceAll("|", " ") || "bmw-n47-engine",
-  description: sec1.subhead || "",
+  title: sec1.metaTitle || [sec1.titlePre, sec1.titleHighlight, sec1.titleLine2].filter(Boolean).join(" "),
+  description: sec1.metaDescription || sec1.subhead || "",
   alternates: { canonical: PATH },
 };
 

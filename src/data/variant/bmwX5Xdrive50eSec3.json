@@ -1,29 +1,15 @@
 {
   "headline": "BMW X5 xDrive50e Engine Rebuild Price",
   "startingFromLabel": "Starting From",
-  "startingFromPrice": "£2,200",
+  "startingFromPrice": "£2,800",
   "engineImage": "/engines/b58-engine.webp",
   "cards": [
     {
-      "code": "N47",
       "image": "/engines/n47-engine-hero.webp",
-      "generation": "G05 (2012-2015)",
-      "price": "£2,200",
-      "codeHref": "/bmw-n47-engine"
-    },
-    {
-      "code": "B47",
-      "image": "/engines/b47-engine.webp",
-      "generation": "G05 (2015-2019)",
-      "price": "£2,200",
-      "codeHref": "/bmw-b47-engine"
-    },
-    {
-      "code": "B47",
-      "image": "/engines/b47-engine.webp",
-      "generation": "G05 (2019-2024)",
-      "price": "£2,200",
-      "codeHref": "/bmw-b47-engine"
+      "code": "B58",
+      "generation": "Chassis",
+      "price": "£2,800",
+      "codeHref": "/bmw-b58-engine"
     }
   ],
   "notes": [
@@ -41,14 +27,6 @@
     "label": "Get Your Fixed-Price Quote",
     "href": "#quote-form"
   },
-  "warning": {
-    "bgImage": "/variant/sec3_lower_div_bg.webp",
-    "titlePre": "BMW X5 xDrive50e Timing Chain Failure ",
-    "titleHighlight": "(G05, N47)",
-    "paragraphs": [
-      "If your X5 xDrive50e is a pre-2015 model with the N47 diesel engine - that's the early G05 generation - timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-      "The later G05 (2015-onwards) and G05 generations use a different engine, the B47, which is significantly more reliable and doesn't share this specific issue."
-    ],
-    "source": "Source: NHTSA Recall 18V-755 - Timing Chain Guide Wear in N47 Engines (2012-2015)"
-  }
+  "warning": null,
+  "vehicleLabel": "BMW X5 xDrive50e"
 }

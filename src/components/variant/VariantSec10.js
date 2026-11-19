@@ -7,6 +7,7 @@ import QuoteLink from "@/components/shared/QuoteLink";
 
 export default function VariantSec10({ data }) {
   const { about, codes, compatibility, applications } = data;
+  const vehicleLabel = data.vehicleLabel || about.titlePre || "BMW vehicle";
 
   return (
     <>
@@ -18,7 +19,7 @@ export default function VariantSec10({ data }) {
             <MobileSplitTitle titlePre={about.titlePre} titleHighlight={about.titleHighlight} />
 
             <div className="relative -mx-4 mt-4 aspect-[1881/1144] w-screen overflow-hidden">
-              <Image src={about.imageMobile} alt="BMW 320d engine and sedan" fill className="object-cover" sizes="100vw" />
+              <Image src={about.imageMobile} alt={`${vehicleLabel} engine and vehicle`} fill className="object-cover" sizes="100vw" />
               <div
                 className="pointer-events-none absolute inset-0"
                 style={{ background: "linear-gradient(to bottom, #fff 0%, transparent 15%, transparent 85%, #fff 100%)" }}
@@ -37,7 +38,7 @@ export default function VariantSec10({ data }) {
         {/* ===== desktop ===== */}
         <div className="relative hidden overflow-hidden md:block">
           <div className="absolute inset-0">
-            <Image src={about.image} alt="BMW 320d engine and sedan" fill className="object-cover" sizes="100vw" />
+            <Image src={about.image} alt={`${vehicleLabel} engine and vehicle`} fill className="object-cover" sizes="100vw" />
             <div
               className="absolute inset-0"
               style={{ background: "linear-gradient(to right, #fff 0%, #fff 46%, rgba(255,255,255,0.9) 56%, rgba(255,255,255,0.35) 66%, transparent 76%)" }}
@@ -61,7 +62,7 @@ export default function VariantSec10({ data }) {
       </section>
 
       {/* ============ div 2: engine codes ============ */}
-      <section className="relative overflow-hidden bg-hero-dark">
+      {codes.cards?.length > 0 && <section className="relative overflow-hidden bg-hero-dark">
         {/* ===== mobile ===== */}
         <div className="relative px-4 py-8 md:hidden">
           <div className="flex items-center gap-2">
@@ -137,7 +138,7 @@ export default function VariantSec10({ data }) {
             </div>
           </div>
         </div>
-      </section>
+      </section>}
 
       {/* ============ div 3: compatibility ============ */}
       <section className="relative overflow-hidden bg-white">
@@ -204,7 +205,7 @@ export default function VariantSec10({ data }) {
       </section>
 
       {/* ============ div 4: applications table ============ */}
-      <section className="relative overflow-hidden bg-[#f3f6fb]">
+      {applications.rows?.length > 0 && <section className="relative overflow-hidden bg-[#f3f6fb]">
         {/* ===== mobile ===== */}
         <div className="relative px-4 py-8 md:hidden">
           <MobileSplitTitle titlePre={applications.titlePre} titleHighlight={applications.titleHighlight} />
@@ -306,7 +307,7 @@ export default function VariantSec10({ data }) {
             </div>
           </div>
         </div>
-      </section>
+      </section>}
     </>
   );
 }

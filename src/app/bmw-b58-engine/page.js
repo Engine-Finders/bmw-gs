@@ -29,9 +29,8 @@ const NAME = [sec1.titlePre, sec1.titleHighlight, sec1.titleLine2].filter(Boolea
 const FAQ = [...(sec11.faq?.faqLeft || []), ...(sec11.faq?.faqRight || [])];
 
 export const metadata = {
-  title: "BMW B58 Engine Rebuild & Replacement | From £2,800",
-  description:
-    "BMW B58 engine rebuild from £2,800. Fitted across 14 BMW models - 3, 4, 5, 6, 7, 8 Series, X3-X7, XM & Z4. 12-month warranty, nationwide recovery. Free quote in 30 mins.",
+  title: sec1.metaTitle || [sec1.titlePre, sec1.titleHighlight, sec1.titleLine2].filter(Boolean).join(" "),
+  description: sec1.metaDescription || sec1.subhead || "",
   alternates: { canonical: PATH },
 };
 

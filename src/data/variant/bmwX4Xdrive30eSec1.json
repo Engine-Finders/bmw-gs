@@ -1,7 +1,7 @@
 {
   "kicker": "BMW X4 xDrive30e Specialists",
-  "h1": "BMW X4 xDrive30e|Engine Rebuild -|From £2,200",
-  "subhead": "Specialist BMW X4 xDrive30e engine rebuilds and replacements, with registration-based engine matching, nationwide recovery and a 12-month unlimited-mileage warranty",
+  "h1": "BMW X4 xDrive30e|Engine Rebuild —|From £2,200",
+  "subhead": "title: \"BMW X4 xDrive30e Engine Rebuild From £2,200 | B48 & Electric PHEV Specialists\"",
   "rating": {
     "stars": 5,
     "label": "Rated BMW Engine Specialists - 1,800+ Engines Rebuilt"
@@ -25,12 +25,12 @@
     },
     {
       "icon": "engine",
-      "label": "N47 & B47 Specialists"
+      "label": "B48 PHEV Specialists"
     }
   ],
   "priceCta": {
     "kicker": "Starting from £2,200 -",
-    "label": "Get a Fixed-Price Quote →",
+    "label": "Get a Fixed-Price Quote ?",
     "href": "#quote-form",
     "price": "£2,200"
   },
@@ -41,5 +41,8 @@
     "href": "tel:01268944234"
   },
   "image": "/variant/sec1.webp",
-  "imageMobile": "/variant/sec1_mobile.webp"
+  "imageMobile": "/variant/sec1_mobile.webp",
+  "vehicleLabel": "BMW X4 xDrive30e",
+  "metaTitle": "BMW X4 xDrive30e Engine Rebuild & Replacement | From £2,200",
+  "metaDescription": "BMW X4 xDrive30e plug-in hybrid engine rebuild from £2,200. B48 petrol specialist, PHEV powertrain expert. 12-month warranty, nationwide recovery. Free quote in 30 mins."
 }

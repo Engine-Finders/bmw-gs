@@ -37,18 +37,12 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "G11/G12 (2015-2022)"
-    },
-    {
-      "icon": "price",
-      "label": "Rebuild From",
-      "value": "£2,800",
-      "highlight": true
+      "value": "G11/G12 (2015–2022)"
     }
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The 740Ld used two different engines across its production run - enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "Not sure which engine you have? Enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",
@@ -64,5 +58,6 @@
       }
     ],
     "buttonLabel": "Check My Exact Engine"
-  }
+  },
+  "vehicleLabel": "BMW 740Ld"
 }

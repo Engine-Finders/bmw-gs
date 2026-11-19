@@ -1,5 +1,6 @@
 import Image from "next/image";
 import BMWStripe from "@/components/reusable/BMWStripe";
+import { engineLabelFromText } from "@/lib/engineLabel";
 
 function LightTitle({ titlePre, titleHighlight, titlePost, size = "text-3xl lg:text-4xl" }) {
   return (
@@ -18,6 +19,7 @@ function LightTitle({ titlePre, titleHighlight, titlePost, size = "text-3xl lg:t
 
 export default function Sec9({ data }) {
   const { about, byModel, compatibility } = data;
+  const engineLabel = engineLabelFromText(about.titleHighlight);
 
   return (
     <>
@@ -30,7 +32,7 @@ export default function Sec9({ data }) {
             <span className="mt-2 block h-0.5 w-24 bg-linear-to-r from-bmw-blue via-white to-bmw-red" />
           </div>
           <div className="relative mt-4 w-full" style={{ aspectRatio: "544 / 467" }}>
-            <Image src="/engine_family/sec9_top_mobile.webp" alt="BMW B58 engine on workshop stand" fill className="object-cover" sizes="100vw" />
+            <Image src="/engine_family/sec9_top_mobile.webp" alt={`${engineLabel} engine on workshop stand`} fill className="object-cover" sizes="100vw" />
             <div
               className="pointer-events-none absolute inset-x-0 top-0 h-10"
               style={{ background: "linear-gradient(to bottom, #fff 0%, transparent 100%)" }}
@@ -50,7 +52,7 @@ export default function Sec9({ data }) {
         {/* ===== desktop ===== */}
         <div className="relative hidden overflow-hidden md:block">
           <div className="absolute inset-0">
-            <Image src={about.image} alt="BMW B58 engine on workshop stand" fill className="object-cover" sizes="100vw" />
+            <Image src={about.image} alt={`${engineLabel} engine on workshop stand`} fill className="object-cover" sizes="100vw" />
           </div>
           <div className="relative mx-auto max-w-6xl px-4 py-14 sm:px-6 lg:px-8">
             <div className="max-w-md">
@@ -116,7 +118,7 @@ export default function Sec9({ data }) {
             <span className="mt-2 block h-0.5 w-24 bg-linear-to-r from-bmw-blue via-white to-bmw-red" />
           </div>
           <div className="relative mt-4 w-full" style={{ aspectRatio: "457 / 434" }}>
-            <Image src="/engine_family/sec9_bottom_mobile.webp" alt="BMW B58 engine compatibility scan" fill className="object-cover" sizes="100vw" />
+            <Image src="/engine_family/sec9_bottom_mobile.webp" alt={`${engineLabel} engine compatibility scan`} fill className="object-cover" sizes="100vw" />
             <div
               className="pointer-events-none absolute inset-x-0 top-0 h-10"
               style={{ background: "linear-gradient(to bottom, #fff 0%, transparent 100%)" }}
@@ -136,7 +138,7 @@ export default function Sec9({ data }) {
         {/* ===== desktop ===== */}
         <div className="relative hidden overflow-hidden md:block">
           <div className="absolute inset-0">
-            <Image src={compatibility.image} alt="BMW B58 engine compatibility scan" fill className="object-cover" sizes="100vw" />
+            <Image src={compatibility.image} alt={`${engineLabel} engine compatibility scan`} fill className="object-cover" sizes="100vw" />
           </div>
           <div className="relative mx-auto max-w-6xl px-4 py-14 sm:px-6 lg:px-8">
             <div className="max-w-md">

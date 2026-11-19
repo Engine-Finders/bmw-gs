@@ -27,17 +27,17 @@
     {
       "icon": "engine",
       "label": "Engine",
-      "value": "B38 or B48"
+      "value": "B38 (F48) or B48 (U11)"
     },
     {
       "icon": "gauge",
       "label": "Capacity",
-      "value": "1.5L or 2.0L"
+      "value": "1.5L (F48) / 2.0L (U11)"
     },
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "F48 (2015-2022)"
+      "value": "F48 (2015–2022) · U11 (2022–present)"
     },
     {
       "icon": "price",
@@ -48,7 +48,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The X1 sDrive18i used two different engines across its production run - enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "Not sure which engine you have? The X1 sDrive18i used two different engines across its production run — enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",
@@ -64,5 +64,6 @@
       }
     ],
     "buttonLabel": "Check My Exact Engine"
-  }
+  },
+  "vehicleLabel": "BMW X1 sDrive18i"
 }

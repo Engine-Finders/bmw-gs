@@ -72,7 +72,7 @@ export default function HomeSec5({ data }) {
                         <h3 className="text-2xl font-extrabold text-[#101828]">{e.code}</h3>
                         <p className="text-xs font-semibold text-[#101828]">{e.spec}</p>
                         <p className="text-xs text-[#101828]">
-                          {e.models} | {e.years}
+                          {e.models}{e.years ? ` | ${e.years}` : ""}
                         </p>
                       </div>
                     </div>
@@ -122,7 +122,7 @@ export default function HomeSec5({ data }) {
                       <h3 className="text-lg font-extrabold text-[#101828]">{e.code}</h3>
                       <p className="truncate text-xs font-semibold text-[#101828]">{e.spec}</p>
                       <p className="truncate text-xs text-[#101828]">{e.models}</p>
-                      <p className="truncate text-xs text-[#101828]">{e.years}</p>
+                      {e.years && <p className="truncate text-xs text-[#101828]">{e.years}</p>}
                     </div>
                   </div>
                 )}

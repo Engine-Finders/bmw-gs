@@ -1,7 +1,7 @@
 {
   "kicker": "BMW 330d Specialists",
-  "h1": "BMW 330d|Engine Rebuild -|From £2,200",
-  "subhead": "Specialist BMW 330d engine rebuilds and replacements, with registration-based engine matching, nationwide recovery and a 12-month unlimited-mileage warranty",
+  "h1": "BMW 330d|Engine Rebuild —|From £2,800",
+  "subhead": "title: \"BMW 330d Engine Rebuild From £2,800 | B47 Diesel Specialists\"",
   "rating": {
     "stars": 5,
     "label": "Rated BMW Engine Specialists - 1,800+ Engines Rebuilt"
@@ -25,12 +25,12 @@
     },
     {
       "icon": "engine",
-      "label": "N47 & B47 Specialists"
+      "label": "B47 Diesel Specialists"
     }
   ],
   "priceCta": {
-    "kicker": "Starting from £2,200 -",
-    "label": "Get a Fixed-Price Quote →",
+    "kicker": "Starting from £2,800 -",
+    "label": "Get a Fixed-Price Quote ?",
     "href": "#quote-form",
     "price": "£2,800"
   },
@@ -41,5 +41,8 @@
     "href": "tel:01268944234"
   },
   "image": "/variant/sec1.webp",
-  "imageMobile": "/variant/sec1_mobile.webp"
+  "imageMobile": "/variant/sec1_mobile.webp",
+  "vehicleLabel": "BMW 330d",
+  "metaTitle": "BMW 330d Engine Rebuild & Replacement | From £2,800",
+  "metaDescription": "BMW 330d engine rebuild from £2,800. B47 diesel specialists, 6-cylinder diesel experts. 12-month warranty, nationwide recovery. Free quote in 30 mins."
 }

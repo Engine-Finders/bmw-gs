@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW X4 M Competition ENGINE",
     "paragraphs": [
-      "The X4 M Competition has been a mainstay of the X4 M diesel range since 2012, spanning two generations under one badge. Early F98 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the F98 and later the F98, the X4 M Competition switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ - which is exactly why we confirm your exact engine by registration before quoting."
+      "The X4 M uses the S58 — a 3.0-litre twin-turbo inline-six petrol engine. It was fitted from 2019 across the F98 generation of the X4. The S58 is BMW's current-generation performance engine, shared with the X3 M and the G8x M3/M4. It's a genuine step forward from the previous S55, with a closed-deck block design that improves structural rigidity — one of the key reasons it's proved more reliable than its predecessor. The S58 powers both the X4 M and the X4 M Competition."
     ],
     "boldParagraph": "The X4 M Competition is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -15,42 +15,33 @@
     "image": "/engines/s58-model-hero.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(F98, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early F98 X4 M Competition. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 X4 M Competition",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(F98, 2015-2019 / F98, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 X4 M Competition",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "S58",
+        "codeRest": "(F98 (2019–2026))",
+        "body": "S58 engine application for BMW X4 M Competition.",
+        "cta": "Check Your S58 BMW X4 M Competition",
+        "codeHref": "/bmw-s58-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW X4 M Competition ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the X4 M Competition spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "The X4 M and X4 M Competition are the only variants to receive the S58 in the X4 range. The engine is common across both standard and Competition trims, with the Competition typically receiving a higher state of tune from the factory. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "S58",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact variant (X4 M or X4 M Competition)"
       },
       {
         "icon": "car",
-        "text": "Your generation (F98 or F98)"
+        "text": "Your generation (F98)"
       },
       {
         "icon": "gears",
@@ -61,7 +52,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic X4 M Competition quote - it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic X4 M quote — it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "BMW X4 M Competition ",
@@ -78,11 +69,12 @@
       {
         "generation": "F98",
         "chassis": "F98",
-        "years": "2019-2026",
+        "years": "2019–2026",
         "engineCode": "S58",
         "fuel": "Petrol Twin-Turbo",
         "codeHref": "/bmw-s58-engine"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW X4 M Competition"
 }

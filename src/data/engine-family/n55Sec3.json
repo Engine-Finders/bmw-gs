@@ -25,8 +25,8 @@
       "model": "1 Series",
       "variant": "M135i",
       "generation": "F20/F21",
+      "years": "2011–2016",
       "chassis": "F20/F21",
-      "years": "2011-2016",
       "modelHref": "/bmw-1-series-engines",
       "variantHref": "/bmw-m135i-engines"
     },
@@ -34,8 +34,8 @@
       "model": "2 Series",
       "variant": "M235i",
       "generation": "F22/F23",
+      "years": "2014–2016",
       "chassis": "F22/F23",
-      "years": "2014-2016",
       "modelHref": "/bmw-2-series-engines",
       "variantHref": "/bmw-m235i-engines"
     },
@@ -43,8 +43,8 @@
       "model": "5 Series",
       "variant": "535i",
       "generation": "F10/F11",
+      "years": "2010–2016",
       "chassis": "F10/F11",
-      "years": "2010-2016",
       "modelHref": "/bmw-5-series-engines",
       "variantHref": "/bmw-535i-engines"
     },
@@ -52,8 +52,8 @@
       "model": "6 Series",
       "variant": "640i",
       "generation": "F06/F12/F13",
+      "years": "2011–2018",
       "chassis": "F06/F12/F13",
-      "years": "2011-2018",
       "modelHref": "/bmw-6-series-engines",
       "variantHref": "/bmw-640i-engines"
     },
@@ -61,24 +61,24 @@
       "model": "M2",
       "variant": "M2 (early)",
       "generation": "F87",
+      "years": "2015–2016",
       "chassis": "F87",
-      "years": "2015-2016",
       "modelHref": "/bmw-m2-engines"
     },
     {
       "model": "X5",
       "variant": "xDrive35i",
       "generation": "F15",
+      "years": "2013–2018",
       "chassis": "F15",
-      "years": "2013-2018",
       "modelHref": "/bmw-x5-engines"
     },
     {
       "model": "X6",
       "variant": "xDrive35i",
       "generation": "F16",
+      "years": "2014–2019",
       "chassis": "F16",
-      "years": "2014-2019",
       "modelHref": "/bmw-x6-engines"
     }
   ],

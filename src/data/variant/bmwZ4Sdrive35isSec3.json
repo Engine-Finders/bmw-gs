@@ -1,25 +1,21 @@
 {
   "headline": "BMW Z4 sDrive35is Engine Rebuild Price",
   "startingFromLabel": "Starting From",
-  "startingFromPrice": "£2,200",
+  "startingFromPrice": "£2,800",
   "engineImage": "/engines/n54-n55-n20-family-engine-hero.webp",
   "cards": [
     {
-      "code": "N54",
       "image": "/engines/n54-n55-n20-family-engine-hero.webp",
-      "generation": "E89 (2009-2016)",
-      "price": "£2,800",
-      "codeHref": "/bmw-n54-engine"
+      "codeHref": "/bmw-n54-engine",
+      "code": "N54",
+      "generation": "E89 (2009–2016)",
+      "price": "£2,800"
     }
   ],
   "notes": [
     {
       "icon": "layers",
-      "text": "All engine codes sit on the same rebuild tier."
-    },
-    {
-      "icon": "price",
-      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -27,14 +23,6 @@
     "label": "Get Your Fixed-Price Quote",
     "href": "#quote-form"
   },
-  "warning": {
-    "bgImage": "/variant/sec3_lower_div_bg.webp",
-    "titlePre": "BMW Z4 sDrive35is Timing Chain Failure ",
-    "titleHighlight": "(E89, N47)",
-    "paragraphs": [
-      "If your Z4 sDrive35is is a pre-2015 model with the N47 diesel engine - that's the early E89 generation - timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-      "The later E89 (2015-onwards) and E89 generations use a different engine, the B47, which is significantly more reliable and doesn't share this specific issue."
-    ],
-    "source": "Source: NHTSA Recall 18V-755 - Timing Chain Guide Wear in N47 Engines (2012-2015)"
-  }
+  "warning": null,
+  "vehicleLabel": "BMW Z4 sDrive35is"
 }

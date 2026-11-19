@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW Z4 3.0i  3.0si ENGINE",
     "paragraphs": [
-      "The Z4 3.0i  3.0si has been a mainstay of the Z4 diesel range since 2012, spanning two generations under one badge. Early E85/E86 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the E85/E86 and later the E85/E86, the Z4 3.0i  3.0si switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ - which is exactly why we confirm your exact engine by registration before quoting."
+      "The Z4 3.0i and 3.0si were the flagship straight-six models of the E85 roadster and E86 coupe generations, produced from 2002 to 2008. The 3.0i (2002–2006) uses the M54B30 — a 3.0-litre naturally aspirated straight-six that also powered the E46 330i and E39 530i. The 3.0si (2006–2008) uses the N52B30 — BMW's first magnesium-aluminium composite engine, lighter and more powerful than the M54, producing 261bhp compared to the earlier car's 228bhp. Knowing which one your car has matters because the engines are mechanically different — which is exactly why we confirm your exact engine by registration before quoting."
     ],
     "boldParagraph": "The Z4 3.0i  3.0si is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -15,40 +15,40 @@
     "image": "/variant/sec10_engine.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "codeRest": "(E85/E86, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early E85/E86 Z4 3.0i  3.0si. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 Z4 3.0i  3.0si",
-        "codeHref": "/bmw-n47-engine"
+        "codeHighlight": "M54",
+        "codeRest": "B30 (3.0i, 2002–2006)",
+        "body": "A 3.0-litre straight-six petrol fitted to the Z4 3.0i from 2002 to 2006, and widely used across the BMW range of that era. No widely-reported engine issue for this application — we still recommend a full inspection before any long journey.",
+        "cta": "Check Your M54 BMW Z4 3.0i / 3.0si",
+        "codeHref": "/bmw-m54-engine"
       },
       {
-        "codeHighlight": "B47",
-        "codeRest": "(E85/E86, 2015-2019 / E85/E86, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 Z4 3.0i  3.0si",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "N52",
+        "codeRest": "B30 (3.0si, 2006–2008)",
+        "body": "The 3.0-litre straight-six petrol fitted to the Z4 3.0si from 2006 to 2008. BMW's first mass-production magnesium-aluminium engine, with notable power and efficiency improvements over the M54. No widely-reported engine issue for this application — we service it to the same standard as the M54.",
+        "cta": "Check Your N52 BMW Z4 3.0i / 3.0si",
+        "codeHref": "/bmw-n52-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW Z4 3.0i  3.0si ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the Z4 3.0i  3.0si spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "The Z4 3.0i and 3.0si may look similar from the outside, but the M54 and N52 are fundamentally different engines. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "M54 / N52",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact engine code (M54 or N52) via registration or VIN"
       },
       {
         "icon": "car",
-        "text": "Your generation (E85/E86 or E85/E86)"
+        "text": "Your generation (E85 roadster or E86 coupe)"
       },
       {
         "icon": "gears",
@@ -59,7 +59,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic Z4 3.0i  3.0si quote - it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic Z4 quote — it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "BMW Z4 3.0i  3.0si ",
@@ -75,21 +75,22 @@
     "rows": [
       {
         "generation": "E85",
-        "image": "/cars/card/z4-e85-lci-2-5si-2006-2008.webp",
         "chassis": "Roadster",
-        "years": "2002-2008",
-        "engineCode": "M54 (2002-2006) / N52 (2006-2008)",
-        "fuel": "Petrol"
+        "years": "2002–2008",
+        "engineCode": "M54 (2002–2006) / N52 (2006–2008)",
+        "fuel": "Petrol",
+        "image": "/cars/card/z4-e85-lci-2-5si-2006-2008.webp"
       },
       {
         "generation": "E86",
-        "image": "/cars/card/z4-e86-3-0si-coupe-2006-2008.webp",
         "chassis": "Coupe",
-        "years": "2006-2008",
+        "years": "2006–2008",
         "engineCode": "N52",
         "fuel": "Petrol",
+        "image": "/cars/card/z4-e86-3-0si-coupe-2006-2008.webp",
         "codeHref": "/bmw-n52-engine"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW Z4 3.0i / 3.0si"
 }

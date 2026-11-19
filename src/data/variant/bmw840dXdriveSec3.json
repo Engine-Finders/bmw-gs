@@ -1,15 +1,15 @@
 {
   "headline": "BMW 840d xDrive Engine Rebuild Price",
   "startingFromLabel": "Starting From",
-  "startingFromPrice": "£2,200",
+  "startingFromPrice": "£2,800",
   "engineImage": "/engines/b57-engine.webp",
   "cards": [
     {
-      "code": "B57",
       "image": "/engines/b57-engine.webp",
-      "generation": "G14/G15/G16 (2018-present)",
-      "price": "£2,800",
-      "codeHref": "/bmw-b57-engine"
+      "codeHref": "/bmw-b57-engine",
+      "code": "B57",
+      "generation": "G14/G15/G16 (2018–present)",
+      "price": "£2,800"
     }
   ],
   "notes": [
@@ -27,14 +27,6 @@
     "label": "Get Your Fixed-Price Quote",
     "href": "#quote-form"
   },
-  "warning": {
-    "bgImage": "/variant/sec3_lower_div_bg.webp",
-    "titlePre": "BMW 840d xDrive Timing Chain Failure ",
-    "titleHighlight": "(G14, N47)",
-    "paragraphs": [
-      "If your 840d xDrive is a pre-2015 model with the N47 diesel engine - that's the early G14 generation - timing chain failure due to chain guide wear is a well-documented pattern, subject to NHTSA recall 18V-755. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-      "The later G14 (2015-onwards) and G15 generations use a different engine, the B47, which is significantly more reliable and doesn't share this specific issue."
-    ],
-    "source": "Source: NHTSA Recall 18V-755 - Timing Chain Guide Wear in N47 Engines (2012-2015)"
-  }
+  "warning": null,
+  "vehicleLabel": "BMW 840d xDrive"
 }

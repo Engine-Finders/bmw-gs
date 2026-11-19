@@ -2,9 +2,12 @@ import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
 import QuoteLink from "@/components/shared/QuoteLink";
+import { engineLabelFromText } from "@/lib/engineLabel";
 
 export default function Sec2({ data }) {
   const { specs, price } = data;
+  const specsLabel = engineLabelFromText(specs.titlePre);
+  const priceLabel = engineLabelFromText(price.titlePre);
 
   return (
     <section className="relative overflow-hidden bg-[#eef2f8] pt-3">
@@ -16,7 +19,7 @@ export default function Sec2({ data }) {
             <div className="overflow-hidden">
               <BMWStripe className="float-left mr-2 h-6 w-12 shrink-0" />
               <h2 className="hp-h2 uppercase">
-                <span className="text-[#101828]">BMW B58 </span>
+                <span className="text-[#101828]">{specsLabel} </span>
                 <span className="text-hero-blue">{specs.titleHighlight}</span>
               </h2>
             </div>
@@ -60,7 +63,7 @@ export default function Sec2({ data }) {
             <div className="overflow-hidden">
               <BMWStripe className="float-left mr-2 h-6 w-12 shrink-0" />
               <h2 className="hp-h2 uppercase">
-                <span className="text-[#101828]">BMW B58 </span>
+                <span className="text-[#101828]">{priceLabel} </span>
                 <span className="text-hero-blue">{price.titleHighlight}</span>
               </h2>
             </div>
@@ -85,7 +88,7 @@ export default function Sec2({ data }) {
         {/* specifications */}
         <div className="relative overflow-hidden">
           <div className="absolute inset-0">
-            <Image src={specs.image} alt="BMW B58 engine" fill className="object-cover object-right" sizes="100vw" />
+            <Image src={specs.image} alt={`${specsLabel} engine`} fill className="object-cover object-right" sizes="100vw" />
             <div
               className="pointer-events-none absolute inset-0"
               style={{ background: "linear-gradient(90deg, #fff 0%, #fff 68%, rgba(255,255,255,0.9) 76%, rgba(255,255,255,0.35) 86%, transparent 96%)" }}
@@ -97,7 +100,7 @@ export default function Sec2({ data }) {
             <div className="flex items-center gap-3">
               <BMWStripe className="h-7 w-14 shrink-0" />
               <h2 className="hp-h2 whitespace-nowrap uppercase">
-                <span className="text-[#101828]">BMW B58 </span>
+                <span className="text-[#101828]">{specsLabel} </span>
                 <span className="text-hero-blue">{specs.titleHighlight}</span>
               </h2>
             </div>
@@ -136,7 +139,7 @@ export default function Sec2({ data }) {
         {/* rebuild price */}
         <div className="relative overflow-hidden">
           <div className="absolute inset-0">
-            <Image src={price.image} alt="BMW B58 engine components" fill className="object-cover object-right" sizes="100vw" />
+            <Image src={price.image} alt={`${priceLabel} engine components`} fill className="object-cover object-right" sizes="100vw" />
             <div
               className="pointer-events-none absolute inset-0"
               style={{ background: "linear-gradient(90deg, #fff 0%, #fff 60%, rgba(255,255,255,0.9) 70%, rgba(255,255,255,0.35) 82%, transparent 94%)" }}
@@ -148,7 +151,7 @@ export default function Sec2({ data }) {
             <div className="flex items-center gap-3">
               <BMWStripe className="h-7 w-14 shrink-0" />
               <h2 className="hp-h2 whitespace-nowrap uppercase">
-                <span className="text-[#101828]">BMW B58 </span>
+                <span className="text-[#101828]">{priceLabel} </span>
                 <span className="text-hero-blue">{price.titleHighlight}</span>
               </h2>
             </div>

@@ -7,7 +7,7 @@
     {
       "icon": "car",
       "label": "Vehicle",
-      "value": "BMW 120i"
+      "value": "BMW 1 Series 120i"
     },
     {
       "icon": "layers",
@@ -17,7 +17,7 @@
     {
       "icon": "sliders",
       "label": "Variant",
-      "value": "120i"
+      "value": "1 Series 120i"
     },
     {
       "icon": "fuel",
@@ -32,12 +32,12 @@
     {
       "icon": "gauge",
       "label": "Capacity",
-      "value": "1.6L-2.0L"
+      "value": "1.6L–2.0L"
     },
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "F20/F21 (2011-2019) · F40 (2019-present)"
+      "value": "F20/F21 (2011–2019) · F40 (2019–present)"
     },
     {
       "icon": "price",
@@ -48,7 +48,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The 120i used two different engines across its production run - enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "Not sure which engine you have? The 120i used different engines across its production run — enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",
@@ -64,5 +64,6 @@
       }
     ],
     "buttonLabel": "Check My Exact Engine"
-  }
+  },
+  "vehicleLabel": "BMW 1 Series 120i"
 }

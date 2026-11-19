@@ -7,6 +7,7 @@
     "Engine Family",
     "Fuel",
     "Size",
+    "Chassis / Generation",
     "Rebuild Price Range"
   ],
   "rows": [
@@ -14,22 +15,22 @@
       "family": "N55 (standard M2)",
       "fuel": "Petrol",
       "size": "3.0L Turbo",
-      "range": "F87",
-      "familyHref": "/bmw-n55-engine"
+      "chassis": "F87",
+      "range": "£2,800 – £4,200"
     },
     {
       "family": "S55 (Competition/CS)",
       "fuel": "Petrol",
       "size": "3.0L Twin-Turbo",
-      "range": "F87",
-      "familyHref": "/bmw-s55-engine"
+      "chassis": "F87",
+      "range": "£5,500 – £8,500"
     },
     {
       "family": "S58 (G87)",
       "fuel": "Petrol",
       "size": "3.0L Twin-Turbo",
-      "range": "G87",
-      "familyHref": "/bmw-s58-engine"
+      "chassis": "G87",
+      "range": "£5,500 – £8,500"
     }
   ],
   "features": [

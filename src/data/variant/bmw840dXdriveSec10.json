@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW 840d xDrive ENGINE",
     "paragraphs": [
-      "The 840d xDrive has been a mainstay of the 8 Series diesel range since 2012, spanning two generations under one badge. Early G14 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the G14 and later the G15, the 840d xDrive switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ - which is exactly why we confirm your exact engine by registration before quoting."
+      "The 840d xDrive uses the B57 — a 3.0-litre inline-six diesel with 48-volt mild hybrid assistance. It was introduced with the current-generation 8 Series (G14/G15/G16) in 2018 and remains in production. The B57 is BMW's modular diesel engine family, sharing its architecture with the petrol B58, and features a closed-deck block for strength and a compact exhaust aftertreatment system close to the engine for faster light-off. A low-pressure exhaust gas recirculation system and stepped combustion process contribute to clean-running efficiency."
     ],
     "boldParagraph": "The 840d xDrive is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -15,42 +15,33 @@
     "image": "/engines/b57-engine.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(G14, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early G14 840d xDrive. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 840d xDrive",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(G14, 2015-2019 / G15, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 840d xDrive",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "B57",
+        "codeRest": "(G14/G15/G16 (2018–present))",
+        "body": "B57 engine application for BMW 840d xDrive.",
+        "cta": "Check Your B57 BMW 840d xDrive",
+        "codeHref": "/bmw-b57-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW 840d xDrive ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the 840d xDrive spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "The 840d xDrive uses a single engine family — the B57 — across all 8 Series generations in production since 2018. We confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "B57",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact engine code via registration or VIN"
       },
       {
         "icon": "car",
-        "text": "Your generation (G14 or G15)"
+        "text": "Your body style (G14 Convertible, G15 Coupe, or G16 Gran Coupe)"
       },
       {
         "icon": "gears",
@@ -61,7 +52,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic 840d xDrive quote - it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic 840d xDrive quote — it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "BMW 840d xDrive ",
@@ -78,7 +69,7 @@
       {
         "generation": "8 Series Convertible",
         "chassis": "G14",
-        "years": "2018-present",
+        "years": "2018–present",
         "engineCode": "B57",
         "fuel": "Diesel MHEV",
         "codeHref": "/bmw-b57-engine"
@@ -86,7 +77,7 @@
       {
         "generation": "8 Series Coupe",
         "chassis": "G15",
-        "years": "2018-present",
+        "years": "2018–present",
         "engineCode": "B57",
         "fuel": "Diesel MHEV",
         "codeHref": "/bmw-b57-engine"
@@ -94,11 +85,12 @@
       {
         "generation": "8 Series Gran Coupe",
         "chassis": "G16",
-        "years": "2018-present",
+        "years": "2018–present",
         "engineCode": "B57",
         "fuel": "Diesel MHEV",
         "codeHref": "/bmw-b57-engine"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW 840d xDrive"
 }

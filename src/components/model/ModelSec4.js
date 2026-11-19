@@ -20,9 +20,10 @@ function withEmphasis(text) {
 
 export default function ModelSec4({ data }) {
   const [disclaimerLine1, disclaimerLine2] = data.disclaimer.split(/(?<=components\.)\s+/);
+  const hasChassisColumn = data.columns?.length === 5;
 
   return (
-    <section className="relative overflow-hidden bg-[#f3f6fb]">
+    <section id="pricing" className="relative overflow-hidden bg-[#f3f6fb]">
       {/* ===== mobile ===== */}
       <div className="relative px-4 pb-8 pt-8 md:hidden">
         <div
@@ -53,7 +54,7 @@ export default function ModelSec4({ data }) {
           <div className="glass-card mt-5 overflow-hidden rounded-2xl">
             <div className="overflow-x-auto">
               <div className="min-w-[500px]">
-            <div className="grid grid-cols-[1.3fr_0.75fr_0.75fr_1.1fr] divide-x divide-black/10 border-b border-black/10 bg-white/60">
+            <div className={`grid ${hasChassisColumn ? "grid-cols-[1.1fr_0.65fr_0.65fr_1.35fr_1.1fr]" : "grid-cols-[1.3fr_0.75fr_0.75fr_1.1fr]"} divide-x divide-black/10 border-b border-black/10 bg-white/60`}>
               <div className="flex items-center gap-1.5 px-3 py-3">
                 <Icon name="gear" className="h-3.5 w-3.5 shrink-0 text-hero-blue" />
                 <p className="text-xs font-extrabold uppercase leading-tight tracking-wide text-[#101828]">{data.columns[0]}</p>
@@ -66,16 +67,22 @@ export default function ModelSec4({ data }) {
                 <Icon name="gears" className="h-3.5 w-3.5 shrink-0 text-hero-blue" />
                 <p className="text-xs font-extrabold uppercase leading-tight tracking-wide text-[#101828]">{data.columns[2]}</p>
               </div>
+              {hasChassisColumn && (
+                <div className="flex items-center gap-1.5 px-3 py-3">
+                  <Icon name="car" className="h-3.5 w-3.5 shrink-0 text-hero-blue" />
+                  <p className="text-xs font-extrabold uppercase leading-tight tracking-wide text-[#101828]">{data.columns[3]}</p>
+                </div>
+              )}
               <div className="flex items-center gap-1.5 px-3 py-3">
                 <Icon name="price" className="h-3.5 w-3.5 shrink-0 text-hero-blue" />
-                <p className="text-xs font-extrabold uppercase leading-tight tracking-wide text-[#101828]">{data.columns[3]}</p>
+                <p className="text-xs font-extrabold uppercase leading-tight tracking-wide text-[#101828]">{data.columns[hasChassisColumn ? 4 : 3]}</p>
               </div>
             </div>
 
             {data.rows.map((r, i) => (
               <div
                 key={r.family}
-                className={`grid grid-cols-[1.3fr_0.75fr_0.75fr_1.1fr] divide-x divide-black/10 ${i > 0 ? "border-t border-black/10" : ""} ${i % 2 === 1 ? "bg-white/40" : ""}`}
+                className={`grid ${hasChassisColumn ? "grid-cols-[1.1fr_0.65fr_0.65fr_1.35fr_1.1fr]" : "grid-cols-[1.3fr_0.75fr_0.75fr_1.1fr]"} divide-x divide-black/10 ${i > 0 ? "border-t border-black/10" : ""} ${i % 2 === 1 ? "bg-white/40" : ""}`}
               >
                 <p className="px-3 py-3 text-sm font-bold leading-tight text-[#101828]">
                   {r.familyHref ? <Link href={r.familyHref} >{r.family}</Link> : r.family}
@@ -84,6 +91,7 @@ export default function ModelSec4({ data }) {
                   {r.fuel}
                 </p>
                 <p className="px-3 py-3 text-sm leading-tight text-[#101828]">{r.size}</p>
+                {hasChassisColumn && <p className="px-3 py-3 text-sm leading-tight text-[#101828]">{r.chassis}</p>}
                 <p className="px-3 py-3 text-sm font-bold leading-tight text-[#101828]">{r.range}</p>
               </div>
             ))}
@@ -153,7 +161,7 @@ export default function ModelSec4({ data }) {
 
         {/* pricing table */}
         <div className="glass-card mt-6 overflow-hidden rounded-2xl">
-          <div className="grid grid-cols-[1.6fr_1fr_1fr_1.4fr] divide-x divide-black/10 border-b border-black/10 bg-white/60">
+          <div className={`grid ${hasChassisColumn ? "grid-cols-[1.4fr_0.85fr_0.85fr_1.5fr_1.35fr]" : "grid-cols-[1.6fr_1fr_1fr_1.4fr]"} divide-x divide-black/10 border-b border-black/10 bg-white/60`}>
             <div className="flex items-center gap-2 px-6 py-3">
               <Icon name="gear" className="h-5 w-5 shrink-0 text-hero-blue" />
               <p className="text-sm font-extrabold uppercase tracking-wide text-[#101828]">{data.columns[0]}</p>
@@ -166,22 +174,29 @@ export default function ModelSec4({ data }) {
               <Icon name="gears" className="h-5 w-5 shrink-0 text-hero-blue" />
               <p className="text-sm font-extrabold uppercase tracking-wide text-[#101828]">{data.columns[2]}</p>
             </div>
+            {hasChassisColumn && (
+              <div className="flex items-center gap-2 px-6 py-3">
+                <Icon name="car" className="h-5 w-5 shrink-0 text-hero-blue" />
+                <p className="text-sm font-extrabold uppercase tracking-wide text-[#101828]">{data.columns[3]}</p>
+              </div>
+            )}
             <div className="flex items-center gap-2 px-6 py-3">
               <Icon name="price" className="h-5 w-5 shrink-0 text-hero-blue" />
-              <p className="text-sm font-extrabold uppercase tracking-wide text-[#101828]">{data.columns[3]}</p>
+              <p className="text-sm font-extrabold uppercase tracking-wide text-[#101828]">{data.columns[hasChassisColumn ? 4 : 3]}</p>
             </div>
           </div>
 
           {data.rows.map((r, i) => (
             <div
               key={r.family}
-              className={`grid grid-cols-[1.6fr_1fr_1fr_1.4fr] divide-x divide-black/10 ${i > 0 ? "border-t border-black/10" : ""} ${i % 2 === 1 ? "bg-white/40" : ""}`}
+              className={`grid ${hasChassisColumn ? "grid-cols-[1.4fr_0.85fr_0.85fr_1.5fr_1.35fr]" : "grid-cols-[1.6fr_1fr_1fr_1.4fr]"} divide-x divide-black/10 ${i > 0 ? "border-t border-black/10" : ""} ${i % 2 === 1 ? "bg-white/40" : ""}`}
             >
               <p className="px-6 py-3.5 text-base font-bold text-[#101828]">
                 {r.familyHref ? <Link href={r.familyHref} >{r.family}</Link> : r.family}
               </p>
               <p className={`px-6 py-3.5 text-base font-semibold ${r.fuel === "Petrol" ? "text-bmw-red" : "text-hero-blue"}`}>{r.fuel}</p>
               <p className="px-6 py-3.5 text-base text-[#101828]">{r.size}</p>
+              {hasChassisColumn && <p className="px-6 py-3.5 text-base text-[#101828]">{r.chassis}</p>}
               <p className="px-6 py-3.5 text-base font-bold text-[#101828]">{r.range}</p>
             </div>
           ))}

@@ -1,8 +1,8 @@
 {
   "image": "/variant/sec11.webp",
-  "titlePre": "BMW 120i ENGINES ",
+  "titlePre": "BMW 1 Series 120i ENGINES ",
   "titleHighlight": "BY YEAR",
-  "description": "From the N47 to the B47 - here's a quick guide to the engines fitted to the BMW 120i over the years. If you're unsure which one you have, we'll confirm it before you book.",
+  "description": "The N13 or N20 or B48 engine codes are used across BMW 1 Series 120i model years. If you're unsure which one you have, we'll confirm it before you book.",
   "columns": [
     {
       "icon": "calendar",
@@ -61,62 +61,14 @@
     {
       "year": "2015",
       "generation": "F20/F21",
-      "engineCode": "N13",
-      "fuel": "Petrol",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-n13-engine"
-    },
-    {
-      "year": "2011",
-      "generation": "F20/F21",
-      "engineCode": "N20",
+      "engineCode": "N20/B48",
       "fuel": "Petrol",
       "service": "Rebuild / Replacement",
       "codeHref": "/bmw-n20-engine"
-    },
-    {
-      "year": "2012",
-      "generation": "F20/F21",
-      "engineCode": "N20",
-      "fuel": "Petrol",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-n20-engine"
-    },
-    {
-      "year": "2013",
-      "generation": "F20/F21",
-      "engineCode": "N20",
-      "fuel": "Petrol",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-n20-engine"
-    },
-    {
-      "year": "2014",
-      "generation": "F20/F21",
-      "engineCode": "N20",
-      "fuel": "Petrol",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-n20-engine"
-    },
-    {
-      "year": "2015",
-      "generation": "F20/F21",
-      "engineCode": "N20",
-      "fuel": "Petrol",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-n20-engine"
-    },
-    {
-      "year": "2015",
-      "generation": "F20/F21, F40",
-      "engineCode": "B48",
-      "fuel": "Petrol",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-b48-engine"
     },
     {
       "year": "2016",
-      "generation": "F20/F21, F40",
+      "generation": "F20/F21",
       "engineCode": "B48",
       "fuel": "Petrol",
       "service": "Rebuild / Replacement",
@@ -124,7 +76,7 @@
     },
     {
       "year": "2017",
-      "generation": "F20/F21, F40",
+      "generation": "F20/F21",
       "engineCode": "B48",
       "fuel": "Petrol",
       "service": "Rebuild / Replacement",
@@ -132,7 +84,7 @@
     },
     {
       "year": "2018",
-      "generation": "F20/F21, F40",
+      "generation": "F20/F21",
       "engineCode": "B48",
       "fuel": "Petrol",
       "service": "Rebuild / Replacement",
@@ -140,15 +92,67 @@
     },
     {
       "year": "2019",
-      "generation": "F20/F21, F40",
+      "generation": "F20/F21/F40",
       "engineCode": "B48",
       "fuel": "Petrol",
       "service": "Rebuild / Replacement",
       "codeHref": "/bmw-b48-engine"
+    },
+    {
+      "year": "2020",
+      "generation": "F40",
+      "engineCode": "B48",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b48-engine"
+    },
+    {
+      "year": "2021",
+      "generation": "F40",
+      "engineCode": "B48",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b48-engine"
+    },
+    {
+      "year": "2022",
+      "generation": "F40",
+      "engineCode": "B48",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b48-engine"
+    },
+    {
+      "year": "2023",
+      "generation": "F40",
+      "engineCode": "B48",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b48-engine"
+    },
+    {
+      "year": "2024",
+      "generation": "F40",
+      "engineCode": "B48",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement",
+      "codeHref": "/bmw-b48-engine"
+    },
+    {
+      "year": "2025",
+      "generation": "F40",
+      "engineCode": "B48",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2026",
+      "generation": "F40",
+      "engineCode": "B48",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
     }
   ],
-  "notice": {
-    "highlight": "2015 and 2019",
-    "rest": " were transition years between generations and engine codes - if your registration falls in either, we'll confirm your exact engine before quoting."
-  }
+  "notice": null,
+  "vehicleLabel": "BMW 1 Series 120i"
 }

@@ -25,7 +25,7 @@ export default function HomeSec11({ data }) {
               <h2 className="hp-h2 uppercase">
                 <span className="block whitespace-nowrap">Meet The</span>{" "}
                 <span className="block">
-                  Work<span className="text-hero-blue">Shop</span>
+                  Work<span className="text-hero-blue">shop</span>
                 </span>
               </h2>
               <BMWStripe size="wide" className="mt-2" />
@@ -104,7 +104,7 @@ export default function HomeSec11({ data }) {
               <div role="heading" aria-level="2" className="hp-h2 uppercase">
                 <span className="block">Meet The</span>{" "}
                 <span className="block">
-                  Work<span className="text-hero-blue">Shop</span>
+                  Work<span className="text-hero-blue">shop</span>
                 </span>
               </div>
 

@@ -7,57 +7,58 @@
     "Engine Family",
     "Fuel",
     "Size",
+    "Chassis / Generation",
     "Rebuild Price Range"
   ],
   "rows": [
     {
       "family": "M54",
       "fuel": "Petrol",
-      "size": "2.5-3.0L",
-      "range": "E85 / E86",
-      "familyHref": "/bmw-m54-engine"
+      "size": "2.5–3.0L",
+      "chassis": "E85 / E86",
+      "range": "£2,400 – £3,200"
     },
     {
       "family": "N52",
       "fuel": "Petrol",
-      "size": "2.5-3.0L",
-      "range": "E85 / E86",
-      "familyHref": "/bmw-n52-engine"
+      "size": "2.5–3.0L",
+      "chassis": "E85 / E86",
+      "range": "£2,400 – £3,200"
     },
     {
       "family": "N20",
       "fuel": "Petrol",
       "size": "2.0L",
-      "range": "E89",
-      "familyHref": "/bmw-n20-engine"
+      "chassis": "E89",
+      "range": "£2,600 – £3,400"
     },
     {
       "family": "N54 (sDrive35i/35is)",
       "fuel": "Petrol Twin-Turbo",
       "size": "3.0L",
-      "range": "E89",
-      "familyHref": "/bmw-n54-engine"
+      "chassis": "E89",
+      "range": "£3,200 – £4,400"
     },
     {
       "family": "N55",
       "fuel": "Petrol",
       "size": "3.0L",
-      "range": "E89",
-      "familyHref": "/bmw-n55-engine"
+      "chassis": "E89",
+      "range": "£3,200 – £4,200"
     },
     {
       "family": "B48",
       "fuel": "Petrol",
       "size": "2.0L",
-      "range": "G29",
-      "familyHref": "/bmw-b48-engine"
+      "chassis": "G29",
+      "range": "£2,600 – £3,400"
     },
     {
       "family": "B58 (sDrive40i)",
       "fuel": "Petrol",
       "size": "3.0L",
-      "range": "G29",
-      "familyHref": "/bmw-b58-engine"
+      "chassis": "G29",
+      "range": "£2,800 – £4,200"
     }
   ],
   "features": [

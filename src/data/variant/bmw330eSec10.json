@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW 330e ENGINE",
     "paragraphs": [
-      "The 330e has been a mainstay of the 3 Series diesel range since 2012, spanning two generations under one badge. Early G20/G21 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the G20/G21 and later the G20/G21, the 330e switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ - which is exactly why we confirm your exact engine by registration before quoting."
+      "The 330e has been part of the 3 Series range since 2019, using the B48 2.0-litre turbocharged petrol engine paired with an electric motor in a plug-in hybrid configuration. It's fitted to the G20 saloon and G21 Touring generations. The B48 is a well-regarded engine family in its own right — it's the same base unit used across a wide range of BMW models of this era, with the hybrid system integrated alongside it. As a PHEV, the 330e combines the B48's familiar characteristics with electric assistance for improved efficiency and lower emissions, without compromising on the driving experience expected from a 3 Series."
     ],
     "boldParagraph": "The 330e is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -15,42 +15,33 @@
     "image": "/engines/b48-engine.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(G20/G21, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early G20/G21 330e. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 330e",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(G20/G21, 2015-2019 / G20/G21, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 330e",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "B48 + electric motor",
+        "codeRest": "(G20/G21 (2019–present))",
+        "body": "B48 + electric motor engine application for BMW 3 Series 330e.",
+        "cta": "Check Your B48 + electric motor BMW 3 Series 330e",
+        "codeHref": "/bmw-b48-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW 330e ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the 330e spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the 330e is a PHEV, the engine and electric system work together as an integrated unit — and the hybrid-specific components need to be matched correctly to your exact vehicle specification. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "B48",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact engine code (B48)"
       },
       {
         "icon": "car",
-        "text": "Your generation (G20/G21 or G20/G21)"
+        "text": "Your generation (G20 or G21)"
       },
       {
         "icon": "gears",
@@ -61,7 +52,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic 330e quote - it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic 330e quote — it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "BMW 330e ",
@@ -77,12 +68,13 @@
     "rows": [
       {
         "generation": "G20/G21",
-        "image": "/cars/card/3-series-g20-330e-m-sport-2019.webp",
         "chassis": "G20/G21",
-        "years": "2019-present",
+        "years": "2019–present",
         "engineCode": "B48 + electric",
-        "fuel": "Petrol Plug-in Hybrid"
+        "fuel": "Petrol Plug-in Hybrid",
+        "image": "/cars/card/3-series-g20-330e-m-sport-2019.webp"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW 3 Series 330e"
 }

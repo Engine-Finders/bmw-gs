@@ -5,43 +5,7 @@
   "image": "/model/sec3.webp",
   "imageMobile": "/model/sec3_mobile.jpg",
   "cardImage": "/engines/card3-engine-trim.webp",
-  "cards": [
-    {
-      "titlePre": "4-Cylinder",
-      "titleHighlight": "Rebuild",
-      "code": "(N47 / B47)",
-      "image": "/engines/card3-n47-engine-hero.webp",
-      "price": "£1,900",
-      "featured": false,
-      "codeHref": "/bmw-b47-engine"
-    },
-    {
-      "titlePre": "6-Cylinder",
-      "titleHighlight": "Rebuild",
-      "code": "(N57 / B58)",
-      "image": "/engines/card3-n57-engine-hero.webp",
-      "price": "£2,800",
-      "featured": false,
-      "codeHref": "/bmw-b58-engine"
-    },
-    {
-      "titlePre": "M3",
-      "titleHighlight": "Rebuild",
-      "code": "(S54 / S55)",
-      "image": "/engines/card3-m-engine-hero.webp",
-      "price": "£5,500",
-      "featured": true,
-      "codeHref": "/bmw-s54-engine"
-    },
-    {
-      "titlePre": "Nationwide",
-      "titleHighlight": "Recovery",
-      "code": "",
-      "price": "£70",
-      "featured": false,
-      "icon": "truck"
-    }
-  ],
+  "cards": [],
   "disclaimer": "Exact price depends on engine code, condition and parts required - full pricing further down this page.",
   "cta": {
     "line1": "Get Your Fixed-Price Quote",

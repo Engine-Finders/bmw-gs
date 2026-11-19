@@ -4,6 +4,8 @@ import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
 
 export default function Sec4({ data }) {
+  if (!data.cards?.length) return null;
+
   return (
     <section className="relative overflow-hidden bg-[#f3f6fb]">
       {/* ===== mobile ===== */}
@@ -37,7 +39,7 @@ export default function Sec4({ data }) {
           ))}
         </div>
 
-        <div className="glass-card relative mt-5 grid grid-cols-[minmax(0,1.7fr)_minmax(0,1fr)] items-stretch overflow-hidden rounded-xl">
+        {data.notice && <div className="glass-card relative mt-5 grid grid-cols-[minmax(0,1.7fr)_minmax(0,1fr)] items-stretch overflow-hidden rounded-xl">
           <div className="relative z-10 flex items-start gap-3 p-4">
             <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-hero-blue">
               <Icon name="info" className="h-4 w-4 text-white" />
@@ -49,7 +51,7 @@ export default function Sec4({ data }) {
             <Image src={data.noticeImage} alt="" fill className="object-cover opacity-25" sizes="140px" />
             <div className="absolute inset-0 bg-linear-to-r from-white via-white/40 to-transparent" />
           </div>
-        </div>
+        </div>}
       </div>
 
       {/* ===== desktop ===== */}
@@ -87,7 +89,7 @@ export default function Sec4({ data }) {
             ))}
           </div>
 
-          <div className="glass-card relative mt-6 grid grid-cols-[minmax(0,1.7fr)_minmax(0,1fr)] items-stretch overflow-hidden rounded-2xl">
+          {data.notice && <div className="glass-card relative mt-6 grid grid-cols-[minmax(0,1.7fr)_minmax(0,1fr)] items-stretch overflow-hidden rounded-2xl">
             <div className="relative z-10 flex items-center gap-4 px-6 py-5">
               <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-hero-blue">
                 <Icon name="info" className="h-5 w-5 text-white" />
@@ -99,7 +101,7 @@ export default function Sec4({ data }) {
               <Image src={data.noticeImage} alt="" fill className="object-cover opacity-25" sizes="320px" />
               <div className="absolute inset-0 bg-linear-to-r from-white via-white/40 to-transparent" />
             </div>
-          </div>
+          </div>}
         </div>
       </div>
     </section>

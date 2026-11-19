@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW 440i ENGINE",
     "paragraphs": [
-      "The 440i has been a mainstay of the 4 Series diesel range since 2012, spanning two generations under one badge. Early F32/F33/F36 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the F32/F33/F36 and later the F32/F33/F36, the 440i switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ - which is exactly why we confirm your exact engine by registration before quoting."
+      "The 440i was introduced as a replacement for the 435i during the F32/F33/F36 generation's lifecycle, arriving in 2016. It uses the B58 — a 3.0-litre inline-six petrol engine that represented a clean-sheet design from BMW and became widely regarded as one of the brand's most robust modern six-cylinder units. The B58 was fitted to the 440i across the entire F32/F33/F36 range from 2016 until production ended in 2020. In the current G22/G23/G26 generation, the M440i xDrive carries the B58 forward, but the 440i name itself was discontinued at the end of the F-generation run — so any 440i on the road today is an F32, F33 or F36 model. The 440i is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "The 440i is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -15,53 +15,44 @@
     "image": "/engines/what-engine-is-in-the-bmw-440i-engine.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(F32/F33/F36, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early F32/F33/F36 440i. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 440i",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(F32/F33/F36, 2015-2019 / F32/F33/F36, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 440i",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "B58",
+        "codeRest": "(Generation)",
+        "body": "B58 engine application for BMW 440i.",
+        "cta": "Check Your B58 BMW 440i",
+        "codeHref": "/bmw-b58-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW 440i ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the 440i spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "The 440i uses the B58 engine exclusively across its 2016–2020 production run. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "B58",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact engine code (B58) via registration or VIN"
       },
       {
         "icon": "car",
-        "text": "Your generation (F32/F33/F36 or F32/F33/F36)"
+        "text": "Your generation (F32/F33/F36)"
       },
       {
         "icon": "gears",
-        "text": "Drivetrain and ancillary specification"
+        "text": "Drivetrain and ancillary specification (RWD or xDrive)"
       },
       {
         "icon": "code",
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic 440i quote - it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic 440i quote — it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "BMW 440i ",
@@ -76,32 +67,44 @@
     ],
     "rows": [
       {
-        "generation": "F32/F33/F36",
-        "image": "/cars/card/4-series-f32-lci-440i-m-sport-2017-2020.webp",
+        "generation": "2016",
         "chassis": "F32/F33/F36",
-        "years": "2012-2015",
-        "engineCode": "N47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-n47-engine"
+        "years": "B58",
+        "engineCode": "Petrol",
+        "fuel": "Rebuild / Replacement",
+        "image": "/cars/card/4-series-f32-lci-440i-m-sport-2017-2020.webp"
       },
       {
-        "generation": "F32/F33/F36",
-        "image": "/cars/card/4-series-f32-lci-440i-m-sport-2017-2020.webp",
+        "generation": "2017",
         "chassis": "F32/F33/F36",
-        "years": "2015-2019",
-        "engineCode": "B47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-b47-engine"
+        "years": "B58",
+        "engineCode": "Petrol",
+        "fuel": "Rebuild / Replacement",
+        "image": "/cars/card/4-series-f32-lci-440i-m-sport-2017-2020.webp"
       },
       {
-        "generation": "F32/F33/F36",
-        "image": "/cars/card/4-series-f32-lci-440i-m-sport-2017-2020.webp",
+        "generation": "2018",
         "chassis": "F32/F33/F36",
-        "years": "2019-2024",
-        "engineCode": "B47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-b47-engine"
+        "years": "B58",
+        "engineCode": "Petrol",
+        "fuel": "Rebuild / Replacement",
+        "image": "/cars/card/4-series-f32-lci-440i-m-sport-2017-2020.webp"
+      },
+      {
+        "generation": "2019",
+        "chassis": "F32/F33/F36",
+        "years": "B58",
+        "engineCode": "Petrol",
+        "fuel": "Rebuild / Replacement"
+      },
+      {
+        "generation": "2020",
+        "chassis": "F32/F33/F36",
+        "years": "B58",
+        "engineCode": "Petrol",
+        "fuel": "Rebuild / Replacement"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW 440i"
 }

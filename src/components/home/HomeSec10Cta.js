@@ -14,10 +14,6 @@ export default function HomeSec10Cta({ data }) {
 
           <div className="mt-3 w-full">
             <RegLookupForm buttonLabel={data.ctaButton} row compact compactButton />
-            <p className="mt-2 flex items-center justify-center gap-1.5 text-[10px] uppercase tracking-wide text-white">
-              <span className="h-1.5 w-1.5 rounded-full bg-emerald-400" />
-              {data.apiNote}
-            </p>
           </div>
         </div>
       </div>
@@ -36,10 +32,6 @@ export default function HomeSec10Cta({ data }) {
 
           <div>
             <RegLookupForm buttonLabel={data.ctaButton} compact whiteBorder matchHeight />
-            <p className="mt-3 flex items-center gap-1.5 text-[11px] uppercase tracking-wide text-white">
-              <span className="h-1.5 w-1.5 rounded-full bg-emerald-400" />
-              {data.apiNote}
-            </p>
           </div>
         </div>
       </div>

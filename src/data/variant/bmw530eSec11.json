@@ -2,7 +2,7 @@
   "image": "/variant/sec11.webp",
   "titlePre": "BMW 530e ENGINES ",
   "titleHighlight": "BY YEAR",
-  "description": "From the N47 to the B47 - here's a quick guide to the engines fitted to the BMW 530e over the years. If you're unsure which one you have, we'll confirm it before you book.",
+  "description": "The B48 engine code is used across BMW 530e model years. If you're unsure which one you have, we'll confirm it before you book.",
   "columns": [
     {
       "icon": "calendar",
@@ -70,14 +70,7 @@
     },
     {
       "year": "2023",
-      "generation": "G30/G31",
-      "engineCode": "B48 + electric",
-      "fuel": "Petrol Plug-in Hybrid",
-      "service": "Rebuild / Replacement"
-    },
-    {
-      "year": "2023",
-      "generation": "G60",
+      "generation": "G30/G31/G60",
       "engineCode": "B48 + electric",
       "fuel": "Petrol Plug-in Hybrid",
       "service": "Rebuild / Replacement"
@@ -104,8 +97,6 @@
       "service": "Rebuild / Replacement"
     }
   ],
-  "notice": {
-    "highlight": "2015 and 2019",
-    "rest": " were transition years between generations and engine codes - if your registration falls in either, we'll confirm your exact engine before quoting."
-  }
+  "notice": null,
+  "vehicleLabel": "BMW 530e"
 }

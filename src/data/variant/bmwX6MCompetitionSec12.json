@@ -4,21 +4,34 @@
     "titleHighlight": "EVERY",
     "titlePost": " BMW X6 M Competition MODEL YEAR:",
     "years": [
+      "2009",
+      "2010",
+      "2011",
+      "2012",
       "2013",
+      "2014",
+      "2015",
       "2016",
+      "2017",
+      "2018",
       "2019",
+      "2020",
       "2021",
-      "2023"
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
     ],
     "footer": "If your registration year or model isn't listed above, get in touch - we'll confirm availability directly against your reg.",
-    "vehicleLabel": "BMW X6 M Competition"
+    "vehicleLabel": "BMW X6 M"
   },
   "costs": {
-    "titlePre": "BMW X6 M Competition ENGINE ",
+    "titlePre": "BMW X6 M ENGINE ",
     "titleHighlight": "COSTS",
     "intro": "A BMW X6 M Competition engine rebuild starts from",
-    "price": "£2,200",
-    "body": "Whether your car has the N47 or the B47. A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required - submit your registration for a fixed-price quote within 30 minutes.",
+    "price": "£6,500",
+    "body": "A BMW X6 M engine rebuild starts from £6,500, whether your car has the original S63, the S63TU, or the current S63. A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
     "image": "/engines/n63-s63-engine-hero.webp",
     "warranty": {
       "line1": "12 MONTH",
@@ -29,12 +42,12 @@
       {
         "icon": "engine",
         "title": "BMW X6 M Competition ENGINE SIZES",
-        "item": "BMW X6 M Competition 2.0 Litre Engine"
+        "item": "BMW X6 M 4.4 Litre Engine (S63, all variants)"
       },
       {
         "icon": "fuel",
         "title": "BMW X6 M Competition FUEL TYPES",
-        "item": "BMW X6 M Competition Diesel Engine Rebuilds"
+        "item": "BMW X6 M Petrol Twin-Turbo Engine Rebuilds"
       }
     ]
   },
@@ -48,5 +61,8 @@
     ],
     "viewAll": "View All BMW X6 M Engines",
     "viewAllHref": "/bmw-x6-m-engines"
-  }
+  },
+  "hidePrice": false,
+  "hideCombustion": false,
+  "vehicleLabel": "BMW X6 M"
 }

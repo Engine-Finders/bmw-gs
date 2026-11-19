@@ -2,7 +2,7 @@
   "image": "/variant/sec11.webp",
   "titlePre": "BMW 118i ENGINES ",
   "titleHighlight": "BY YEAR",
-  "description": "From the N47 to the B47 - here's a quick guide to the engines fitted to the BMW 118i over the years. If you're unsure which one you have, we'll confirm it before you book.",
+  "description": "The N13 or B38 engine codes are used across BMW 118i model years. If you're unsure which one you have, we'll confirm it before you book.",
   "columns": [
     {
       "icon": "calendar",
@@ -99,14 +99,6 @@
       "codeHref": "/bmw-n13-engine"
     },
     {
-      "year": "2019",
-      "generation": "F40",
-      "engineCode": "B38",
-      "fuel": "Petrol",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-b38-engine"
-    },
-    {
       "year": "2020",
       "generation": "F40",
       "engineCode": "B38",
@@ -143,12 +135,9 @@
       "generation": "F40",
       "engineCode": "B38",
       "fuel": "Petrol",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-b38-engine"
+      "service": "Rebuild / Replacement"
     }
   ],
-  "notice": {
-    "highlight": "2015 and 2019",
-    "rest": " were transition years between generations and engine codes - if your registration falls in either, we'll confirm your exact engine before quoting."
-  }
+  "notice": null,
+  "vehicleLabel": "BMW 118i"
 }

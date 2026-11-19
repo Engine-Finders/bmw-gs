@@ -4,8 +4,11 @@ import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
 import MobileSplitTitle from "@/components/variant/MobileSplitTitle";
 import QuoteLink from "@/components/shared/QuoteLink";
+import { engineLabelFromText } from "@/lib/engineLabel";
 
 export default function Sec3({ data }) {
+  const engineLabel = engineLabelFromText(data.titlePre);
+
   return (
     <section className="relative overflow-hidden bg-hero-dark">
       {/* ===== mobile ===== */}
@@ -77,7 +80,7 @@ export default function Sec3({ data }) {
       {/* ===== desktop ===== */}
       <div className="relative hidden overflow-hidden md:block">
         <div className="absolute inset-0">
-          <Image src={data.image} alt="BMW B58 engine and sedan" fill className="object-cover" sizes="100vw" />
+          <Image src={data.image} alt={`${engineLabel} engine and sedan`} fill className="object-cover" sizes="100vw" />
         </div>
 
         <div className="relative mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">

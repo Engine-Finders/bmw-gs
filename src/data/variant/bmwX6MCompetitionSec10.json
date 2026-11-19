@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW X6 M Competition ENGINE",
     "paragraphs": [
-      "The X6 M Competition has been a mainstay of the X6 M diesel range since 2012, spanning two generations under one badge. Early E71 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the E71 and later the F86, the X6 M Competition switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ - which is exactly why we confirm your exact engine by registration before quoting."
+      "The X6 M has been the performance flagship of BMW's X6 range since 2009, spanning three generations under the same badge. Every generation uses a variant of the S63 — BMW's twin-turbo 4.4-litre V8, designed for M performance models. Early E71 models use the original S63, F86 models received the S63TU update, and current F96 models use the latest S63 tune. The engine shares its basic architecture and known wear patterns with the X5 M — the two models run the same S63 engine family and generation timeline, which is why the hot-vee pattern confirmed for one applies directly to the other."
     ],
     "boldParagraph": "The X6 M Competition is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -15,38 +15,43 @@
     "image": "/engines/n63-s63-engine-hero.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(E71, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early E71 X6 M Competition. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 X6 M Competition",
-        "codeHref": "/bmw-n47-engine"
+        "codeHighlight": "S63",
+        "codeRest": "(E71, early)",
+        "body": "A 4.4-litre twin-turbo V8 fitted to the original X6 M from 2009 to 2014 (E71 generation). Known for the N63/S63 hot-vee pattern — see the callout above. We replace timing chains, valve seals, coolant components and bearings as standard on every S63 rebuild.",
+        "cta": "Check Your S63 BMW X6 M",
+        "codeHref": "/bmw-s63-engine"
       },
       {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(E71, 2015-2019 / F86, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 X6 M Competition",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "S63TU",
+        "codeRest": "(F86)",
+        "body": "The updated S63 variant fitted to the X6 M from 2015 to 2019 (F86 generation). Shares the same hot-vee pattern as the earlier engine, with updated turbocharger and cooling components.",
+        "cta": "Check Your S63TU BMW X6 M",
+        "codeHref": "/bmw-s63-engine"
+      },
+      {
+        "codeHighlight": "S63",
+        "codeRest": "(current tune, F96)",
+        "body": "The latest S63 variant, fitted to the X6 M and X6 M Competition from 2020 to present (F96 generation). The same hot-vee pattern applies — we replace timing chains, valve seals, coolant components and bearings as standard.",
+        "cta": "Check Your S63 BMW X6 M",
+        "codeHref": "/bmw-s63-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW X6 M Competition ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the X6 M Competition spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Every X6 M — whether E71, F86 or F96 — uses the S63 engine family. However, the S63 and S63TU have meaningful differences in their turbocharger arrangement, cooling system and electronic management. We don't assume all S63 parts are interchangeable — we confirm your exact engine variant by registration or VIN before quoting.",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "S63 / S63TU",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact engine code (S63 or S63TU) via registration or VIN"
       },
       {
         "icon": "car",
@@ -61,7 +66,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic X6 M Competition quote - it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic X6 M quote — it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "BMW X6 M Competition ",
@@ -78,25 +83,26 @@
       {
         "generation": "E71",
         "chassis": "E71",
-        "years": "2009-2014",
+        "years": "2009–2014",
         "engineCode": "S63 (early)",
         "fuel": "Petrol Twin-Turbo"
       },
       {
         "generation": "F86",
         "chassis": "F86",
-        "years": "2015-2019",
+        "years": "2015–2019",
         "engineCode": "S63TU",
         "fuel": "Petrol Twin-Turbo",
-        "codeHref": "/bmw-s63tu-engine"
+        "codeHref": "/bmw-s63-engine"
       },
       {
         "generation": "F96",
         "chassis": "F96",
-        "years": "2020-present",
+        "years": "2020–present",
         "engineCode": "S63 (current tune)",
         "fuel": "Petrol Twin-Turbo"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW X6 M"
 }

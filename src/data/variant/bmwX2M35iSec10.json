@@ -15,42 +15,33 @@
     "image": "/engines/b48-engine.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(F39, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early F39 X2 M35i. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 X2 M35i",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(F39, 2015-2019 / F39, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 X2 M35i",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "B48 (high output)",
+        "codeRest": "(F39 (2019–present))",
+        "body": "B48 (high output) engine application for BMW X2 M35i.",
+        "cta": "Check Your B48 (high output) BMW X2 M35i",
+        "codeHref": "/bmw-b48-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW X2 M35i ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the X2 M35i spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the X2 M35i uses a specific high-output tune of the B48 engine, compatibility is precise. We confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "B48",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact engine code (B48 high output) via registration or VIN"
       },
       {
         "icon": "car",
-        "text": "Your generation (F39 or F39)"
+        "text": "Your generation (F39)"
       },
       {
         "icon": "gears",
@@ -61,7 +52,7 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic X2 M35i quote - it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic X2 quote — it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "BMW X2 M35i ",
@@ -78,29 +69,12 @@
       {
         "generation": "F39",
         "chassis": "F39",
-        "years": "2012-2015",
-        "engineCode": "N47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "generation": "F39",
-        "image": "/cars/card/x2-f39-sdrive18d-m-sport-2018-2020.webp",
-        "chassis": "F39",
-        "years": "2015-2019",
-        "engineCode": "B47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-b47-engine"
-      },
-      {
-        "generation": "F39",
-        "image": "/cars/card/x2-f39-m35i-xdrive-2018-2023.webp",
-        "chassis": "F39",
-        "years": "2019-2024",
-        "engineCode": "B47",
-        "fuel": "Diesel",
-        "codeHref": "/bmw-b47-engine"
+        "years": "2019–present",
+        "engineCode": "B48 (high output)",
+        "fuel": "Petrol",
+        "codeHref": "/bmw-b48-engine"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW X2 M35i"
 }

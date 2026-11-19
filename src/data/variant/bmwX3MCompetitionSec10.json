@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW X3 M Competition ENGINE",
     "paragraphs": [
-      "The X3 M Competition has been a mainstay of the X3 diesel range since 2012, spanning two generations under one badge. Early F97 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the F97 and later the F97, the X3 M Competition switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ - which is exactly why we confirm your exact engine by registration before quoting."
+      "The X3 M is a single-generation model within the F97 chassis, which sits alongside the G01-generation X3. Across its production run, the X3 M has used just one engine — the S58 — a 3.0-litre twin-turbo inline-six petrol engine. The S58 is a genuine engineering fix for the previous S55's rod bearing issues, with a closed-deck block and a well-proven B58 architecture. Both the standard X3 M and the X3 M Competition share this engine, with different power outputs — but the same engine code, rebuild approach and components."
     ],
     "boldParagraph": "The X3 M Competition is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -15,53 +15,44 @@
     "image": "/engines/which-engine-powers-the-bmw-x3-m-engine.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(F97, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early F97 X3 M Competition. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 X3 M Competition",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(F97, 2015-2019 / F97, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 X3 M Competition",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "S58",
+        "codeRest": "",
+        "body": "A 3.0-litre twin-turbo inline-six petrol engine fitted to the X3 M across the entire F97 generation (2019–2026). The S58 is a genuine reliability improvement over its predecessor, with no significant defect pattern documented. Genuine BMW M parts carry a documented 30-50% premium over standard components — something worth setting expectations on when budgeting for a rebuild.",
+        "cta": "Check Your S58 BMW X3 M",
+        "codeHref": "/bmw-s58-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW X3 M Competition ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the X3 M Competition spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "The X3 M uses the S58 engine across all model years and both variants (standard and Competition). The difference between the two is in the ECU mapping and power output, not the engine hardware itself. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "S58",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact registration and VIN"
       },
       {
         "icon": "car",
-        "text": "Your generation (F97 or F97)"
+        "text": "Your variant (X3 M or X3 M Competition)"
       },
       {
         "icon": "gears",
-        "text": "Drivetrain and ancillary specification"
+        "text": "Your year and chassis specification"
       },
       {
         "icon": "code",
-        "text": "Any electronics or ECU considerations specific to your exact build"
+        "text": "Any ancillary or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic X3 M Competition quote - it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic X3 M quote — it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "BMW X3 M Competition ",
@@ -78,11 +69,12 @@
       {
         "generation": "F97",
         "chassis": "F97",
-        "years": "2019-2026",
+        "years": "2019–2026",
         "engineCode": "S58",
         "fuel": "Petrol Twin-Turbo",
         "codeHref": "/bmw-s58-engine"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW X3 M"
 }

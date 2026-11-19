@@ -2,7 +2,7 @@
   "image": "/variant/sec11.webp",
   "titlePre": "BMW 550e xDrive ENGINES ",
   "titleHighlight": "BY YEAR",
-  "description": "From the N47 to the B47 - here's a quick guide to the engines fitted to the BMW 550e xDrive over the years. If you're unsure which one you have, we'll confirm it before you book.",
+  "description": "The B58 engine code is used across BMW 550e xDrive model years. If you're unsure which one you have, we'll confirm it before you book.",
   "columns": [
     {
       "icon": "calendar",
@@ -30,7 +30,7 @@
       "year": "2023",
       "generation": "G60",
       "engineCode": "B58",
-      "fuel": "Petrol Plug-in Hybrid",
+      "fuel": "Petrol PHEV",
       "service": "Rebuild / Replacement",
       "codeHref": "/bmw-b58-engine"
     },
@@ -38,7 +38,7 @@
       "year": "2024",
       "generation": "G60",
       "engineCode": "B58",
-      "fuel": "Petrol Plug-in Hybrid",
+      "fuel": "Petrol PHEV",
       "service": "Rebuild / Replacement",
       "codeHref": "/bmw-b58-engine"
     },
@@ -46,7 +46,7 @@
       "year": "2025",
       "generation": "G60",
       "engineCode": "B58",
-      "fuel": "Petrol Plug-in Hybrid",
+      "fuel": "Petrol PHEV",
       "service": "Rebuild / Replacement",
       "codeHref": "/bmw-b58-engine"
     },
@@ -54,13 +54,10 @@
       "year": "2026",
       "generation": "G60",
       "engineCode": "B58",
-      "fuel": "Petrol Plug-in Hybrid",
-      "service": "Rebuild / Replacement",
-      "codeHref": "/bmw-b58-engine"
+      "fuel": "Petrol PHEV",
+      "service": "Rebuild / Replacement"
     }
   ],
-  "notice": {
-    "highlight": "2015 and 2019",
-    "rest": " were transition years between generations and engine codes - if your registration falls in either, we'll confirm your exact engine before quoting."
-  }
+  "notice": null,
+  "vehicleLabel": "BMW 550e xDrive"
 }

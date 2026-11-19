@@ -65,8 +65,8 @@
     {
       "code": "S55",
       "spec": "3.0L Twin-Turbo I6",
-      "models": "M2 Competition, M3, M4",
-      "years": "2014-present",
+      "models": "Selected BMW M2 Competition, F80 M3 and F82/F83 M4 models.",
+      "years": "",
       "symptom": "Sudden loss of power, engine warning light, or - in the worst case - no warning at all before catastrophic failure",
       "problem": "The crank hub is friction-fit rather than keyed or pinned. Under hard use it can slip, throwing engine timing out and causing serious internal damage. It's the single most talked-about issue in the S55 community, and most owners upgrade it preventatively.",
       "cost": "From £5,500",
@@ -75,5 +75,8 @@
       "href": "/bmw-s55-engine"
     }
   ],
-  "cta": { "label": "See All Engines", "href": "/engines" }
+  "cta": {
+    "label": "See All Engines",
+    "href": "/engines"
+  }
 }

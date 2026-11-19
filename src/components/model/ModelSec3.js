@@ -6,12 +6,16 @@ import Icon from "@/components/reusable/Icon";
 import BMWStripe from "@/components/reusable/BMWStripe";
 
 export default function ModelSec3({ data }) {
+  // M02 replaces the inherited summary cards with the model-specific price table in ModelSec4.
+  // Do not leave an empty summary shell above that table.
+  if (!data.cards?.length) return null;
+
   // desktop: alternate light / dark cards across the row (matches the mobile checkerboard)
   const desktopCards = data.cards.map((c, i) => ({ ...c, featured: i % 2 === 0 }));
   const [line1, line2] = data.h2.split("|");
 
   return (
-    <section className="relative overflow-hidden">
+    <section id="pricing" className="relative overflow-hidden">
       {/* ===== mobile ===== */}
       <div className="relative bg-hero-dark md:hidden">
         <div className="relative h-56 w-full overflow-hidden">

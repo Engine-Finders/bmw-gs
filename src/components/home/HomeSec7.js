@@ -41,7 +41,6 @@ export default function HomeSec7({ data }) {
                   <Image src={m.image} alt={m.name} fill className="object-contain" sizes="200px" />
                 </div>
                 <p className="text-xs font-extrabold uppercase text-[#101828]">{m.name}</p>
-                <span className="mt-1 block text-[10px] font-semibold text-hero-blue">Rebuild From £{m.price} →</span>
               </a>
             ))}
           </ExpandGrid>
@@ -96,7 +95,6 @@ export default function HomeSec7({ data }) {
                   <Image src={m.image} alt={m.name} fill className="object-contain" sizes="120px" />
                 </div>
                 <p className="text-xs font-bold text-hero-blue">{m.name}</p>
-                <span className="mt-1 block text-[11px] font-semibold text-[#101828]">Rebuild From £{m.price} →</span>
               </a>
             ))}
           </ExpandGrid>

@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW X2 sDrive18i ENGINE",
     "paragraphs": [
-      "The X2 sDrive18i has been a mainstay of the X2 diesel range since 2012, spanning two generations under one badge. Early F39 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the F39 and later the F39, the X2 sDrive18i switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ - which is exactly why we confirm your exact engine by registration before quoting."
+      "The X2 has been part of BMW's compact crossover range since 2018, running on a single generation — F39 — throughout its production life. The sDrive18i and xDrive20i both use BMW's B-series petrol engines, which are shared widely across the contemporary BMW range. The sDrive18i uses the B38 1.5-litre three-cylinder turbo, while the xDrive20i uses the larger B48 2.0-litre four-cylinder turbo. Both are robust modern engines with a strong reliability record in BMW's front- and all-wheel-drive applications."
     ],
     "boldParagraph": "The X2 sDrive18i is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -15,53 +15,43 @@
     "image": "/engines/b38-engine.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(F39, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early F39 X2 sDrive18i. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 X2 sDrive18i",
-        "codeHref": "/bmw-n47-engine"
+        "codeHighlight": "B38",
+        "codeRest": "(sDrive18i)",
+        "body": "A 1.5-litre three-cylinder petrol turbo fitted to the X2 sDrive18i from 2018 to present, across the F39 generation. This engine is known for solid reliability as part of BMW's modern B-series family. We replace timing chain components, bearings and gaskets as standard on every B38 rebuild.",
+        "cta": "Check Your B38 BMW X2 sDrive18i",
+        "codeHref": "/bmw-b38-engine"
       },
       {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(F39, 2015-2019 / F39, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 X2 sDrive18i",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "B48",
+        "codeRest": "(xDrive20i)",
+        "body": "A 2.0-litre four-cylinder petrol turbo fitted to the X2 xDrive20i from 2018 to present, across the F39 generation. Like the B38, it's a robust B-series engine with a good reliability record. We replace timing chain components, bearings and gaskets as standard on every B48 rebuild.",
+        "cta": "Check Your B48 BMW X2 sDrive18i",
+        "codeHref": "/bmw-b48-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW X2 sDrive18i ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the X2 sDrive18i spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "The X2 F39 generation uses a single platform throughout, with two different engine codes depending on variant. The sDrive18i is front-wheel drive with the B38 three-cylinder, while the xDrive20i is all-wheel drive with the B48 four-cylinder. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "B38 / B48",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact engine code (B38 or B48) via registration or VIN"
       },
       {
         "icon": "car",
-        "text": "Your generation (F39 or F39)"
-      },
-      {
-        "icon": "gears",
-        "text": "Drivetrain and ancillary specification"
-      },
-      {
-        "icon": "code",
-        "text": "Any electronics or ECU considerations specific to your exact build"
+        "text": "Your drivetrain configuration (sDrive or xDrive)"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic X2 sDrive18i quote - it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic X2 quote — it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "BMW X2 sDrive18i ",
@@ -77,22 +67,23 @@
     "rows": [
       {
         "generation": "F39",
-        "image": "/cars/card/x2-f39-m35i-xdrive-2018-2023.webp",
         "chassis": "F39",
-        "years": "2018-present",
+        "years": "2018–present",
         "engineCode": "B38",
         "fuel": "Petrol",
+        "image": "/cars/card/x2-f39-m35i-xdrive-2018-2023.webp",
         "codeHref": "/bmw-b38-engine"
       },
       {
         "generation": "F39",
-        "image": "/cars/card/x2-f39-m35i-xdrive-2018-2023.webp",
         "chassis": "F39",
-        "years": "2018-present",
+        "years": "2018–present",
         "engineCode": "B48",
         "fuel": "Petrol",
+        "image": "/cars/card/x2-f39-m35i-xdrive-2018-2023.webp",
         "codeHref": "/bmw-b48-engine"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW X2 sDrive18i"
 }

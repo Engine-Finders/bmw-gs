@@ -4,11 +4,19 @@
     "titleHighlight": "EVERY",
     "titlePost": " BMW X6 xDrive30d MODEL YEAR:",
     "years": [
-      "2013",
+      "2014",
+      "2015",
       "2016",
+      "2017",
+      "2018",
       "2019",
+      "2020",
       "2021",
-      "2023"
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
     ],
     "footer": "If your registration year or model isn't listed above, get in touch - we'll confirm availability directly against your reg.",
     "vehicleLabel": "BMW X6 xDrive30d"
@@ -17,8 +25,8 @@
     "titlePre": "BMW X6 xDrive30d ENGINE ",
     "titleHighlight": "COSTS",
     "intro": "A BMW X6 xDrive30d engine rebuild starts from",
-    "price": "£2,200",
-    "body": "Whether your car has the N47 or the B47. A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required - submit your registration for a fixed-price quote within 30 minutes.",
+    "price": "£2,800",
+    "body": "A BMW X6 xDrive30d engine rebuild starts from £2,800, whether your car has the N57/B57 or the B57. A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
     "image": "/engines/bmw-x6-30d-engine.webp",
     "warranty": {
       "line1": "12 MONTH",
@@ -29,7 +37,7 @@
       {
         "icon": "engine",
         "title": "BMW X6 xDrive30d ENGINE SIZES",
-        "item": "BMW X6 xDrive30d 2.0 Litre Engine"
+        "item": "BMW X6 xDrive30d 3.0 Litre Engine (N57/B57, I6)   ✓ BMW X6 xDrive30d 3.0 Litre Engine (B57, I6)"
       },
       {
         "icon": "fuel",
@@ -64,5 +72,8 @@
     ],
     "viewAll": "View All BMW X6 Engines",
     "viewAllHref": "/bmw-x6-engines"
-  }
+  },
+  "hidePrice": false,
+  "hideCombustion": false,
+  "vehicleLabel": "BMW X6 xDrive30d"
 }

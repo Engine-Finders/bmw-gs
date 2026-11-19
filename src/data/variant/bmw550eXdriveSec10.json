@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "BMW 550e xDrive ENGINE",
     "paragraphs": [
-      "The 550e xDrive has been a mainstay of the 5 Series diesel range since 2012, spanning two generations under one badge. Early G60 models from 2012 to 2015 use the N47, a 2.0-litre diesel that's part of a family known for a specific timing chain issue. From late 2015 onwards, across both the G60 and later the G60, the 550e xDrive switched to the B47, a newer, significantly more reliable unit that doesn't share the N47's timing chain concerns. Knowing which one your car has matters, because the components and the known wear pattern differ - which is exactly why we confirm your exact engine by registration before quoting."
+      "The 550e xDrive is part of the G60-generation 5 Series range, introduced in 2023. It uses the B58 — a 3.0-litre inline-six petrol engine — paired with an electric motor in a plug-in hybrid (PHEV) configuration, making it a distinct offering from both the purely combustion-powered 540i and the fully electric i5 models. The 550e is the higher-output I6-based PHEV in the range (distinct from the 530e's I4 setup and the M5's S68 V8 PHEV). The B58 is a well-regarded engine with no widely-reported defect pattern, though like all high-performance engines it benefits from regular maintenance and professional rebuilds when needed."
     ],
     "boldParagraph": "The 550e xDrive is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -15,53 +15,36 @@
     "image": "/engines/b58-engine.webp",
     "cards": [
       {
-        "codeHighlight": "N47",
-        "image": "/engines/n47-engine-hero.webp",
-        "codeRest": "(G60, 2012-2015)",
-        "body": "A 2.0-litre diesel fitted to the early G60 550e xDrive. Known for timing chain failure due to chain guide wear - see the callout above. We replace timing chains, guides, and tensioners as standard on every N47 rebuild.",
-        "cta": "Check Your N47 550e xDrive",
-        "codeHref": "/bmw-n47-engine"
-      },
-      {
-        "codeHighlight": "B47",
-        "image": "/engines/b47-engine.webp",
-        "codeRest": "(G60, 2015-2019 / G60, 2019-2024)",
-        "body": "The later 2.0-litre diesel, fitted from 2015 onwards. A different design from the N47 that is significantly more reliable and doesn't share its predecessor's timing chain issue.",
-        "cta": "Check Your B47 550e xDrive",
-        "codeHref": "/bmw-b47-engine"
+        "codeHighlight": "B58",
+        "codeRest": "(G60 (2023–present))",
+        "body": "B58 engine application for BMW 550e xDrive.",
+        "cta": "Check Your B58 BMW 550e xDrive",
+        "codeHref": "/bmw-b58-engine"
       }
     ]
   },
   "compatibility": {
     "titlePre": "BMW 550e xDrive ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the 550e xDrive spans two distinct engines across two generations, fitting the wrong replacement - or assuming an N47 part will work on a B47 car - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "The B58 used in the 550e xDrive shares its core architecture with the B58 found in other BMW models, but the PHEV-specific calibration, hybrid components, and G60-generation systems mean compatibility must be confirmed precisely. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_mobile_third.webp",
     "badge": {
-      "title": "N47 or B47",
+      "title": "B58",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
         "icon": "piston",
-        "text": "Your exact engine code (N47 or B47) via registration or VIN"
+        "text": "Your exact vehicle and registration"
       },
       {
         "icon": "car",
-        "text": "Your generation (G60 or G60)"
-      },
-      {
-        "icon": "gears",
-        "text": "Drivetrain and ancillary specification"
-      },
-      {
-        "icon": "code",
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic 550e xDrive quote - it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic 550e xDrive quote — it protects you from paying for parts that don't fit your actual car."
   },
   "applications": {
     "titlePre": "BMW 550e xDrive ",
@@ -77,13 +60,14 @@
     "rows": [
       {
         "generation": "G60",
-        "image": "/cars/card/5-series-g60-550e-xdrive-2023.webp",
         "chassis": "G60",
-        "years": "2023-present",
+        "years": "2023–present",
         "engineCode": "B58",
         "fuel": "Petrol PHEV",
+        "image": "/cars/card/5-series-g60-550e-xdrive-2023.webp",
         "codeHref": "/bmw-b58-engine"
       }
     ]
-  }
+  },
+  "vehicleLabel": "BMW 550e xDrive"
 }
